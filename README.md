@@ -23,4 +23,4 @@ Please credit me (as 'Seraaron' or 'Seraaron Art', or link back to this repo or 
 
 Also, be aware that some articles in the SRD use a [public domain CC0](https://creativecommons.org/publicdomain/zero/1.0/) license instead, and require no credit at all to use (though credit would certainly still be appreciated)! These are marked clearly at the bottom of each article, and in the metadata.
 
-A full version of this lisence can be read [here](LICENSE.md).
+A full version of this license can be read [here](LICENSE.md).
