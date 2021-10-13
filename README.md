@@ -2,6 +2,8 @@
 
 Welcome to the Agora github repo! Here you'll find the directory of all my work so far, which will eventually include all content and resources for the game so that it's all in one place for easy access.
 
+## This game is a work in progress!
+
 Right now, the only thing availiable is the published SRD or 'system reference document' which is an assortment of markdown files **intended to be used with the [obsidian.md](https://obsidian.md/) app**. _Stictly speaking, you should only need to download these files if you want to contribute to the project, or make edits to core rules for your own custom game or homebrew hacks._
 
 ### Please visit https://publish.obsidian.md/agora for a free online preview of all the availiable content.
