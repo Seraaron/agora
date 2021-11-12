@@ -3,6 +3,7 @@ alias:
   - Ranks
   - rank
   - ranks
+  - ability ranks
 tags:
   - creativecommons
   - core
@@ -62,44 +63,40 @@ There are two main ways to advance ranks in this game, and one optional method:
 
 - The first is to [[Kismet#Earning Fidelity|earn four Fidelity]] and then spend it [[KISSing#Kismet|while KISSing]] to _permanently advance_ your rank in the ability you're currently rolling.
 
-- And optionally, during a [[Development sessions|development session]] (and usually after a [[Campaign structure#Downtime|timeskip]]), you may decide _as a group_ to raise your character's [[Tier|tier]] which _reduces the worst possible_ rank for that character.
+- And optionally, during a [[Development Sessions|development session]] (and usually after a [[Downtime and Travel|time-skip]]), you may decide _as a group_ to raise your character's [[Tier|tier]] which _reduces the worst possible_ rank for that character.
 
 - And optionally, special [[Gambits]] may _temporarily advance_ the rank of a roll when certain conditions are met.
 
 **When your rank advances, it does so by one 'step'.** This means rank 6 goes to rank 5, rank 5 goes to rank 4, and so on. These steps are represented with plain-text arrows in other sections (ie. 6 → 5 → 4 → 3 → 2 → 1), as a reminder.
 
-> ##### Similarly, when you see big red arrows:
+> ##### Similarly, when you see up and down arrows:
 >
-> #up Means advance the rank by one.
-> #dw Means regress the rank by one.
+> - **↑X** - Means advance the rank by X steps.
+> - **↓Y** - Means regress the rank by Y steps.
 
 ---
 
 ###### Rank 1
 
-**Rank 1 is more of a _theoretical ideal_ than an achievable reality**. _You shouldn't be allowed to start the game with rank 1 in anything_, but if you play a [[Campaign structure|campaign]] long enough then _it's possible_, with [[Peers|Peer approval]], that you could end a game with rank 1 in something.
-
-If you _are_ somehow playing with rank 1, then you may still roll dice, _but only if you need to check for 6s_. Otherwise, you can just count the number of dice in your pool as **automatic successes**.
+**Rank 1 is more of a _theoretical ideal_ than an achievable reality**. _You cannot start the game with rank 1 in anything_, and **you cannot permanently advanced any ability to rank 1**. The only way to get rank 1 is by spending [[Fidelity]] on a rank 2 ability for the temporary boost, but a full gauge cannot be spent for permanent advancement.
 
 ---
 
 ### Regressing Ranks
 
-The main way to lose rank is to get [[Wounds and Scars|wounded]], which _temporarily regresses_ an appropriate your ability rank by one step (ie. 1 → 2 → 3 → 4 → 5 → 6 → X) until you recover.
+The main way to lose rank is to get [[Wounds and Scars|wounded]], which _temporarily regresses_ an appropriate your ability rank by one step (ie. 2 → 3 → 4 → 5 → 6 → X) until you recover.
 
 > #nb
 > Special [[Capabilities|capabilities]], like [[Capabilities#Honor|Honor]], also have mechanics for regressing ranks when certain conditions arise.
 
-Another method is _[[Circumstances#Age|aging]]_ — which would permanently regress one or two abilities — but this is rare, and would only happen with large [[Campaign structure#Downtime|timeskips]], so is therefore optional.
-
-#que Conversely, aging from a junior to a young adult is another way to advance a few ability ranks.
+Another method is _[[Circumstances#Age|aging]]_ — which will permanently regress up to three abilities, over time — but this is rare, and would only happen with large [[Campaign Arcs#Downtime|timeskips]], so is therefore optional.
 
 ---
 
 ###### Rank X
 
-**Rank X means you are _completely disabled_ in that ability**. _You shouldn't be allowed to start the game with rank X in anything_, but if you play a [[Campaign structure|campaign]] long enough then _it's possible_ to temporarily reach rank X by getting [[Wounds and Scars|wounded]] multiple times, or by having other status effects applied (usually from [[spells]]).
+**Rank X means you are _completely disabled_ in that ability**. _You cannot start the game with rank X in anything_, but _it's possible_ to temporarily reach rank X by getting [[Wounds and Scars|wounded]] multiple times, or by having other status effects applied (usually from [[magical subsystem|spells]]).
 
-If you _do_ have an ability at rank X, then you may not roll any dice for that ability, and you will **automatically fail**, or _with the aid of a [[KISSing#Stunts|stunt]] and the FCs approval_ you may roll a single [[Die of Fortune]] instead.
+If you _do_ have an ability at rank X, then you may not roll any dice for that ability, and you will **automatically fail**, or _with the aid of a [[KISSing#Stunts|stunt]] and the FCs approval_ you may roll a single [[Exploding Dice]] instead.
 
 ---

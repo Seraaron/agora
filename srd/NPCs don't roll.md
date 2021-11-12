@@ -18,12 +18,12 @@ last updated: Friday 2021-09-24 @ 14:59:33 (UTC+0100)
 
 Because of both the _time and emotional investments_ required of [[Tasks]], and the need to push for an [[Agenda|agenda]], we _almost never care_ about seeing NPCs doing the same. This isn't to say that the NPCs have no agency, but rather that seeing how the [[Player Characters|PCs]] react to them is _simply more interesting_ and more engaging for everyone else at the table too.
 
-Generally speaking, a scene should be re-framed so that a PC leads the roll and the NPC [[Helping|helps or hinders]].
+Generally speaking, a [[Session Structure#Scenes|scene]] should be re-framed so that a PC leads the roll and the NPC [[Helping|helps]] or hinders.
 
 > #eg
 > When fighting, players should roll to hit their enemies, as expected, but would then _roll to dodge or parry when their enemies try to hit back_.
 
-NPC character sheets and [enemy stat blocks](#unfinished) are also written in such a way that makes it easier for an FC to [[Determining Difficulty and Consequences|determine the difficulty of a roll]] and keeping the game move forwards.
+NPC character sheets and [enemy stat blocks](#unfinished) are also written in such a way that makes it easier for an FC to [[Difficulties and Consequences|determine the difficulty of a roll]] and keeping the game move forwards.
 
 The only difficulty with implementing this is ‘what to do about player versus player conflicts’, but that's where [[Opposed Tasks|opposed Tasks]] come in handy.
 

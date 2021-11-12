@@ -1,8 +1,10 @@
 ---
 alias:
   - VINPC
-  - kith and kin
-  - kith or kin
+  - Kith and Kin
+  - kith & kin
+  - Kith or Kin
+  - kith / kin
   - favor
 tags:
   - publicdomain
@@ -19,12 +21,12 @@ last updated: Thursday 2021-09-23 @ 19:29:20 (UTC+0100)
 
 ## VINPCs
 
-VINPC — pronounced /vɪn·pi·si/ — stands for 'Very Important Non-Player Character', and they are a sub-type of [[Non-player Characters|Non-player Character]] that [[Facilitator|Facilitators]] and [[Player Characters]] alike can make use of. Players can designate VINPCs using their [[#Kith and Kin]] slots on their [character sheets](#unfinished), and Facilitators can keep a short list of their most important or recurring characters on hand to bring out when needed.
+VINPC — pronounced /vɪn·pi·si/ — stands for 'Very Important Non-Player Character', and they are a type of [[Non-player Characters|Non-player Character]] that [[Facilitator|Facilitators]] and [[Player Characters]] alike can make use of. Players can designate VINPCs using their [[#Kith and Kin]] slots on their [character sheets](#unfinished), and Facilitators can keep a short list of their most important or recurring characters on hand to bring out when needed.
 
-> ##### The VINPC designation does two main things:
->
-> 1.  **Highlights their importance** to the story in general or significance to an individual Player Character.
-> 2.  **Marks them as 'essential'** — meaning they won't randomly die and can't be killed, except by a Player Character (or with that player's permission).
+##### The VINPC designation does two main things:
+
+1.  **Highlights their importance** to the story in general or significance to an individual Player Character.
+2.  **Marks them as 'essential'**. Meaning they won't randomly die and can't be killed without that player's explicit permission.
 
 ### Kith & Kin
 
@@ -39,7 +41,7 @@ All [[Player Characters]] may choose or make up NPCs that they wish to mark as b
 
 #### Three per Player
 
-**Three is the maximum** number of VINPCs that a player can have, _and only the FC can change this limit_ since they will be the one playing all of these characters, for the most part. You can change out your kith and kin for other NPCs during any [[Development sessions|development session]], if you feel that someone has lost relevance to the current direction of the story or a new friend or family member has shown up and suddenly become important to you.
+**Three is the maximum** number of VINPCs that a player can have, _and only the FC can change this limit_ since they will be the one playing all of these characters, for the most part. You can change out your kith and kin for other NPCs during any [[Development Sessions|development session]], if you feel that someone has lost relevance to the current direction of the story or a new friend or family member has shown up and suddenly become important to you.
 
 Similarly, a VINPC may be an animal companion, an ethereal guardian, or even a sapient object. _You can get very creative with the kith and kin rules if you want to._
 
@@ -49,7 +51,7 @@ Each kith and kin entry has a diamond next to them called 'favor'. This diamond 
 
 > ##### Favor can be spent in four main ways:
 > 
-> -   To ask for [[Helping|help]] on a roll, tying them to the [[Determining Difficulty and Consequences|consequences]] of your actions.
+> -   To ask for [[Helping|help]] on a roll, tying them to the [[Difficulties and Consequences|consequences]] of your actions.
 > -   To borrow an [[Assets and Gear|asset or piece of gear]] for a scene (though damaging it, losing it, or stealing it will negatively affect your relationship).
 > -   To use a [[Gambits|gambit]] for you, tell you a secret, or do anything else that is within their power.
 > -   To come with you somewhere they wouldn't normally go, making them available to talk to and present in scenes that they otherwise wouldn't be.
@@ -82,17 +84,13 @@ Or — if it makes sense to the FC to do this — they can instead become a _riv
 
 ##### Bereavement Protection
 
-A character that you designate as kith or kin cannot be killed by anyone except you. Or at the very least, they cannot die circumstantially without your _out-of-game permission_. However, if you have a falling out with a relationship then they stop being _your_ VINPC and become the FC's instead. The key, as always, is to keep an open forum with your [[Peers]].
+A character that you designate as kith or kin cannot be killed by anyone, or they cannot die circumstantially without your _out-of-game permission_. The key, as always, is to keep an open forum with your [[Peers]].
 
 ---
 
 ###### Non-diegetic Immunity
 
-On the surface, these restrictions about VINPC death and betrayal may seem artificial or immersion-breaking — and, in some ways, they are — but they don't _really_ grant the character immortality or make them unwaveringly loyal; the system just functions as an extra [[Script Change Tools|consent mechanic]], to reassure the players that characters they care about won't have some tragedy befall them that wasn't clearly signaled before-hand.
-
-You may be thinking “this is unnecessary” or “a good Facilitator would never do something like that without consulting their players first”, and that _is_ true; but by writing this into the rules of the game we can explicitly establish that an antagonistic relationship between the Facilitator and their players is not only discouraged but _literally against the rules_, should a dispute ever arise.
-
-This relates to a larger discussion about 'simulationism' vs 'narrativism', which we won't get into, but simply let it be said that things which “make sense” or are considered “realistic” _don't always make for satisfying stories at the table_.
+On the surface, these restrictions about VINPC death and betrayal may seem artificial or immersion-breaking — and, in some ways, they are — but they don't _really_ grant the character immortality or make them unwaveringly loyal though; the system just functions as an extra [[Script Change Tools|consent mechanic]], to reassure the players that characters they care about won't have some tragedy befall them that wasn't clearly signaled beforehand.
 
 ---
 

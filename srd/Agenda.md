@@ -3,6 +3,7 @@ alias:
   - finding your agenda
   - find your agenda
   - agenda
+  - agendas
 tags:
   - creativecommons
   - advice
@@ -24,12 +25,12 @@ Coming up with an agenda each [[Session Structure#Turns|turn]] can be a _complex
 >
 > -   Look to your [[Principles|principles]], and think about which ones are currently motivating you the most, or which ones can apply directly to what's happening right now?
 > -   What are your [[Circumstances|circumstances]] and [[Conditions|conditions]], and do any of them help to prompt you to roleplay in a certain way?
-> -   What are your friends and allies trying to achieve right now, and can you [[Helping|help]] them, or _perhaps_ should you try to [[Hindering|hinder]] them?
+> -   What are your friends and allies trying to achieve right now, and can you [[Helping|help]] them, or _perhaps_ should you try to hinder them?
 > -   Check your [[Jobs|jobs]] and [[Specialties|specialties]], [[Assets and Gear|assets or gear]], and [[Taking notes|notes]], and wonder if any of them can be used creatively to achieve what you want?
 > -   Question your [[Facilitator|FC]] about your environment or the current situation, see if they've forgotten to mention anything useful, or if they will yield more information if you ask the right questions or act a certain way in-game?
 > -   Ask your [[Peers]] for help to parse your thoughts and formulate a plan?
 
-**See also:** [[Playing the game and rolling dice]]
+**See also:** [[Quick Play Rules]]
 
 ## Actions and Objectives
 #unfinished 

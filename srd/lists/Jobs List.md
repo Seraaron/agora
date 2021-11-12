@@ -10,122 +10,78 @@ author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-14+1100
 last updated: Thursday 2021-09-23 @ 18:00:27 (UTC+0100)
+date updated: 2021-11-10 15:59
 
 ---
 
 # Jobs List
 
-## Artistic Jobs
+###### A-B
 
 ![[Acrobat]]
-
-![[Artisan]]
-
-![[Author]]
-
-![[Chef]]
-
-![[Musician]]
-
-![[Orator]]
-
-![[Trickster]]
-
-## Civic Jobs
-
-![[Advocate]]
-
-![[Charmer]]
-
-![[Diplomat]]
-
-![[Host]]
-
-![[Interpreter]]
-
-![[Investigator]]
-
-![[Merchant]]
-
-## Erudite Jobs
-
 ![[Alchemist]]
-
-![[Chronicler]]
-
-![[Cleric]]
-
-![[Engineer]]
-
-![[Physician]]
-
-![[Scholar]]
-
-![[Steward]]
-
-## Laborious Jobs
-
+![[Archer]]
+![[Artisan]]
+![[Baker]]
 ![[Beggar]]
-
-![[Clothier]]
-
-![[Commoner]]
-
-![[Driver]]
-
-![[Farmer]]
-
-![[Handler]]
-
-![[Hunter]]
-
-![[Mariner]]
-
-![[Nurse]]
-
-![[Rider]]
-
-![[Servant]]
-
-![[Smith]]
-
-![[Wright]]
-
-## Militant Jobs
-
-![[Arbalist or Gunner]]
-
-![[Commander]]
-
-![[Guard]]
-
-![[Lancer or Dragoon]]
-
-![[Medic]]
-
-![[Pilot or Aviator]]
-
-![[Skirmisher]]
-
-![[Strategist]]
-
-![[Warrior]]
-
-## Rogue Jobs
-
 ![[Brawler]]
 
+###### C-D
+
+![[Charmer]]
 ![[Cipher]]
+![[Clothier]]
+![[Commander]]
+![[Diplomat]]
+![[Driver]]
 
-![[Ranger]]
+###### E-G
 
-![[Thief]]
+![[Engineer]]
+![[Explorer]]
+![[Farmer]]
+![[Guard]]
+![[Gunner]]
 
-## Weird Jobs
+###### H-L
+
+![[Handler]]
+![[Host]]
+![[Hunter]]
+![[Pundit]]
+![[Investigator]]
+
+###### M-P
 
 ![[Mage]]
+![[Mariner]]
+![[Martialist]]
+![[Medic]]
+![[Merchant]]
+![[Musician]]
+![[Nurse]]
+![[Orator]]
+![[Physician]]
+![[Pilot]]
+![[Priest]]
 
-![[Monster]]
+###### R-S
+
+![[Rider]]
+![[Scholar]]
+![[Scribe]]
+![[Servant]]
+![[Skirmisher]]
+![[Smith]]
+![[Steward]]
+
+###### T-W
+
+![[Thief]]
+![[Trickster]]
+![[Warrior]]
+![[Worker]]
+![[Wright]]
 
 ---
 
@@ -143,9 +99,12 @@ From there, learning the newly invented job is the same process as learning any 
 
 ## Sort Order
 
-There are many ways we could have grouped the jobs list above, and for this reason: The categories above are really just 'tags', to help you to search though them.
+There are many ways we could have grouped the jobs list above, aside from alphabetical. For example, we could have grouped them by their tags, but many jobs do not exclusively belong to one tag or another. So use the following list of job tags to help you search for jobs of a similar type:
 
-#### *The job tags are:* 
-#animal #artistic #athletic #civic #craft #erudite #laborious #magic #medical #militant #performance  #political  #ritual #rogue  #social #vehicle #vessel #weird
+| Job tags:  |           |           |          |              |            |
+| ---------- | --------- | --------- | -------- | ------------ | ---------- |
+| #animal    | #artistic | #athletic | #civic   | #craft       | #erudite   |
+| #laborious | #magic    | #martial  | #medical | #performance | #political |
+| #ritual    | #rogue    | #social   | #vehicle | #vessel      | #weird     |
 
 **See also:** [[Specialties List]]

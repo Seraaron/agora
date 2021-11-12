@@ -64,7 +64,7 @@ Peers and VINPCs are a culmination of all my thoughts on the wider conversation 
 -   Matthew Colville, for his 'Running the Game' advice series. Much of which I've condensed and re-written in my own words and made more directly applicable to Agora.
 -   Zee Bashew, for his _low prep_ gaming style and 'The Path' hat-trick, who was in-turn influenced by John Wick and Satine Pheonix.
 -   Dael Kingsmill / Monarch's Factory, mainly for inspiring me to work on Agora as a stand-alone product, since her hacks of D&D practically turn it into a completely different game. (Hey Dael, if you're reading this, I think you should definitely write your own game too)!
--   Hankrin Ferinale of Runehammer Games and ICRPG, for the idea of using a turn order outside of combat to help with spotlighting and to make sure that everyone gets a say, and who's general thoughts and lectures on roleplaying games are always insightful.
+-   Hankrin Ferinale of Runehammer Games and ICRPG, for the idea of using a [[Session Structure#Turns|turn order]] outside of combat to help with spotlighting and to make sure that everyone gets a say, and who's general thoughts and lectures on roleplaying games are always insightful.
 -   Chris McDowall's essays on quantitative vs qualitative gameplay, which have influenced how I thought about almost every individual component of this game (in terms of questioning what purpose each one was serving).
 
 ###### Additional Influences
@@ -76,6 +76,7 @@ Peers and VINPCs are a culmination of all my thoughts on the wider conversation 
 -  'Be a fan of the players' is a common sentiment shared by many Powered by the Apocalypse and Blades in the Dark type games, as are 'playbooks' or 'playsheets' — quick-start character creation options that make pick-up-and-play a lot easier.
 - Kevin Crawford's GMing advice in Godbound and Worlds Without Number, especially in regards to making and running factions or religions, is _invaluable_. Definitely go check them out.
 -   Exclusive Features were directly inspired by 13th Age's "One Unique Thing", by Pelgrane Press,  except that I wanted uniques to have an actual mechanical use; whereas Circumstances fulfill the more narrative / qualitative focus in Agora. 
+-   'Exploits', which a target uses against you when you fail a roll in combat, are taken fairly directly from the Forthwright RPG, by Room 209 Gaming (CC BY 4.0), with a little editing to make them work for Agora.
 
 Finally, my previous employment as a gambling auditor made me realize that roleplaying is a form of _narrative gambling_, and that if you think of it in those terms then a player _must be informed of the odds_ so that they can make informed decisions about how they want to play and what they want to put at stake. There's *a lot more* I could say about this, but let's leave it at that for now. (Word of advice: please don't gamble in real life, _you will always lose eventually_).
 

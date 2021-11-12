@@ -10,7 +10,7 @@ last updated: Thursday 2021-09-23 18:06:28 (UTC+0100)
 ## Using Gear
 
 #rewrite
-Some jobs require [[Assets and Gear|gear]] to be used properly, which is also listed with them: This is usually things like tools, weapons, armor, or materials. **If you don't have the right gear then that counts as a [[Determining Difficulty and Consequences|difficulty factor]] against you**, and in some cases *if you don't have anything that could work as a substitute then you just can't use that job at all*.
+Some jobs require [[Assets and Gear|gear]] to be used properly, which is also listed with them: This is usually things like tools, weapons, armor, or materials. **If you don't have the right gear then that counts as a [[Difficulties and Consequences|difficulty factor]] against you**, and in some cases *if you don't have anything that could work as a substitute then you just can't use that job at all*.
 
 ### Breakable vs. Limited-use
 

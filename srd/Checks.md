@@ -9,68 +9,94 @@ tags:
   - rolls
 author: Seraaron
 license: CC BY 4.0
-date created: 2021-07-20+0100
-last updated: Thursday 2021-09-23 @ 18:20:05 (UTC+0100)
+date created: 2021-07-20 +0100
+date updated: 2021-11-07 12:13
 
 ---
 
 ## Checks
 
-**Checks are more straightforward than [[Tasks]].** They are mostly _a measure of your raw talent and luck_, and can only be used to achieve one thing at a time by using simple verbs (see the [[Abilities|ability lists]] for example verbs).
+**Checks are more straightforward than [[Tasks]].** They are mostly *a measure of your raw talent and luck*, and can only be **used to achieve one thing at a time using simple verbs** (see the [[Abilities|ability lists]] for some example verbs).
 
-Once your [[Agenda|agenda]] is clear, **pick up three dice**, _or fewer if the [[Abilities|ability]] or [[Capabilities|capability]] you're using for the Check is currently [[Stress|stressed]]_. Use an extra die if you're receiving [[Helping|help]], rolled separately.
-
-#imp There is no other way to gain bonus dice on a Check. **Assets and gear cannot be used.**
+Make sure you always discuss what you're trying to achieve with your [[Peers]] before rolling, so that the [[Facilitator]] can set the [[Difficulties and Consequences|set the consequences]] appropriately. This is called your [[Agenda|agenda]], and if it's not clear before the dice hit the table then the roll is void.
 
 ### Making a Check
 
-Once the [[Determining Difficulty and Consequences|consequences]] of failure are clear and the difficulty is set, then **roll the dice and _count successes_ for each face that lands on a number _equal to or greater than_ your [[Rank|rank]]** for the chosen ability. Then compare the results of your roll to the difficulty:
+**Pick up three dice**, *then remove dice equal to any [[Stress]] in the ability you'll be rolling with*. The minimum pool size for a Check is 1 die. Then you may choose ***one* [[Assets and Gear|asset or peice of gear]]** and add it's dice to your pool. You may also receive [[Helping|help]] from an ally, *but this does not grant bonus dice* (see [[#KISSing Checks|below]]).
 
-1.  **Easy:** Needs _one_ or more success to pass.
-2.  **Normal:** Needs at least _two_ successes to pass.
-3.  **Hard:** Needs _three_ successes to pass.
+**Roll all your dice and *count successes* for each face that lands on a number *equal to or greater than* your [[Rank|rank]]** for the chosen [[Abilities|ability]] or [[Capabilities|capability]].
 
-A 'pass' means _you get your intent_, and so you or the FC can describe what happens next.
+Compare your successes to the following chart to determine the result:
 
-Failing to pass — sometimes called a 'miss' — still means that you or the FC will describe what happens next; but instead of getting what you want, you instead _suffer the consequences_ and the game may divert down a new path and force you to reevaluate your current priorities.
+| Successes | *Result*                                                                                                                                                                                                                                                                                                                 |
+| :-------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|   **0**   | **Tough failure:**                                                                                                                                                                                                                                                                                                       |
+|   (~30%)  | *You don't get what you wanted and time progresses. The consequences of your actions still play out, but nothing of value is gained — except the knowledge that you should probably try a different approach — and some of your resources may be lost.*                                                                  |
+|   **1**   | **Fail with a twist:**                                                                                                                                                                                                                                                                                                   |
+|   (~45%)  | *Your action doesn't quite work out as intended. Something interrupts you, your intentions are twisted against you, or new information is revealed that changes the situation. Your agenda is unfulfilled and your objective is left incomplete, but you've at least made progress and gained something in the process.* |
+|   **2**   | **Regular pass:**                                                                                                                                                                                                                                                                                                        |
+|   (~20%)  | *Your agenda is fulfilled. You get what you wanted, and generally succeed without any major issues. You may describe your success, or speak in character, if the action is physical or social. If it was information you sought, then your FC should tell you what you want to know.*                                    |
+|   **3+**  | **Pass with flying colors:**                                                                                                                                                                                                                                                                                             |
+|   (~5%)   | *Your objective is completed with ease and aplomb or with time to spare. Your FC may give you additional information they would have otherwise kept secret. In some cases you may gain a new item or remove a point of stress. In other cases you just get to show off.*                                               |
 
-> #nb
-> This is all part of the fun of roleplaying. The consequences of failing a Check are usually not as severe as for failing [[Tasks]], and often a Check isn't said to [[Let the dice rest|'rest']] in the same way a Task might; meaning you may be able to try again if the opportunity presents itself.
+#que The percentages listed above are your approximate chances of rolling that many successes with 3 rank 5 dice. (You can find more numbers like these in the [[Dice Probabilities and Statistics]] article).
 
-#que Checks have _binary_ 'pass' or 'fail' conditions to keep them fast-paced and exciting. If you want a more nuanced outcome then use a [[Tasks|Task]] instead.
+#### KISSing Checks
 
-#### Fewer dice than the difficulty?
+After the dice have been rolled, if you've not succeeded to your level of satisfaction then **you may [[KISSing|KISS]] some of the failed dice to try and seize back victory**. This is a procedure that lets you make use your [[KISSing#Kismet|Kismet]], [[KISSing#Insights|Insights]], [[KISSing#Stunts|Stunts]], or [[KISSing#Specialties|Specialties]] to re-roll some dice, or you can use [[Ego]] to double the successes from any 6s you rolled.
 
-If the Check difficulty is _hard_, say, and you only have two dice to roll due to [[Stress|being stressed]], then you either _have to get [[Helping|help]]_ to even have a chance at passing, or else you _must use a specialty or Ego_ ([[#Auto-passing Checks|see below]]).
+**If you've received [[Helping|help]], then your ally can KISS for you as well**.
 
-#### Auto-passing Checks
+#imp [[Lots]] spent on Checks do not convert to *[[Earning Experience|exp]]*, however. 
 
-If you have rolled the dice and so-far failed to pass, then _as a last resort_ you may use a relevant [[Specialties|specialty]] — describing how it aids you, and crossing it off for the session, if your [[Peers]] agree — to automatically pass the Check.
+---
 
-Alternatively, if you have no relevant specialty, then you may use your [[Ego]] to automatically pass instead. _Else, you must accept your failure and move on._
+###### Embracing Failure
 
-#imp Unlike Tasks, you cannot [[KISSing|KISS]] dice on Checks, and there is no avenue for spending Lots on Checks either.
+Failure makes up the majority of the outcomes in the table above, but the consequences of failing a Check are usually not as severe as for failing [[Tasks]]. You may also be able to try the Check again at a later date if the opportunity presents itself, but the story should always be moving forwards.
+
+However, when a roll is made and the results are not in your favor, the consequences *can be discussed* with your [[Peers]] to ensure that everyone is happy with the compromise. This helps to avoid accidental favoritism or arbitrary punishment, and generally makes the process more collaborative.
+
+---
+
+#### Taking your Time
+
+**If you're in a situation where time is not pressing, then a Check is usually not necessary.** You can simply say that you want to "take your time" with the Check, and it will be *automatically passed* (as though you had rolled 2 successes). However, the **amount of time that will pass is up to your Peers**.
+
+This should be a realistically long time for the agenda. 20 minutes is a good average for most things, but it really depends on the action and intent. Sometimes it can take up to an hour, or even a whole day!
+
+**Your Facilitator may veto a slow Check** and rule that your intent can't be achieved carefully, if they feel that time *is* of the essence. In these instances you *must roll* or else not perform the action at all.
+
+![[Stressful Rolls]]
 
 ### Group Checks
 
-If there is a roll that all the [[Player Characters]] must complete to progress as a group, then **everyone should make the same Check separately**, _all using their own ability ranks_ to count successes, and all using the same difficulty, rather than [[Helping|helping]] one another.
+If there is a roll that all the [[Player Characters]] must complete to progress as a group, then **everyone should make the same Check separately**, *each using their own ability ranks* to count successes, and all using the same difficulty.
 
--   If **all but one of the group participants pass**, _then the whole group passes_.
--   If **more than one participant fails** then either _the whole group fails together_, and everyone is compromised, or those individuals fail while the rest pull through; depending on the context of the roll.
+**To pass as a group, you must roll a total number of successes equal to the number of participants**.
 
-Specialties or Ego can be used by anyone to pull themselves up to a pass ([[#Auto-passing Checks|see above]]), but those who already succeeded _can also use their specialties or Ego to pull up anyone else who failed_, if they want to; promoting a sense of team work.
+-   Rolling any fewer successes than this means that you *collectively fail with a twist:* Either someone is straggling behind and gets caught at the last instant, or someone misunderstands the plan and it all goes awry.
+-   Getting twice as many successes as the goal means you *collectively pass with flying colors:* Everyone gets through with time to spare, you can each spend a moment showing off, or the plan works out better than expected.
+
+[[KISSing|KISSes]] can be used as per usual, but those whose dice have already all landed as successes *can also use their KISSes to pull up anyone else who failed*, as though everyone is [[Helping|helping]] one another; promoting a sense of team work.
+
+#que If the Group check is also '[[Stressful Rolls|stressful]]' then only the participants who failed their roll receive the stress, not the whole group.
 
 ### Versus Checks
 
-When two or more characters want to compete to do the same thing — such as race to a goal, or say something important before the other can interrupt, or solve a problem the quickest — where there would be _a clear winner at the end of the action;_ then all those characters should each **perform a Check separately**, _using the same ability and difficulty_, and **the one who passes wins**.
+When two or more characters want to compete to do the same thing, with equal or opposite objectives — such as race to a goal, or say something important before the other can interrupt, or solve a problem the quickest — where there would be *a clear winner at the end of the action;* then all those characters should each **perform a Check separately**, *using the same ability and difficulty*, and **the one with the most successes wins**.
 
-_If there's a tie_ (or if no one passes the Check) then you either reach the goal simultaneously or the competition continues using a different [[Abilities|ability]] until a clear winner is found (or none of you get what you wanted), whichever makes more sense.
+*If there's a tie* then you either reach the goal simultaneously or the competition continues using a different [[Abilities|ability]] until a clear winner is found, whichever makes more sense.
 
 > #eg
 > A chase might start off as a [[Swiftness]] check; but then progress to a [[Finesse]] check if you run into a busy market and start throwing stalls over and dodging between carts; and could then go to an [[Endurance]] check if you're still neck and neck.
 
-To resolve more complex competing agendas, use an [[Opposed Tasks|opposed Task roll]], or a more [[advanced conflict subsystem]].
+Use an [[Opposed Tasks|Opposed task]] roll to resolve more complex competing agendas, or a [[Conflict Systems|conflict system]] for a detailed breakdown of the moment-to-moment action.
 
 ---
 
-**See also:** [[Checks vs. Tasks]]
+-   **Previous article:** [[Checks vs. Tasks]]
+
+-   **Next article:** [[Tasks]]
+
+-   **Related Articles:** [[Abilities]] and [[Capabilities]]

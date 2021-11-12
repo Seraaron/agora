@@ -63,15 +63,15 @@ date updated: '2021-10-04T15:03:08+01:00'
 
 ### [[Abilities]]
 
-| Ability       | Rank |       _stress_ | Wound |
-| ------------- | :--: | -------------: | ----- |
-| **APP**EAL    |   6  |     worry: 0/2 | --    |
-| **RES**OLVE   |   6  |   fatigue: 0/2 | --    |
-| **WIT**S      |   6  | confusion: 0/2 | --    |
-| **FIN**NESE   |   6  |     shock: 0/2 | --    |
-| **END**URANCE |   6  |    hunger: 0/2 | --    |
-| **SWI**FTNESS |   6  |      pain: 0/2 | --    |
-
+| Ability       | Rank | _stress_       | Wound |
+| ------------- |:----:|:-------------- | ----- |
+| **APP**EAL    |  6   | worry: 0/2     | --    |
+| **RES**OLVE   |  6   | fatigue: 0/2   | --    |
+| **WIT**S      |  6   | confusion: 0/2 | --    |
+| **FIN**NESE   |  6   | shock: 0/2     | --    |
+| **END**URANCE |  6   | hunger: 0/2    | --    |
+| **SWI**FTNESS |  6   | pain: 0/2      | --    |
+%%
 ##### [[Capabilities]]
 
 | Capability     | Rank |    _stress_ |
@@ -86,7 +86,7 @@ date updated: '2021-10-04T15:03:08+01:00'
 - [insert] (change to normal bullet point if ready for catharsis)
 - [ ] [add more]
 - [ ] ...
-
+%%
 ---
 
 ### [[Jobs]]

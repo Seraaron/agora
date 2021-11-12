@@ -22,16 +22,19 @@ The Facilitator is _one of the other players at the table_, a friend, who simply
 
 > ##### A Facilitator's main duties are to:
 >
-> -   **Manage the game**, by [[Pitching and Planning|pitching]] it to the other players, organizing when to play, and encouraging a dialogue with them about their characters and the game rules _between sessions_.
+> -   **Manage the game**, by [[Pitching and Planning|pitching]] it to the other players, organizing when to play, and encouraging a dialogue with them about their characters and the game world _between sessions_.
 >
-> -   **Author the world** and the scenarios the [[Player Characters]] will find themselves in by [[Pitching and Planning|planning]] for various outcomes, coming up with new plot hooks and story threads, and playing as any creatures and characters that aren't portrayed by the other players (ie. playing as the [[Non-player Characters]])
+> -   **Play the world** and author the scenarios the [[Player Characters]] will find themselves in by [[Pitching and Planning|planning]] for various outcomes, coming up with new plot hooks and story threads, and roleplaying as any creatures or characters that aren't portrayed by the other players (ie. playing as the [[Non-player Characters]])
 >
-> -   **Interpret the player's intentions** and respond accordingly, by describing the environments and situations their characters enter and explore.
+> -   **Interpret the player's intentions** and respond accordingly — by describing the environments and situations their characters enter and explore — and by [[Difficulties and Consequences|creating consequences]] for those actions once the objectives are clear. 
 >
-> -   **Direct and moderate play** by controlling the pace of each [[scene]], determining [[When to roll dice|when a player should roll dice]] and which [[Abilities|abilities]] or [[Jobs|jobs]] they should use, and [[Determining Difficulty and Consequences|creating consequences]] when they fail.
+> -   **Direct and moderate play** by controlling the pace of each [[Session Structure#Scenes|scene]], determining [[When to roll dice|when a player should roll dice]] and which [[Abilities|abilities]] or [[Jobs|jobs]] they should use, and [[Difficulties and Consequences#Setting Difficulties|setting the difficulties]] for most rolls.
 >
-> -   **Officiate over new rulings** when a player tries to do something that hasn't already been accounted for by the games rules or [[Houserules and Temporary Rulings|previous rulings]].
+> -   **Officiate over new rulings** when a player tries to do something that hasn't already been accounted for by the game's current rules or any [[Houserules and Temporary Rulings|previous rulings]].
 >
 > -   **[[Challenging Principles|And to challenge each character's Principles]]**, to make them push for an [[Agenda|agenda]] with almost every roll.
 
-**See also:** [[Running the game and moderating play]]
+---
+- **Next article:** [[Peers]]
+- **Previous article:** [[Player Characters]]
+- **Related article:** [[Quick Session Plan]]

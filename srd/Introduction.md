@@ -27,7 +27,7 @@ Throughout the articles you will notice occasional big red question marks, excla
 >
 > #ast Big asterisks give quick clarifications in direct reference to a smaller asterisk* somewhere in the previous paragraph.
 
-Sidebars — such as this one — are also where I talk to you _more directly_ and either explain why I designed a mechanic in a certain way, offer some advice to help Facilitators with [[Running the game and moderating play|running the game and moderating play]], or make suggestions for alternative rules interpretations.
+Sidebars — such as this one — are also where I talk to you _more directly_ and either explain why I designed a mechanic in a certain way, offer some advice to help Facilitators with [[Quick Session Plan|running the game and moderating play]], or make suggestions for alternative rules interpretations.
 
 You may also find numbered notes in some articles, which are more-akin to traditional footnotes. These are only used when there would otherwise be too many digressions in the main text, or to link to external resources.
 
@@ -46,6 +46,9 @@ Literally translating to "gathering place" or "assembly", an [agora](https://en.
 - Via the [[Peers]] and [[Facilitator]] player roles — rather than a traditional 'Game Master' — which aid in playing the game more collaboratively.
 - Via the free [Creative Commons Attribution 4.0 International (CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/), which we will use to allow anyone to make content for this game and profit from their work, so long as they refer back to Agora properly and give appropriate credit to [Seraaron](https://twitter.com/SeraaronArt) and anyone else that helped them.
 
-**[[Click here for more information about licensing, branding, and contributing to Agora directly or making an Agora-related game]]**
+**[[Momentum]]**
 
 ---
+
+- **Next article:** [[Quick Play Rules]]
+- **Previous article:** [[Agora]]

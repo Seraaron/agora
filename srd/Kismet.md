@@ -21,7 +21,7 @@ last updated: Friday 2021-09-24 @ 14:59:47 (UTC+0100)
 
 In [[Agora]], kismet functions as a so-called 'metacurrency' — or narrative reward points — used to aid rolls and to track long-term character development.
 
-There are four kinds of kismet: **[[Lots]]**, **[[Ego]]**, **[[Fidelity]]**, and **[[Health]]**. You earn them mainly by roleplaying, and you spend them to [[KISSing|KISS dice]], to eventually advance your ability [[Rank|ranks]], or to avoid certain death.
+There are four kinds of kismet: **[[Lots]]**, **[[Ego]]**, **[[Fidelity]]**, and **[[Health]]**. **You earn them mainly by roleplaying**, and you spend them to [[KISSing|KISS dice]], to eventually advance your ability [[Rank|ranks]], or to avoid certain death.
 
 ![[Lots]]
 
@@ -30,5 +30,16 @@ There are four kinds of kismet: **[[Lots]]**, **[[Ego]]**, **[[Fidelity]]**, and
 ![[Fidelity]]
 
 ![[Health]]
+
+
+---
+
+###### Changing the Gauge?
+
+With the Fidelity gauge's default size set to four, that means that you must acquire 12 Fidelity to take _one ability_ from rank 5 to rank 2, which assuming you earn about 1 Fidelity every 10 sessions would take at least 100 sessions! This sounds like a lot, _and it is_, but this slow kind of character progression forms a 'supercycle' that encapsulates all the other progression cycles in [[Agora]].
+
+Shortening (or lengthening?) the Fidelity gauge will drastically change your long-term experience with the game, so this _must absolutely be discussed_ with your [[Peers]] if you're considering it.
+
+---
 
 **See also:** [[Principles]]

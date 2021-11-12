@@ -9,10 +9,6 @@ _______________
 **************/
 
 /* GOOGLE FONT IMPORTS */
-/* @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,700;1,500;1,800&display=swap'); */
-/* @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,700;1,600;1,900&display=swap'); */
-/* @import url('https://fonts.googleapis.com/css2?family=Mali:ital,wght@0,400;0,600;1,300;1,700&display=swap'); */
-/* @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,500;0,700;0,900;1,400;1,800&display=swap'); */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Petrona:ital,wght@0,600;0,800;1,500;1,900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Vollkorn+SC:wght@400;700&display=swap');
@@ -43,6 +39,7 @@ _______________
   --col-pale-red:      #e39fa3;
   --col-pale-orange:   #e9cba9;
   --col-bright-orange: #ff6900;
+  --col-vermillion:    #ff4a00;
   --col-orange:        #ff8700;
   --col-brown:         #6b5137;
   --col-beige:         #e1d7d4;
@@ -221,6 +218,10 @@ html, body {
 
 
 /* tables */
+table {
+  width: 100%;
+}
+
 table, td {
   background-color: var(--background-primary);
   border-color: var(--background-primary) !important;
@@ -257,7 +258,7 @@ a:visited {
   text-decoration: none;
 }
 .is-unresolved {
-  color: var(--col-bright-orange);
+  color: var(--col-vermillion);
 }
 .is-unresolved:hover {
   color: var(--col-bright-red);
@@ -462,8 +463,11 @@ input[type=checkbox]:checked {
   border:none;
 }
 .markdown-preview-view .markdown-embed-content {
-  background-color: var(--embed-bg-color);
+  background-color: var(--background-primary);
   border-radius: 0.8em 0.3em 0.3em 0.8em;
+}
+.markdown-preview-view:hover .markdown-embed-content:hover {
+  background-color: var(--embed-bg-color);
 }
 /* the link on the top right corner*/
 .markdown-embed-link {

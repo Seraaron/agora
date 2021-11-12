@@ -68,7 +68,7 @@ last updated: Friday 2021-07-30 19:43:57 (UTC+0100)
 	- as long as you can make that clear, you don't actually have to be consistent
 - learning to do 'good accents' is a skill in and of itself, completely separate from being a goof facilitator, so having said that:
 
-#### You don't have to speak in character all
+#### You don't have to speak in character all the time
 
 ![[NPCs don't roll]]
 
@@ -81,3 +81,5 @@ last updated: Friday 2021-07-30 19:43:57 (UTC+0100)
 ### Bosses
 
 ### Mobs
+
+### Animals vs Beasts

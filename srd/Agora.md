@@ -5,6 +5,7 @@ alias:
 tags:
   - creativecommons
   - list
+  - index
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-08-24+2200
@@ -42,88 +43,92 @@ _But if you like what you see, then consider joining the [Discord.gg/JwM6zBszKr]
 # Contents
 
 - [[Introduction]]
-- [[Playing the game and rolling dice]]
-- [[Running the game and moderating play]]
+- [[Quick Play Rules]]
+- [[Quick Session Plan]]
 
-### § 1 — Essential Rules and Info
+### § 1 — Essential Rules
 
-- [[Development sessions]]
-- [[Session structure]]
 - [[Player Characters]]
   - [[Facilitator]]
   - [[Peers]]
+- [[Agenda]]
+	- [[When to roll dice]]
+- [[Checks vs. Tasks]]
+  - [[Checks]]
+  - [[Tasks]]
+    - [[Opposed Tasks]]
+- [[KISSing]]
+	- [[Helping]]
+- [[Difficulties and Consequences]]
+- [[Let the dice fall where they may]]
+
+### § 2 — Characters
+- [[Development Sessions]]
+- [[Character Assembly]]
 - [[Circumstances]]
+	- [[Tier]]
 - [[Principles]]
   - [[Kismet]]
 - [[Abilities]]
   - [[Rank]]
   - [[Stress]]
   - [[Capabilities]]
+- [[Jobs]]
 - [[Conditions]]
   - [[Wounds and Scars]]
 - [[Assets and Gear]]
-- [[Jobs]]
-  - [[Specialties]]
+- [[Specialties]]
+	- [[Fact Checks]]
 - [[VINPCs|Kith and Kin]]
-- [[Debriefings]]
 
-### § 2 — Character Assembly
+### § 3 — Modular Mechanics
 
-#unfinished 
-
-### § 3 — Resolution Mechanics
-
-- [[Agenda]]
-	- [[When to roll dice]]
-- [[Checks vs. Tasks]]
-  - [[Checks]]
-  - [[Tasks]]
-    - [[KISSing]]
-    - [[Opposed Tasks]]
-- [[Determining Difficulty and Consequences]]
-- [[Helping and Hindering]]
-- [[Let the dice rest]]
-- #unfinished
+- [[Conflict Systems]]
+	- [[Martial Conflict]]
+	- [[Social Conflict]]
+- #unfinished 
 
 ### § 4 — Tools, Essays, and Advice
 
 - [[Script Change Tools]]
-- [[Campaign structure]]
-- [[Genre, tone, and themes]]
+- [[Genre, Tone, and Themes]]
 - [[Pitching and Planning]]
-- [[Non-player Characters]]
+- [[Campaign Arcs]]
+- [[Session Structure]]
 - [[Challenging Principles]]
+- [[Player Styles]]
+- [[Non-player Characters]]
+- [[Social Encounters]]
 - [[Worldbuilding]]
 - [[Houserules and Temporary Rulings]]
 - #unfinished
 
-### § 5 — Lists
 
-- [[Session Zero Checklist]]
-- [[Walks of Life]]
-  - [[Playbooks]]
-- [[Circumstance Suggestions]]
-- [[Condition Suggestions]]
-- [[Gambits List]]
-- [[Jobs List]]
-  - [[Specialties List]]
-- [[Gear List]]
-  - [[Tags List]]
+### § 5 — Appendices
 
-### § 6 — Appendices
-
-- [[Influences and Acknowledgments]]
 - [[Example Worlds]]
 - [[The King is Dead (demo scenario)]]
 - [[Guides for being an 'Agora-like' game]]
   - [[Capitalization and Spelling guide]]
   - [[Using the License]]
-- [[Dice Probabilities and Statistics]]
+- [[Influences and Acknowledgments]]
+
+### § 6 — Lists & Indices
+
+- [[Circumstances List]]
+- [[Condition Examples]]
+- [[Jobs List]]
+	- [[D66 Jobs]]
+- [[Specialties List]]
+- [[Gear Examples List]]
+  - [[Tags List]]
+- [[Session Zero Checklist]]
 
 ### § 7 — Resources
 
+- [[Dice Probabilities and Statistics]]
+- [[Editor's Notes]]
 - [[Agora Character Sheet (one-page).pdf]]
 - [[Agora Character Sheet (two-page-spread).pdf]]
-- [[Editor's Notes]]
 
 ![[Support me]]

@@ -39,7 +39,7 @@ Regardless of their play style, these players all want for the same thing: A sen
 
 This is a player who enjoys seeing their character get hurt, either physically or emotionally, or who just enjoys a challenge. Often, in these cases, _the character isn't actively trying to hurt themselves, but their player keeps putting them in situations where injury or embarrassment is likely_. Perhaps it's schadenfreude, perhaps it's cathartic; but it's probably both, since their character is also an extension of themselves. Masochistic players are those who see a real world _psycho-therapeutic value_ in playing these games.
 
-Indeed, the best masochistic players know that the game is _just a game_, and that the shared imagined world is a like sandbox, and they embrace those facts wholeheartedly. **This is not a problem**, so long as you have your [[Consent and Safety Tools]] in place (to help you explore these ideas in a safe space), and so long as you do not also harm or overly distract the other non-masochistic players.
+Indeed, the best masochistic players know that the game is _just a game_, and that the shared imagined world is a like sandbox, and they embrace those facts wholeheartedly. **This is not a problem**, so long as you have your [[Script Change Tools|consent and safety tools]] in place (to help you explore these ideas in a safe space), and so long as you do not also harm or overly distract the other non-masochistic players.
 
 ### The Discoverer
 
