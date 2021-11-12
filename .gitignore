@@ -1,0 +1,13 @@
+obsidian.css
+.obsidian
+.vault-stats
+*.odt
+*.ods
+*.txt
+*.xopp
+.~*
+*.*~
+img
+fonts
+exports
+code
