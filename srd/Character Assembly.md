@@ -72,7 +72,7 @@ Thus, the only real restrictions placed on you when building from scratch are ba
 
 ## 3. Circumstances and Features
 
-![[Exclusive Feature]]
+![[Exclusive Features]]
 
 ## 4. Finishing Touches
 

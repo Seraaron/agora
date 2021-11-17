@@ -43,9 +43,9 @@ Alternatively, if there is a [[Downtime and Travel|downtime skip]] of more than 
 
 You can **temporarily ignore a point of physical stress** *until the end of a scene* by using a [[Medic]] roll on yourself, or you can do the same with a [[Nurse]] roll on mental stresses. The difficulty of this roll is equal to your total accumulated stress across all of your abilities (including any that has been pushed through).
 
-Alternatively, you can perform the same roll on another character, to temporarily relieve them of their stress. 
+Alternatively, **you can perform the same roll on another character**, to temporarily relieve them of their stress. 
 
-**At the end of the scene:** The stress comes back, and in the same ability it was in before. If you've acquired more stress since then, and the bar for that ability is now filled, then the returning stress can spill over into other related ability instead!
+**At the end of the scene:** The stress comes back, and in the same ability it was in before. If you've acquired more stress since then, and the bar for that ability is now filled, then the returning stress can spill over into another related ability instead!
 
 #que This is process is effectively the same as using the [[Treat]] move outside of a conflict, without any bonuses from the heat of the moment.
 

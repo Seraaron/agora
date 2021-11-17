@@ -80,7 +80,7 @@ _However, here's a useful trick that you can also employ:_ Since Checks use sole
 
 ### Applying Factors for Tasks
 
-If Checks use an 'absolute' scale of difficulties, then Tasks can be considered to use a 'relative' scale. This is represented using a slew of equally weighted factors, rather than a fixed target number (though some Tasks — especially in certain subsystems, like [[Martial Conflict|combat]] — do use set targets).
+If Checks use an 'absolute' scale of difficulties, then Tasks can be considered to use a 'relative' scale. This is represented using a slew of equally weighted factors, rather than a fixed target number (though some Tasks — especially in certain subsystems, like [[Martial Combat|combat]] — do use set targets).
 
 There are three main sources of factors for a Task: **The number of objectives**, any **job-specific factors**, and **generic factors**.
 

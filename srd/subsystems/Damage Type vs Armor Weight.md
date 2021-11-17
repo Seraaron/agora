@@ -1,7 +1,9 @@
 ---
-alias: []
+alias: [damage types]
 tags:
   - creativecommons
+  - martial
+  - gear
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-10 23:50
@@ -13,7 +15,7 @@ date updated: 2021-11-10 23:54
 
 | Dmg. + [MoS] | Binding | Slashing | Rending | Piercing | Bashing |
 | ----------: | :-----: | :------: | :-----: | :------: | :-----: |
-|     _#none_ | _**4**_ |    _6_   |   _9_   |    _8_   |   _7_   |
+|     *Unarmored* | _**4**_ |    _6_   |   _9_   |    _8_   |   _7_   |
 |      #light |    3    |   **5**  |    4    |     2    |    3    |
 |   #balanced |    2    |     4    |  **8**  |     6    |    4    |
 |      #heavy |    1    |     3    |    3    |   **7**  |    5    |

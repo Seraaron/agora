@@ -77,6 +77,7 @@ Peers and VINPCs are a culmination of all my thoughts on the wider conversation 
 - Kevin Crawford's GMing advice in Godbound and Worlds Without Number, especially in regards to making and running factions or religions, is _invaluable_. Definitely go check them out.
 -   Exclusive Features were directly inspired by 13th Age's "One Unique Thing", by Pelgrane Press,  except that I wanted uniques to have an actual mechanical use; whereas Circumstances fulfill the more narrative / qualitative focus in Agora. 
 -   'Exploits', which a target uses against you when you fail a roll in combat, are taken fairly directly from the Forthwright RPG, by Room 209 Gaming (CC BY 4.0), with a little editing to make them work for Agora.
+-   'Shields Shall be Shattered', an optional rule that turns your shield into a form of ablative armor, is popular in many OSR style games, but I think it originates from [Trollsmyth's blog](https://trollsmyth.blogspot.com/2008/05/shields-shall-be-splintered.html).
 
 Finally, my previous employment as a gambling auditor made me realize that roleplaying is a form of _narrative gambling_, and that if you think of it in those terms then a player _must be informed of the odds_ so that they can make informed decisions about how they want to play and what they want to put at stake. There's *a lot more* I could say about this, but let's leave it at that for now. (Word of advice: please don't gamble in real life, _you will always lose eventually_).
 

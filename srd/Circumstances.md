@@ -21,17 +21,19 @@ date updated: 2021-11-08 13:31
 
 # Circumstances
 
-Circumstances are the parts of your character that make them *yours*. They are just simple words and phrases, but they encapsulate a lot of personal meaning. They are the first thing you see on your [[Character Sheets|character sheet]], and they should always help to guide you back into character while roleplaying, [[Agenda|to find your agenda]], or to remind you of who you're playing if there's been a long break between sessions.
+Circumstances are the parts of your character that make them *yours*. They are mostly just a collection of words and phrases, but they encapsulate a lot of personal meaning. They are the first thing you see on your [[Character Sheets|character sheet]], and they should always help to guide you back into character while roleplaying, [[Agenda|to find your agenda]], or to remind you of who you're playing if there's been a long break between sessions.
 
 ## Types of Circumstance
 
 There are nine spaces to fill in with descriptive information about your character:
 
--   **[[#Name]]** and **[[#Aliases or Titles]]**
--   **[[#Archetype]]** and **[[#Wealth]]**
--   **[[#Background Traits]]** and **[[#Size]]**
--   **[[#Foreground Traits]]** and **[[#Age]]**
--   **[[#Exclusive Feature]]**
+| Group                       |  Subgroup                      |
+| -------------------------- | -------------------------- |
+| **[[#Name]]**              | **[[#Aliases or Titles]]** |
+| **[[#Class & Culture]]**     | **[[#Wealth]]**            |
+| **[[#Backgrounds]]**       | **[[#Size]]**              |
+| **[[#Foregrounds]]**       | **[[#Age]]**               |
+| **[[Exclusive Features]]** |  **[[Minor Features]]**?                    |
 
 ### Name
 
@@ -45,11 +47,11 @@ Choosing names can be hard, and sometimes you find that a name no longer suits y
 
 These are your alternate names, pseudonyms, and/or family names, or perhaps even your _true name_. You can also include specific titles or honorifics that have been bestowed onto you here, though you will need to represent them again using a [[Assets and Gear#Prestige|prestigious asset]] to leverage any mechanical advantage from them.
 
-### Archetype
+### Class & Culture
 
 #### Wealth
 
-### Background Traits
+### Backgrounds
 
 These traits represent the *most important* parts of your character's physical, personal, biological, or cognitive make-up. They are the things that you probably had very little control over growing up, but which have nonetheless shaped you into who you are today.
 
@@ -94,7 +96,7 @@ When there is a difference in sizes between you and another character — and yo
 
 Size also affects your [[Carry Weight]] limit, if you're using those rules.
 
-### Foreground Traits
+### Foregrounds
 
 These are mostly cosmetic, expressive, societal, or personality traits. They represent the parts of your self that you actively try to present to others, that you take pride in, or that you flaunt. They generally make your characters life *more interesting*, and make them more fun for you to play as them.
 
@@ -140,7 +142,7 @@ The older your character's starting age, the more bonus job levels you will gain
 #imp It is not possible to play as child or an extremely elderly character without your [[Peers|Peer's]] permission, as they are more vulnerable and are likely to be difficult to roleplay respectfully, or may not suit your game's [[Genre, Tone, and Themes|tone]].
 
 
-![[Exclusive Feature]]
+![[Exclusive Features]]
 
 
 ---

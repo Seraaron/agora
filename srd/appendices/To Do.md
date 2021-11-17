@@ -7,11 +7,9 @@ kanban-plugin: basic
 ## New (Low Priority)
 
 - [ ] Gambits
-- [ ] FC (meta)principles and kismet
 - [ ] Running combat advice
 - [ ] Exploration subsystem
 - [ ] Running mysteries advice
-- [ ] Debate subsystem
 - [ ] Social encounter advice
 - [ ] Traps advice / subsystem
 - [ ] Factions and organizations subsystem
@@ -23,12 +21,13 @@ kanban-plugin: basic
 - [ ] Types of magic advice
 - [ ] Example worlds and world rules
 - [ ] Houserules and temp rulings
+- [ ] Crafting subsystem
 
 
 ## New (High Priority)
 
 - [ ] Downtime
-- [ ] Ancestries and Exclusive features
+- [ ] Ancestries and Innate / Exclusive features
 - [ ] (char assembly) Class archetypes
 - [ ] (char assembly)  Assets Lists
 - [ ] Running the game and moderating play
@@ -46,7 +45,6 @@ kanban-plugin: basic
 - [ ] Fact check examples
 - [ ] Agenda (actions and objectives)
 - [ ] Individual Job factors
-- [ ] Combat subsystem
 - [ ] Arms and Armor
 - [ ] Gear List
 - [ ] Character assembly
@@ -54,10 +52,10 @@ kanban-plugin: basic
 - [ ] Challenging principles advice
 - [ ] Vigilance stress (Torpor)
 - [ ] Honor stress (Shame)
-- [ ] Interpreting job levels
 - [ ] Consequence examples
 - [ ] Retired principles
 - [ ] Changing tier
+- [ ] Finishing a Combat / Discourse
 
 
 ## Rewrite / Edit
@@ -70,13 +68,16 @@ kanban-plugin: basic
 - [ ] Using gear, required gear, & magic gear
 - [ ] Two page rules and tools refs
 - [ ] High resolution player style chart
-- [ ] Influences / Acknowledgements
+- [ ] Influences / Acknowledgements links
 - [ ] Capabilities updates with new Check rules
 
 
 ## Finished
 
 **Complete**
+- [x] Combat subsystem
+- [x] Debate subsystem
+- [x] Interpreting job levels
 - [x] (char assembly) Cultural archtypes
 - [x] (char assembly)  Conditions list
 - [x] Quick start rules

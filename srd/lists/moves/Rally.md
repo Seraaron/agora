@@ -4,6 +4,8 @@ alias:
 tags:
   - creativecommons
   - move
+  - martial
+  - utility
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-10-28+1500
@@ -22,16 +24,16 @@ _The toils of battle can be harsh and withering. As you take a moment to focus, 
 | ---------------------: | :----: | :------------------------------------: |
 |                **Target:** | _Self_ |                _Allies_                |
 
-|          Roll | Difficulty = [Number of Standing Enemy Combatants]    |
+|          Roll | Difficulty = 1 + [Twice the Current MD Value]    |
 | ------------: | ----------------------------------------------------- |
 |   _**Self:**_ | **[[Guard]]**  ∥ **[[Musician]]**                     |
 |        **+1** | You're in Defensive stance?                           |
 |        **+1** | No one on your side has been pacified yet?            |
-|        **+** | [armor / musical instrument dice]  + [any other bonuses]      |
+|        **+** | [armor / musical instrument dice]  + [aid / other bonuses]      |
 | _**Allies:**_ | **[[Commander]]** ∥ **[[Musician]]**                  |
 |        **+1** | You're in Counteractive stance?                       |
 |        **+1** | Your banner or rallying symbol is still visible?      |
-|        **+** | [reputation / musical instrument dice]  + [any other bonuses] |
+|        **+** | [reputation / musical instrument dice]  + [aid / other bonuses] |
 
 |       Result | *Target* | Consequences                                                                                                                                   |
 | ------------:|:--------:| ---------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -39,6 +41,5 @@ _The toils of battle can be harsh and withering. As you take a moment to focus, 
 |              | _Allies_ | _All allies within range_ immediately shake off any hesitation, *and* increase their Stamina by **[your successes]** *at the end of the round* |
 |              |          |                                                                                                                                                |
 | **Failure:** | _Either_ | Increase the target(s) Stamina by **[your successes]** *at the end of the round*, but you **gain a random point of mental stress**                   |
-|              |          | ie. **Roll 1d6:** (1-2 = [[Worry]] ∥ 3-4 = [[Burnout]] ∥ 5-6 = [[Confusion]])       |
 
 #imp A character cannot be rallied two rounds in a row.

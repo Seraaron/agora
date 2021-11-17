@@ -3,7 +3,7 @@ alias:
   - torpor
 tags:
   - creativecommons
-  - status
+  - stress
   - optional
 author: Seraaron
 license: CC BY 4.0

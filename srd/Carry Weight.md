@@ -18,7 +18,7 @@ date updated: 2021-11-09 23:41
 
 We don't often care too much about carry weight limits in [[Agora]]. The simplest rule to follow is: **You can carry as much as makes sense**.
 
-So your [[Peers]] should always help you to judge whether what you're carrying seems reasonable. In fact, _if your game isn't that focused on going on adventure, doing [[Martial Conflict|combat]], and collecting gear, then the question may never even arise_.
+So your [[Peers]] should always help you to judge whether what you're carrying seems reasonable. In fact, _if your game isn't that focused on going on adventure, doing [[Martial Combat|combat]], and collecting gear, then the question may never even arise_.
 
 That said, not everyone knows what it's like to wield real weapons, or wear armor, or carry around bags of gold, or lug around a rucksack full of camping supplies, so here's some guidelines on how to 'make sense' of carry limits.
 

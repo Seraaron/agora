@@ -4,6 +4,9 @@ alias:
 tags:
   - creativecommons
   - move
+  - submove
+  - martial
+  - offense
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-10-28+1500
@@ -18,7 +21,7 @@ date updated: 2021-11-11 12:20
 
 _These are all 'high risk, high reward' techniques, and should only really be attempted when you're really sure you'll make it, or when you have no other choice but to try something special. There are three options: Charge, Disarm, and Route._
 
-| **Target's Position:** | Within a few Paces* | Close-Quarters |   Nearby  |
+| **Target's Position:** | Within a Few Paces* | Close-Quarters |   Nearby  |
 | ---------------------: | :-----------------: | :------------: | :-------: |
 |                Intent: |      [[Charge]]     |   [[Disarm]]   | [[Route]] |
 

@@ -27,7 +27,7 @@ date updated: '2021-10-04T15:03:08+01:00'
 
 [insert], [insert], [add more], ...
 
-#### _[[Exclusive Feature]]_
+#### _[[Exclusive Features]]_
 
 - [ ] [insert]
 

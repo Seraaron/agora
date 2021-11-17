@@ -4,6 +4,9 @@ alias:
 tags:
   - creativecommons
   - move
+  - submove
+  - martial
+  - offense
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-11 11:43
@@ -15,13 +18,13 @@ date updated: 2021-11-11 12:20
 
 _Disarm is for skillfully forcing your opponent to drop their weapon, or unseating them from a steed, or knocking them out of a vehicle as they pass you by._
 
-| Roll    | Difficulty = **[Target's Poise] + [Target's Warrior ∥ Rider level]*** |
+| Roll    | Difficulty = **[Target's Poise] + [Target's Warrior ∥ Rider lvl.]*** |
 | :------ | --------------------------------------------------------------------- |
 |         | **[[Martialist]]** ∥ **[[Skirmisher]]** ∥ **[[Warrior]]**             |
 | **+1**  | Your weapon is #binding?                                              |
 | **+1**  | Your weapon is #balanced?                                             |
 | **+1**  | Your opponent is in Aggressive stance?                                |
-| **+MD** | + [weapon dice] + [any other bonuses]                                 |
+| **+MD** | + [weapon dice] + [aid / other bonuses]                                 |
 
 | Result       | Consequences                                                                                                                                                                                                                                 |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

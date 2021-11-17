@@ -5,10 +5,12 @@ alias:
 tags:
   - creativecommons
   - move
+  - martial
+  - offense
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-10-28+1500
-date updated: 2021-11-11 13:04
+date updated: 2021-11-17 17:10
 
 ---
 
@@ -16,16 +18,15 @@ date updated: 2021-11-11 13:04
 
 ###### Aggressive Stance
 
-_'Pacification' means different things to different people. Regardless, there's no point in trying to disable your opponents until they're are weak enough to justify the risk, and choose what your intent will be before using the move._
+_There's many ways to 'pacify' someone, and how you do it will depend mainly on how you feel about the cause of this violence in the first place. Choose what your intent will be before using this move. Though there's no point trying to disable your opponents until they're are weak enough to justify the risk._
 
 | **Required Position:** |          Close-by — A Few Paces         |  Nearby  | Far Away |
 | ---------------------: | :-------------------------------------: | :------: | :------: |
 |                Intent: | [[Grapple]] ∥ [[Intimidate]] ∥ [[Kill]] | [[Kill]] | [[Kill]] |
 
-| Difficulty |  =  | 1 + [Target's Poise] − (Momentum − [Target's Stamina] ) |
-| ---------: | :-: | ---------------------------------------------------------- |
-
-**Note:** This is  the _negative difference_ between current Momentum and your target's Stamina, so **if Momentum is _lower_ than their Stamina then the roll is _harder_** by that much, _but the minimum penalty is zero_.
+| Difficulty = 1 + [Target's Pois.] − (Momentum − [Target's Stam.])                                                                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #imp This is  the _negative difference_ between current Momentum and your target's Stamina, so **if Momentum is _lower_ than their Stamina then the roll is _harder_** by that much, _but the minimum difficulty is still 1 + [target's poise]_ |
 
 ![[Grapple]]
 

@@ -27,4 +27,4 @@ _**Suggested Specialties:** [biomes], Patience, Tactics, Stealth…_
 >
 > -   #unfinished
 
-#que Skirmisher can also be used to determine your 'Disposition' in [[Martial Conflict]], with [[Grit]].
+#que Skirmisher can also be used to determine your 'Disposition' in [[Martial Combat]], with [[Grit]].

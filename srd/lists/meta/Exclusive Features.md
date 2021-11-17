@@ -7,7 +7,7 @@ date created: 2021-10-04+2200
 last updated: Monday 2021-10-04 22:20:15 (UTC+0100)
 ---
 
-### Exclusive Feature
+### Exclusive Features
 
 Every character has an exclusive feature (or sometimes simply an 'exclusive' for short). This is a trait, phrase, or other special [[Circumstances|circumstance]], an unusual [[Specialties|specialty]] or [[Gambits|gambit]], a rare [[Conditions|condition]], or perhaps even an inherited  [[Assets and Gear|asset]], that is **unique to you in some fashion**. No other [[Player Characters|Player Character]] can have the same exclusive feature as you, but if want it to be a possibility then you can indicate to your [[Facilitator]] that other [[Non-player Characters|NPCs]] *potentially could*.
 

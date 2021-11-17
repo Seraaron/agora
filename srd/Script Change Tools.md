@@ -131,7 +131,7 @@ Use this to ask the FC or the currently acting player to skip forward past this 
 
 We sometimes call this 'fading to black' or 'drawing the curtains', and it's especially useful for cutting out any content that people have listed as squicks. Commonly, this includes things like sex scenes, overly gory details, torture, or animal abuse; but it can be anything, really.
 
-A more advanced technique is to use this to _skip to the next most interesting point in the story_ to keep a good session pace. (Though this particular use is employed more often by the FC rather than a player). This is also slightly different from using [[Downtime and Travel|downtime]], [[Session Structure#Cuts|montages]], or [[travel scenes]] though.
+Another technique is to use this to _skip to the next most interesting point in the story_ to keep a good session pace. (Though this particular use is employed more often by the FC rather than a player). This is also slightly different from using [[Downtime and Travel|downtime]], [[Session Structure#Cuts|montages]], or [[travel scenes]] though.
 
 ### ⏪ Rewind
 
@@ -190,7 +190,7 @@ The following tools are optional because not everyone will find them as useful a
 
 ### Hand Signals
 
-The FC or another Peer can use the script change tools on your behalf, if they notice that you're too nervous to use them yourself and something is happening in-game that's clearly making you uncomfortable. You can privately message them of course, but people often put ourselves on 'do not disturb' mode when they play games (and some tables have a strict 'no phones' policy); so an alternative is to use hand signals:
+The FC or another Peer can use the script change tools on your behalf, if they notice that you're too nervous to use them yourself and something is happening in-game that's clearly making you uncomfortable. You can privately message them of course, but people often put themselves on 'do not disturb' mode when they play games (and some tables have a strict 'no phones' policy); so **an alternative is to use hand signals**:
 
 -   👍👍 **Two thumbs up:** All's well, please continue!
 -   👍 **Thumbs up:** I'm good, but may need a pause soon.

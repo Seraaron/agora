@@ -14,7 +14,11 @@ Right now, the only thing availiable is the published SRD or 'system reference d
 
 ### Alpha version
 
-#### 12 Nov 2021 (0.2.1)
+#### 17 Nov 2021
+- Added 'Social Discourse' -- which is a modified version of the combat rules that introduce rhetorical theory.
+- Updated martial combat (minor tweaks)
+
+#### 12 Nov 2021
 - Check difficulties changed to be graduated and failure forward (making them more variable, but also more predictable, since Tasks have ended up being more binary in their use).
 - You can now also KISS checks (instead of the weird auto-success mechanic I had before), and you can also add a single asset or piece of gear to a check.
 - A 'stressful' modifier can now be applied to rolls, which means you take stress damage if you fail (upping the stakes, but not the difficulty).
@@ -25,9 +29,9 @@ Right now, the only thing availiable is the published SRD or 'system reference d
 - Name changes for Hunger to Fatigue (Endurance stress) and for Fatigue to Burnout (Resolve stress).
 - Tidied up the kismet and principles advice sections.
 - Adjusted the combat rule and started writing social conflict system.
-- I'm starting to add 'next article' and 'previous article' links to the bottom of every page to hopefully make navigating the wiki in a linear order a little easier for those that want to read it like a book.
+- Starting to add 'next article' and 'previous article' links to the bottom of every page to hopefully make navigating the wiki in a linear order a little easier for those that want to read it like a book.
 
-#### 13 Oct 2021 (0.1)
+#### 13 Oct 2021
 - Initial public release
 
 ---

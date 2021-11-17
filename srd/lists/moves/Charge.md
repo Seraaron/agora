@@ -4,6 +4,9 @@ alias:
 tags:
   - creativecommons
   - move
+  - submove
+  - martial
+  - offense
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-11 11:03
@@ -15,13 +18,13 @@ date updated: 2021-11-11 12:20
 
 _Charge is for closing distances and knocking down your target._
 
-|    Roll | Difficulty = **[Target's Poise] + [Target's Guard level]**                          |
+|    Roll | Difficulty = **[Target's Poise] + [Target's Guard lvl.]**                          |
 | ------: | ----------------------------------------------------------------------------------- |
 |         | **[[Brawler]]** ∥ **[[Skirmisher]]**                                                |
 |  **+1** | Your weapon is #heavy?                                                              |
 |  **+1** | Your opponent is in Counteractive stance?                                           |
 |  **+1** | You have a larger physical size than your opponent, or a larger size while mounted? |
-| **+MD** | + [shield / mount dice] + [any other bonuses]                                       |
+| **+MD** | + [shield / mount dice] + [aid / other bonuses]                                       |
 
 | Result       | Consequences                                                                                                                                                                                                       |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

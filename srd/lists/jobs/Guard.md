@@ -27,6 +27,6 @@ _**Suggested Specialties:** [biomes], Hauling, Tactics, Observation…_
 >
 > -   #unfinished
 
-#que Guard can also be used to determine your 'Disposition' in [[Martial Conflict]], using [[Grit]], with a bonus from your [[armor]] dice.
+#que Guard can also be used to determine your 'Disposition' in [[Martial Combat]], using [[Grit]], with a bonus from your [[armor]] dice.
 
 ###### {[[D66 Jobs|61]]}

@@ -91,4 +91,4 @@ date updated: 2021-10-15 23:56
 
 #que Most ordinary flatpacks either don't offer any Gambits, or will only let you choose one from a small selection; and even the higher tier flatpacks only give you a few.
 
-#imp The only other way to obtain a gambit then, is to make one your [[Exclusive Feature]], with your [[Facilitator|FC's]] permission.
+#imp The only other way to obtain a gambit then, is to make one your [[Exclusive Features]], with your [[Facilitator|FC's]] permission.

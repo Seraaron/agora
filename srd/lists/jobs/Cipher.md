@@ -14,7 +14,7 @@ last updated: Saturday 2021-09-25 @ 01:12:18 (UTC+0100)
 
 #rogue #social #political 
 
-Keeping your emotions to yourself, controlling your body language, disguising yourself, social stealth, and generally dodging attention. Telling lies. Speaking in jargon to impress, deflect, or confuse, or to relay a hidden message.
+Telling lies and social stealth. Keeping your emotions to yourself, controlling your body language, disguising yourself, being deceptive, and generally dodging attention. Speaking in jargon to impress, deflect, or confuse, or to relay a hidden message.
 
 May also include playing games of chance, such as poker, or hiding, encrypting, or destroying information, using [[Wits]].
 

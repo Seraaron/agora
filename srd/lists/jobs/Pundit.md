@@ -10,11 +10,11 @@ last updated: Saturday 2021-09-25 @ 00:33:08 (UTC+0100)
 
 ---
 
-### Interpreter ([[Wits|Wit]])
+### Pundit ([[Wits|Wit]])
 
 #civic #erudite #social 
 
-Understanding and translating foreign or coded languages and behaviors. Can be used to establish a social connection in other languages, including sign languages and slang, before continuing the scene normally. Includes the study of sociology and linguistics.
+Understanding and translating foreign or coded languages and behaviors. Can be used to establish a social connection in other languages, including sign languages and slang, before continuing the scene normally. Includes the study of sociology and linguistics. #rewrite 
 
 May include knowledge of dead or alien languages, but not necessarily how to speak them, using [[Resolve]].
 

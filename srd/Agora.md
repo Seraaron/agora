@@ -84,8 +84,8 @@ _But if you like what you see, then consider joining the [Discord.gg/JwM6zBszKr]
 ### § 3 — Modular Mechanics
 
 - [[Conflict Systems]]
-	- [[Martial Conflict]]
-	- [[Social Conflict]]
+	- [[Martial Combat]]
+	- [[Social Discourse]]
 - #unfinished 
 
 ### § 4 — Tools, Essays, and Advice

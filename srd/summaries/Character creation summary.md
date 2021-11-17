@@ -17,7 +17,7 @@ last updated: Friday 2021-10-15 14:51:04 (UTC+0100)
 	- [[Character Assembly#Creation from Scratch|Creation from Scratch]] is more in-depth and free-form, but slower.
 3. **Circumstances & Features:**
 	- Choose your name, traits or features, size and age, and anything else you feel is important to list at the top of your character sheet.
-	- Pick an [[Exclusive Feature|exclusive feature]] — unique to you or your people.
+	- Pick an [[Exclusive Features|exclusive feature]] — unique to you or your people.
 4. **The Finishing Touches:**
 	- Finalize your [[Rank|ability ranks]], and choose any [[Capabilities|capabilities]] too.
 	- Answer any other [[bonding and backstory questions]] you like, and [[Taking notes|take a note]] of your answers.

@@ -16,7 +16,7 @@ last updated: Saturday 2021-09-25 @ 00:25:21 (UTC+0100)
 
 Using cunning fingerwork and performing artful feats dexterity to impress and amaze others, or to distract and cheat them. Includes juggling, knife flourishes, cup and ball games, card tricks, puppetry, and other sleight of hand tricks and illusions.
 
-May also include mimicry and ventriloquism, using [[Appeal]].
+May also include mimicry, miming, and ventriloquism, using [[Appeal]].
 
 _**Suggested Specialties:** Deception, Illusion magic, Performance, Sleight of hand…_
 

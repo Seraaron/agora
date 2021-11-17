@@ -4,6 +4,8 @@ alias:
 tags:
   - creativecommons
   - move
+  - martial
+  - offense
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-10-28+1500
@@ -20,21 +22,21 @@ _Describe how you try to exhaust and demoralize an opponent, goading them with a
 
 | Target's Position: | Close-Quarters | Nearby — Remote |
 | -----------------: | :------------: | :-------------: |
-|   **Attack Type:** |     #melee     |     #ranged     |
+|   **Attack Type:** |     *Melee*     |     *Ranged*     |
 
 |    Roll | Difficulty = [Target's Poise]                                                                                     |
 | ------: | ----------------------------------------------------------------------------------------------------------------- |
-|  #melee | **[[Brawler]]** ∥ **[[Warrior]]** ∥ **[[Martialist]]**                                                            |
+|  ***Melee:*** | **[[Brawler]]** ∥ **[[Warrior]]** ∥ **[[Martialist]]**                                                            |
 |  **+1** | Your weapon is #light?                                                                                            |
 |  **+1** | You have a larger physical size than your opponent, or you have a larger size while mounted?                      |
 |  **+1** | You're using a weapon with #long reach in an _open space_, or using a #short reach weapon in an _enclosed space_? |
-| **+MD** | + [weapon / shield / mount dice] + [any other bonuses]                                                            |
+| **+MD** | + [weapon / shield / mount dice] + [aid / other bonuses]                                                            |
 |         |                                                                                                                   |
-| #ranged | **[[Archer]]** ∥ **[[Gunner]]** ∥ **[[Hunter]]**                                                                  |
+| ***Ranged:*** | **[[Archer]]** ∥ **[[Gunner]]** ∥ **[[Hunter]]**                                                                  |
 |  **+1** | Your weapon is #light?                                                                                            |
 |  **+1** | You are mounted, flying, or riding a vehicle (_and your opponent isn't_)?                                         |
 |  **+1** | You are using a #short ranged weapon from _nearby_, or using a #long ranged weapon from _far away_?               |
-| **+MD** | + [weapon / mount dice] + [any other bonuses]                                                                     |
+| **+MD** | + [weapon / mount dice] + [aid / other bonuses]                                                                     |
 
 |       Result | Consequences                                                                                                                                 |
 | -----------: | -------------------------------------------------------------------------------------------------------------------------------------------- |
