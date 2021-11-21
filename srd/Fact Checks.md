@@ -21,10 +21,10 @@ There's two ways you can interpret these rolls, either you roll first and let th
 
 | Successes | Validity                                               |
 | :-------: | :----------------------------------------------------- |
-|     0     | Hearsay and Conjecture, or *just plain old lies*       |
+|     0     | Hearsay and rumors, or *just plain old lies*       |
 |     1     | Common knowledge                                       |
 |     2     | Obscure knowledge                                      |
-|     3+    | Secrets and Mysteries,  or *plot-convenient knowledge* |
+|     3+    | Secrets and mysteries,  or *plot-convenient knowledge* |
 
 Establishing facts requires input and cooperation from your [[Peers]], but enables you to do some light collaborative [[Worldbuilding|worldbuilding]] at the table.
 

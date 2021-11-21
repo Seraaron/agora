@@ -79,7 +79,7 @@ If you don't have the required gear then it counts as a [[Difficulties and Conse
 
 Magical or high-tech items are special cases, because they can either be thought of as assets that also function as gear, or as bits of gear that have the `capital` and/or `prestige` tags; indicating that just owning the item also confers its reputation onto you.
 
-Not only that, but magical and high-tech items almost always bare the `open-ended` tag and also come with unique effects that can functionally resemble [[Gambits|gambits]]. This is explained in more detail, with examples, in the [[magical subsystem|magic items module]].
+Not only that, but magical and high-tech items almost always bare the `open-ended` tag and also come with unique effects that can functionally resemble [[Features|gambits]]. This is explained in more detail, with examples, in the [[magical subsystem|magic items module]].
 
 All of this makes magic and high-tech items _very valuable_ indeed.
 

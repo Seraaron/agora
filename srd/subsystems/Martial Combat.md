@@ -11,7 +11,7 @@ author: Seraaron
 license: CC BY 4.0
 date created: 2021-10-20+1200
 last updated: Wednesday 2021-10-20 12:39:05 (UTC+0100)
-date updated: 2021-11-17 15:31
+date updated: 2021-11-18 13:32
 
 ---
 
@@ -52,13 +52,13 @@ When the combat begins, your [[Facilitator]] will generally decide how close or 
 
 ###### Approximate Distances
 
-|    | Bracket                     | _Appx. Feet_ | _Appx. Meters_ | Grid Sqs. |
-| -- | --------------------------- | :----------: | :------------: | :-------: |
-| 0. | **Close-Quarters (Melee):** |    _~0-8_    |     _~0-2_     |    1-2    |
-| 1. | **Within a Few Paces:**     |    _~8-30_   |     _~2-9_     |    2-6    |
-| 2. | **Nearby:**                 |   _~30-100_  |     _~9-30_    |    6-20   |
-| 3. | **Far Away:**               |  _~100-300_  |    _~30-90_    |   20-60   |
-| 4. | **Remote:**                 |    _>300_    |      _>90_     |    >60    |
+|  #  | Bracket                     | _Appx. Feet_ | _Appx. Meters_ | Grid Sqs. |
+|:---:| --------------------------- |:------------:|:--------------:|:---------:|
+| 0.  | **Close-Quarters (Melee):** |    _~0-8_    |     _~0-2_     |    1-2    |
+| 1.  | **Within a Few Paces:**     |   _~8-30_    |     _~2-9_     |    2-6    |
+| 2.  | **Nearby:**                 |  _~30-100_   |    _~9-30_     |   6-20    |
+| 3.  | **Far Away:**               |  _~100-300_  |    _~30-90_    |   20-60   |
+| 4.  | **Remote:**                 |    _>300_    |     _>90_      |    >60    |
 
 #que Grid square equivalents are also provided here for those that _do_ prefer to use visual aids, tile maps, and figurines.
 
@@ -70,17 +70,18 @@ Poise represents _your confidence in your armor or skill at dodging attacks, com
 
 **Then calculate your Poise as follows:**
 
-###### `roundup((highest(Acrobat, Armor+Helm) + 0-3)/ 2) + Shield`
+###### `roundup((highest(Acrobat, Armor) + Helm + 0-3)/ 2) + Shield`
 
--   Start with the highest of:
+-   Start with the *highest* of:
     -   Your **[[Acrobat]]  level**
-    -   Your **Armor + Helm dice**
+    -   Your **Armor dice**
         -   (ie. usually based on craftsmanship, materials, and weight)
--   Add +1 _if you're on unstable, icy, or sloped terrain, or if fighting on a boat?_
--   Add +1 _if you're fighting in darkness, low visibility, or if fighting in bad weather?_
--   Add +1 _if there's lots of cover nearby, such as trees, rocks, pillars, crates, or the corners of buildings?_
+-   Then and your **Helm dice**, and some conditional benefits: 
+	-   Add +1 _if you're on unstable, icy, or sloped terrain, or if fighting on a boat?_
+	-   Add +1 _if you're fighting in darkness, low visibility, or if fighting in bad weather?_
+	-   Add +1 _if there's lots of cover nearby, such as trees, rocks, pillars, crates, or the corners of buildings?_
 -   Divide the total by 2 and round up!
--   Lastly, add _your shield dice_.
+-   Lastly, add your **Shield dice**.
 
 **Poise is the base difficulty of using most offensive moves against you**, and so you will need to quote this number to other players frequently. Write it down on your [[Character Sheets|character sheet]], or somewhere easy to see. Poise is also _rolled_ as part of your initial [[#Stamina|Stamina calculation]].
 
@@ -221,8 +222,8 @@ Moves are the _main actions_ available to you each [[#Turn Order|turn]], determi
 
 **There are eight moves in total, which can be grouped into two categories, or four pairs:**
 
-|     Offense |  ∥  | Utility        |
-| ----------: | :-: | -------------- |
+|     Offense |  —  | Utility        |
+| ----------: | :-: | :------------- |
 | [[Assault]] |  —  | [[Treat]]      |
 |    [[Spur]] |  —  | [[Rally]]      |
 |   [[Flank]] |  —  | [[Reposition]] |
@@ -234,7 +235,7 @@ Moves are the _main actions_ available to you each [[#Turn Order|turn]], determi
 -   Most moves require a particular [[Jobs|job]] or a choice of jobs to be used properly.
     -   When you see the double-bar symbol ∥ it means 'or'. _Choose one._
 -   The bonuses and difficulties of the roll are all worked out as you read down the move, and should be fairly self-explanatory.
-    -   Though some moves also require the right kinds of [[Gear Examples List#Weapons|weapons]] to get the most benefit from them.
+    -   Though some moves also require the right kinds of [[Gear List#Weapons|weapons]] to get the most benefit from them.
 -   _You **may** these [[KISSing|KISS]] move rolls, but remember to keep it short and sweet._
 
 #que See the [[#Combat Moves List]] below to read each move separately, or print off the [[move cards]] from the resources chapter.
@@ -283,15 +284,7 @@ When a move says _“your opponent may exploit you”_ as a failure consequence 
 
 #unfinished
 
-#### _Optional:_ Shields Shall be Shattered
-
-When you are using a shield — that is, a _proper_ #shield, not just a weapon with a #hand-guard — and a [[Kill|kill]] move is successfully used against you, **your shield will shatter and negate the killing blow**, and you will take a point a point of stress instead (ie. [[Pain|pain]] if you're in aggressive stance, [[Shock|shock]] if you're in counteractive stance, or [[Fatigue|fatigue]] if you're in defensive stance). You lose the protective benefit of your shield, unless you find another, but at least you're still alive!
-
-However, if the weapon being used against you has the #great tag, _and your shield doesn't_, then your shield still shatters but the blow isn't negated. That is, **only a #great shield can negate a killing blow from a #great weapon**.
-
-#imp Similarly, only #magic shields can be shattered against #magic attacks.
-
-#que Therefore, if you're fighting a dual with shields but don't want it to be deadly, you can fight until the first shield is shattered (or the first to three) and then declare the victor.
+![[Shields Shall be Shattered]]
 
 ### Shooting into the Fray
 

@@ -1,8 +1,7 @@
 ---
 alias:
-  - Gambit
-  - gambits
-  - gambit
+  - features
+  - Feature
 tags:
   - creativecommons
   - rules

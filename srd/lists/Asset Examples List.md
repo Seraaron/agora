@@ -1,5 +1,5 @@
 ---
-alias: [captial asset examples list]
+alias: [asset examples list]
 tags: [creativecommons, list, features, examples]
 author: Seraaron
 license: CC BY 4.0

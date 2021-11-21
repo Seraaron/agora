@@ -16,24 +16,27 @@ last updated: Friday 2021-09-24 @ 15:00:06 (UTC+0100)
 
 # Principles
 
-Principles are way for you to _express your character's personality and motivations_, by writing up to three short paragraphs on your [character sheet](#charsheet) labeled **[[Goals]]**, **[[Habits]]**, and **[[Creeds]]**.
+Principles are a way for you to _express your character's personality and motivations_, by writing a few short sentences on your [[Character Sheets|character sheet]] labeled **[[Goals]]**, **[[Habits]]**, and **[[Creeds]]**.
 
-**Each one can only be a single sentence long**, but you can write as many as you feel the need to; so long as they all fit on the lines you're given. There is a bit of a technique to writing _succinct and punchy principles_.
+**You may have up to six principles in total** — usually two of each type — unless you have permission from your [[Facilitator|FC]] to add more. **Each one can only be a single sentence**, so there is a bit of a technique to writing _succinct and punchy principles_.
 
 #imp Ultimately, **principles help you to [[Agenda|find your agenda]]** and earn you [[Kismet|kismet]].
 
-> #nb
-> You can generally only write new principles during [[Character Assembly|character assembly]] and at the end of every [[Campaign Arcs|arc]] thereafter* or during [[Downtime and Travel|downtime]].
->
-> _Changing one mid-session is usually only done when you want to [[Health#Healing|heal]]._ Though, re-wording a principle before a session starts without changing it's core message is acceptable _if your [[Peers]] agree_.
-
-#ast This is because your [[Facilitator|FC]] probably has something [[Challenging Principles|planned for your current principles]], and they may have to do extra planning (which would delay the session) if you suddenly change your mind.
+## Types of Principle:
 
 ![[Goals]]
 
 ![[Habits]]
 
 ![[Creeds]]
+
+## Changing Principles
+
+You can generally only write new principles during [[Character Assembly|character assembly]] and at the end of every [[Campaign Arcs|arc]] thereafter or during [[Downtime and Travel|downtime]]. This is because your [[Facilitator|FC]] probably has something [[Challenging Principles|planned for your current principles]].
+
+Re-wording a principle before a session starts without changing it's core message is acceptable _if your [[Peers]] agree_. Or if you're using the alternative '[[Principle Discovery|discovery]]' rules, then **finding your principles during play** becomes a part of the game. _Otherwise, changing  principles mid-session is usually only done at dramatically appropriate times._ 
+~~
+![[Principle Discovery]]~~
 
 ## Duds
 
@@ -43,7 +46,7 @@ _These kinds of principles are called '**duds**',_ meaning that they are ineffec
 
 ---
 
-###### Old instincts die hard
+###### Old Instincts Die Hard
 
 If you're new to this _style of game_, or new to roleplaying games in general, then it's possible that you're not used to this much agency and creative liberty over the direction of a story and the personal destinies of your characters.
 
@@ -52,10 +55,3 @@ If this is you, then that's okay, there's just a good chance that your first few
 **The key is to recognize them, change them, and then move on**; rather than clinging on for weeks trying to make them work.  _Every game requires it's own set of skills_, and as with all skills, the more you practice the better you get: So get out there, [[Character Assembly|go make a character]], write some Principles, play the game, _possibly die_ (or retire?), and then do it all again!
 
 ---
-
-### Retired Principles
-
-It can be productive and useful to [[Taking notes|keep a notebook]] or list somewhere of all the previous Principles you've written; so you can mark which ones were completed, which ones failed, which ones changed (and how they changed, or why), and which ones were duds.
-
-> #eg
-> #unfinished

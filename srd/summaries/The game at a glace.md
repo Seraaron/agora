@@ -18,6 +18,6 @@ last updated: Saturday 2021-09-25 @ 02:02:43 (UTC+0100)
 -   **_Two_ pool-based resolution systems, using D6s, counting successes based on [[Rank|rank]]:**
     -   **Quick-and-dirty [[Checks]]** — _for fast-paced action!_
     -   **Deep-and-varied [[Tasks]]** — _for slower, more nuanced, scenes…_
--   **Use bespoke [[Capabilities|capabilities]] and [[Gambits|gambits]] to perfectly match the style and themes of your setting, or your current adventure!**
+-   **Use bespoke [[Capabilities|capabilities]] and [[Features|gambits]] to perfectly match the style and themes of your setting, or your current adventure!**
 -   **Level-up individual [[Jobs|jobs]] based on their in-game use!**
 -   **Clean and accessible design, with an easy-to-navigate _[[Agora|free wiki]]!_**

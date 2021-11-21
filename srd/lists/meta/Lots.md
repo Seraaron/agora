@@ -28,16 +28,19 @@ Every character starts the game with 1d6 Lots, or you may _take the average_ and
 
 ### Earning Lots
 
-There are three ways to earn Lots back during a session, and four way to earn them at the end of each session. So you generally won't exceed eight Lots unless you trigger the in-session rewards multiple times per session, or just aren't using your opportunities to spend them.
+There are four ways to earn Lots back during a session, and four way to earn them at the end of each session. So you generally won't exceed eight Lots unless you trigger the in-session rewards multiple times per session, or just aren't using your opportunities to spend them.
 
 #### In-Session Rewards
 
 Gain a Lot *immediately*, whenever any these things occur:
 
 -   **When you limit yourself with a [[Conditions|condition]] and _fail the resulting roll_**.
--   **When you get an inspired idea or have a _'eureka' moment_**, your [[Facilitator|FC]] may reward good lateral thinking and creative solutions — especially when it's something they didn't think of — to help to encourage you to give it go.
--   **When you 'take the lead' from your FC and _introduce a slower-paced roleplaying-centered_ [[Session Structure#Scenes|scene]]**, where you talk a lot with an [[Non-player Characters|NPC]] or a fellow [[Player Characters|Player Character]], and take the time to describe some of the set-dressing and mood.
+-   **When you get an inspired idea or have a _'eureka' moment_**.
+	-   Your [[Facilitator|FC]] may reward good lateral thinking and creative solutions — *especially when it's something they didn't think of* — to help to encourage you to give it go.
+-   **When you [[Principle Discovery|discover]] a new [[Principles|principle]] during session.**
+-   **When you 'take the lead' from your FC and _introduce a slower-paced roleplaying-centered_ [[Session Structure#Scenes|scene]]**.
+	-   This is usually a scene where you talk a lot with an [[Non-player Characters|NPC]] or a fellow [[Player Characters|Player Character]], and take the time to describe some of the set-dressing and mood.
 	-   [[Stress#Stress Relieving Scenes|Stress relef scenes]] and [[Conditions#Catharsis|catharsis scenes]] are a good candidate for these kinds of moments.
-	-   Alternatively, or additionally, this can be used as a general reward by the FC for _any time you make the experience of play more collaborative_.
+	-   Alternatively, this can serve as a general reward for _any time you make the experience of play more collaborative_.
 
 ![[End-of-Session Rewards]]

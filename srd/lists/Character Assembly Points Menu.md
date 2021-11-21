@@ -55,10 +55,10 @@ date updated: 2021-10-15 23:56
 ##### Assets & Gear Costs:
 
 -   [[Assets and Gear#Capital Assets|Capital asset]] dice cost **4 caps** per die.
-    -   See the **[[Captial Asset Examples List]]**, for guidance.
+    -   See the **[[Asset Examples List]]**, for guidance.
 -   [[Assets and Gear#Prestigious Assets|Prestigious asset]] dice cost **1 cap** for the first die, **2 caps** for the second die, **3 caps** for the third, and so on (similar to specialties, [[#Specialty Costs|above]]).
     -   See the **[[Prestigious Asset Examples List]]**, for guidance.
--   [[Assets and Gear#Gear|Gear]] in the **[[Gear Examples List]]** each have their own costs.
+-   [[Assets and Gear#Gear|Gear]] in the **[[Gear List]]** each have their own costs.
     -   Generally, the more dice and [[Tags List|tags]] they have the more expensive they get.
     -   #open-ended  items are especially costly.
 
@@ -82,7 +82,7 @@ date updated: 2021-10-15 23:56
 
 ##### Gambit Costs:
 
--   Use the **[[Gambits List]]** to choose your [[Gambits|gambits]], if any.
+-   Use the **[[Gambits List]]** to choose your [[Features|gambits]], if any.
     -   Gambits are locked off in tiers.
     -   You cannot take a gambit of a higher tier than your character.
 -   Your first gambit of the same tier as your character costs **6 caps**.

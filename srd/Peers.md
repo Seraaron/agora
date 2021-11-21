@@ -101,7 +101,7 @@ How you conduct a peer vote — that is, whether a vote should be cast blind or 
 
 ---
 
-###### This article is released to Public Domain [(CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)
+###### This Article is Released to Public Domain [(CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ---
 

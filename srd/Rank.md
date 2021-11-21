@@ -65,7 +65,7 @@ There are two main ways to advance ranks in this game, and one optional method:
 
 - And optionally, during a [[Development Sessions|development session]] (and usually after a [[Downtime and Travel|time-skip]]), you may decide _as a group_ to raise your character's [[Tier|tier]] which _reduces the worst possible_ rank for that character.
 
-- And optionally, special [[Gambits]] may _temporarily advance_ the rank of a roll when certain conditions are met.
+- And optionally, special [[Features]] may _temporarily advance_ the rank of a roll when certain conditions are met.
 
 **When your rank advances, it does so by one 'step'.** This means rank 6 goes to rank 5, rank 5 goes to rank 4, and so on. These steps are represented with plain-text arrows in other sections (ie. 6 → 5 → 4 → 3 → 2 → 1), as a reminder.
 

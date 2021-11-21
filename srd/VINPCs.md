@@ -53,7 +53,7 @@ Each kith and kin entry has a diamond next to them called 'favor'. This diamond 
 > 
 > -   To ask for [[Helping|help]] on a roll, tying them to the [[Difficulties and Consequences|consequences]] of your actions.
 > -   To borrow an [[Assets and Gear|asset or piece of gear]] for a scene (though damaging it, losing it, or stealing it will negatively affect your relationship).
-> -   To use a [[Gambits|gambit]] for you, tell you a secret, or do anything else that is within their power.
+> -   To use a [[Features|gambit]] for you, tell you a secret, or do anything else that is within their power.
 > -   To come with you somewhere they wouldn't normally go, making them available to talk to and present in scenes that they otherwise wouldn't be.
 > 
 > _And your Facilitator may come up with other unique ways that you can spend favor too, which may be specific to that individual._
@@ -94,6 +94,6 @@ On the surface, these restrictions about VINPC death and betrayal may seem artif
 
 ---
 
-###### This article is released to Public Domain [(CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)
+###### This Article is Released to Public Domain [(CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ---

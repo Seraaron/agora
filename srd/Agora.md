@@ -120,7 +120,7 @@ _But if you like what you see, then consider joining the [Discord.gg/JwM6zBszKr]
 - [[Jobs List]]
 	- [[D66 Jobs]]
 - [[Specialties List]]
-- [[Gear Examples List]]
+- [[Gear List]]
   - [[Tags List]]
 - [[Session Zero Checklist]]
 

@@ -10,7 +10,7 @@ tags:
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-11 23:21
-date updated: 2021-11-17 17:13
+date updated: 2021-11-18 13:47
 
 ---
 
@@ -38,7 +38,7 @@ _There are many ways you can 'dismiss' someone, and how you do it depends largel
 | **+MD** | + [reputation dice] + [aid / other bonuses]                                                                                                       |
 
 |       Result |  _Intent_  | Consequences                                                                                                                                   |
-| -----------: | :--------: | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| -----------: | :--------: | :--------------------------------------------------------------------------------------------------------------------------------------------- |
 |              |   _Prove_  | **You win the argument** and _your opponent cannot ignore or contradict your premise anymore_, though they may not like it                     |
 | **Success:** |  _Reject_  | **You win the argument** and _your opponent is forbidden from raising their premise with you again_, or they are rendered powerless to try.    |
 |              | _Persuade_ | **You win the argument** and _you have genuinely changed  the opponent's mind about your premise_, such that they join your cause.             |

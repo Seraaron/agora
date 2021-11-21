@@ -9,7 +9,7 @@ tags:
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-11 23:21
-date updated: 2021-11-16 22:29
+date updated: 2021-11-18 13:47
 
 ---
 
@@ -27,7 +27,7 @@ _You try to reinforce a previous point or bring forward new evidence that suppor
 |  **+** | [reputation dice] + [aid / other bonuses]                                                                                                  |
 
 |       Result | _Target_ | Consequences                                                                                                                                                                           |
-| -----------: | :------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| -----------: | :------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Success:** |  _Self_  | The target immediately shakes off any hesitation, _and_ increases their Composure by **[your successes]** _at the end of the round_                                                    |
 | **Failure:** | _Either_ | Increase the target's Composure by **[your successes]** _at the end of the round_, but you **gain a random point of mental stress**  (though it only lasts until the end of the scene) |
 

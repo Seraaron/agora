@@ -13,7 +13,7 @@ last updated: Friday 2021-09-24 @ 12:41:29 (UTC+0100)
 
 ---
 
-## Habits
+### Habits
 
 These are **[[Principles]] that your character repeatedly does**, or ways that they always act _when certain conditions arise_, or things that they do so frequently (or as part of a routine) that they do them without really noticing.
 
@@ -23,7 +23,7 @@ Despite the limited space that you're given to write habits, try to write them f
 > -   "If I ever feel I'm in danger, I secure my sidearm and ready it." **instead of**, "If in danger, then draw weapon."
 > -   "Whenever we set out on the road, I like to strike up a song and keep spirits high!" **not**, "While travelling: sing."
 
-### Using Habits
+#### Using Habits
 
 Habits have two main uses, but they are quite versatile and you may find or make up other uses through experimentation and play. Generally, _the way that you intend to use a habit usually informs the way you should write it_, but there's nothing stopping a habit from being used in multiple ways at once:
 
@@ -47,6 +47,6 @@ Habits have two main uses, but they are quite versatile and you may find or make
 
 ![[Flashbacks]]
 
-### Your Choice!
+#### Your Choice!
 
 The choice to invoke a habit is always _yours and yours alone_, **they don't execute automatically**. Though your [[Peers]] may remind you of them, and you still have to roleplay out the consequences and roll any dice if required.

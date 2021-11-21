@@ -129,7 +129,7 @@ date updated: '2021-10-04T15:03:08+01:00'
 
 ---
 
-### [[Gambits]]
+### [[Features]]
 
 - [ ] **[insert name]** _[insert effect]_
 - [x] **[insert name]** _[insert effect]_ (check box if used this session)

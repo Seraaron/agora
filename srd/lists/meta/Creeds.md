@@ -16,7 +16,7 @@ date updated: 2021-11-05 19:17
 
 ---
 
-## Creeds
+### Creeds
 
 These are **[[Principles]] that your character believes in absolutely**, as well as any [[#Oaths|oaths]] they have sworn, doctrines they adhere to, and motivations or morals that are unwavering.
 
@@ -29,7 +29,7 @@ They are best written as unqualified statements of fact — even if they're not 
 
 This is because part of your [[Facilitator|FC's duties]] includes [[Challenging Principles|testing and prodding]] at these convictions over the course of a campaign, **to give you opportunities to prove how ironclad your philosophies really are,** or to see how readily and steadfastly your character defends them.
 
-### Adherence is Rewarded
+#### Adherence is Rewarded
 
 During a [[Development Sessions|development session]] between [[Campaign Arcs|arcs]], you should read aloud and discuss with your [[Peers]] which ones you feel are _still intact_.
 
@@ -49,13 +49,13 @@ Similarly, try to avoid offering any advice to your FC on how your creeds could 
 
 ---
 
-### Oaths
+#### Oaths
 
 An oath is a _special kind of creed_ that is usually **sworn during play**, or in your character's backstory if you're starting the game with an oath. _An oath must be written into your creeds as an in-character quote of what was promised,_ alongside who or what your swore it to.
 
 An oath must be followed to the letter, _or else it is broken_. If you ever break an oath then your [[Honor]] regresses by 1 step — if you're using that [[Capabilities|capability]] in your campaign — and any chance of earning [[Fidelity]] is invalidated.
 
-#### Completing Oaths
+##### Completing Oaths
 
 The only _honorable_ way to remove an oath is to have it annulled by the character you swore it to, or their superior, or to _complete the conditions of the oath as you swore it_.
 
@@ -66,6 +66,6 @@ The only _honorable_ way to remove an oath is to have it annulled by the charact
 >
 > In this light, _an oath may be seen as a ‘greater [[Goals|goal]]’ that you complete over the course of an [[Campaign Arcs|arc]], or several arcs_.
 
-#### Changing Oaths
+##### Changing Oaths
 
 The only way to change an oath is to swear it over with a new oath that will replace it, if whoever you swore the first one to agrees. If they do not agree, then swearing over an old oath with a new one counts as breaking the previous one.

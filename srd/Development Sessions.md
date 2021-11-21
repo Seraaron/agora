@@ -55,7 +55,7 @@ Once you have [[Character Assembly|made characters]] and begun playing the game 
 - Earn new specialties or gambits as rewards from your [[Facilitator|FC]] for completing a [[Goals|Goal]] or keeping a [[Habits|Habit]] for a long time.
 - Change your [[VINPCs|Kith or Kin]], if you feel they are no longer important to the game (or if other characters have shown up that are more important), by asking your [[Peers]] if it's okay to do so at this time — in case any of them had plans for that VINPC.
 - Acquire [[Assets and Gear|assets]] from advancing in your society, gain [[Assets and Gear#Prestigious Assets|prestige]] by doing great things.
-- Pick up new [[Gear Examples List|bits of gear]] by spending money or resources, as gifts from [[Non-player Characters|NPCs]], or by looting and plundering the people or locations you visit.
+- Pick up new [[Gear List|bits of gear]] by spending money or resources, as gifts from [[Non-player Characters|NPCs]], or by looting and plundering the people or locations you visit.
 - Gain, change, or remove any of your features — circumstances / traits, specialties, conditions, assets, or gambits — with a vote, conducted by your Peers ([[#Peer Votes|see below]]). 
 - Get new conditions from [[Wounds and Scars|scars]] after [[Health|getting injured]]. 
 

@@ -10,7 +10,7 @@ tags:
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-11 17:16
-date updated: 2021-11-17 18:21
+date updated: 2021-11-19 16:03
 
 ---
 
@@ -34,7 +34,7 @@ Before you get into dropping facts or spitting barbs, there's a little bit of bo
 
 It is not really possible to run a discourse with more than two main speakers, it will quickly get unwieldy if there are three or more sets of arguments to track. Hence it is better to either take sides and [[Interact|aid]] one another with every roll, or to break the topic into smaller sequential debates.
 
-If you do have a few people on your side, then you can either take it in turns to speak (and therefore roll), while receiving [[Helping|help]] from your allies, or you can have one person do all the talking while the rest just grant the odd bonus dice and a slight increase to [[#Presence|Presence]].
+If you do have a few people on your side, then you can either take it in turns to speak (and therefore roll) while receiving [[Helping|help]] from your allies, or you can have one person do all the talking while the rest just grant the odd bonus dice and a slight increase to [[#Presence|Presence]].
 
 Everyone who enters the debate is tied to the consequences though!
 
@@ -49,13 +49,13 @@ Go around the table and let every character lay out their premise. This is a sta
 **Premises can be broadly grouped into three intents:** Proofs, Rejections, and Persuasions. The intention of the premise has a mechanical effect when you come to [[Dismiss]], as it affects which jobs you can use to make your conclusion with, but it only matters narratively in the aftermath when you [[#Settling a Debate|settle the debate]].
 
 -   **Proofs** — You wish to make the truth known and clear to all. They have different, but incorrect, opinions. You're tying to be honest and you'll make them believe you.
-    -   **Uses:** Investigator, Pundit, or Steward
+    -   _**Uses:**_ Investigator, Pundit, or Steward
     -   If you win the argument then _your opponent cannot ignore or contradict your premise anymore_, though they may not like it.
 -   **Rejections** — You wish to deny or refuse the request of another. They want something and you don't want them to have it. You're trying to ensure that something does not happen.
-    -   **Uses:** Cipher, Commander, or Diplomat
+    -   _**Uses:**_ Cipher, Commander, or Diplomat
     -   If you win the argument then _your opponent is forbidden from raising their premise with you again_, or they are rendered powerless to try.
 -   **Persuasions** — You wish to sway someone to your side or touch the hearts of your listeners. They are skeptical, but open to reason. You're trying to get something for the sake yourself or another.
-    -   **Uses:** Beggar, Charmer, or Orator
+    -   _**Uses:**_ Beggar, Charmer, or Orator
     -   If you win the argument then _you will have genuinely changed  the opponent's mind about your premise_, such that they join your cause.
 
 #### Bound by Words
@@ -76,17 +76,18 @@ Presence represents _your projected self-confidence or reliance on status to pro
 
 **Then calculate your Presence as follows:**
 
-###### `  roundup((highest(Charmer, Assets) + 0-3)/ 2) + (Ability ≥ 3)`
+###### `   roundup((highest(Charmer, Assets) + 0-3)/ 2) + (Ability ≥ 3) `
 
 -   Start with the highest of:
     -   Your **[[Charmer]] level**
-    -   The sum of your **relevant [[Assets and Gear|Asset]] dice **
+    -   The sum of any **relevant [[Assets and Gear|Asset]] dice **
         -   (eg. your influence, position or power, social stature, etc.)
--   Add +1 _if you're the oldest speaker in the discourse?_
--   Add +1 _if a present third party is known to already share your premise?_
--   Add +1 _if you are historic enemies, or have had a similar debate like this before?_
+-   Add some conditional benefits:
+    -   Add +1 _if you're the oldest speaker in the discourse?_
+    -   Add +1 _if a present third party is known to already share your premise?_
+    -   Add +1 _if you are historic enemies, or have had a similar debate like this before?_
 -   Divide the total by 2 and round up!
--   Finally, add +1 for each [[Abilities#Mental Abilities|mental ability]] that is _rank 3 or higher._
+-   Finally, add +1 for each [[Abilities#Mental Abilities|mental ability]] that is _rank 3 or better._
 
 **Presence is the base difficulty of using most offensive moves against you**, and so you will need to quote this number to other players frequently. Write it down on your [[Character Sheets|character sheet]], or somewhere easy to see. Presence is also _rolled_ as part of your initial [[#Composure|Composure calculation]], but it otherwise remains static.
 
@@ -210,8 +211,8 @@ Moves are the _main actions_ available to you each [[#Turn Order|turn]], determi
 
 **There are eight moves in total, which can be grouped into two categories, or four pairs:**
 
-|      Offense |  ∥  | Utility      |
-| -----------: | :-: | ------------ |
+|      Offense |  —  | Utility      |
+| -----------: | :-: | :----------- |
 |    [[Argue]] |  —  | [[Plea]]     |
 |  [[Detract]] |  —  | [[Endorse]]  |
 | [[Question]] |  —  | [[Obscure]]  |
@@ -263,9 +264,11 @@ When a move says _“your opponent may exploit you”_ as a failure consequence 
 
 You will have probably noticed in the moves — but also in the system in general — a number of references to various rhetorical devices. These devices are tools,  used to help make rhetorical arguments. If you're not familiar, then this is all part of the so-called _'art of persuasion'_.
 
-**The social discourse system _doesn't_ model the platonic ideal of rhetorical debate**. Indeed, there are times when using such fallacies is actually rewarded (though attempts are also punished when they fail). A fallacy is a type of deception that  discourages an open exchange of ideas. They instead try to distract or mislead using flawed reasoning.
+**The social discourse system _doesn't_ model the platonic ideal of rhetorical debate**. Indeed, there are times when using such fallacies is actually rewarded. A fallacy is a type of deception that  discourages an open exchange of ideas. They instead try to distract or mislead using flawed reasoning.
 
 Here we shall list the most common types of rhetorical fallacy, and divide them among the [[#Tones|three tones]]. This isn't an exhaustive list, but it's here so that you can learn roughly how they work to start developing your skills. Then you can decide how to use, spot, or avoid them, as you desire.
+
+---
 
 ###### _Ethical Fallacies_
 
@@ -277,6 +280,8 @@ Here we shall list the most common types of rhetorical fallacy, and divide them 
 -   **Misrepresenting the Opponent** _or 'propping up strawmen'_ — You set up theoretical counter arguments with the intent of easily dismantling them or to misrepresent another position.
 -   **Moral Equivalence** — You unjustly compare minor problems with much more serious ones (or _vise versa_).
 
+---
+
 ###### _Empathetic Fallacies_
 
 -   **Appeal to Emotion** —You rely on sentimentality to distract from the facts.
@@ -286,6 +291,8 @@ Here we shall list the most common types of rhetorical fallacy, and divide them 
 -   **Red Herrings** _or 'burying the lead'_ — You make a misleading argument or bring up unrelated evidence to support your conclusion.
 -   **Scare Tactics** — You try to frighten your opponent with threats or by predicting unrealistically dire consequences.
 -   **Slippery Slope** — Your arguments suggest that one thing will lead to another, often with disastrous results.
+
+---
 
 ###### _Logical Fallacies_
 

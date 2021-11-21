@@ -53,9 +53,11 @@ Levels are a numerical representation of your general proficiency at performing 
 
 ### Master Levels
 
-To attain _beyond six_ and become a 'master' you must fill the exp bar again to twelve and then seek training from another master, gain a high-tech augmentation, or otherwise receive a supernatural blessing; all of which require your [[Peers|Peer's approval]].
+To attain _levels beyond six_ and become a 'master' you must fill the exp bar to twelve and then seek training from another master, gain a high-tech augmentation, or otherwise receive a supernatural blessing; all of which require your [[Peers|Peer's approval]].
 
-**You can have an maximum total of 4 master levels across all of your jobs.** This can be spread out in any way you like — should you be lucky enough to reach such lofty heights — but four master levels is the absolute limit. There are no exceptions! 
+The number of master levels you can aquire depends on your [[Circumstances#Age|age]]: **Young characters can only have 1 master level, at most, whereas old characters can have up to 4.**
+
+Master levels can be spread out in any way you like — should you be lucky enough to reach such lofty heights — but four master levels is the ordinary mortal limit.
 
 ---
 

@@ -25,7 +25,7 @@ Every character starts the game with Ego, unless you choose to start with an ext
     -   Meaning that your all 6s effectively turn into double-successes.
     -   This should be done as a part of [[KISSing]], but cannot be used on [[Exploding Dice|exploded dice]].
 
--   Ego may also used to 'fuel' the most potent effects of certain [[Gambits]].
+-   Ego may also used to 'fuel' the most potent effects of certain [[Features]].
 
 #### _Optional:_ Changing Consequences
 

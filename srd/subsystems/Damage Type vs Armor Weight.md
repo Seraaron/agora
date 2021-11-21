@@ -1,24 +1,35 @@
 ---
-alias: [damage types]
+alias:
+  - damage types
+  - damage lookup table
 tags:
   - creativecommons
   - martial
   - gear
+  - embed
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-10 23:50
-date updated: 2021-11-10 23:54
+date updated: 2021-11-19 13:34
 
 ---
 
 ##### Damage Type vs. Armor Weight:
 
-| Dmg. + [MoS] | Binding | Slashing | Rending | Piercing | Bashing |
-| ----------: | :-----: | :------: | :-----: | :------: | :-----: |
-|     *Unarmored* | _**4**_ |    _6_   |   _9_   |    _8_   |   _7_   |
-|      #light |    3    |   **5**  |    4    |     2    |    3    |
-|   #balanced |    2    |     4    |  **8**  |     6    |    4    |
-|      #heavy |    1    |     3    |    3    |   **7**  |    5    |
-| #superheavy |    0    |     1    |    2    |     4    |  **6**  |
+Compare your **weapon's damage tag** against your opponent's **armor weight tag** in the table below to determine your base Stamina damage against them with a **successful [[Spur|spur]]**, then _add any [margin of success]._
 
-#que Compare your weapon's damage type against your opponent's armor weight to determine your base Stamina damage against them, then *add any margin of success*.
+| Wgt. _vs_ Dmg.  | #binding | #slashing | #rending | #piercing | #bashing |
+| :-------------- | :------: | :-------: | :------: | :-------: | :------: |
+| 0. #natural     |  _**4**_ |    _6_    |    _9_   |    _8_    |    _7_   |
+| 1. #light       |     3    |   **5**   |     4    |     2     |     3    |
+| 2. #balanced    |     2    |     4     |   **8**  |     6     |     4    |
+| 3. #heavy       |     1    |     3     |     3    |   **7**   |     5    |
+| 4. #super-heavy |     0    |     1     |     2    |     4     |   **6**  |
+
+The following **special damage tags** _ignore armor_ when calculating Stamina damage:
+
+|          | #freezing | #crushing | #burning | #lightning |
+| -------: | :-------: | :-------: | :------: | :--------: |
+| **Dmg.** |     5     |     6     |     7    |      8     |
+
+#que If your weapon has more than one damage tag then use whichever one gives you the most damage against your current opponent.

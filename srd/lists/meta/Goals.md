@@ -13,7 +13,7 @@ last updated: Friday 2021-09-24 @ 12:31:49 (UTC+0100)
 
 ---
 
-## Goals
+### Goals
 
 These are the **[[Principles]] that your character wants to achieve** over the course of the next few game sessions, or before the end of the current [[Campaign Arcs|arc]].
 
@@ -26,12 +26,12 @@ They should be fairly _direct and promissory_, not wishful, and are best written
 
 #imp Try to avoid adding qualifying statements unless they help you to clarify a general motive, and still fit within a single sentence.
 
-### Advancing Goals Earns Kismet
+#### Advancing Goals Earns Kismet
 
 **Whenever you advance one of your goals during play your [[Facilitator|FC]] may award you with a [[Lots|Lot]] at the [[End-of-Session Rewards|end of the session]]**. When a goal is completed, then you may take a point of [[Ego]] instead.
 
 
-### Writing 'SMART' Goals
+#### Writing 'SMART' Goals
 
 By writing ‘**Specific**, **Motivating**, **Achievable**, **Relevant** and **Testable**’ goals, you provide yourself with a target to aim for a pathway to get there:
 

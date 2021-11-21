@@ -21,13 +21,15 @@ Conditions are features that represent some aspect of your self that you're stil
 > #eg
 > They may be the remnants of old wounds (ie. [[Wounds and Scars|scars]]); life-long disabilities or freshly discovered ones; compulsive behaviors or addictions; recurring nightmares; or even some _seemingly trivial_ things like allergies or phobias.
 
-They are not inherently 'good' or 'bad', they're just part of who you are, and sometimes they can get in the way of your life at inopportune moments, handicapping them (though, you decide when those moments occur).
+They are not inherently 'good' or 'bad', they're just part of who you are, and sometimes they can get in the way of your character's life at inopportune moments, handicapping them (though, you decide when those moments occur).
 
 ### Applying Conditions
 
 Aside from helping you to roleplay, and perhaps encouraging you to try and represent something outside of your normal comfort zone, conditions can cause problems for you when you come to roll dice:
 
-**Each condition may be applied against you for an appropriate roll, once per session, raising the difficulty of that roll by *reducing the number of dice you roll by 1***. Similar to [[Stress|stress]], but only applied for a single roll.
+**Each condition may be applied against you for an appropriate roll, once per session, raising the difficulty of that roll by *reducing the number of dice you roll by 1***.
+
+#que This is similar to [[Stress|stress]], but only lasts for a single roll.
 
 #imp Any of your [[Peers]] may _suggest_ that that particular condition should be applied, _but the choice to apply it is ultimately yours alone_.
 
@@ -83,6 +85,7 @@ The lows of a character's journey can be just as important in a story as their h
 	-   Should you gain another one _while at six_ then decide which one is more important, and shelve one of them until there's space again.
 -   The catharsis mechanic can effectively be used to 'bank' Ego, but these are _single use_ and unique events, and their narrative weight should be emphasized over their benefit to the game system.
 
+Characters are also limited in the number of conditions they can start with, based on their [[Circumstances#Age|age]]. This is just a *starting maximum* however, you can earn more than this limit as once you're playing the game.
 
 ##### Returning Conditions
 
