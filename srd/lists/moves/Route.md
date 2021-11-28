@@ -10,21 +10,20 @@ tags:
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-11 11:40
-date updated: 2021-11-18 13:49
-
+date updated: 2021-11-24 18:46
 ---
 
 #### Route
 
 _Route is for breaking formations and forcing a retreat._
 
-| Roll    | Difficulty = **[Target's Poise] + [Target's Skirmisher lvl.]**                                      |
-| :------ | --------------------------------------------------------------------------------------------------- |
-|         | **[[Hunter]]** ∥ **[[Skirmisher]]**                                                                 |
-| **+1**  | You have a smaller physical size than your opponent, or your target is mounted and larger than you? |
-| **+1**  | Your weapon is #light?                                                                              |
-| **+1**  | Your opponent is in Defensive stance?                                                               |
-| **+MD** | + [shield / mount dice] + [aid / other bonuses]                                                     |
+| Roll    | Difficulty = **[Target's Poise] + [Target's Guard lvl.]**                                                             |
+| :------ | --------------------------------------------------------------------------------------------------------------------- |
+|         | **[[Skirmisher]]**                                                                                                    |
+| **+1**  | You have a smaller physical size than your opponent, you're stealthed, or your target is mounted and larger than you? |
+| **+1**  | Your weapon is #light?                                                                                                |
+| **+1**  | Your opponent is in Defensive stance?                                                                                 |
+| **+MD** | + [shield / mount dice] + [aid / other bonuses]                                                                       |
 
 | Result       | Consequences                                                                                                                                                                                                                                         |
 | ------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

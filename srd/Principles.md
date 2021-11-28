@@ -34,9 +34,9 @@ Principles are a way for you to _express your character's personality and motiva
 
 You can generally only write new principles during [[Character Assembly|character assembly]] and at the end of every [[Campaign Arcs|arc]] thereafter or during [[Downtime and Travel|downtime]]. This is because your [[Facilitator|FC]] probably has something [[Challenging Principles|planned for your current principles]].
 
-Re-wording a principle before a session starts without changing it's core message is acceptable _if your [[Peers]] agree_. Or if you're using the alternative '[[Principle Discovery|discovery]]' rules, then **finding your principles during play** becomes a part of the game. _Otherwise, changing  principles mid-session is usually only done at dramatically appropriate times._ 
-~~
-![[Principle Discovery]]~~
+Re-wording a principle before a session starts without changing it's core message is acceptable _if your [[Peers]] agree_. If you're using the '[[Discovering Principles|discovery]]' rules (below), then **finding your principles during play** becomes a part of the game. _Otherwise, changing  principles mid-session is usually only done at dramatically appropriate times._ 
+
+![[Discovering Principles]]
 
 ## Duds
 

@@ -43,7 +43,7 @@ Choosing names can be hard, and sometimes you find that a name no longer suits y
 
 #### Aliases or Titles
 
-These are your alternate names, pseudonyms, and/or family names, or perhaps even your _true name_. You can also include specific titles or honorifics that have been bestowed onto you here, though you will need to represent them again using [[Assets and Gear#Prestige|assets]] to leverage any mechanical advantage from them.
+These are your alternate names, pseudonyms, &or family names, or perhaps even your _true name_. You can also include specific titles or honorifics that have been bestowed onto you here, though you will need to represent them again using [[Assets and Gear#Prestige|assets]] to leverage any mechanical advantage from them.
 
 ### Archetypes
 
@@ -95,7 +95,7 @@ Most adult humans will either be considered 'Small' or 'Modest' under these defi
 
 ##### Size _Does_ Matter (sometimes)
 
-When there is a difference in sizes between you and another character — and your [[Facilitator|FC]] determines that this difference should be _mechanically represented_ during a roll — then either a bonus die or a penalty factor may be added, depending on the context of the action.
+When there is a difference in sizes between you and another character — and your [[Facilitator|FC]] determines that this difference should be _mechanically represented_ during a roll — then either a bonus die or a difficulty factor may be added, depending on the context of the action.
 
 > #eg
 > A larger character attempting to wrestle with a smaller character may be given a bonus die, but if the opponent is _significantly_ smaller than the larger one then they may be given a penalty instead.
@@ -134,7 +134,7 @@ In truth, then, there is no mechanical difference between the two sets of traits
 
 #### Age
 
-Age is a special foreground trait because age can change over extended periods of time, and because it has a small mechanical effect. Typically determined by how long you've been alive; age represents the stage of adulthood you're currently at for your species.
+Age is a special foreground trait because age can change over extended periods of time, and because it has a small mechanical effect. Typically determined by how long you've been alive, age represents the stage of adulthood you're currently at for your species.
 
 |    | Playable Adult Ages | _Approx. Human Equivalent_ | Bonus Wealth | Master Levels | Max. Starting Conditions |
 | -: | ------------------- | :------------------------: | :----------: | :-----------: | :-------------: |
@@ -145,7 +145,7 @@ Age is a special foreground trait because age can change over extended periods o
 
 The older your character's starting age, the more starting [[#Wealth|wealth]] you get, and the more [[Jobs#Master Levels|master levels]] you can take. Older characters also typically have more starting [[Conditions|conditions]], though: Roll, or choose, 1-3 more times on the [[D666 Conditions|conditions list]].
 
-#imp It is not possible to play as child or an extremely elderly character without your [[Peers|Peer's]] permission, as they are **capped at only one [[Health]]** making them more vulnerable; and they are likely to be more difficult to roleplay respectfully, or may not suit your game's [[Genre, Tone, and Themes|tone]].
+#imp It is not possible to play as child or an extremely elderly character without your [[Peers|Peer's]] permission, as they are **capped at only one [[Health]]** — and they are likely to be more difficult to roleplay respectfully, or may not suit your game's [[Genre, Tone, and Themes|tone]].
 
 ---
 

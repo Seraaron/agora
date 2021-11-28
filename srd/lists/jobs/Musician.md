@@ -1,5 +1,9 @@
 ---
-alias: []
+alias:
+  - music
+  - instrumentalist
+  - singer
+  - band
 tags:
   - creativecommons
   - jobs
@@ -7,24 +11,27 @@ author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
 last updated: Saturday 2021-09-25 @ 00:23:56 (UTC+0100)
-date updated: 2021-10-22 19:34
-
+date updated: 2021-11-24 16:56
 ---
 
 ### Musician ([[Finesse|Fin]])
 
-#artistic #performance
+#artistic #martial #performance
 
-Performing music, with voice or instrument, alone or as part of a band, for the entertainment of yourself or others. Keeping rhythm and tambre. Includes most forms of rhythmic and traditional dancing, such as formal or ceremonial dances.
+Performing music, with voice or instrument, alone or as part of a band, for the entertainment of yourself or others. Keeping rhythm and timbre. Includes most forms of rhythmic and traditional dancing, such as formal or ceremonial dances.
 
-May also include composing new music, poetry, or rhythmic stories, using [[Appeal]].
+May be used during [[Martial Combat|combat]] to rally yourself or your allies.
 
-#imp **Requires:** An instrument &or a voice, and possibly `erudite tools`.
+May also include composing new music, poetry, or epic stories, using [[Appeal]].
 
-_**Suggested Specialties:** Composition, [genre (music)], [instruments], Performance…_
+#imp **Requires:** An instrument or a voice, and possibly #academic-tools
 
-> ##### Additional Factors
+_**Suggested Specialties:** Acute Sense of Hearing, Composition, [genre], [instruments], Performance..._
+
+> ##### Specific Factors:
 >
-> -   #unfinished
+> - “Being heckled, distracted, or otherwise put under pressure...?
+> - “Instruments are out of tune, or you haven't warmed up...?
+> - “You're conducting, writing new music, or leading the band...?
 
-###### {[[D66 Jobs|15]]}
+###### {[[D66 Jobs|54]]}

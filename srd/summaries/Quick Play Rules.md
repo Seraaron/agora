@@ -41,7 +41,7 @@ date updated: 2021-11-05 19:54
     -   **For [[Checks]] — You must get *2 successes* to pass**.
         -   1 success  means *failure with a twist* — You don't get what you want, *but* something interesting happens.
         -   3+ successes is an *exceptional pass* — You get what you wanted, *and* something unexpected happens.
-    -   **For [[Tasks]] — You must get *successes ≥ [[Generic Difficulty Factor Examples List|difficulty factors]]* to pass**.
+    -   **For [[Tasks]] — You must get *successes ≥ [[Generic Difficulty Factors|difficulty factors]]* to pass**.
 		-   Each difficulty factor represents an objective to complete, a problem to solve, or an obstacle that stands in your way.
 		-   *Margin of failure* indicates how close you came to success, and which obstacles were overcome, but your agenda is ultimately unfulfilled.
 	- **If you failed the roll and it was deemed [[Stressful Rolls|stressful]]**, then take a point of stress in the ability you rolled with.

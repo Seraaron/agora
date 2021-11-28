@@ -17,7 +17,7 @@ explanation
 
 ##### Jobs
 
--   [[Alchemist]] / [[Physician]]
+-   [[Alchemist]] / [[Physician*]]
 -   [[Engineer]]
 -   [[Scholar]]
 

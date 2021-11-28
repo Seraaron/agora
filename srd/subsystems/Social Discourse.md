@@ -82,18 +82,18 @@ Presence represents _your projected self-confidence or reliance on status to pro
     -   Your **[[Charmer]] level**
     -   The sum of any **relevant [[Assets and Gear|Asset]] dice **
         -   (eg. your influence, position or power, social stature, etc.)
--   Add some conditional benefits:
+-   Add +1 for each [[Abilities#Mental Abilities|mental ability]] that is _rank 3 or better._
+-   And add some conditional benefits:
     -   Add +1 _if you're the oldest speaker in the discourse?_
     -   Add +1 _if a present third party is known to already share your premise?_
     -   Add +1 _if you are historic enemies, or have had a similar debate like this before?_
 -   Divide the total by 2 and round up!
--   Finally, add +1 for each [[Abilities#Mental Abilities|mental ability]] that is _rank 3 or better._
 
 **Presence is the base difficulty of using most offensive moves against you**, and so you will need to quote this number to other players frequently. Write it down on your [[Character Sheets|character sheet]], or somewhere easy to see. Presence is also _rolled_ as part of your initial [[#Composure|Composure calculation]], but it otherwise remains static.
 
 #### Alternative Presence Jobs?
 
-If the debate is of a scientific or theological nature then you must use your [[Pundit]] level to calculate Presence, instead of [[Charmer]]. If it's about finance or estate management then use [[Steward]]. If it's about warfare and tactics then use [[Commander]].
+If the debate is of a scientific or theological nature then you must use your [[Philosopher]] level to calculate Presence, instead of [[Charmer]]. If it's about finance or estate management then use [[Steward]]. If it's about warfare and tactics then use [[Commander]].
 
 ### Composure
 

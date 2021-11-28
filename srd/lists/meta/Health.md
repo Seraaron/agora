@@ -20,6 +20,8 @@ last updated: Friday 2021-09-24 @ 14:50:08 (UTC+0100)
 
 If your [[Peers]] allow it, you may opt to start the game with only one Health point, and instead _start with a point of Fidelity and an active [[Wounds and Scars|wound]];_ representing something in your character's recent past that they stood up for and were injured because of.
 
+#que Junior and senior [[Circumstances#Age|aged]] characters only have *one health* as their maximum, so they are more vulnerable. 
+
 ### Cheating Death
 
 When you are faced with deathly consequences, you may **spend a Health point to escape with your life**: You [[Wounds and Scars|take a wound]], _instead of dying_.

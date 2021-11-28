@@ -46,7 +46,7 @@ Wealth can increase or decrease via a [[Peers#Peer Votes|Peer vote]] during a [[
 
 If you ever need to make a _big purchase_ then you can **roll your wealth rating as though it were a [[Jobs|Job level]]**. This roll is used to generate successes, which represent your purchasing power. Thus, your [[Facilitator|FC]] can set you a target difficulty for the transaction, and you fail then your Wealth may be reduced as the cost eats into your savings.
 
-#que The [[Rank|rank]] of such a roll depends on the strength and stability of your economy — which is **4** for most big countries — and may fluctuate if you're spending abroad.
+#que The [[Rank|rank]] of such a roll depends on the strength and stability of your economy — which is **4** for most independent nations — and may fluctuate if you're spending abroad.
 
 ##### _caps_
 

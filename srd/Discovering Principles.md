@@ -1,5 +1,5 @@
 ---
-alias: [discovery]
+alias: [discovery, discovering principles]
 tags:
   - creativecommons
 author: Seraaron
@@ -7,7 +7,7 @@ license: CC BY 4.0
 date created: 2021-11-21 13:02
 ---
 
-### *Alternative:* Discovery Mode
+### Discovering Principles
 
 If players are finding the process of thinking of [[Principles|principles]] from scratch exhausting, or simply not suitable for their [[Player Styles|style of play]], then this alternative rule may be more appropriate. This rule can also be used when a player has finished a [[Goals|goal]], for example, but can't think of anything else to replace it with yet.
 
@@ -17,4 +17,4 @@ These moments are called **discoveries**, and when they happen you can say "I've
 
 #### Rewarding Discoveries
 
-**When a new principle is discovered you immediately earn a [[Lots|Lot]]**. 
+**When a new principle is discovered through play you immediately earn a [[Lots|Lot]]**. 

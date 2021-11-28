@@ -21,7 +21,7 @@ _You use every trick in the book to block or avoid any paths of inquisition your
 
 |   Roll | Difficulty = [The Current MD] + [Target's Investigator lvl.]                                                                                                                      |
 | -----: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|        | **[[Cipher]]** ∥ **[[Pundit]]**                                                                                                                                                   |
+|        | **[[Cipher]]** ∥ **[[Philosopher]]**                                                                                                                                                   |
 | **+1** | You included a shibboleth, slang term, or other piece of jargon, that you know they won't understand (and you refuse to explain it)?                                              |
 | **+1** | You have employed a logical fallacies? (eg. _assumed the conclusion, post hoc argument, equivocation, false analogy, hasty generalization, non sequitur, stacked evidence, etc._) |
 |  **+** | [aid / other bonuses]                                                                                                                                                             |

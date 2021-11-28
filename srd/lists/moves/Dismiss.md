@@ -10,8 +10,7 @@ tags:
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-11 23:21
-date updated: 2021-11-18 13:47
-
+date updated: 2021-11-24 19:36
 ---
 
 # Dismiss
@@ -20,11 +19,11 @@ date updated: 2021-11-18 13:47
 
 _There are many ways you can 'dismiss' someone, and how you do it depends largely on your [[Social Discourse#Premises|premise]] for the whole argument. Choose what your intent will be before using this move. Though there's no point trying to make your conclusion until your opponents position is weak enough to try. _
 
-| _Premise Intent_ |                      |     |     Job Choice    |     |                  |
-| ---------------: | -------------------: | :-: | :---------------: | :-: | :--------------- |
-|         _Prove:_ | **[[Investigator]]** |  ∥  |   **[[Pundit]]**  |  ∥  | **[[Steward]]**  |
-|        _Reject:_ |       **[[Cipher]]** |  ∥  | **[[Commander]]** |  ∥  | **[[Diplomat]]** |
-|      _Persuade:_ |       **[[Beggar]]** |  ∥  |  **[[Charmer]]**  |  ∥  | **[[Orator]]**   |
+| _Premise Intent_ |                      |     |      Job Choice     |     |                  |
+| ---------------: | -------------------: | :-: | :-----------------: | :-: | :--------------- |
+|         _Prove:_ | **[[Investigator]]** |  ∥  | **[[Philosopher]]** |  ∥  | **[[Steward]]**  |
+|        _Reject:_ |       **[[Cipher]]** |  ∥  |  **[[Commander]]**  |  ∥  | **[[Diplomat]]** |
+|      _Persuade:_ |       **[[Beggar]]** |  ∥  |   **[[Charmer]]**   |  ∥  | **[[Orator]]**   |
 
 | Difficulty = 1 + [Target's Pres.] − (Momentum − [Target's Comp.])                                                                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -39,9 +38,10 @@ _There are many ways you can 'dismiss' someone, and how you do it depends largel
 
 |       Result |  _Intent_  | Consequences                                                                                                                                   |
 | -----------: | :--------: | :--------------------------------------------------------------------------------------------------------------------------------------------- |
-|              |   _Prove_  | **You win the argument** and _your opponent cannot ignore or contradict your premise anymore_, though they may not like it                     |
-| **Success:** |  _Reject_  | **You win the argument** and _your opponent is forbidden from raising their premise with you again_, or they are rendered powerless to try.    |
-|              | _Persuade_ | **You win the argument** and _you have genuinely changed  the opponent's mind about your premise_, such that they join your cause.             |
+| **Success:** |   —   | **You win the argument** and...                                                                                                                |
+|              |   _Prove_  | ..._your opponent cannot ignore or contradict your premise anymore_, though they may not like it                                               |
+|              |  _Reject_  | ..._your opponent is forbidden from raising their premise with you again_, or they are rendered powerless to try.                              |
+|              | _Persuade_ | ..._you have genuinely changed  the opponent's mind about your premise_, such that they join your cause.                                       |
 | **Failure:** |    _Any_   | **You hesitate**, you suffer your **[margin of failure]** as Composure damage _at the end of the round_, _and_ **your target may exploit you** |
 
 #imp If you are dismissing a character who has no Composure then using this move will automatically succeed.

@@ -20,7 +20,7 @@ date updated: 2021-11-18 23:32
 
 #### _Optional:_ Shields Shall be Shattered
 
-When you are using a #shield and a [[Kill|kill]] move is successfully used against you, **your shield will shatter and negate the killing blow**, and you will take a point a point of stress instead:
+When you are using a #shield and a [[Kill|kill]] move is successfully used against you, **your shield will shatter and negate the killing blow**, and you will take a point of stress instead:
 - [[Pain]] if you're in aggressive stance.
 - [[Shock]] if you're in counteractive stance.
 - [[Fatigue]] if you're in defensive stance.

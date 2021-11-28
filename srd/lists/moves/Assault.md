@@ -10,8 +10,7 @@ author: Seraaron
 license: CC BY 4.0
 date created: 2021-10-28+1500
 last updated: Thursday 2021-10-28 15:26:42 (UTC+0100)
-date updated: 2021-11-18 13:46
-
+date updated: 2021-11-24 19:37
 ---
 
 # Assault
@@ -40,11 +39,10 @@ _These attacks are intended to cause harm, draw blood, and cause panic. They cou
 
 |       Result | _Target's Stance_ | Consequences                                                                                                                       |
 | -----------: | :---------------: | :--------------------------------------------------------------------------------------------------------------------------------- |
-|              |    _Aggressive_   | Immediately inflict ⬥ [[Pain]] (_Swi_) stress...                                                                                   |
-| **Success:** |  _Counteractive_  | Immediately inflict ⬥ [[Shock]] (_Fin_) stress...                                                                                  |
-|              |    _Defensive_    | Immediately inflict ⬥ [[Fatigue]] (_End_) stress...                                                                                |
-|              |                   | ..._and at the end of the round_ deal any **[margin of success]** as Stamina damage against them.                                  |
-|              |                   |                                                                                                                                    |
+| **Success:** |    _Aggressive_   | Immediately inflict ⬥ [[Pain]] (_Swi_) stress, and...                                                                              |
+|              |  _Counteractive_  | Immediately inflict ⬥ [[Shock]] (_Fin_) stress, and...                                                                             |
+|              |    _Defensive_    | Immediately inflict ⬥ [[Fatigue]] (_End_) stress, and...                                                                           |
+|              |         —         | ..._at the end of the round_ deal any **[margin of success]** as Stamina damage against them.                                      |
 | **Failure:** |       _Any_       | You and your opponent _both_ take **[your successes]** as Stamina damage _at the end of the round_, _and_ **they may exploit you** |
 
 #ast If your weapon or ammo has multiple applicable tags then choose the consequence you like.

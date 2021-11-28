@@ -1,29 +1,35 @@
 ---
-alias: []
+alias:
+  - writer
+  - author
+  - journalist
+  - chronicler
+  - archivist
 tags:
   - creativecommons
   - jobs
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
-last updated: Saturday 2021-09-25 @ 00:36:03 (UTC+0100)
-
+date updated: 2021-11-25 20:12
 ---
 
-### Scribe ([[Resolve|Res]])
+### Scribe ([[Wits|Wit]])
 
-#erudite #political 
+#academic #civic #intrigue
 
-Taking record of the world according to the views of others, copying documents, sequencing events chronologically, and adding to the annals of science and history, or memorizing and reciting dates, quotes, and laws. Also includes journalism, conducting surveys, and information archiving, as well as library or secretarial work.
+Taking record of the world according to the views of others, copying documents, sequencing events chronologically, and adding to the annals of history, or memorizing and reciting dates, quotes, heraldry, and laws. Includes journalism and archivism.
 
 May also include collecting your own thoughts and ideas into a recorded form, usually as a letter, poem, or book, or authoring a work of fiction, using [[Appeal]].
 
-#imp **Requires:** `erudite tools`
+#imp **Requires:** #academic-tools
 
-_**Suggested Specialties:** Composition, [culture], [history / lore], Literacy…_
+_**Suggested Specialties:** Composition, [culture], [genre], Gossip, [history], Literacy, [lore]..._
 
-> ##### Additional Factors
+> ##### Specific Factors:
 >
-> -   #unfinished
+> - “Arranging the information to suit a particular narrative...?
+> - “Live transcribing a testimony, interview, or speech...?
+> - “Writing a whole book (rather than just an article or issue)...?
 
-###### {[[D66 Jobs|32]]}
+###### {[[D66 Jobs|65]]}

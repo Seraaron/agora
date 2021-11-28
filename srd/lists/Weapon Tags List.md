@@ -22,10 +22,7 @@ date updated: 2021-11-19 14:17
 
 The damage type of this weapon depends on what type of ammo you load into it:
 
--   #piercing  Diamond nose
--   #rending  Needle nose
--   #slashing  Broad nose
--   #binding Crescent nose
+![[Ammo Types]]
 
 ---
 
@@ -71,7 +68,7 @@ This weapon inflicts wound with blunt force trauma that can break bones or cause
 
 ##### #bayonet
 
-You may treat this item as a #piercing #brawler weapon when the bayonet is attached, but it also adds a +1 difficulty factor to your ranged attacks.
+You may treat this item as a #piercing #brawler weapon when the bayonet is attached, but it also adds a +1 difficulty factor to your ranged attacks. The bayonet can also be used separately as a common-quality dagger.
 
 ---
 

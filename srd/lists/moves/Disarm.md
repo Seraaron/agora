@@ -10,8 +10,7 @@ tags:
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-11 11:43
-date updated: 2021-11-18 13:47
-
+date updated: 2021-11-24 18:54
 ---
 
 #### Disarm
@@ -20,7 +19,7 @@ _Disarm is for skillfully forcing your opponent to drop their weapon, or unseati
 
 | Roll    | Difficulty = **[Target's Poise] + [Target's Warrior ∥ Rider lvl.]*** |
 | :------ | -------------------------------------------------------------------- |
-|         | **[[Martialist]]** ∥ **[[Skirmisher]]** ∥ **[[Warrior]]**            |
+|         | **[[Martialist]]** ∥ **[[Skirmisher]]**                              |
 | **+1**  | Your weapon is #binding?                                             |
 | **+1**  | Your weapon is #balanced?                                            |
 | **+1**  | Your opponent is in Aggressive stance?                               |

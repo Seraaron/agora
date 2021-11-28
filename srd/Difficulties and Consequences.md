@@ -86,9 +86,9 @@ There are three main sources of factors for a Task: **The number of objectives**
 
 -   **The number of objectives** is decided by the player during the [[Tasks#1 Set-up|set-up phase]] of the Task discussion. Each objective, including the main objective, counts as a factor, up to a maximum total of 4.
 -   **Job-specific factors** are listed for each job in the [[Jobs List|job list]], and almost always apply whenever they're relevant. (There are only a few such factors per job, but they should be fairly obvious without the need to look them up).
--   **Generic factors** may be suggested by any [[Peers|Peer]], from [[Generic Difficulty Factor Examples List|the example list]] below or by making something up, but the FC ultimately decides which ones to choose and apply — based on the factor's relevancy to the action, and any other information they may be privy to.
+-   **Generic factors** may be suggested by any [[Peers|Peer]], from [[Generic Difficulty Factors|the example list]] below or by making something up, but the FC ultimately decides which ones to choose and apply — based on the factor's relevancy to the action, and any other information they may be privy to.
 
-![[Generic Difficulty Factor Examples List]]
+![[Generic Difficulty Factors]]
 
 #### Choosing Factors
 

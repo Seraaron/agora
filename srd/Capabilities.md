@@ -46,9 +46,11 @@ Failing a [[Grit]] or [[Vigilance]] check doesn't take away your agency as a pla
 > #eg
 > Throw up, run away, faint, scream, laugh hysterically, burst into tears, soil yourself, beg for mercy, beg for death, or simply stand in a daze; or whatever _feels right_ in the moment.
 
-- **A moment of hesitation is mostly an opportunity to roleplay** before the end of your [[Session Structure#Turns|turn]], though your hesitation may be counted as a [[Difficulties and Consequences#Choosing Factors|factor]] against you must act again within the same [[Session Structure#Scenes|scene]].
-
+- **A moment of hesitation is mostly an opportunity to roleplay** before the end of your [[Session Structure#Turns|turn]], though your hesitation may be counted as a [[Difficulties and Consequences#Choosing Factors|factor]] against you if must act again within the same [[Session Structure#Scenes|scene]].
 - **Hesitation may be given as failure condition to other appropriately life-threatening rolls too**, not just Grit or Vigilance checks.
+	- For example, in [[Martial Combat|martial combat]] there are moves that can cause hesitation.
+
+
 
 ---
 

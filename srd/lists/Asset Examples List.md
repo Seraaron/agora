@@ -1,6 +1,6 @@
 ---
 alias: [asset examples list]
-tags: [creativecommons, list, features, examples]
+tags: [creativecommons, list, examples]
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-10-16+0000

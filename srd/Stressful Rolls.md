@@ -1,6 +1,6 @@
 ---
 alias: [stressful rolls, stressful]
-tags: [creativecommons]
+tags: [creativecommons, rules, extra, embed]
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-04+1200

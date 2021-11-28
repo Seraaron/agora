@@ -9,8 +9,7 @@ tags:
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-11 23:21
-date updated: 2021-11-18 13:46
-
+date updated: 2021-11-23 19:43
 ---
 
 # Argue
@@ -21,7 +20,7 @@ _Tell us how you make your case. What arguments do you put forward, what's your 
 
 |    Roll | Difficulty = [Target's Presence]                                                                                                                  |
 | ------: | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-|         | **[[Orator]]** ∥ **[[Pundit]]**                                                                                                                   |
+|         | **[[Orator]]** ∥ **[[Philosopher]]** ∥ **[[Steward]]**                                                                                                 |
 |  **+1** | You have solid evidence or personal experience to back up your claim?                                                                             |
 |  **+1** | You have avoided using any rhetorical fallacies? (ie. _you're not just positing theories, making circular arguments, propping up strawmen, etc._) |
 | **+MD** | + [aid / other bonuses]                                                                                                                           |

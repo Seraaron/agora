@@ -1,5 +1,11 @@
 ---
-alias: []
+alias:
+  - exploration
+  - trailblazer
+  - pathfinder
+  - delver
+  - survivalist
+  - climber
 tags:
   - creativecommons
   - jobs
@@ -7,25 +13,25 @@ author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0100
 last updated: Saturday 2021-09-25 @ 01:14:44 (UTC+0100)
-
+date updated: 2021-11-24 13:55
 ---
 
 ### Explorer ([[Swiftness|Swi]])
 
-#rogue #athletic #animal 
+#athletic #animal #rogue
 
-Safely navigating wild or dangerous places, especially rocky mountains, dense forests, or caves, ruins, and dungeons. Pathfinding, delving, and general pioneering. Includes rock climbing, river fording, swimming and diving in lagoons, and other mountaineering skills.
+Safely navigating wild or dangerous places, especially rocky mountains, dense forests, caves or lakes, ruins, and dungeons. Pathfinding, delving, and general pioneering and survival skills. Includes rock climbing, river fording, swimming and diving in lagoons, and other mountaineering skills.
 
 May also include foraging for wild food, ingredients, and medicine along the way, and prospecting or scavenging a location for useful resources, using [[Resolve]].
 
-#imp **Possibly requires:** `rogue tools`, or at least some rope.
+#imp **Possibly Requires:** #rogue-tools, or at least some rope
 
-_**Suggested Specialties:** [animals], [biomes], Athletics, Climbing, Bushcraft, Orienteering, Swimming…_
+_**Suggested Specialties:** Acute Sense of Direction, [animals], [biomes], Athletics, Climbing, Bushcraft, Orienteering, Swimming..._
 
-> ##### Additional Factors
+> ##### Specific Factors:
 >
-> -   #unfinished
+> - “Blazing a new trail through poorly mapped territory...?
+> - “This is a naturally dangerous or extreme environment...?
+> - “You've run out of rations, water, or supplies...?
 
-**See also:** [[Exploration]]
-
-###### {[[D66 Jobs|65]]}
+###### {[[D66 Jobs|13]]}

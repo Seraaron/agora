@@ -2,9 +2,10 @@
 alias:
   - KISS
   - KISSes
-  - KISSing dice
-  - KISS dice
-  - KISS principle
+  - KISSing
+  - KISSable
+  - KISSed
+  - rerolling
 tags:
   - creativecommons
   - rules
@@ -19,7 +20,7 @@ last updated: Thursday 2021-10-14 @ 18:51:29 (UTC+0100)
 
 # KISSing Dice
 
-KISS is a double-acronym that _simultaneously_ stands for '**[[#Kismet]], [[#Insight]], [[#Stunts]], and [[#Specialties]]**' as well as '**[[#Keep It Short & Sweet]]**'.
+KISS is a double-acronym that _simultaneously_ stands for '**[[#Kismet]], [[#Insight]], [[#Stunts]], and [[#Specialties]]**' as well as '**[[#Keep it Short & Sweet]]**'.
 
 **We say you may 'KISS' any dice that fail you**, when you roll for a [[Checks|Check]] or a [[Tasks|Task]]. This means that you must advocate for it, using one of the options described below, and if your [[Peers]] agree, then you may pick up that die, and _get ready to re-roll it_.
 
@@ -30,10 +31,10 @@ Once you've exhausted all your options or simply decide you've got enough KISSes
 'Kismet', in this instance, mainly refers to **spending [[Lots]] and [[Ego]]**. However, for extraordinary rolls, [[Fidelity]] can also be used here _while KISSing_ for a special effect too:
 
 -   **Spending a Lot lets you _re-roll a die_**, counting as a KISS _with no questions asked_.
-	-   Once per roll, a Lot spent this way on a [[Tasks|Task]] will also convert to +1 *[[Earning Experience|exp]]* for the job you're currently using.
-	-   Spending multiple Lots still counts as valid KISSes, but the bonus exp is not granted. 
+	-   There's no limit to how many Lots you can spend on a roll, except that you only have eight, at most, at any one time.
 -   **Spending Ego doubles the successes counted from all 6s rolled**.
-	-   Excluding 6s from [[Exploding Dice|exploded dice]].
+	-   If your dice are  [[Exploding Dice|exploding]], then spending Ego will instead let you roll one or two bonus dice — equal to your [[Health]].
+	-   These bonus dice can't also be KISSed, but they *can* also explode.
 -   **Spending a point of Fidelity _temporarily advances_ your ability's rank by one step** (ie. 6 → 5 → 4 → 3 → 2 → 1), until the end of the current [[Session Structure#Scenes|scene]], and that lets you _immediately count any extra successes_ that the new rank unveils.
 	-   When you do this, be sure to change your partially filled kismet diamond to a fully filled one (ie. ◈ → ◆).
 
@@ -59,24 +60,27 @@ _When you KISS a die with a stunt, the re-roll won't decide if what you've descr
 > #nb
 > Another way of interpreting stunts is that you effectively describe what your character's _thinks_ they're doing or saying, and if the re-roll fails then describe what _really_ happened afterwards.
 
-#imp _Stunts don't need Peer approval_ in the same way that Insights or Specialties do. This makes them quite potent, and so to limit their effectiveness, **you can only KISS a single die per roll with a stunt**.
+#imp _Stunts don't need Peer approval_ in the same way that Insights or Specialties do. 
+
+Stunts are quite potent, and so to limit their effectiveness: **Each roll can only be KISSed by a single stunt**, at most.
 
 ### Specialties
 
 **Using [[Specialties|specialties]] means drawing on your character's trained skills and expert knowledge, innate knacks or natural talents, and special traits or personality quirks**. Each one needs [[Peers|Peer approval]]; so if the reason is not obvious to them when you mention it, you may need to _briefly_ justify it to your friends.
 
-_Each valid specialty counts as a KISS,_ letting you re-roll a die, **but each specialty can only be used once per session**. (So remember to add a ✓ to the circle ❍ when used).
+_Each valid specialty counts as a KISS,_ letting you re-roll a die, **but each specialty can only be used once per session**. (So remember to add a tick ✓ to the circle ❍ when used).
 
 ![[Helping]]
+
+## Experience for KISSing
+
+**The first valid KISS a character gives to a [[Tasks|Task]] roll also earns them a point of *[[Earning Experience|exp]]* in the job being used.** This is true for both the leader of the roll and for any [[Helping|helpers]], meaning that if everyone involved in the roll each gives it a KISS then they each get a point of [[Earning Experience|exp]].
 
 ## KISSing Limits
 
 -   **There can only be _one round of KISSing_ per roll**.
-
 -   **Each valid KISS lets you re-roll _one die_**.
-
 -   **KISSing should be announced and counted from _all roll participants_ before actually re-rolling**.
-
 -   **_Re-roll all the dice at once_, once you've got your KISSes.**
 
 These facts combine to mean that _the most dice you can potentially KISS per roll is equal to the amount of dice you have for that roll_. 
@@ -85,7 +89,7 @@ Furthermore, when there is an [[Opposed Tasks|Opposed task]] or a [[Checks#Versu
 
 #que Generally, **there's no point in KISSing a die that has already succeeded** — unless you're desperately trying to roll 6s to use [[Ego]] or cause an [[Exploding Dice|explosion]] — but if you do so and the second result is worse then you must keep it.
 
-### Keep It Short & Sweet
+### Keep it Short & Sweet
 
 This is the second definition of 'KISS' and it's use here is to remind you to not slow down the game's pace for too long while re-rolling: That **each KISS should be meaningful but brief**, _just like a real kiss_. 💋
 
@@ -109,12 +113,12 @@ In other words: **If you've agreed that it's a KISS, then it's a KISS;** _the fi
 This is when you invoke an insight, or use a specialty that is applicable to the roll _without a shadow of a doubt_. You'll know it's obvious when just the mention of it gets immediate affirmation from the majority of the table.
 
 > #eg
-> If you're a [[Mage]], and you have 'Pyromancy magic' as a listed specialty, and you're trying to cast a fire-based spell, then that pyromancy specialty will be an obvious KISS, and no one should challenge you for using it.
+> If you're a [[Mage*]], and you have 'Pyromancy magic' as a listed specialty, and you're trying to cast a fire-based spell, then that pyromancy specialty will be an obvious KISS, and no one should challenge you for using it.
 
 
 ##### Majority Rules
 
-You only _really_ need to justify a KISS if _less than half_ of your friends are nodding their heads at you. There's no need to put it to a vote or anything: Just give your reasoning, then read the room and see if you struck a chord.
+You only _really_ need to justify a KISS if _less than half_ of your friends are nodding their heads at you. There's no need to put it to a [[Peers#Peer Votes|vote]] or anything: Just give your reasoning, then read the room and see if you struck a chord.
 
 
 #### No Tongue!
@@ -131,10 +135,10 @@ A Peer may say “no tongue!” or “you're really tonguing it” if they think
 
 **You can think of the four types of KISSes as benefiting four modes of play:**
 
--   'Kismet' benefits those who engage strongly with their principles, conditions, and features.
--   'Insight' benefits those who pay attention to the world building and small details, and who either have good memories or take lots of notes.
--   'Stunts' benefits those who like to immerse themselves in the roleplaying or the action, or who are good at improvising.
--   'Specialties' benefit those who prefer to optimize their character builds with lists of potential bonuses.
+-   **Kismet** benefits those who engage strongly with their principles, conditions, and features.
+-   **Insight** benefits those who pay attention to the world building and small details, and who either have good memories or take lots of notes.
+-   **Stunts** benefits those who like to immerse themselves in the roleplaying or the action, or who are good at improvising.
+-   **Specialties** benefit those who prefer to optimize their character builds with lists of potential bonuses.
 
 Meaning there's something for everyone. Rarely will your KISSes come exclusively from one source or another though, every roll will ideally use a mix of all four methods.
 
@@ -142,7 +146,7 @@ That said, there is _something of a strategy_ that will emerge if you enjoy usin
 
 1.  **Stunt** first, recalling that you can only get one KISS from a stunt.
 2.  _Use your most obvious KISSes next_ — which are usually **Insights** or **Specialties** — to speed up play.
-3.  And finally use **Kismet** as a _last resort_, unless you really want *exp* for the job you're currently using.
+3.  And finally use your **Kismet** as a _last resort_.
 
 ### _Optional:_ Restricted Stunts
 
@@ -151,22 +155,25 @@ Only the FC may veto a [[#Stunts|stunt]] before it's rolled, if what you said is
 > #nb
 > Generally, your FC should **try to add to the description of a stunt**, slightly re-aligning it with what would be more reasonable, **rather than flatly denying it**. This makes the process more collaborative, and fun, and _encourages players to try to seek thrills rather than seeking permission_.
 
-However, regular use (or over-use) of stunts can really change the game's [[Genre, Tone, and Themes|tone]], and some players may simply be better at stunting than others; since it relies on real-life improvisational skills. So discuss with your [[Peers]] before play whether you want to further limit their use of stunts, by either:
+However, regular use (or over-use) of stunts can really change the game's [[Genre, Tone, and Themes|tone]]. Some players may simply be better at stunting than others too, since it relies on real-life improvisational skills. So discuss with your [[Peers]] before play whether you want to further limit their use of stunts, by either:
 
--   Restricting them to only be usable **once per session**, or
+-   Restricting them to only be usable **once per session**,
+
+or
+
 -   _Removing them entirely_ and reducing the acronym to 'KIS'.
 
 ---
 
 ###### Tongue-in-cheek Terminology
 
-We sometimes use the word 'KISS' — pronounced  /kɪs/ — as a _noun_, referring to one's advocacy for a re-roll, and sometimes as a _verb_, meaning the action of the re-rolling itself, and even sometimes as a _different noun_, in reference to a die that has or will be re-rolled. This somewhat loose definition should flow naturally at the table.
+We sometimes use the word 'KISS' — pronounced  /kɪs/ — as an _adjective_, referring to one's advocacy for a re-roll; sometimes as a _verb_, meaning the action of the re-rolling itself; and even sometimes as a _noun_, in reference to a die that has or will be re-rolled. This somewhat loose definition should flow naturally at the table.
 
 'KISS, 'KISSed', 'KISSes', 'KISSing', and 'KISSable' are all words that you end up seeing, saying, and hearing a lot while playing this game. But if you find the jargon is ruining your game's [[Genre, Tone, and Themes|tone]], then just call them 're-rolls' instead.
 
 ---
 
-### Only KISS if you _want_ to
+### Only KISS if You _Want_ to
 
 Aside from making the fun acronym work, the use of the word 'kismet' at the start of KISSing should also prompt you to **think about your character's _personal destiny_**, and to ask yourself:
 
@@ -175,6 +182,6 @@ Aside from making the fun acronym work, the use of the word 'kismet' at the star
 
 With those questions in mind, you may decide _not to KISS_ after all and to simply accept your fate if that makes for a more appealing story. _But this decision is yours and yours alone_. Failure still has [[Difficulties and Consequences|consequences]], even if you chose that failure for yourself.
 
-### Only KISS if you _need_ to
+### Only KISS if You _Need_ to
 
-Aside from the great narrative effects of KISSing dice, a useful side-effect is that **these rules generally speed up gameplay when KISSes wouldn't be necessary**. There is a natural tendency to want to draw on every advantage and 'fire on all cylinders' all-the-time while playing games; but since _KISSes happen after the main roll_, and the target number of successes you need to pass is always pre-established, **you may get the successes you need without needing to KISS**.
+Aside from the great narrative effects of KISSing dice, a useful side-effect is that **these rules generally speed up gameplay when KISSes wouldn't be necessary**. There is a natural tendency to want to draw on every advantage and to 'fire on all cylinders' at all times while playing games, but since _KISSes happen after the main roll_ and the target number of successes you need to pass is always pre-established, **you may find the success you want without needing to KISS**.

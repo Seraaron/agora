@@ -37,7 +37,7 @@ Gain a Lot *immediately*, whenever any these things occur:
 -   **When you limit yourself with a [[Conditions|condition]] and _fail the resulting roll_**.
 -   **When you get an inspired idea or have a _'eureka' moment_**.
 	-   Your [[Facilitator|FC]] may reward good lateral thinking and creative solutions — *especially when it's something they didn't think of* — to help to encourage you to give it go.
--   **When you [[Principle Discovery|discover]] a new [[Principles|principle]] during session.**
+-   **When you [[Discovering Principles|discover]] a new [[Principles|principle]] during session.**
 -   **When you 'take the lead' from your FC and _introduce a slower-paced roleplaying-centered_ [[Session Structure#Scenes|scene]]**.
 	-   This is usually a scene where you talk a lot with an [[Non-player Characters|NPC]] or a fellow [[Player Characters|Player Character]], and take the time to describe some of the set-dressing and mood.
 	-   [[Stress#Stress Relieving Scenes|Stress relef scenes]] and [[Conditions#Catharsis|catharsis scenes]] are a good candidate for these kinds of moments.

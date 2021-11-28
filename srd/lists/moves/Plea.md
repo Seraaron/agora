@@ -9,8 +9,7 @@ tags:
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-13 17:51
-date updated: 2021-11-18 13:49
-
+date updated: 2021-11-23 19:43
 ---
 
 # Plea
@@ -21,7 +20,7 @@ _To ask for something in earnest, or to give your answer to a claim made by anot
 
 |   Roll | Difficulty = [Target's Total Accumulated Stress]                   |
 | -----: | ------------------------------------------------------------------ |
-|        | **[[Diplomat]]** ∥ **[[Orator]]**                                  |
+|        | **[[Diplomat]]** ∥ **[[Orator]]** ∥ **[[Beggar]]**                 |
 | **+1** | You are genuinely telling the truth (or the truth as you know it)? |
 | **+1** | One of your [[Principles]] directly relates to your plea?          |
 |  **+** | [reputation dice] + [aid / other bonuses]                          |

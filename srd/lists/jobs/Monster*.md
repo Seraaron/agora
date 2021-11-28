@@ -12,7 +12,9 @@ last updated: Saturday 2021-09-25 @ 01:25:06 (UTC+0100)
 
 ### Monster ([[Strength|Str]])
 
-#weird #magic #unplayable 
+#athletic #magic #martial #weird 
+
+#unfinished 
 
 Recklessly attacking other beings without concern for self-preservation, using any availiable weapon or tactic. Also does anything else the monster could convievably do that might need rolling for, so long as it’s suitably terrifying or destructive.
 
@@ -20,8 +22,10 @@ Recklessly attacking other beings without concern for self-preservation, using a
 
 #imp **This job cannot be learned by sapient beings.**
 
-> ##### Additional Factors
+> ##### Specific Factors:
 >
-> -   #unfinished
+> -   “...?
+> -   “...?
+> -   “...?
 
 **See also:** [[Beasts & Nightmares]]

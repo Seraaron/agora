@@ -9,8 +9,7 @@ tags:
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-11 23:21
-date updated: 2021-11-18 13:47
-
+date updated: 2021-11-23 19:43
 ---
 
 # Detract
@@ -21,7 +20,7 @@ _You attempt to undermine your opponent's points and positions and try to discre
 
 |    Roll | Difficulty = [Target's Presence]                                                                                                                                                                                  |
 | ------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|         | **[[Charmer]]** ∥ **[[Pundit]]**                                                                                                                                                                                  |
+|         | **[[Charmer]]** ∥ **[[Commander]]** ∥ **[[Philosopher]]**                                                                                                                                                              |
 |  **+1** | Your comments were inappropriate, insulting, or impassioned?                                                                                                                                                      |
 |  **+1** | You have employed an ethical or empathetic fallacy? (eg. _appeal to authority, emotion, dogma, or popularity, ad hominem attacks, moral equivalence, ultimatums, scare tactics, strawmen, slippery slopes, etc._) |
 | **+MD** | + [aid / other bonuses]                                                                                                                                                                                           |

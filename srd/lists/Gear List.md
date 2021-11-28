@@ -21,7 +21,7 @@ When buying gear outside of [[Character Assembly|character assembly]], use the c
 
 ##### `Alternatives`
 
-Some of the gear in this list have alternatives — usually #great variants, for weapons — which are listed in a `monospace font` and have extra tags and a higher cost also listed in that font.
+Some of the gear in this list have alternatives — usually #great variants, for weapons — which are listed in a blue `monospace font` and have extra tags and a higher cost also listed in that font.
 
 #que If you buy the alt, then it has all of the tags of the main piece plus the extra tags in blue.
 

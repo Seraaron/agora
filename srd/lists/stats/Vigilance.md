@@ -24,7 +24,7 @@ _If you have some kind of supernatural perceptions_, such as the ability to see 
 
 #que The specific rules for these powers are usually given as [[Features]], in their descriptions, along with what constitutes a _hard_ Check for that power.
 
-Similarly, Vigilance may be used as the basis for a [[magical subsystem]], using its rank to perform Tasks with an appropriate [[Jobs|job]] (eg. the default [[Mage]] job uses Vigilance as its rank).
+Similarly, Vigilance may be used as the basis for a [[magical subsystem]], using its rank to perform Tasks with an appropriate [[Jobs|job]] (eg. the default [[Mage*]] job uses Vigilance as its rank).
 
 > #nb
 > Your [[Facilitator|FC]] may also ask for you to make a Vigilance check under some of the following situations:

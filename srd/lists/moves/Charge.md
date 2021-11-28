@@ -20,7 +20,7 @@ _Charge is for closing distances and knocking down your target._
 
 |    Roll | Difficulty = **[Target's Poise] + [Target's Guard lvl.]**                           |
 | ------: | ----------------------------------------------------------------------------------- |
-|         | **[[Brawler]]** ∥ **[[Skirmisher]]**                                                |
+|         | **[[Guard]]** ∥ **[[Skirmisher]]**                                                |
 |  **+1** | Your weapon is #heavy?                                                              |
 |  **+1** | Your opponent is in Counteractive stance?                                           |
 |  **+1** | You have a larger physical size than your opponent, or a larger size while mounted? |
