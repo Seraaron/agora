@@ -12,11 +12,17 @@ Right now, the only thing availiable is the published SRD or 'system reference d
 
 ## Changelogs
 
-### Alpha version
+### Alpha (Version 0)
+
+#### 28 Nov 2021
+- Updated job descriptions and added specific factors.
+- Also included some small subsystems like alchemy, crafting, and building.
+- Magic jobs still need finishing.
+- Other tweaks and fixes.
 
 #### 17 Nov 2021
-- Added 'Social Discourse' -- which is a modified version of the combat rules that introduce rhetorical theory.
-- Updated martial combat (minor tweaks)
+- Added 'Social Discourse': A modified version of the combat rules that introduce rhetorical theory.
+- Updated martial combat (minor tweaks).
 
 #### 12 Nov 2021
 - Check difficulties changed to be graduated and failure forward (making them more variable, but also more predictable, since Tasks have ended up being more binary in their use).
