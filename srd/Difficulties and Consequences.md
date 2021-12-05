@@ -4,12 +4,11 @@ alias:
   - difficulty factors
   - difficulty and consequences
 tags:
-  - creativecommons
+  - CC-BY
   - advice
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-07-30+2200
-last updated: Thursday 2021-10-14 @ 16:32:53 (UTC+0100)
 
 ---
 
@@ -50,9 +49,6 @@ We've been quite abstractly explaining them so far, so let's try a more direct a
 
 In either case, regardless of success or failure, _the world will respond to your actions_. This is where a lot of the fun of roleplaying comes from.
 
-> #eg
-> #unfinished
-
 ### Lasting Consequences
 
 An action (no matter how simple or challenging) can sometimes have _indirect_ or _rippling consequences_ that don't rear their heads until a much later date, or which only become apparent after another condition is fulfilled. It's okay if these are not discussed, or even foreseen at the time of the action that caused them; but once _someone_ realizes that this is a possibility (usually the FC), they should begin to hint and signal that the ripples are still there, even tangentially.
@@ -65,30 +61,26 @@ One of the [[Facilitator|Facilitator's]] roles is to '**play the world**'. The c
 
 **Setting the difficulty for a roll is a part of this feedback.**
 
-The way you present that difficulty depends on the [[Checks vs. Tasks|type of roll]]:
+### Difficulty for Checks
 
--   [[Checks]] use _three simple difficulty options_ — easy, normal, and hard — which keeps them quick and easy to run through.
--   [[Tasks]] use _difficulty factors_, which can take a bit longer to go through in deciding which are the most appropriate, as they can come from multiple sources.
+**The difficulty of a [[Checks|Check]] is purely _character based_.** 
 
-### Choosing Difficulty for Checks
+> ### Ie. 
+> Because 2 or more successes *always equals a pass*, and 1 or fewer successes *always equals a miss*, the biggest limiting factor is applied by your [[Stress|stress]] level in the ability being rolled, and any [[Assets and Gear|asset]] you choose to apply to the roll. Otherwise, you always roll 3 dice. 
 
-**The difficulty of a Check should be primarily _based on a gut feeling_.** If the desired action seems like it would be fairly routine, for this character, then go with an 'easy' Check. If it seems difficult, but not _too difficult_, then use a 'normal' Check. And if you think it'd be pretty challenging, then say it's 'hard'.
+This makes Checks very easy to set up and resolve. The hardest part is actually deciding whether to use a Check instead of a full Task. #unfinished 
 
-As an [[Facilitator|FC]], you'll build up a better '[[#Getting a 'Sense of Difficulty'|sense of difficulty]]' over time, and will learn to more-quickly assign Check difficulties to more you play. But if you're ever unsure, then just default to saying it's a normal Check until you feel more confident.
+### Difficulty for Tasks
 
-_However, here's a useful trick that you can also employ:_ Since Checks use solely ability ranks and simple verbs, and everyone in the world shares the same abilities, you can try to imagine yourself attempting the same action that the player is describing, and then think about how hard it might be for you to do the same thing — drawing on your real world experiences.
+If Checks use an 'absolute' scale of difficulty, then **[[Tasks]] use a 'relative' scale of difficulty**. This is represented using a slew of equally weighted factors, rather than a fixed target number (though some Tasks — especially in certain subsystems, like [[Martial Combat|combat]] — do use set targets).
 
-### Applying Factors for Tasks
-
-If Checks use an 'absolute' scale of difficulties, then Tasks can be considered to use a 'relative' scale. This is represented using a slew of equally weighted factors, rather than a fixed target number (though some Tasks — especially in certain subsystems, like [[Martial Combat|combat]] — do use set targets).
-
-There are three main sources of factors for a Task: **The number of objectives**, any **job-specific factors**, and **generic factors**.
+There are three main sources of factors for a Task: **The number of objectives**, any **job-specific factors**, and **[[Generic Difficulty Factors|generic factors]]**.
 
 -   **The number of objectives** is decided by the player during the [[Tasks#1 Set-up|set-up phase]] of the Task discussion. Each objective, including the main objective, counts as a factor, up to a maximum total of 4.
 -   **Job-specific factors** are listed for each job in the [[Jobs List|job list]], and almost always apply whenever they're relevant. (There are only a few such factors per job, but they should be fairly obvious without the need to look them up).
--   **Generic factors** may be suggested by any [[Peers|Peer]], from [[Generic Difficulty Factor Examples List|the example list]] below or by making something up, but the FC ultimately decides which ones to choose and apply — based on the factor's relevancy to the action, and any other information they may be privy to.
+-   **Generic factors** may be suggested by any [[Peers|Peer]], from [[Generic Difficulty Factors|the example list]] below or by making something up, but the FC ultimately decides which ones to choose and apply — based on the factor's relevancy to the action, and any other information they may be privy to.
 
-![[Generic Difficulty Factor Examples List]]
+![[Generic Difficulty Factors]]
 
 #### Choosing Factors
 
@@ -125,4 +117,4 @@ Next, consider the following table, which describes exactly how likely you are t
 
 If you find this table useful, you can find more tables and graphs like it in the [[Dice Probabilities and Statistics]] appendix.
 
-#que With all of this in mind, you can _almost_ consider a Check to be a simplified Task that uses a level 3 ability with a single objective and no (easy), one (normal), or two (hard) difficulty factors.
+#question With all of this in mind, you can _almost_ consider a Check to be a simplified Task that uses a level 3 ability with a single objective and no (easy), one (normal), or two (hard) difficulty factors.

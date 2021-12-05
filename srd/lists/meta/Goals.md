@@ -4,12 +4,11 @@ alias:
   - goals
   - goal
 tags:
-  - creativecommons
+  - CC-BY
   - meta
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-24+1200
-last updated: Friday 2021-09-24 @ 12:31:49 (UTC+0100)
 
 ---
 
@@ -19,12 +18,12 @@ These are the **[[Principles]] that your character wants to achieve** over the c
 
 They should be fairly _direct and promissory_, not wishful, and are best written in first person with the future tense.
 
-> #eg
+> ### Eg.
 >
 > -   "I _will_ get my revenge..." **not**, "I would like to get revenge..."
 > -   "We _must_ escape..." **rather than**, "We should try to escape..."
 
-#imp Try to avoid adding qualifying statements unless they help you to clarify a general motive, and still fit within a single sentence.
+#important Try to avoid adding qualifying statements unless they help you to clarify a general motive, and still fit within a single sentence.
 
 #### Advancing Goals Earns Kismet
 
@@ -45,9 +44,9 @@ By writing ‘**Specific**, **Motivating**, **Achievable**, **Relevant** and **T
 
 -   **Testable:** Think about how long it will take to achieve, how you can track progress, what [[Jobs|jobs]], [[Specialties|specialties]] and [[Assets and Gear|assets or gear]] you'll likely use along the way, and how you will quantify success by the end.
 
-#imp Some of this advice also applies to writing [[Habits]] and [[Creeds]].
+#important Some of this advice also applies to writing [[Habits]] and [[Creeds]].
 
-> #nb
+> ### Nb.
 > The **SMART** acronym was originally a business development [mnemonic](https://en.wikipedia.org/wiki/Mnemonic) written by George T. Doran for _Management Review_ (c. 1981), but it can be adapted to writing goals in [[Agora]] too.
 
 ---

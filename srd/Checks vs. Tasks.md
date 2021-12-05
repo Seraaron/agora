@@ -4,13 +4,12 @@ alias:
   - when to use a Check or a Task
   - types of roll
 tags:
-  - creativecommons
+  - CC-BY
   - rules
   - rolls
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-07-30+1200
-last updated: Thursday 2021-09-23 @ 18:20:01 (UTC+0100)
 
 ---
 
@@ -32,7 +31,7 @@ They both use the same rules for counting successes based on [[Rank|ability rank
 
 Checks are great to use when the only obstacle between success and failure is their own abilities, and they generally fill in the beats of most [[Session Structure#Scenes|scenes]]. _Tasks exist to accommodate the more complicated moments of play,_ and will chance the pace of a scene when you use them.
 
-> #eg
+> ### Eg.
 > #unfinished compare two similar agendas and explain why one would use a Check instead of a Task, or visa versa?
 
 ### Facilitator Styles

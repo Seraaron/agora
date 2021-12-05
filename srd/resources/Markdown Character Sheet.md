@@ -1,9 +1,14 @@
 ---
-date updated: '2021-10-04T15:03:08+01:00'
-
+alias: []
+tags:
+  - CC-BY
+  - resource
+author: Seraaron
+license: CC BY 4.0
+date created: 2021-10-04 03:13
 ---
 
-# [[Agora]]
+# Agora
 
 | Player name | Campaign name | Tier     |
 | ----------- | ------------- | -------- |
@@ -63,16 +68,18 @@ date updated: '2021-10-04T15:03:08+01:00'
 
 ### [[Abilities]]
 
-| Ability       | Rank | _stress_       | Wound |
-| ------------- |:----:|:-------------- | ----- |
-| **APP**EAL    |  6   | worry: 0/2     | --    |
-| **RES**OLVE   |  6   | fatigue: 0/2   | --    |
-| **WIT**S      |  6   | confusion: 0/2 | --    |
-| **FIN**NESE   |  6   | shock: 0/2     | --    |
-| **END**URANCE |  6   | hunger: 0/2    | --    |
-| **SWI**FTNESS |  6   | pain: 0/2      | --    |
+| Ability                | Rank | _stress_       | Wound |
+| ---------------------- | :--: | :------------- | ----- |
+| **APP**EAL             |   6  | worry: 0/2     | --    |
+| **RES**OLVE            |   6  | fatigue: 0/2   | --    |
+| **WIT**S               |   6  | confusion: 0/2 | --    |
+| **FIN**NESE            |   6  | shock: 0/2     | --    |
+| **END**URANCE          |   6  | hunger: 0/2    | --    |
+| **SWI**FTNESS          |   6  | pain: 0/2      | --    |
+
 %%
-##### [[Capabilities]]
+
+##### [[Capabilities]] 
 
 | Capability     | Rank |    _stress_ |
 | -------------- | :--: | ----------: |
@@ -81,13 +88,14 @@ date updated: '2021-10-04T15:03:08+01:00'
 | ...            |      |             |
 
 #### _[[Conditions]]_
+
 - [ ] [insert]
 - [x] [insert] (check box if used this session)
 - [insert] (change to normal bullet point if ready for catharsis)
 - [ ] [add more]
 - [ ] ...
+
 %%
----
 
 ### [[Jobs]]
 
@@ -109,7 +117,7 @@ date updated: '2021-10-04T15:03:08+01:00'
 ### [[Assets and Gear]]
 
 - **+0** [insert] `tag 1`, `tag 2`, `etc` (or notes)
-- **+0** [add more] `tag 1`, `tag 2`, `etc` 
+- **+0** [add more] `tag 1`, `tag 2`, `etc`
 - **+...**
 
 ---

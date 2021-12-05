@@ -4,12 +4,11 @@ alias:
   - habits
   - habit
 tags:
-  - creativecommons
+  - CC-BY
   - meta
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-24+1200
-last updated: Friday 2021-09-24 @ 12:41:29 (UTC+0100)
 
 ---
 
@@ -19,7 +18,7 @@ These are **[[Principles]] that your character repeatedly does**, or ways that t
 
 Despite the limited space that you're given to write habits, try to write them from a first-person perspective and use natural language. Try not to write them too 'programmatically'.
 
-> #eg
+> ### Eg.
 > -   "If I ever feel I'm in danger, I secure my sidearm and ready it." **instead of**, "If in danger, then draw weapon."
 > -   "Whenever we set out on the road, I like to strike up a song and keep spirits high!" **not**, "While travelling: sing."
 
@@ -34,7 +33,7 @@ Habits have two main uses, but they are quite versatile and you may find or make
 	-   Or you can just write a habit to suit you for a specific scenario and then change it out once the situation changes.
 
 
-> #nb
+> ### Nb.
 > The second use of habits is mainly here to cut out some of the busy-work and minutiae of adventuring, exploration, or downtime, by letting you write habits like:
 >
 > -   "I always carry enough rope."
@@ -43,7 +42,7 @@ Habits have two main uses, but they are quite versatile and you may find or make
 >
 > **That is: _If you have a habit for it, then it must be true_**.
 
-#imp Habits *aren't* supposed to promote or reward disruptive behavior. Disruptive habits are called '[[Principles#Duds|duds]]' and should be vetoed-off by your Peers before play.
+#important Habits *aren't* supposed to promote or reward disruptive behavior. Disruptive habits are called '[[Principles#Duds|duds]]' and should be vetoed-off by your Peers before play.
 
 ![[Flashbacks]]
 

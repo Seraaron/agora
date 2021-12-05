@@ -3,26 +3,24 @@ alias:
   - contents
   - index
 tags:
-  - creativecommons
+  - CC-BY
   - list
   - index
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-08-24+2200
-last updated: Friday 2021-09-24 @ 19:33:52 (UTC+0100)
-date updated: '2021-09-28T17:45:05+01:00'
-
+date updated: 2021-12-01 14:20
 ---
 
-# AGORA
-
 ###### Character-Focused Agenda-Driven Roleplaying
+
+![[agoraLogo.svg]]
 
 **Welcome to Agora**, _a free and open roleplaying game_ about playing deep and intricate characters who strive to change the worlds they live in to conform to their ideals.
 
 ---
 
-###### #imp THIS IS A WORK IN PROGRESS #imp
+###### #important THIS IS A WORK IN PROGRESS #important
 
 **You are currently reading the first _major public 'alpha' release_. Meaning that there's a lot of content missing, such as character creation rules or really anything besides the core gameplay system.**
 
@@ -49,33 +47,34 @@ _But if you like what you see, then consider joining the [Discord.gg/JwM6zBszKr]
 ### § 1 — Essential Rules
 
 - [[Player Characters]]
-  - [[Facilitator]]
-  - [[Peers]]
+	- [[Facilitator]]
+	- [[Peers]]
 - [[Agenda]]
 	- [[When to roll dice]]
 - [[Checks vs. Tasks]]
-  - [[Checks]]
-  - [[Tasks]]
-    - [[Opposed Tasks]]
+	- [[Checks]]
+	- [[Tasks]]
+		- [[Opposed Tasks]]
 - [[KISSing]]
 	- [[Helping]]
 - [[Difficulties and Consequences]]
 - [[Let the dice fall where they may]]
 
 ### § 2 — Characters
+
 - [[Development Sessions]]
 - [[Character Assembly]]
 - [[Circumstances]]
 	- [[Tier]]
 - [[Principles]]
-  - [[Kismet]]
+	- [[Kismet]]
 - [[Abilities]]
-  - [[Rank]]
-  - [[Stress]]
-  - [[Capabilities]]
+	- [[Rank]]
+	- [[Stress]]
+	- [[Capabilities]]
 - [[Jobs]]
 - [[Conditions]]
-  - [[Wounds and Scars]]
+	- [[Wounds and Scars]]
 - [[Assets and Gear]]
 - [[Specialties]]
 	- [[Fact Checks]]
@@ -86,7 +85,7 @@ _But if you like what you see, then consider joining the [Discord.gg/JwM6zBszKr]
 - [[Conflict Systems]]
 	- [[Martial Combat]]
 	- [[Social Discourse]]
-- #unfinished 
+- #unfinished
 
 ### § 4 — Tools, Essays, and Advice
 
@@ -103,14 +102,13 @@ _But if you like what you see, then consider joining the [Discord.gg/JwM6zBszKr]
 - [[Houserules and Temporary Rulings]]
 - #unfinished
 
-
 ### § 5 — Appendices
 
 - [[Example Worlds]]
 - [[The King is Dead (demo scenario)]]
 - [[Guides for being an 'Agora-like' game]]
-  - [[Capitalization and Spelling guide]]
-  - [[Using the License]]
+	- [[Capitalization and Spelling guide]]
+	- [[Using the License]]
 - [[Influences and Acknowledgments]]
 
 ### § 6 — Lists & Indices
@@ -121,7 +119,7 @@ _But if you like what you see, then consider joining the [Discord.gg/JwM6zBszKr]
 	- [[D66 Jobs]]
 - [[Specialties List]]
 - [[Gear List]]
-  - [[Tags List]]
+	- [[Tags List]]
 - [[Session Zero Checklist]]
 
 ### § 7 — Resources

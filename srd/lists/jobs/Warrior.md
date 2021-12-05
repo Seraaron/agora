@@ -1,27 +1,32 @@
 ---
-alias: []
+alias:
+  - fighter
+  - combatant
+  - knight
+  - battleborn
+  - brave
+  - man-at-arms
 tags:
-  - creativecommons
+  - CC-BY
   - jobs
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0100
-last updated: Saturday 2021-09-25 @ 01:08:47 (UTC+0100)
-
+date updated: 2021-11-26 23:32
 ---
 
 ### Warrior ([[Finesse|Fin]])
 
-#athletic #civic #martial 
+#athletic #civic #martial
 
-Fighting with whatever sophisticated weapons are appropriate for your culture (both melee &or short-ranged) using traditional techniques or martial arts, often while heavily armored. Also includes dueling a single opponent with matched weapons, in accordance with some agreed-upon code or law.
+Fighting with whatever sophisticated melee weapons are appropriate for your culture using traditional techniques, often while heavily armored. Also includes dueling a single opponent with matched weapons, in accordance with some agreed-upon code or law.
 
-#imp **Requires:** Weapons and armor (and may also require a _noble background_, or [[Honor]], if that’s appropriate for your setting).
+May be used during [[Martial Combat|combat]] to make melee attacks, using the target's  poise as the base difficulty, and can inflict a final killing blow. Can also be used for the final shot when [[Hunter|hunting]] big game.
 
-_**Suggested Specialties:** [armor / weapons], Competition, [martial arts], Quick reflexes…_
+#important **Requires:** #warrior weapons, and #armor or a #shield
 
-> ##### Additional Factors
->
-> -   #unfinished
+#question May also require a _noble background_, or the [[Honor]] capability, if that's appropriate for your setting.
 
-**See also:** [[Conflict Systems]]
+_**Suggested Specialties:** [armor], Athletics, Competition, Quick Reflexes, [weapons]..._
+
+> ![[Murder Most Foul]]

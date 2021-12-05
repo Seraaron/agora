@@ -1,27 +1,36 @@
 ---
-alias: []
+alias:
+  - diplomacy
+  - courtier
+  - dignitary
+  - representative
+  - judge
+  - broker
 tags:
-  - creativecommons
+  - CC-BY
   - jobs
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
-last updated: Saturday 2021-09-25 @ 00:31:22 (UTC+0100)
-
+date updated: 2021-11-23 20:07
 ---
 
 ### Diplomat ([[Resolve|Res]])
 
-#civic #social #political
+#civic #financial #intrigue #social
 
-Mediating a discussion or calming an argument or disagreement. Dealing with difficult situations in a way that does not cause offense. Representing the interests of your religion, organization, or country in a foreign land. May include standing on a jury or performing the duties of a judge, and resolving a court case, if appropriate.
+Mediating a discussion or calming an argument or disagreement. Dealing with difficult situations in a way that does not cause offense. Mingling with aristocrats, investors, and dignitaries. Representing the interests of your religion, organization, or country. Standing on a jury or performing the duties of a judge, and resolving a court case.
 
-May also include brokering political deals and trade contracts, or the use of proper formalities and honorifics, with [[Appeal]].
+May be used in a [[Social Discourse|debate]] to plea your case, ask questions, endorse a subject, or to pronounce a rejection.
 
-_**Suggested Specialties:** Barter, [culture], Etiquette, [history]…_
+May also include brokering _above board_ political deals and contracts, or getting away with using improper formalities or honorifics, with [[Appeal]].
 
-> ##### Additional Factors
+_**Suggested Specialties:** [culture], Etiquette, [history], [language], [laws], Rhetoric..._
+
+> ##### Specific Factors:
 >
-> -   #unfinished
+> - “Acting abroad, in a foreign land, or dealing with unfamiliar customs and people...?
+> - “You have no idea who you're currently talking to or what their position or role is...?
+> - “You have an obvious conflict of interests or personal bias...?
 
-###### {[[D66 Jobs|23]]}
+###### {[[D66 Jobs|42]]}

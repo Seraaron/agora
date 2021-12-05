@@ -3,13 +3,12 @@ alias:
   - assets
   - asset dice
 tags:
-  - creativecommons
+  - CC-BY
   - features
   - rules
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-07-30+2200
-last updated: Thursday 2021-09-23 @ 18:20:11 (UTC+0100)
 
 ---
 
@@ -30,7 +29,7 @@ Assets can be broadly divided into two categories, capital and prestige. They ar
 
 Most capital assets have direct uses — investments can grow in value, buildings can be used and lived in, land can be worked, ships and trains can transport people or things, magical swords can slay monsters, and art can be used as tax write-offs — but you typically only add the dice from a capital asset to your rolls when you use the it in a way that would actually grant you a bonus, _where the die rating represent its quality and worth_.
 
-> #eg
+> ### Eg.
 > Property and real estate; great funds and fortunes, or inherited resources; shares in a business; large vehicles or machines; fine art and furniture; rare artefacts and treasures; livestock or farmland; or any other large quantities of wealth or stores of value that are not easily transferable.
 
 In all of these cases, the usefulness of asset in question should be fairly implicit or else come with a description or explanation.
@@ -39,7 +38,7 @@ In all of these cases, the usefulness of asset in question should be fairly impl
 
 Prestigious assets are most commonly used when you try to leverage your reputation or position to get what you want.
 
-> #eg
+> ### Eg.
 > Your importance to and connections within an organization or societal group; your allegiance to a particular faction or philosophy; your guild titles or noble honors; a reputation for doing something that makes you (_in_)famous — regardless of whether there's any truth to the claims — or anything else that might bring you renown or clout.
 
 They can grant you access to places or people than you would otherwise struggle to get to with fewer questions asked, or they can represent a traded favor here, and a whispered name there. They make you important within a given setting or faction, and they make you more likely to be listened to or taken seriously in certain social contexts, or they might help you strike fear into your enemies if your influence makes you particularly domineering or dreadful.
@@ -48,12 +47,12 @@ They can grant you access to places or people than you would otherwise struggle 
 
 Gear highlights _the most important objects  you own_, the things you hold dearest or rely upon regularly. It can be lost, traded, or stolen; but equally, new gear can acquired by finding, buying, or stealing them in kind.
 
-> #eg
+> ### Eg.
 > Mundane items, equipment, and bits of kit; tools and weapons; special articles of clothing and outfits, or personal effects; armor and other panoply; simple vehicles, like small boats and carts; supplies and sundry items; jewels, valuable materials, or simple cash money.
 
 Gear is technically a just a special type of asset — representing your equipment, tools, materials, and small valuables — but the biggest difference is that bits of gear have other '[[Tags List|tags]]' that identify specific uses or effects when used, whereas normal assets are more interpretive and may be applied to rolls that wouldn't necessarily use gear.
 
-#que Gear can be just about any object can be considered a piece of gear, so making up new things on the fly is fairly easy using the tagging system ([[#Tags|see below]]).
+#question Gear can be just about any object can be considered a piece of gear, so making up new things on the fly is fairly easy using the tagging system ([[#Tags|see below]]).
 
 #### Required Gear
 
@@ -87,7 +86,7 @@ All of this makes magic and high-tech items _very valuable_ indeed.
 
 Tags can all be written in lower case, after the die rating and name of an asset, separated by commas on your character sheet. An asset may have 'obvious' tags which you don't need to write, to save space, if the name of the asset effectively tells you what its tags already are.
 
-> #eg
+> ### Eg.
 > A "**+1 · Bronze short sword · `breakable 2`**" is quite obviously a `short`, `sharp`, `melee`, `weapon` that provides a +1 die bonus to rolls when you use it, so those tags aren't needed to describe it. Only the `breakable 2` tag is explicitly needed to represent the malleable quality of the bronze material.
 
 ![[Tags List]]

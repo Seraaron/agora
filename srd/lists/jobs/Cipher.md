@@ -1,29 +1,35 @@
 ---
-alias: []
+alias:
+  - hacker
+  - cheater
+  - forger
 tags:
-  - creativecommons
+  - CC-BY
   - jobs
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0100
-last updated: Saturday 2021-09-25 @ 01:12:18 (UTC+0100)
-
+date updated: 2021-11-23 17:38
 ---
 
 ### Cipher ([[Appeal|App]])
 
-#rogue #social #political 
+#intrigue #social #rogue
 
 Telling lies and social stealth. Keeping your emotions to yourself, controlling your body language, disguising yourself, being deceptive, and generally dodging attention. Speaking in jargon to impress, deflect, or confuse, or to relay a hidden message.
 
-May also include playing games of chance, such as poker, or hiding, encrypting, or destroying information, using [[Wits]].
+May be used during a [[Social Discourse|social discourse]] to obscure information or give a rejection, and can also be used in combination with your own presence to determine your starting composure.
 
-#imp **Possibly requires:** `rogue tools`.
+May also include playing games of chance, or hiding, encrypting, and destroying information, or creating forgeries, using [[Wits]].
 
-_**Suggested Specialties:** Etiquette, Deception, Deep dark secrets, Flattery, Old adages, Patience…_
+#important **Possibly Requires:** #rogue-tools
 
-> ##### Additional Factors
+_**Suggested Specialties:** Etiquette, Deception, Deep Dark Secrets, Flawless Alibis, Jargon [language], [laws], Old Adages, Patience..._
+
+> ##### Specific Factors:
 >
-> -   #unfinished
+> - “All eyes and ears are on you, and your exact words may be scrutinized...?
+> - “There's some truth to your lies, or you're omitting specific information...?
+> - “These people know you, or know when you're acting strangely...?
 
-###### {[[D66 Jobs|64]]}
+###### {[[D66 Jobs|12]]}

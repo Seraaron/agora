@@ -3,7 +3,7 @@ alias:
   - planning procedure
   - quick plan
 tags:
-  - creativecommons
+  - CC-BY
   - summary
   - advice
 author: Seraaron

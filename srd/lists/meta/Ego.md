@@ -1,12 +1,11 @@
 ---
 alias: []
 tags:
-  - creativecommons
+  - CC-BY
   - meta
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-23+1600
-last updated: Friday 2021-09-24 @ 14:37:33 (UTC+0100)
 
 ---
 
@@ -14,7 +13,7 @@ last updated: Friday 2021-09-24 @ 14:37:33 (UTC+0100)
 
 **You either have Ego, or you don't**, at any given time.
 
-> #nb
+> ### Nb.
 > Ego represents _quite literally_ your character's sense of self, and also the part of their psyche that believes they have control over their own reality. _Ego is a force:_ A force that makes the world conform to your vision.
 
 Every character starts the game with Ego, unless you choose to start with an extra +1d6 Lots instead. You can represent whether you currently have Ego or not by filling in or erasing the diamond (◇ ↔ ◆) on your [[Character Sheets|character sheet]], using the faces of a coin or a playing card, or using some other kind of binary token.

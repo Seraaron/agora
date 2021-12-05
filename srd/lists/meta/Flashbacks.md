@@ -1,10 +1,16 @@
 ---
-alias: [flashbacks]
-tags: [creativecommons]
+alias:
+  - flashbacks
+  - flashback scenes
+tags:
+  - CC-BY
+  - rules
+  - extra
+  - embed
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-05+1600
-last updated: Friday 2021-11-05 16:22:54 (UTC+0000)
+date updated: 2021-12-01 13:42
 ---
 
 ##### _Optional:_ Flashbacks
@@ -16,4 +22,4 @@ last updated: Friday 2021-11-05 16:22:54 (UTC+0000)
 >
 > — **John Harper**, [Blades in the Dark](https://bladesinthedark.com/planning-engagement)
 
-#que The technique of using 'flashbacks' was popularized in Blades in the Dark, but not everyone finds them useful or engaging, so it's worth discussing with your [[Peers]] whether you want to allow habits to be used in this way during [[Development Sessions#Session Zero|session zero]].
+#question The technique of using 'flashbacks' was popularized in Blades in the Dark, but not everyone finds them useful or engaging, so it's worth discussing with your [[Peers]] whether you want to allow habits to be used in this way during [[Development Sessions#Session Zero|session zero]].

@@ -5,14 +5,12 @@ alias:
   - encumbrance
   - encumbrance cost
 tags:
-  - creativecommons
-  - rules
-  - extra
+  - CC-BY
+  - subsystems
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-09 22:43
-date updated: 2021-11-19 19:12
-
+date updated: 2021-11-29 13:00
 ---
 
 ### Carry Weight
@@ -34,7 +32,7 @@ Your base 'carry limit' is 8 minus your Endurance [[Rank|rank]], **plus a bonus*
 | Ample  | 8 − END **+ 14** | _~170-230 lbs (80-100 kg)_         |
 | Large  | 8 − END **+ 22** | _~265-360 lbs (120-160 kg)_        |
 
-#que Giving a total carry limit of 12-14 for most adult human characters, for example.
+#question Giving a total carry limit of 12-14 for most adult human characters, for example.
 
 #### Carry Costs
 
@@ -42,9 +40,9 @@ Every bit of [[Gear List|gear]] in the game has [[Tags List|tags]], which functi
 
 The following tags have a 'carry cost' which are summed and then subtracted from your carry limit to work out how much is reasonable for you to be able to carry.
 
-|        Tag: |  —  | #light | #balanced | #heavy | #super-heavy |
-| -----------:|:---:|:------:|:---------:|:------:|:------------:|
-| **Base Carry Cost:** |  0  |   1    |     2     |   3    |      4       |
+|                 Tag: |  —  | #light | #medium | #heavy | #super-heavy |
+| -------------------: | :-: | :----: | :-----: | :----: | :----------: |
+| **Base Carry Cost:** |  0  |    1   |    2    |    3   |       4      |
 
 The #great and #secret tags modify the carry cost of the item they're listed with, by **+1** and **−1**, respectively, down to a minimum of zero. Other tags may do this too. This usually indicates that the item just takes up more or less space, not that it necessarily weighs any more or less.
 

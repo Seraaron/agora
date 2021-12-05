@@ -1,12 +1,11 @@
 ---
 alias: []
 tags:
-  - creativecommons
+  - CC-BY
   - meta
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-23+1600
-last updated: Friday 2021-09-24 @ 14:44:25 (UTC+0100)
 
 ---
 
@@ -14,7 +13,7 @@ last updated: Friday 2021-09-24 @ 14:44:25 (UTC+0100)
 
 **Fidelity is a gauge that _slowly ticks up to four_, and then it resets.**
 
-> #nb
+> ### Nb.
 > Fidelity represents a measure of your long-term success at establishing and upholding _your truth_ — your version of reality — whatever that may be, and for whatever good or ill that it may bring to others. Fidelity is the _quintessence of kismet;_ the stuff that lets you reach [[Tier#Mythic Tier|mythic]] levels of excellence.
 
 Characters do not normally start with any Fidelity. Fidelity changes infrequently, and it progresses in two stages, so it is best to represent earning it by filling in the white diamonds first with a small black diamond, on your [[Character Sheets|character sheet]], and then with a full diamond when you spend it (i.e ◇ → ◈ → ◆).

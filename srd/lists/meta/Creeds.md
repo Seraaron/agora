@@ -6,12 +6,11 @@ alias:
   - oaths
   - oath
 tags:
-  - creativecommons
+  - CC-BY
   - meta
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-24+1200
-last updated: Friday 2021-09-24 @ 12:48:19 (UTC+0100)
 date updated: 2021-11-05 19:17
 
 ---
@@ -22,7 +21,7 @@ These are **[[Principles]] that your character believes in absolutely**, as well
 
 They are best written as unqualified statements of fact — even if they're not actually true — without a hint of doubt or irony in the tone, _even if that makes them sound righteous or arrogant_.
 
-> **#eg**
+> **### Eg.**
 >
 > -   "Nothing can break our love." **not**, "My love won't falter unless..."
 > -   "My faith will protect me!" **instead of**, "I hope my god is real..."
@@ -41,7 +40,7 @@ During a [[Development Sessions|development session]] between [[Campaign Arcs|ar
 
 A side-effect of the process of [[Challenging Principles|challenging Principles]] means that if there is something that you think your character _really does_ believe in without question, _and you don't want it to be questioned_, then consider adding it to your [[Circumstances|backgrounds]] or making it a [[Specialties|specialty]] instead.
 
-#imp **By writing a creed, you are painting a target for your Facilitator to strike at.**
+#important **By writing a creed, you are painting a target for your Facilitator to strike at.**
 
 You can always change a specialty or a background into a creed at a later date, but _you can't so easily change a creed without playing the game_.
 
@@ -61,7 +60,7 @@ The only _honorable_ way to remove an oath is to have it annulled by the charact
 
 **If an oath is honorably completed or removed, then it immediately counts as _valid adherence_ for the purposes of earning Fidelity.** This makes oaths very strong, but they of course come with the responsibilities of the oath too!
 
-> #nb
+> ### Nb.
 > Oaths are useful for this reason **as a way to ensure that you earn Fidelity for doing something you promised to do**.
 >
 > In this light, _an oath may be seen as a ‘greater [[Goals|goal]]’ that you complete over the course of an [[Campaign Arcs|arc]], or several arcs_.

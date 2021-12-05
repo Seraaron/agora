@@ -1,15 +1,16 @@
 ---
 alias: [worldbuilding]
-tags: [creativecommons]
+tags: [CC-BY]
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-24+1100
-last updated: Friday 2021-09-24 11:53:49 (UTC+0100)
 ---
+
+#unfinished 
 
 #### World Rules
 
->#eg
+>### Eg.
 >
 >- Nothing can travel faster than the speed of light
 >- Miracles and magic are demonstrably real

@@ -1,10 +1,9 @@
 ---
 alias: [end-of-session rewards, Lots questions]
-tags: [creativecommons, meta, advice]
+tags: [CC-BY, meta, advice, embed]
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-05+1300
-last updated: Friday 2021-11-05 13:03:22 (UTC+0000)
 ---
 
 #### End-of-Session Rewards

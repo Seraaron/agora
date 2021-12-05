@@ -3,20 +3,19 @@ alias:
   - kismet
   - metacurrency
 tags:
-  - creativecommons
+  - CC-BY
   - rules
   - advice
   - kismet
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-08-16+2200
-last updated: Friday 2021-09-24 @ 14:59:47 (UTC+0100)
 
 ---
 
 # Kismet
 
-> #nb
+> ### Nb.
 > 'Kismet' is a Turkish word, derived from the Arabic **قسمة** 'qisma', meaning one's _share in destiny_.
 
 In [[Agora]], kismet functions as a so-called 'metacurrency' — or narrative reward points — used to aid rolls and to track long-term character development.

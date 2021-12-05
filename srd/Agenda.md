@@ -5,12 +5,11 @@ alias:
   - agenda
   - agendas
 tags:
-  - creativecommons
+  - CC-BY
   - advice
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-07-30+1200
-last updated: Thursday 2021-09-23 @ 18:20:18 (UTC+0100)
 
 ---
 
@@ -20,7 +19,7 @@ During play, once it is decided that [[When to roll dice|you should roll dice]],
 
 Coming up with an agenda each [[Session Structure#Turns|turn]] can be a _complex and personal_ process; everyone will do it slightly differently, because everyone thinks differently.
 
-> #nb
+> ### Nb.
 > **The following are some questions you can ask yourself if you're feeling stuck:**
 >
 > -   Look to your [[Principles|principles]], and think about which ones are currently motivating you the most, or which ones can apply directly to what's happening right now?

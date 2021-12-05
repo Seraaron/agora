@@ -1,16 +1,33 @@
+---
+alias:
+  - gunnery
+  - marksman
+  - musketeer
+  - sharpshooter
+  - artillerist
+  - fusilier
+  - gunslinger
+tags:
+  - CC-BY
+  - jobs
+author: Seraaron
+license: CC BY 4.0
+date created: 2021-11-24 15:02
+date updated: 2021-11-24 15:33
+---
 
+### Gunner ([[Finesse|Fin]])
 
+#athletic #martial
 
-### Gunner ([[Wits|Wit]])
+Shooting and maintaining guns, such as muskets, rifles, shotguns, and pistols. Mainly used during [[Martial Combat|combat]] to make ranged attacks, using your target's poise as the difficulty (but ignoring most shields), and can inflict a final killing blow. Can also be used for the final shot when [[Hunter|hunting]] big game.
 
-#martial
+Also includes operating heavier artillery and seige weapons that use heavy munitions, such as catapults, balista, cannons, mortars, turrets, tanks, gunboats, or drones, if they’re appropriate for your setting.
 
-Using guns and other firearms
+#important **Requires:** #firearm or #war-machine weapons
 
-May also include operating heavier artillery and seige weapons that use heavy munitions, such as catapults, balista, cannons, mortars, turrets, tanks, gunboats, or drones, if they’re appropriate for your setting, using [[Endurance]].
+_**Suggested Specialties:** Artillery / Gunnery [weapons], Hauling, Tactics, Observation..._
 
-#imp **Requires:** A  firearm weapon or war-machine.
+**Note:** This job is usually replaced with [[Archer]] if playing in a more antiquated setting.
 
-_**Suggested Specialties:** Hauling, Tactics, Observation, [weapon (ranged / firearm / artillery)]…_
-
-**Note:** Usually replaced with [[Archer]] if playing in a more antiquated setting.
+> ![[Using Guns]]

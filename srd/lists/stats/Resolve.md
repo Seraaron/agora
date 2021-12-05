@@ -2,13 +2,12 @@
 alias:
   - Res
 tags:
-  - creativecommons
+  - CC-BY
   - stats
   - core
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-22+2100
-last updated: Thursday 2021-09-23 @ 21:54:45 (UTC+0100)
 
 ---
 
@@ -16,7 +15,7 @@ last updated: Thursday 2021-09-23 @ 21:54:45 (UTC+0100)
 
 Your Resolve (or '**Res**' for short) represents your _mental fortitude_, wisdom, patience, social willpower, determination, memory retention, and temporal senses.
 
-> #eg
+> ### Eg.
 > Some **_simple verbs_** which may require a Resolve [[Checks|check]] include:
 >
 > -   **Count / Gauge:** _Enumerate the total number of many things, or accurately guess the size or weight of something._
@@ -28,4 +27,4 @@ Your Resolve (or '**Res**' for short) represents your _mental fortitude_, wisdom
 > -   **Rest:** _Sleep soundly through turbulence, bad weather, loud noises, or other disturbances._
 > -   **Wait:** _Test your patience, meditate, or stay awake during your normal hours of sleeping._
 
-#que [[Burnout]] is the [[Stress|stress]] of Resolve.
+#question [[Burnout]] is the [[Stress|stress]] of Resolve.

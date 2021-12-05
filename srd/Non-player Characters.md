@@ -1,10 +1,9 @@
 ---
 alias: [Non-Player Character, NPC, NPCs]
-tags: [creativecommons, core, advice]
+tags: [CC-BY, core, advice]
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-07-30+1900
-last updated: Friday 2021-07-30 19:43:57 (UTC+0100)
 ---
 
 # Non-Player Characters

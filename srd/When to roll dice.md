@@ -4,14 +4,13 @@ alias:
   - why we roll
   - say 'yes'
 tags:
-  - creativecommons
+  - CC-BY
   - tools
   - advice
   - consent
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-07-22+1700
-last updated: Thursday 2021-09-23 @ 14:05:44 (UTC+0100)
 
 ---
 
@@ -48,7 +47,7 @@ Players can follow these guides to avoid being told 'No':
 
 -   **Don't challenge backgrounds:** The PCs all have [[Circumstances#Background Traits|background circumstances]] that defines their core concept, culture, and appearance. Players can opt to put some of these features into the 'foreground', meaning they are _changeable_. However, the power to change them still lies solely in the hands of that character's player. You are certainly encouraged to incorporate the character's background into the game and setting, but expect to be told 'No' if you try to challenge one directly.
 
-> #nb
+> ### Nb.
 > You may find through play that there are other times you want to say 'No' too. Therefore, **any player can pause the game to discuss the intent of an action any time before rolling dice**, if they feel it's something that should be scrutinized before committing to anything.
 
 

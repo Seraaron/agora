@@ -4,13 +4,12 @@ alias:
   - ability
   - Ability
 tags:
-  - creativecommons
+  - CC-BY
   - rules
   - stats
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-07-29+1400
-last updated: Thursday 2021-09-23 @ 18:20:23 (UTC+0100)
 
 ---
 

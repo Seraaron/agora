@@ -1,10 +1,9 @@
 ---
 alias: [stressful rolls, stressful]
-tags: [creativecommons]
+tags: [CC-BY, rules, extra, embed]
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-04+1200
-last updated: Thursday 2021-11-04 12:45:00 (UTC+0000)
 ---
 
 #### Stressful Rolls
@@ -15,4 +14,4 @@ It means that **if you fail the roll**, then in addition to any other consequenc
 
 **If your [[Facilitator]] thinks that a roll should be 'stressful' they must say so before you roll**. Should they forget to declare anything before your dice hit the table then your roll is still valid, *it just wasn't that stressful after all*.
 
-#imp However if you roll before the stakes are set, or before the [[Difficulties and Consequences|consequences]] are discussed, then it *is* invalidated — so don't be too hasty.
+#important However if you roll before the stakes are set, or before the [[Difficulties and Consequences|consequences]] are discussed, then it *is* invalidated — so don't be too hasty.

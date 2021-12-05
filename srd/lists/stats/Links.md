@@ -2,13 +2,12 @@
 alias:
   - Lin
 tags:
-  - creativecommons
+  - CC-BY
   - stats
   - optional
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-22+2300
-last updated: Thursday 2021-09-23 @ 21:54:39 (UTC+0100)
 
 ---
 
@@ -32,9 +31,9 @@ In order to use Links, you must first think up a [[Non-player Characters|Non-Pla
 
 _Links rolls are a bit strange._ They blur [[Checks vs. Tasks|the line between Checks and Tasks]]. You first collect 3 dice, as per a [[Checks|Check]], but then you can add bonus dice from your [[Assets and Gear#Assets|assets]], like a [[Tasks|Task]]. The difficulty is built out of factors, like a Task, but there are no side-objectives.
 
-#que You can only receive help on a Links roll if it's reasonable for the helper(s) to also know who you're looking for.
+#question You can only receive help on a Links roll if it's reasonable for the helper(s) to also know who you're looking for.
 
-> #nb
+> ### Nb.
 > **The base difficulty is 1, and the additional factors are as follows:**
 >
 > -   You can't remember their name.
@@ -45,7 +44,7 @@ _Links rolls are a bit strange._ They blur [[Checks vs. Tasks|the line between C
 >
 > _So the maximum difficulty is 6_.
 
-#imp If you're meeting a new NPC for the first time and trying to _make a good impression_, then use an [[Appeal]] check instead.
+#important If you're meeting a new NPC for the first time and trying to _make a good impression_, then use an [[Appeal]] check instead.
 
 ##### Success and Failure on Links Rolls
 
@@ -75,4 +74,4 @@ Links starts at [[Rank|rank]] 6, and advances or regresses by one step (ie. 6 â†
 | #dw | If Wits is your worst mental ability, _then regress your Links_                                                                                                                                          |
 | #dw | If you are currently living in a new place that you've not lived in before (ie. a new city, country, planet, etc, or anyplace foreign to you that you've not set roots into), _then regress your Links_ |
 
-#que [[You can only reach rank 3 Links with a special gambit]], and getting to rank 2 Links or higher is normally impossible.
+#question [[You can only reach rank 3 Links with a special gambit]], and getting to rank 2 Links or higher is normally impossible.

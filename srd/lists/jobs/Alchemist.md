@@ -1,29 +1,31 @@
 ---
-alias: []
+alias:
+  - transmutation
+  - chemist
+  - munitions
+  - chandler
+  - apothecary
 tags:
-  - creativecommons
+  - CC-BY
   - jobs
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
-last updated: Saturday 2021-09-25 @ 01:35:54 (UTC+0100)
-
+date updated: 2021-11-24 21:34
 ---
 
 ### Alchemist ([[Wits|Wit]])
 
-#erudite #craft #medical #ritual 
+#academic #craft #magic #medical #ritual
 
-Transmuting one material to another, either with science or magic (or perhaps as an elaborate charade), and typically recording your results as part of a hermetic tradition. Includes knowledge and use of equipment and reagents, and apothecarial, herbalistic, and pharmaceutical knowledge too (ie. the making of drugs, potions, and poisons).
+Transmuting one material to another, either with science or magic — or both? — and typically recording your results as part of a hermetic tradition. Understanding the principles of equivalent exchange. Includes knowledge and use of equipment and reagents, and apothecarial and pharmaceutical knowledge too (ie. the making of drugs, potions, and poisons).
 
-May also include soap-making, munitions and weapons experimentation, and making new magical discoveries, using [[Resolve]].
+May also include soap and candle making, munitions and weapons experimentation, and making new magical discoveries, using [[Resolve]].
 
-#imp **Requires:** Scholar, Engineer, or Physician level 2, `erudite tools`, and `craft tools` or `medical tools`
+#important **Requires:** #ritual-tools and #academic-tools
 
-_**Suggested Specialties:** Brewing, Chemical science, [history], Transmutation magic…_
+_**Suggested Specialties:** Brewing Potions, Chemistry [science], Distilling Poisons, Esoteric [history], Transmutation [magic], Symbolism, Rituals..._
 
-> ##### Additional Factors
->
-> -   #unfinished
+**Note:** This job is usually replaced with [[Physician*]] if playing in a more contemporary setting.
 
-**Note:** Usually replaced with [[Physician]] if playing in a more contemporary setting.
+> ![[Alchemy]]

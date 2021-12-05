@@ -4,12 +4,12 @@ alias:
   - influences
   - acknowledgments
 tags:
-  - somerightsreserved
+  - CC-BY-NC-ND
   - personal
+  - index
 author: Seraaron
 license: CC BY-NC-ND 4.0
 date created: 2021-09-17+1500
-last updated: Friday 2021-09-17 @ 15:35:12 (UTC+0100)
 
 ---
 
@@ -18,13 +18,13 @@ last updated: Friday 2021-09-17 @ 15:35:12 (UTC+0100)
 > 
 > — **Seneca the Younger**
 
-Roleplaying games come from a long and fabled tradition of 'hacking'. From Arneson and Gygax adding custom rules to Chainmail and Outdoor Survival in the 70s, to the incredible deluge of Powered by the Apocalypse games that came out in the 2010s, to even the modding scene in video games. The community that surrounds roleplaying games never cease to impress and amaze me! It's one of the main reason's that I've given Agora such an open license (CC BY 4.0).
+Roleplaying games come from a long and fabled tradition of 'hacking'. From Arneson and Gygax adding custom rules to Chainmail and Outdoor Survival in the 1970s, to the incredible deluge of Powered by the Apocalypse games that came out in the mid 2010s, to even the modding scene in video games. The community that surrounds roleplaying games never cease to impress and amaze me! It's one of the main reason's that I've given Agora such an open license (CC BY 4.0).
 
-I am a craftsman like any other, just trying to carve out a niche for myself, but it's also good to try to acknowledge the forces and people that influenced or mentored me, no matter how indirectly, rather than pretending that I pulled all this from whole cloth. Agora is a hack of a hack of a hack — it's hacks all the way down — and you should hack it too!
+I am a craftsman like any other, just trying to carve out a niche for myself, but it's also good to try to acknowledge the forces and people that influenced or mentored me, rather than pretending that I pulled all of this from whole cloth. Agora is a hack of a hack of a hack — it's hacks all the way down — and you should hack it too!
 
 ###### Burning Wheel
 
-I played and ran [Burning Wheel](https://www.burningwheel.com/), by Luke Crane & Co., for about 4 years before I properly started writing Agora. It's been tremendously influential on me, and I can't deny that. But it's also, in my opinion, a _bad game_  — or, at least, a game that I'm very critical of. There's a lot of things that I adore in that game, but there's also a lot that repulses me.
+I played and ran [Burning Wheel](https://www.burningwheel.com/) by Luke Crane & Co. for about 4 years before I properly started writing Agora. It's been tremendously influential on me, and I can't deny that. But it's also, in my opinion, a _bad game_  — or, at least, a game that I'm very critical of. There's a lot of things that I adore in that game, but there's also a lot that repulses me.
 
 At some point in 2020, I read this post on the BW community forums:
 
@@ -57,7 +57,7 @@ A _brilliant_ but somewhat esoteric game by Joshua A C Newman. The tone and styl
 
 The [Script Change Toolbox](https://thoughty.itch.io/script-change) was first designed by Beau Jágr Sheldon, but it is also directly influenced by things like 'Lines and Veils', 'the X card', and many other related tools. I just think that script change is the best _all-in-one solution_ available right now, which is why I wanted to include it directly in Agora (with Beau's permission).
 
-[[Peers]] and [[VINPCs]] are a culmination of all my thoughts on the wider conversation about collaborative storytelling, meta-gaming, and safety tools in roleplaying games: Basically, I wanted to codify a consensus method for better collaborative storytelling, and to add player protections against overly-assertive GMs. (And I've released those articles as *public domain*, under the [CC0 1.0](https://creativecommons.org/share-your-work/public-domain/cc0/) license).
+[[Peers]] and [[VINPCs]] are a culmination of all my thoughts on the wider conversation about collaborative storytelling, meta-gaming, and safety tools in roleplaying games: Basically, I wanted to codify a consensus method for better collaborative storytelling, and to add player protections against overly-assertive GMs. (And I've released those articles as *public domain*, under the [CC0 1.0](https:/creativecommons.org/share-your-work/public-domain/cc0/) license).
 
 ###### Videos & Blogs
 
@@ -70,14 +70,15 @@ The [Script Change Toolbox](https://thoughty.itch.io/script-change) was first de
 ###### Additional Influences
 
 -   [[Jobs]] are primarily influenced by my love for [Final Fantasy Tactics](https://finalfantasy.fandom.com/wiki/Final_Fantasy_Tactics). I've always loved multi-classing / job systems in JRPGs, though Agora isn't primarily a game about tactical combat, the inclusion of jobs is still novel to me. (You could just as easily call them 'skills' or 'skillsets' though, if you're thinking about hacking them).
--   The idea for '[[NPCs don't roll|only players roll]]' came from the Cypher System, by Monte Cook Games. Though this is an optional play-style not a core rule. Still, I tried to design Agora so that it _could be_ played this way if one wanted.
 -   'Say 'yes' or roll' was first introduced to me by Burning Wheel, but it actually comes from the now defunct [Dogs in the Vineyard](https://en.wikipedia.org/wiki/Dogs_in_the_Vineyard) 2004 game, by Vincent Baker. (Though an alternative generic system called '[DOGS](https://www.drivethrurpg.com/product/274623/Dogs)' was made in 2019 with Vincent's blessing).
 -   A few things from [Blades in the Dark](https://bladesinthedark.com/), by John Harper, like the concept of stress and flashbacks, plus a generally good design ethos.
--  'Be a fan of the players' is a common sentiment shared by many [Powered by the Apocalypse](https://itch.io/physical-games/tag-pbta) and [Forged in the Dark](https://itch.io/c/1712796/forged-in-the-dark-games) type games, as are 'playbooks' or 'playsheets' — quick-start character creation options that make pick-up-and-play a lot easier.
+-  'Be a fan of the players' is a common sentiment shared by many [Powered by the Apocalypse](https://itch.io/physical-games/tag-pbta) and [Forged in the Dark](https://itch.io/c/1712796/forged-in-the-dark-games).
 - Kevin Crawford's GMing advice in [Godbound](https://www.drivethrurpg.com/product/185959/Godbound-A-Game-of-Divine-Heroes-Free-Edition) and [Worlds Without Number](https://www.drivethrurpg.com/product/348809/Worlds-Without-Number-Free-Edition), especially in regards to making and running factions or religions, is _invaluable_. Definitely go check them out.
--   [[Exclusive Features]] were directly inspired by [13th Age's](https://www.13thagesrd.com/) 'One Unique Thing', by Pelgrane Press,  except that I wanted uniques to have an actual mechanical use, whereas Circumstances fulfill the more narrative / qualitative focus in Agora. 
--   [[Martial Combat#Exploits|Exploits]], which a target uses against you when you fail a roll in combat, are taken fairly directly from the [Forthwright RPG](https://www.drivethrurpg.com/product/223977/Forthright-Open-Roleplay-Creative-Commons-Edition), by Room 209 Gaming (CC BY 4.0), with a little editing to make them work for Agora.
--   [[Shields Shall be Shattered]], an optional rule that turns your shield into a form of ablative armor, is popular in many OSR style games, but I think it originates from [Trollsmyth's blog](https://trollsmyth.blogspot.com/2008/05/shields-shall-be-splintered.html).
+-   [[Exclusive Features]] were directly inspired by [13th Age's](https://www.13thagesrd.com/) 'One Unique Thing', by Pelgrane Press,  except that I wanted uniques to have an actual mechanical use, whereas Circumstances fulfill the more narrative / qualitative focus in Agora.
+-   The motivation for creating [[Momentum]] in combat is also similar to the 'Escalation Die', from 13th Age, but with a very different mechanical implementation. 
+-   Certain aspects of the conflict systems, such as the use of 'disposition' and 'moves', were partially-inspired by the combat system seen in Johnstone Metzger's [Nightmares Underneath](https://www.drivethrurpg.com/product/195355/The-Nightmares-Underneath), and partially-inspired by [3rd Edition Exalted](https://www.drivethrurpg.com/product/162759/Exalted-3rd-Edition?cPath=8329_24225) by Onyx Path Publishing.
+-   [[Martial Combat#Exploits|Exploits]], which a target uses against you when you fail a roll in a conflict, are taken fairly directly from the [Forthwright RPG](https://www.drivethrurpg.com/product/223977/Forthright-Open-Roleplay-creativecommons-Edition) by Room 209 Gaming (CC BY 4.0), with a little editing to make them work for Agora.
+-   [[Shields Shall be Shattered]], an optional rule that turns your shield into a form of ablative armor, is popular in many OSR games, but I think it originates from [Trollsmyth's blog](https://trollsmyth.blogspot.com/2008/05/shields-shall-be-splintered.html).
 
 Finally, my previous employment as a gambling auditor made me realize that roleplaying is a form of _narrative gambling_, and that if you think of it in those terms then a player _must be informed of the odds_ so that they can make informed decisions about how they want to play and what they want to put at stake. There's *a lot more* I could say about this, but let's leave it at that for now.
 
@@ -100,6 +101,6 @@ Finally, my previous employment as a gambling auditor made me realize that rolep
 
 ---
 
-###### Some Rights Reserved [(CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/) in this Article
+###### Some Rights Reserved [(CC BY-NC-ND 4.0)](https:/creativecommons.org/licenses/by-nc-nd/4.0/) in this Article
 
 ---

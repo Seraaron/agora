@@ -2,13 +2,12 @@
 alias:
   - End
 tags:
-  - creativecommons
+  - CC-BY
   - stats
   - core
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-22+2100
-last updated: Thursday 2021-09-23 @ 21:54:22 (UTC+0100)
 
 ---
 
@@ -16,7 +15,7 @@ last updated: Thursday 2021-09-23 @ 21:54:22 (UTC+0100)
 
 Your Endurance (or '**End**' for short) represents your _physical fortitude_, constitution, your immune system, stamina, vigor, breath control, and regular movement upkeep (ie. aerobics).
 
-> #eg
+> ### Eg.
 > Some **_simple verbs_** which may require an Endurance [[Checks|check]] include:
 >
 > -   **Float / Hang On:** _Tread-water and stay afloat, keeping your head above the surface, or hang onto something with all your strength._
@@ -29,4 +28,4 @@ Your Endurance (or '**End**' for short) represents your _physical fortitude_, co
 > -   **Stomach:** _Eat or drink something intoxicating, poisonous, or rancid, and hold it down without ill-effect._
 > -   **Wrestle / Bind:** _Physically contend with someone or something for an extended period, using every muscle to gain an inch, but **without the intent to kill**._
 
-#que [[Fatigue]] is the [[Stress|stress]] of Endurance.
+#question [[Fatigue]] is the [[Stress|stress]] of Endurance.

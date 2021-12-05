@@ -5,13 +5,12 @@ alias:
   - PC
   - PCs
 tags:
-  - creativecommons
+  - CC-BY
   - advice
   - referee
 author: Seraaron
 license: CC BY 4.0
-date created: 2021-07-21T00:00:00.000Z
-last updated: Thursday 2021-09-23 @ 23:50:06 (UTC+0100)
+date created: 2021-07-21
 
 ---
 
@@ -19,7 +18,7 @@ last updated: Thursday 2021-09-23 @ 23:50:06 (UTC+0100)
 
 A Player character (aka. _Playable character_ or PC for short) is like a fictional marionette that you control, and speak for, and otherwise inhabit to interact with the game world for the duration of play session using your imagination. This is the primary act of _roleplaying_.
 
-> #nb
+> ### Nb.
 > **Player character's are usually the protagonists of the stories we tell**, _or at least the main cast_. Player characters are always either:
 >
 > -   Actively working on getting what they want

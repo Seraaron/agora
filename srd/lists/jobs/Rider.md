@@ -1,29 +1,36 @@
 ---
-alias: []
+alias:
+  - riding
+  - horseman
+  - cavalry
+  - cowboy
 tags:
-  - creativecommons
+  - CC-BY
   - jobs
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
-last updated: Saturday 2021-09-25 @ 00:51:22 (UTC+0100)
-
+date updated: 2021-11-24 17:08
 ---
 
 ### Rider ([[Endurance|End]])
 
-#laborious #animal #vehicle 
+#animal #laborious #martial #vehicle
 
 Riding animals of all sizes, primarily for the purpose of long-distance transport or leisure. Includes maintenance of all associated equipment and provisions. Also includes operating personal vehicles such as bikes, sleds, or scooters, if that's appropriate for your setting.
 
-If racing or jockeying then use [[Swiftness]].
+Must be used to reposition in [[Martial Combat|combat]] while riding, and may be used to determine your poise in that case too  (in combination with your mount's barding).
 
-#imp **Requires:** A mount or vehicle.
+If racing or jockeying then use [[Swiftness]] instead.
 
-_**Suggested Specialties:** [animals (steed) / vehicles (rideable)], Athletics, Competition, Navigation…_
+#important **Requires:** A mount or vehicle
 
-> ##### Additional Factors
+_**Suggested Specialties:** [animal], Athletics, Competition, Mounted Combat, [vehicle]..._
+
+> ##### Specific Factors:
 >
-> -   #unfinished
+> - “Riding throughout the night, or riding in bad weather...?
+> - “Taking an off-road shortcut, or traveling through wilderness...?
+> - “Your steed doesn't like you...?
 
-###### {[[D66 Jobs|52]]}
+###### {[[D66 Jobs|45]]}

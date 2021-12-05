@@ -1,27 +1,35 @@
 ---
-alias: []
+alias:
+  - shopkeeper
+  - salesman
+  - peddler
+  - haggler
+  - trader
 tags:
-  - creativecommons
+  - CC-BY
   - jobs
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
-last updated: Saturday 2021-09-25 @ 00:34:50 (UTC+0100)
-
+date updated: 2021-11-24 16:56
 ---
 
 ### Merchant ([[Resolve|Res]])
 
-#civic #artistic 
+#civic #financial
 
 Buying and selling, haggling, and vending goods of all sorts. Attracting customers, sourcing new and interesting merchandise, and doing taxes. Includes identifying and appraising the value of assets and artefacts.
 
-#imp **Requires:** Goods to sell, and possibly `erudite tools`.
+When haggling, start with the base price of the item and then make an [[Opposed Tasks|Opposed task]] roll. Winning the roll means you get to buy for a little less or sell for a little more than the market value (according to your margin of success).
 
-_**Suggested Specialties:** Appraisal, Barter, Finance, Gossip…_
+#important **Requires:** Goods to trade, and possibly #academic-tools 
 
-> ##### Additional Factors
+_**Suggested Specialties:** Appraisal, Barter, [city], Confidence, Finance, Gossip, Logistics..._
+
+> ##### Specific Factors:
 >
-> -   #unfinished
+> - “This is a fine establishment...?
+> - “You're peddling fakes, contraband, or snake-oil...?
+> - “You've recently overbought or undersold, or stock is low...?
 
-###### {[[D66 Jobs|31]]}
+###### {[[D66 Jobs|44]]}

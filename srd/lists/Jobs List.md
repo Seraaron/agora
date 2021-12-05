@@ -3,18 +3,32 @@ alias:
   - job list
   - jobs list
 tags:
-  - creativecommons
+  - CC-BY
   - list
   - jobs
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-14+1100
-last updated: Thursday 2021-09-23 @ 18:00:27 (UTC+0100)
-date updated: 2021-11-10 15:59
-
+date updated: 2021-11-24 18:06
 ---
 
 # Jobs List
+
+## Sort Order
+
+There are many ways one can sort the jobs list, aside from alphabetical. For example, we could group them by their tags, but many jobs do not exclusively belong to one tag or another. Jobs also have alternative names hidden in their metadata, which may also make them easier to search for.
+
+Use the following list of job tags to help you search for jobs of a similar type:
+
+| Job tags:    |           |            |           |          |          |
+| ------------ | --------- | ---------- | --------- | -------- | -------- |
+| #academic    | #animal   | #artistic  | #athletic | #civic   | #craft   |
+| #financial   | #intrigue | #laborious | #magic    | #martial | #medical |
+| #performance | #ritual   | #rogue     | #social   | #vehicle | #vessel  |
+
+Don't worry too much about the meaning of each job tag — they're just here to help with searching and grouping — they have no inherent mechanical effect, except for #magic (which makes dice rolls [[Exploding Dice|explode]]).
+
+#question The numbers in curly braces, {like this}, at the end of some job descriptions reference that job's position in the [[D66 Jobs|D66 common jobs table]].
 
 ###### A-B
 
@@ -48,22 +62,25 @@ date updated: 2021-11-10 15:59
 ![[Handler]]
 ![[Host]]
 ![[Hunter]]
-![[Pundit]]
 ![[Investigator]]
 
-###### M-P
+###### M-N
 
-![[Mage]]
+![[Mage*]]
 ![[Mariner]]
 ![[Martialist]]
 ![[Medic]]
 ![[Merchant]]
 ![[Musician]]
 ![[Nurse]]
+
+###### O-Q
+
 ![[Orator]]
-![[Physician]]
+![[Philosopher]]
+![[Physician*]]
 ![[Pilot]]
-![[Priest]]
+![[Priest*]]
 
 ###### R-S
 
@@ -96,15 +113,5 @@ Although every job should come with a short definition for clarity, written in t
 From there, learning the newly invented job is the same process as learning any other job (see above), either during [[Character Assembly]] or mid session, as is needed.
 
 ---
-
-## Sort Order
-
-There are many ways we could have grouped the jobs list above, aside from alphabetical. For example, we could have grouped them by their tags, but many jobs do not exclusively belong to one tag or another. So use the following list of job tags to help you search for jobs of a similar type:
-
-| Job tags:  |           |           |          |              |            |
-| ---------- | --------- | --------- | -------- | ------------ | ---------- |
-| #animal    | #artistic | #athletic | #civic   | #craft       | #erudite   |
-| #laborious | #magic    | #martial  | #medical | #performance | #political |
-| #ritual    | #rogue    | #social   | #vehicle | #vessel      | #weird     |
 
 **See also:** [[Specialties List]]

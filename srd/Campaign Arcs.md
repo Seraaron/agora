@@ -4,12 +4,12 @@ alias:
   - arcs
   - arc
 tags:
-  - creativecommons
+  - CC-BY
   - advice
   - core
 author: Seraaron
 license: CC BY 4.0
-date created: 2021-09-24 1900
+date created: 2021-09-24 19:00
 date updated: 2021-11-05 18:44
 
 ---
@@ -30,7 +30,7 @@ Separate from campaign arcs are _character arcs_, these are less within the cont
 
 In fact, **you can run a whole game just out of character arcs**; if your players are particularly good at pushing their [[Agenda|agendas]]. The great thing about this is that it requires very little preparation on your part as the FC. So long as you _know the world_, and the _rules of the game_, and can _improvise fairly well_, then it's possible to run a whole session of [[Agora]] with just a cursory glance at the PC's Principles before you start playing and a few minutes thinking about how to [[Challenging Principles|challenge them]].
 
-#que This takes time and experience, however, and _[[Player Styles|some players]] prefer their FC to lead them_ more than the other way around.
+#question This takes time and experience, however, and _[[Player Styles|some players]] prefer their FC to lead them_ more than the other way around.
 
 ### Structure
 
@@ -44,7 +44,7 @@ The best time to run a [[Development Sessions|development session]] is between a
 
 Many tables never actually finish a campaign, which is a shame. Scheduling development sessions might seem like an unnecessary interruption at first, but some general out-of-game maintenance can improve the long term health and stability of your game, avoid Facilitator burnout, and help to ensure that you finish a game.
 
-#imp In spite of the name, a development session doesn't have to take up a full session; but there can be a lot to cover in them, so you should try to leave _at least half_ a session's worth of time for them.
+#important In spite of the name, a development session doesn't have to take up a full session; but there can be a lot to cover in them, so you should try to leave _at least half_ a session's worth of time for them.
 
 ---
 

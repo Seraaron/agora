@@ -2,13 +2,12 @@
 alias:
   - Swi
 tags:
-  - creativecommons
+  - CC-BY
   - stats
   - core
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-22+2100
-last updated: Thursday 2021-09-23 @ 21:55:01 (UTC+0100)
 
 ---
 
@@ -16,7 +15,7 @@ last updated: Thursday 2021-09-23 @ 21:55:01 (UTC+0100)
 
 A your Swiftness (or '**Swi**' for short) represents your _physical speed_, strength, reflexes, alacrity, and bursts of quick or powerful movement (ie. anaerobics).
 
-> #eg
+> ### Eg.
 > Some **_simple verbs_** which may require a Swiftness [[Checks|check]] include:
 >
 > -   **Catch:** _Seize or capture and restrain a free-moving object or creature in your immediate vicinity._
@@ -27,4 +26,4 @@ A your Swiftness (or '**Swi**' for short) represents your _physical speed_, stre
 > -   **Sprint / Chase:** _Race at your full speed as quickly as possible to a location in sight, or run to catch up to someone or to escape from them._
 > -   **Throw:** _Hurl something as far as you can or towards a specific target, or throw someone to the ground, but **without the intent to kill**._
 
-#que [[Pain]] is the [[Stress|stress]] of Swiftness.
+#question [[Pain]] is the [[Stress|stress]] of Swiftness.
