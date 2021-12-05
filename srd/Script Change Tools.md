@@ -2,7 +2,7 @@
 alias:
   - consent and safety tools
 tags:
-  - creativecommons
+  - CC-BY
   - consent
   - tools
   - advice
@@ -12,7 +12,6 @@ editor: Seraaron
 license: CC BY 4.0
 date created: est. 2013
 most recent official revision: April, 2021
-last updated: Saturday 2021-09-11 12:35:48 (UTC+0100)
 date updated: 2021-10-15 23:52
 
 ---
@@ -69,7 +68,7 @@ This may be things that a player wants to _categorically avoid_, or at least kee
 
 No one is required to contribute, but everyone should feel welcome to note subjects down. _Be considerate_, because people are often just trying to make sure everyone has fun — and sometimes customizing content is what makes that happen!
 
-> #ie
+> ### Ie.
 > Add the content to the list on the Faciliator's Notes with your preferred tool use (that is, which of the script change tools should be used if this topic comes up in play?). There's no need to record the names of the concerned players alongside these subjects; _they apply to everyone at the table_, not just contributors.
 >
 > -   Content that you absolutely will not abide being in the game should go under the '**Icks**' heading — which constitute any triggering, traumatizing, scary, or distressing topics. _Hard lines,_ or things you say 'no' to.
@@ -81,7 +80,7 @@ These are the '**Picks**' of the game — things that you think are fun, excitin
 
 Be willing to negotiate, be respectful, and make sure to consider all of the picks, squicks, and icks in this discussion and during the game. When players use Script Change, if a new topic comes up as an issue, it should be added to the Faciliator's Notes. Therefore, try to make photocopies of these notes for everyone (or share the digital file) after the session, so that everyone can stay up to date.
 
-> #nb
+> ### Nb.
 > If one player's 'picks' conflict with another's 'squicks' or 'icks', then err on the side caution and _put them on the list that prevents them from doing the most harm;_ or come to some agreement with that player about how to signal when a moment like that may come up.
 >
 > If no agreement can be reached, then it may be that this game pitch — or in the worst case, that this whole gaming group — is just not for you. That's unfortunate, _but it does happen_. Try to handle it respectfully, but bow out quickly if you need to.
@@ -112,7 +111,7 @@ _If someone refuses to agree to these terms, then you are perfectly within your 
 
 Using the tools is as simple as saying the name of the tool you want to use, or posting an emoji into your private chat client so that someone else says it for you.
 
-> #eg
+> ### Eg.
 > **It's often best to integrate these words into a sentence, like:**
 >
 > -   “Could we _rewind_ that statement? My character probably wouldn't have really said that.”
@@ -123,7 +122,7 @@ Using the tools is as simple as saying the name of the tool you want to use, or 
 
 Pauses are used when things get a little too intense and that you need a breather, or that you want to discuss something out of game before continuing. Discussing the content isn't required, but can be useful. During a pause, you can then use any other script change tool, such as fast-forward, rewind, or frame-by-frame, or you can use it as a break in the action before resuming with no changes or omissions.
 
-#que Pause should also be used to call for 'bio breaks' during long sessions. That is, using the restroom, staying hydrated, getting snacks, and so on.
+#question Pause should also be used to call for 'bio breaks' during long sessions. That is, using the restroom, staying hydrated, getting snacks, and so on.
 
 ### ⏩ Fast-forward
 
@@ -141,7 +140,7 @@ Try to be clear what content is the issue and be willing to work together to see
 
 Generally, this should be used for smaller adjustments, addressing specific issues that can be fixed through brief discussion, or 'retconning', and making different decisions in a scene; _but it can also be used to take back rolls if necessary._
 
-#imp **We respect the dice as oracles of fate, but they do not own our destines**.
+#important **We respect the dice as oracles of fate, but they do not own our destines**.
 
 ### ⏯️ Frame-by-Frame
 
@@ -173,7 +172,7 @@ However, final rulings do reside with the person who first called for the tool t
 
 You can also use these tools to help you to manage tone and pacing. Experiment, play around, see what works and doesn't work for you and your table — but most of all — have fun!
 
-> #eg
+> ### Eg.
 >
 > -   If everyone's fallen too far out-of-character and are just joking around, you can call for a quick rewind back to when things were more serious.
 >
@@ -209,7 +208,7 @@ With an instant replay, right after a scene happens, you can call for an instant
 
 Instant replays are particularly useful when you're doing intense social scenes or complicated actions, or if you've just has a longer scene that might have left some people feeling lost. Or it can be used to just see a moment of action again from a different angle.
 
-#que You can also use an instant replay _at the beginning of a session_ to quickly recap the previous session and get everyone back up to speed.
+#question You can also use an instant replay _at the beginning of a session_ to quickly recap the previous session and get everyone back up to speed.
 
 ### 🎦 Highlight Reel
 
@@ -225,7 +224,7 @@ Finally, if someone is uncomfortable addressing an issue outloud during wrap up,
 
 ---
 
-###### This article is under the Creative Commons Attribution 4.0 International License [(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+###### This article is under the Creative Commons Attribution 4.0 International License [(CC BY 4.0)](https:/creativecommons.org/licenses/by/4.0/)
 
 The original Script-Change Toolbox was created and developed by **[Beau Jágr Sheldon](https://briebeau.com/thoughty/script-change/)** with branding and design by **[Clayton Notestine](http://theexplorersco.com)**, taking inspiration from a wider conversation that has been going on since _at least_ the early 2000s. _See their website for full credits._
 

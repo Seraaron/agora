@@ -4,7 +4,7 @@ alias:
   - session
   - sessions
 tags:
-  - creativecommons
+  - CC-BY
   - advice
   - core
 author: Seraaron
@@ -49,7 +49,7 @@ Once the space is clear in the players minds, they can begin to explore the scen
 
 This is unfortunately a bit like asking _"how long is a piece of string?"_, because the answer is the same: _"As long as it needs to be"_. In general, a scene shouldn't last longer than an hour of real world playtime, but that hour could only be fifteen minutes in the game world. So it really depends on the context.
 
-> #ie
+> ### Ie.
 > You can say that some minutes pass without ending a scene, but if you want to skip forwards by more than an hour then that usually starts a new scene.
 >
 > You can say that a new scene starts when the place changes, or when we would need to change the set dressing if this were a stage play, but some scenes can take place while moving, or between two rooms with many jumps back and forth.
@@ -74,18 +74,18 @@ So long as everyone at the table is offered a turn before someone else takes ano
 
 Beats are the smallest parcel of time in a scene. They are like _sub-turns_, but less structured. There's no need to pass beats like passing turns — that will just happen naturally as part of the conversation — though you _can_ explicitly ask for a beat if you want to.
 
-> #eg
+> ### Eg.
 > A beat can be several seconds of dialogue, or perhaps only contain a single sentence, an action, a thought, or even just a facial expression.
 
 We base turns on Tasks because they're usually the more interesting and complex [[Checks vs. Tasks|type of roll]], but a turn can also be littered with [[Checks]]. You can typically make a Check as part of a beat if you need to; and this can even happen in the middle of someone else's turn, if it needs to.
 
-#imp Try not to be disruptive with your requests for Checks during other people's turns though, and don't let your interruptions get too frequent, else we call that 'hogging the spotlight', which is frowned upon.
+#important Try not to be disruptive with your requests for Checks during other people's turns though, and don't let your interruptions get too frequent, else we call that 'hogging the spotlight', which is frowned upon.
 
 #### Cuts
 
 Cuts are either used to end a scene, or to skip forwards in time during a scene, or to see a scene from another perspective. You can simply say _"let's cut here"_ and then describe what happens next. By far the most common use of cuts though is just to jump between perspectives, to keep us centered on the action or the important dialogue, and to remove sections of time to help the session keep a good pace.
 
-> #ie
+> ### Ie.
 > If this were a film, then it would be a _literal cut_ between two reels, sometimes also called a 'hard cut'.
 >
 > A 'soft cut',  then, is more like a _fade_ — either a fade to black or a cross-fade into another scene — which can invoke a different feeling from a hard cut.

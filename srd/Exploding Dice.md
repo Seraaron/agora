@@ -6,14 +6,13 @@ alias:
   - open-ended dice
   - open-ended
 tags:
-  - creativecommons
+  - CC-BY
   - rolls
   - rules
   - optional
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-23+1900
-last updated: Thursday 2021-09-23 19:57:47 (UTC+0100)
 date updated: 2021-11-04 23:02
 
 ---
@@ -22,9 +21,9 @@ date updated: 2021-11-04 23:02
 
 **A die is said to 'explode' _if you roll a 6_.** Meaning, you count a success, and then roll another exploding die and see if you get another 6, and so on. Counting successes from all the explosions, using the base [[Rank|rank]] of the roll, until you don't roll another 6.
 
-#imp **_Exploded_ dice cannot be [[KISSing|KISSed]]**, but dice that have yet to explode _can be_.
+#important **_Exploded_ dice cannot be [[KISSing|KISSed]]**, but dice that have yet to explode _can be_.
 
-#que If you spend [[Ego]] on an exploding roll then it adds **bonus dice equal to your [[Health]]** *instead of doubling any 6s*. 
+#question If you spend [[Ego]] on an exploding roll then it adds **bonus dice equal to your [[Health]]** *instead of doubling any 6s*. 
 
 ##### Explosive Sources
 

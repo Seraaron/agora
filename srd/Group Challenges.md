@@ -1,7 +1,7 @@
 ---
 alias: [group challenge, collective task]
 tags:
-  - creativecommons
+  - CC-BY
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-24 13:08

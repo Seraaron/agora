@@ -3,14 +3,13 @@ alias:
   - conflict
   - conflict system
 tags:
-  - creativecommons
+  - CC-BY
   - rules
   - conflict
   - extra
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-10-19+2200
-last updated: Tuesday 2021-10-19 22:44:18 (UTC+0100)
 date updated: 2021-10-19 23:34
 
 ---

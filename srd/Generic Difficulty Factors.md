@@ -2,15 +2,13 @@
 alias:
   - generic factors
 tags:
-  - creativecommons
+  - CC-BY
   - list
-  - examples
+  - embed
   - rules
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-23+1600
-last updated: Thursday 2021-09-23 16:56:04 (UTC+0100)
-date updated: '2021-10-04T15:45:26+01:00'
 
 ---
 

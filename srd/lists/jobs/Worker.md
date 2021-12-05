@@ -10,12 +10,11 @@ alias:
   - logger
   - miner
 tags:
-  - creativecommons
+  - CC-BY
   - jobs
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
-last updated: Saturday 2021-09-25 @ 00:42:53 (UTC+0100)
 date updated: 2021-11-24 17:21
 ---
 
@@ -27,7 +26,7 @@ This is a catch-all for menial labor and service odd-jobs in an enterprise or in
 
 May also include suddenly pulling or pushing something with great strength and speed, using [[Swiftness]].
 
-#imp **Requires:** #laborious-tools or any other necessary tools
+#important **Requires:** #laborious-tools or any other necessary tools
 
 _**Suggested Specialties:** Athletics, Construction, Barter, Hauling, Streetfly..._
 

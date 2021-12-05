@@ -5,14 +5,15 @@ alias:
   - time-skips
   - travel
 tags:
-  - creativecommons
+  - CC-BY
+  - subsystems
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-05 18:43
 date updated: 2021-11-05 18:59
 
 ---
-
+A 
 Aaa
 
 #unfinished 

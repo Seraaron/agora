@@ -5,13 +5,12 @@ alias:
   - busker
   - vagrant
 tags:
-  - creativecommons
+  - CC-BY
   - jobs
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
-last updated: Saturday 2021-09-25 @ 00:42:12 (UTC+0100)
-date updated: 2021-11-23 16:49
+date updated: 2021-12-01 01:10
 ---
 
 ### Beggar ([[Resolve|Res]])

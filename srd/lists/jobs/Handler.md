@@ -7,12 +7,11 @@ alias:
   - herder
   - tamer
 tags:
-  - creativecommons
+  - CC-BY
   - jobs
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
-last updated: Saturday 2021-09-25 @ 00:47:57 (UTC+0100)
 date updated: 2021-11-24 16:37
 ---
 
@@ -24,7 +23,7 @@ Keeping, breeding, rearing, training, and otherwise caring for animals, for your
 
 May also include protecting and herding livestock across large tracts of land, often with the aid of a dog, horse, or other obedient animal, using [[Wits]].
 
-#imp **Requires:** #laborious-tools and animals, and occasionally #medical-tools
+#important **Requires:** #laborious-tools and animals, and occasionally #medical-tools
 
 _**Suggested Specialties:** Almanacs, [animal], [biomes], Barter, Patience..._
 

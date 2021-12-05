@@ -5,8 +5,9 @@ alias:
   - cartographer
   - mathematician
   - statistician
+  - scientist
 tags:
-  - creativecommons
+  - CC-BY
   - jobs
 author: Seraaron
 license: CC BY 4.0
@@ -22,9 +23,10 @@ Researching a topic, and digging through libraries, reading books, and writing r
 
 May even include computer programming, using [[Wits]], if your setting allows.
 
-#imp **Requires:** A library, computer, or private book collection, and #academic-tools
+#important **Requires:** A library, computer, or private book collection, and #academic-tools
 
 _**Suggested Specialties:** Appraisal, [history], Literacy, [lore], Numeracy, Patience, [science]..._
+
 
 > ##### Specific Factors:
 >
@@ -32,6 +34,7 @@ _**Suggested Specialties:** Appraisal, [history], Literacy, [lore], Numeracy, Pa
 > - “Tackling an unsolved problem...?
 > - “The sources are sketchy, the notation is bad, or their writing needs deciphering...?
 
+**Note:** Usually renamed to 'Scientist' if playing in a more futuristic setting.
+
 ###### {[[D66 Jobs|55]]}
 
-**Note:** Usually renamed to 'Scientist' if playing in a more futuristic setting.

@@ -4,7 +4,7 @@ alias:
   - capability
   - Capability
 tags:
-  - creativecommons
+  - CC-BY
   - rules
   - stats
   - optional
@@ -12,7 +12,6 @@ tags:
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-07-31+1500
-last updated: Thursday 2021-09-23 @ 18:20:08 (UTC+0100)
 
 ---
 
@@ -34,7 +33,7 @@ A character may have _up to three_ capabilities at any given time, and they can 
 
 ![[Vigilance]]
 
-> #nb 
+> ### Nb. 
 > When considering best and worst abilities, if there's a tie in ranks then the answer is always in your favor towards giving you a higher rank. That is, two tied but 'worst' ranks means that neither is the worst, whereas two tied 'best' ranks means that both are the best.
 
 ---
@@ -43,7 +42,7 @@ A character may have _up to three_ capabilities at any given time, and they can 
 
 Failing a [[Grit]] or [[Vigilance]] check doesn't take away your agency as a player, except in the same ways that _any_ failed roll might. You still have control over how your character reacts to that failure.
 
-> #eg
+> ### Eg.
 > Throw up, run away, faint, scream, laugh hysterically, burst into tears, soil yourself, beg for mercy, beg for death, or simply stand in a daze; or whatever _feels right_ in the moment.
 
 - **A moment of hesitation is mostly an opportunity to roleplay** before the end of your [[Session Structure#Turns|turn]], though your hesitation may be counted as a [[Difficulties and Consequences#Choosing Factors|factor]] against you if must act again within the same [[Session Structure#Scenes|scene]].
@@ -84,9 +83,9 @@ Because capabilities are completely modular and customizable, it's possible for 
 
 It's also possible to have different sets of capabilities that change over time. This is easy enough to do during [[Downtime and Travel|downtime]] or a [[Development Sessions|development sessions]] by simply **re-deriving the capability you want, when you need it**. The interesting thing about this is that you may find your answers change over time, which can also affect your ranks.
 
-> #eg
+> ### Eg.
 > If your game is about adventuring out into the weird wilds, exploring and fighting, then you might want to make use of the **Vigilance** and **Grit** capabilities to start with.
 > 
 > Once the adventuring is done, and you want to settle in a town, it may be more important to start using **Links** or **Honor**. Perhaps, after an [[Campaign Arcs|arc]] or two spend in town, you go out adventuring again and then switch back to Vigilance and Grit; but maybe you keep Links now too, since you've made a bit of a name for yourselves.
 
-#que You should only re-derive your capabilities when you change them. Don't worry about changing your answers and shifting your rank as soon as something happens in game that might affect one. Just wait until it gets properly questioned again.
+#question You should only re-derive your capabilities when you change them. Don't worry about changing your answers and shifting your rank as soon as something happens in game that might affect one. Just wait until it gets properly questioned again.

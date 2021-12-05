@@ -4,13 +4,12 @@ alias:
   - wounded
   - scarred
 tags:
-  - creativecommons
+  - CC-BY
   - features
   - rules
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-23+1600
-last updated: Thursday 2021-09-23 16:30:00 (UTC+0100)
 date updated: 2021-11-26 19:13
 ---
 
@@ -22,19 +21,19 @@ date updated: 2021-11-26 19:13
 
 This can be visually signified on your [character sheet](#charsheet) by putting a light slash through your current rank and writing the new rank in superscript (eg. $5$ → $\cancel{5} ^6$).
 
-#ast If the chosen ability is already at rank 6, then regressing it to 'rank X' means that you are completely unable to use that ability; and you will fail all rolls with it automatically.
+#asterisk If the chosen ability is already at rank 6, then regressing it to 'rank X' means that you are completely unable to use that ability; and you will fail all rolls with it automatically.
 
 ### Types of Wounds
 
 When you put a slash through your current ability rank, you should also give a name to the trauma, and [[Taking notes|write a note]] about it somewhere on your character sheet or in your journal. This name should reflect the kind of harm that was done to you:
 
-> #eg
+> ### Eg.
 >
 > - **Mental wounds** could mean psychological trauma or memory loss (Res), or damage to your eyes or ears or other senses (Wit), reduced cognition (App / Wit), or some other kind of brain damage (Any), or simply that part of your face or body is disfigured which affects your confidence (App).
 >
 > - **Physical wounds** might mean broken bones (Fin), muscle damage (Swi), a bad infection or disease, or poisoning (End), organ rupture (End), or a lost limb (Fin / Swi), or something equally crippling (Any).
 
-#que [[Capabilities]] aren't typically able to be wounded, though some have unique [[Stress|stresses]] associated with them.
+#question [[Capabilities]] aren't typically able to be wounded, though some have unique [[Stress|stresses]] associated with them.
 
 ### Convalescence
 
@@ -59,13 +58,13 @@ Here's a handy table that can help you to approximate how long it should take fo
 
 Therefore, if many [[Player Characters|PCs]] are wounded, this can be a good indicator that it's time to _skip ahead in-game by a few months while you all recover_, giving you plenty of [[Downtime and Travel|downtime scenes]], unless time is of the essence.
 
-#imp _Sometimes_ convalescence can happen at the same time as the [[Health#Healing|recovery of Health]], but it generally doesn't: Meaning that _it's possible to still carry a wound while at full Health_.
+#important _Sometimes_ convalescence can happen at the same time as the [[Health#Healing|recovery of Health]], but it generally doesn't: Meaning that _it's possible to still carry a wound while at full Health_.
 
 #### Count Your Lucky Scars
 
 Scars have names, like any [[Conditions|condition]], and those names are usually related to the wounds they came from. Indeed, very often, the name of the scar remains largely unchanged from from the name of the original wound. Other times, the name of the scar can be related to the treatment of the wound, or a side effect of treatment, or just something that stays with you long after the visible signs disappear.
 
-> #eg
+> ### Eg.
 > **The name of a scar is ultimately up to you, but your [[Peers]] may also offer suggestions, such as:**
 >
 > - Amputated left arm (Fin) → Prosthetic left arm
@@ -76,7 +75,7 @@ Scars have names, like any [[Conditions|condition]], and those names are usually
 > - Cracked skull (Wit) → Metal-plate in skull
 > - Broken legs (Fin) → Depressed
 
-#imp Scarring can affect you both physically and psychologically: **Once a wound has become a scar the way that it affects you afterwards is up to you,** _like any other condition_.
+#important Scarring can affect you both physically and psychologically: **Once a wound has become a scar the way that it affects you afterwards is up to you,** _like any other condition_.
 
 ##### Cosmetic Scars
 

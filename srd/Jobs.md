@@ -4,13 +4,12 @@ alias:
   - Job
   - job
 tags:
-  - creativecommons
+  - CC-BY
   - rules
   - jobs
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-06+1900
-last updated: Thursday 2021-09-23 @ 18:19:23 (UTC+0100)
 
 ---
 
@@ -37,7 +36,7 @@ Despite the name, 'jobs' don't always have to be _literal professions_ or a trad
 
 Levels are a numerical representation of your general proficiency at performing the complex [[Tasks]] listed in a job's description. Levels are the starting amount of dice you use to perform those tasks. This can often seem quite abstract, so if you consider that everyone usually rolls 3 dice for their [[Checks]] — which use [[Abilities|abilities]] that everyone has — it should become clear that Level 3 represents someone who is 'adequate' at the job in question.
 
-> #eg 
+> ### Eg. 
 > Here's a list of job levels and their meanings as they relate to most professional crafts:
 > 
 > 1.  **Novice** — You're a complete beginner. Don't worry, everyone starts somewhere. Failing is the easy part. You'll quickly learn from those mistakes.

@@ -3,7 +3,7 @@ alias:
   - Fact check
   - establish a fact
 tags:
-  - creativecommons
+  - CC-BY
   - rules
   - extra
 author: Seraaron
@@ -26,11 +26,11 @@ This is a way to let you **remember things your character should already know** 
 |     2     | Obscure knowledge                                      |
 |     3+    | Secrets and mysteries,  or *plot-convenient knowledge* |
 
-#que Establishing facts requires input and cooperation from your [[Peers]], but enables you to do some light collaborative [[Worldbuilding|worldbuilding]] at the table.
+#question Establishing facts requires input and cooperation from your [[Peers]], but enables you to do some light collaborative [[Worldbuilding|worldbuilding]] at the table.
 
 In some instances, your [[Facilitator]] may veto these ideas and disallow the Check, but only if they would contradict other pre-planned bits of information. However, in those cases, **the FC can offer some of their pre-written information to you on a successful Fact check instead**.
 
-> #nb
+> ### Nb.
 > If the Check fails then the FC may simply say that you don't remember clearly, or they may *subvert the fact*, taking your idea and flipping it on its head somehow, or they may say your character thinks that it's one way when really it's another way — and then let the dramatic irony hang.
 
-#imp When new facts are esablished or discovered, it's a good idea to *write them down* and [[Taking notes|take notes]].
+#important When new facts are esablished or discovered, it's a good idea to *write them down* and [[Taking notes|take notes]].

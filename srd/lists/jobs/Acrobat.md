@@ -4,12 +4,11 @@ alias:
   - gymnastics
   - parkour
 tags:
-  - creativecommons
+  - CC-BY
   - jobs
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-24+2300
-last updated: Saturday 2021-09-25 @ 00:19:08 (UTC+0100)
 date updated: 2021-11-23 16:48
 ---
 

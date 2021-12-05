@@ -2,15 +2,14 @@
 alias:
   - common jobs
 tags:
-  - creativecommons
+  - CC-BY
   - jobs
   - rng
   - list
-  - cc
+  - index
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
-last updated: Saturday 2021-09-25 00:13:19 (UTC+0100)
 date updated: 2021-11-24 17:09
 ---
 

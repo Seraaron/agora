@@ -5,13 +5,12 @@ alias:
   - surgeon
   - therapist
 tags:
-  - creativecommons
+  - CC-BY
   - jobs
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
-last updated: Saturday 2021-09-25 @ 00:40:11 (UTC+0100)
-date updated: 2021-11-24 16:58
+date updated: 2021-12-01 13:13
 ---
 
 ### Physician ([[Resolve|Res]])
@@ -22,7 +21,7 @@ Diagnosing and treating health problems or disabilities, via consultation, psych
 
 May also be used to perform surgery, using [[Finesse]].
 
-#imp **Requires:** #medical-tools
+#important **Requires:** #medical-tools
 
 _**Suggested Specialties:** [condition], Persuasion, Pharmaceutical [science], Surgery..._
 
@@ -31,7 +30,7 @@ _**Suggested Specialties:** [condition], Persuasion, Pharmaceutical [science], S
 > - “Your patient is dying...?
 > - “You're treating or operating on yourself...?
 > - “...?
->
-> #unfinished 
+> ![[Medical Treatment]]
+> #unfinished
 
 **Note:** This job is usually replaced with [[Alchemist]] if playing in an antiquated setting.

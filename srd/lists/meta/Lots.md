@@ -2,12 +2,11 @@
 alias:
   - Lot
 tags:
-  - creativecommons
+  - CC-BY
   - meta
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-23+1600
-last updated: Friday 2021-09-24 @ 14:37:37 (UTC+0100)
 
 ---
 
@@ -15,7 +14,7 @@ last updated: Friday 2021-09-24 @ 14:37:37 (UTC+0100)
 
 **You can have _up to eight_ Lots at a time**.
 
-> #nb
+> ### Nb.
 > Lots represent the smallest parcel of fate that a player can use to manipulate their character's destiny. You can think of them as _tiny cosmic favors_ that you can trade to influence the dice, like cashing in a bit of karma.
 
 Every character starts the game with 1d6 Lots, or you may _take the average_ and start with 3 Lots. Lots can be represented on your [[Character Sheets|character sheet]] by filling in or erasing the diamonds (◇ ↔ ◆), or by using glass beads, the faces of an eight-sided die, or some other kind of token.

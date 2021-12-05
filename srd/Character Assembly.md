@@ -3,13 +3,11 @@ alias:
   - character assembly
   - character creation
 tags:
-  - creativecommons
+  - CC-BY
   - rules
-  - cc
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-23+1500
-last updated: Friday 2021-10-15 @ 19:08:06 (UTC+0100)
 
 ---
 
@@ -27,7 +25,7 @@ The first and most important step is to think of a character concept. A good con
 
 A concept _doesn't have to be perfect_ — or it doesn't matter if your [[Peers]] don't get the reference — as you'll refine them more as you go through the assembly process, and make them distinctly yours. A concept may include a bit of backstory, key features, or some 'proto-principles', but try to keep it short and sweet and setting-appropriate.
 
-> #eg
+> ### Eg.
 >
 > -   An ambitious noblewoman, intent on rallying the people of the city to his side and publicly humiliating the aristocrats and pundits who said it couldn't be done.
 > -   Like a cross between Robin Hood and Don Quixote; someone who wants to stealing from the rich and give to the poor, but he's completely incompetent.

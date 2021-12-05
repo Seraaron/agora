@@ -2,12 +2,12 @@
 alias:
   - the game at a glace
 tags:
-  - creativecommons
+  - CC-BY
   - summary
+  - embed
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-23+1500
-last updated: Saturday 2021-09-25 @ 02:02:43 (UTC+0100)
 
 ---
 

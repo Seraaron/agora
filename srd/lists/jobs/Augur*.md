@@ -6,7 +6,7 @@ alias:
   - psionicist
   - psyon
 tags:
-  - creativecommons
+  - CC-BY
   - jobs
 author: Seraaron
 license: CC BY 4.0

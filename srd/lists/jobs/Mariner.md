@@ -6,13 +6,12 @@ alias:
   - fisher
   - spacer
 tags:
-  - creativecommons
+  - CC-BY
   - jobs
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
-last updated: Saturday 2021-09-25 @ 00:49:20 (UTC+0100)
-date updated: 2021-11-24 16:53
+date updated: 2021-12-01 13:14
 ---
 
 ### Mariner ([[Endurance|End]])
@@ -21,7 +20,7 @@ date updated: 2021-11-24 16:53
 
 Working on boats, ships, and other crafts or vessels. Includes rigging, cleaning, making ship repairs, keeping watch, securing cargo, reloading the artillery, and rowing. Includes climbing rope-ladders and mast nets, and open-water swimming. Also includes net and trawl fishing.
 
-#imp **Requires:** #laborious-tools and a vessel, or any other necessary tools
+#important **Requires:** #laborious-tools and a vessel, or any other necessary tools
 
 _**Suggested Specialties:** Climbing, Hauling, Knots, Observation, Sea Legs, [vessel]..._
 

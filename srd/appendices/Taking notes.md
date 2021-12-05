@@ -4,12 +4,11 @@ alias:
   - taking notes
   - notes
 tags:
-  - publicdomain
+  - CC0
   - advice
 author: Seraaron
 license: CC0 1.0
 date created: 2021-09-13+1700
-last updated: Thursday 2021-09-23 @ 21:02:43 (UTC+0100)
 
 ---
 
@@ -43,7 +42,7 @@ _Note-taking is a skill._ Like all skills, it requires practice and upkeep. Our 
     -  and to serve as a reminders to *jog the memory of 'future-you'*
     -   so don't bother using proper spelling and punctuation *if you don't need to*
 
-> #nb
+> ### Nb.
 > You may now be noticing that _the whole of [[Agora]]_ is written with some of these note-taking practices in mind: Especially the use of **bold** and _italics_ to highlight the most important text, so that the key rules can be understood at a glace.
 
 ### Keeping a Campaign Diary
@@ -53,6 +52,6 @@ _Note-taking is a skill._ Like all skills, it requires practice and upkeep. Our 
 
 ---
 
-###### This article is released to Public Domain [(CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)
+###### This article is released to Public Domain [(CC0 1.0)](https:/creativecommons.org/publicdomain/zero/1.0/)
 
 ---

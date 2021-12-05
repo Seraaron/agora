@@ -3,13 +3,12 @@ alias:
   - session zero checklist
   - dev session checklist
 tags:
-  - creativecommons
+  - CC-BY
   - advice
   - list
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-10+1700
-last updated: Friday 2021-09-10 @ 19:16:45 (UTC+0100)
 
 ---
 

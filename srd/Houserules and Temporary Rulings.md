@@ -3,12 +3,11 @@ alias:
   - houserules
   - temporary rulings
 tags:
-  - creativecommons
+  - CC-BY
   - adivce
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-08+1900
-last updated: Thursday 2021-09-23 @ 19:46:50 (UTC+0100)
 
 ---
 
@@ -20,7 +19,7 @@ last updated: Thursday 2021-09-23 @ 19:46:50 (UTC+0100)
 
 There are a handful of popular 'golden rules' or 'zeroth rules' that show up in many other tabletop roleplaying games.
 
-> #eg
+> ### Eg.
 > **There are too many variants to quote any one directly, but they can be summarized as follows:**
 >
 > -   _Rulings, not rules._

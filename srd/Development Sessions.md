@@ -4,12 +4,11 @@ alias:
   - session zero
   - dev session
 tags:
-  - creativecommons
+  - CC-BY
   - advice
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-08-17+2000
-last updated: Thursday 2021-10-14 @ 16:32:56 (UTC+0100)
 
 ---
 
@@ -27,13 +26,13 @@ There's a lot to cover in this first dev session, **it can take a few hours to g
 
 ![[Session Zero Checklist]]
 
-#que Session zeroes aren't required for [[Pitching and Planning#One-shot Sessions|one-shot sessions]] or [[Pitching and Planning#Stand-alone Scenarios|stand-alone scenarios]] but you should still brief the players on the game before you hand out character sheets and start playing. 
+#question Session zeroes aren't required for [[Pitching and Planning#One-shot Sessions|one-shot sessions]] or [[Pitching and Planning#Stand-alone Scenarios|stand-alone scenarios]] but you should still brief the players on the game before you hand out character sheets and start playing. 
 
 ## Later Dev Sessions
 
 After you begin playing your characters and really start to dig into playing a campaign, it's a good idea to plan to run an extra development session between every [[Campaign Arcs|arc]], even if no one specifically asked for one.
 
-#que One dev session every 10-20 sessions is a good rate, but you may find you need to use them more or less frequently, depending on your preferred pace.
+#question One dev session every 10-20 sessions is a good rate, but you may find you need to use them more or less frequently, depending on your preferred pace.
 
 **These later dev sessions can be used to achieve several things at once:**
 
@@ -43,7 +42,7 @@ After you begin playing your characters and really start to dig into playing a c
 - General [[Taking notes|book-keeping and note sharing]].
 - Any other maintenance or upkeep that needs tending to, like shifting the game schedule or changing player roles.
 
-### Democratic Character Development
+### Character Development
 
 Once you have [[Character Assembly|made characters]] and begun playing the game properly, you may begin to wonder how to increase certain stats on your sheet. **So here's a list of all the methods available to you to add and remove stuff from your character as they change and grow:**
 
@@ -77,7 +76,7 @@ There is any number of ways that you can conduct a [[Peers#Peer Votes|Peer vote]
 	- If there's a tie then you may break that tie and choose whichever one you prefer.
 	- If no feature got any votes, or if no alternatives were suggested, then the feature is simply removed with no replacement.
 
->#nb
+>### Nb.
 >The suggested features and the following discussions should always be based on how you've played and portrayed your character *so far* during the previous arc's sessions. The feature that wins a vote should feel like a reaction, not a promise. 
 
 You can repeat this process as many times as you like for each [[Player Characters|Player Character]] during a development session, but a *soft limit* should be about once or twice per player each [[Campaign Arcs|arc]]. 

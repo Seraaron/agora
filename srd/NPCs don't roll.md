@@ -2,13 +2,12 @@
 alias:
   - only players roll
 tags:
-  - creativecommons
+  - CC-BY
   - optional
   - tools
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-07-22+1700
-last updated: Friday 2021-09-24 @ 14:59:33 (UTC+0100)
 
 ---
 
@@ -20,7 +19,7 @@ Because of both the _time and emotional investments_ required of [[Tasks]], and 
 
 Generally speaking, a [[Session Structure#Scenes|scene]] should be re-framed so that a PC leads the roll and the NPC [[Helping|helps]] or hinders.
 
-> #eg
+> ### Eg.
 > When fighting, players should roll to hit their enemies, as expected, but would then _roll to dodge or parry when their enemies try to hit back_.
 
 NPC character sheets and [enemy stat blocks](#unfinished) are also written in such a way that makes it easier for an FC to [[Difficulties and Consequences|determine the difficulty of a roll]] and keeping the game move forwards.

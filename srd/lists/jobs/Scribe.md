@@ -6,7 +6,7 @@ alias:
   - chronicler
   - archivist
 tags:
-  - creativecommons
+  - CC-BY
   - jobs
 author: Seraaron
 license: CC BY 4.0
@@ -22,7 +22,7 @@ Taking record of the world according to the views of others, copying documents, 
 
 May also include collecting your own thoughts and ideas into a recorded form, usually as a letter, poem, or book, or authoring a work of fiction, using [[Appeal]].
 
-#imp **Requires:** #academic-tools
+#important **Requires:** #academic-tools
 
 _**Suggested Specialties:** Composition, [culture], [genre], Gossip, [history], Literacy, [lore]..._
 

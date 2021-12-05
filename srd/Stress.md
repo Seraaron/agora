@@ -4,13 +4,12 @@ alias:
   - stresses
   - stressed
 tags:
-  - creativecommons
+  - CC-BY
   - rules
   - status
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-03+2300
-last updated: Monday 2021-09-13 @ 21:28:18 (UTC+0100)
 
 ---
 
@@ -22,7 +21,7 @@ Each ability stress is tracked independently — representing unique aches or ad
 
 Points of stress can come _hard and fast!_ They are most commonly gained for an ability as a failure condition on a [[Stressful Rolls|stressful roll]], but they can also be given out as general consequences (ie. regardless of success or failure), or simply by interacting with the world or the environment in certain ways, or applied like 'status effects' from drugs or spells.
 
-#que Should you gain stress in an ability but already be full (ie. at ◆◆), then your [[Peers]] may choose *the next most appropriate ability* for you to gain stress in instead.
+#question Should you gain stress in an ability but already be full (ie. at ◆◆), then your [[Peers]] may choose *the next most appropriate ability* for you to gain stress in instead.
 
 ### Stress Kills!
 
@@ -47,7 +46,7 @@ Alternatively, **you can perform the same roll on yourself**, *but with a +1 dif
 
 **At the end of the scene:** The stress comes back, and in the same ability it was in before. If you've acquired more stress since then, and the bar for that ability is now filled, then the returning stress can spill over into another related ability instead!
 
-#que This is process is effectively the same as using the [[Treat]] move outside of a conflict, except using Nurse instead of Medic.
+#question This is process is effectively the same as using the [[Treat]] move outside of a conflict, except using Nurse instead of Medic.
 
 ### The Core Stresses
 The stresses for the six core [[Abilities|abilities]] are called: **[[#Worry]]**, **[[#Burnout]]**, **[[#Confusion]]**, **[[#Shock]]**, **[[#Fatigue]]**, and **[[#Pain]]**. These names are just to help distinguish them from one another, and to prompt you to roleplay a certain way before you get remedied. *They also inform you about what the remedies might involve.*

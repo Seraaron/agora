@@ -3,14 +3,13 @@ alias:
   - let it ride
   - let the dice fall where they may
 tags:
-  - creativecommons
+  - CC-BY
   - tools
   - advice
   - consent
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-07-22+1500
-last updated: Monday 2021-08-16 @ 18:30:43 (UTC+0100)
 date updated: 2021-11-05 16:39
 
 ---
@@ -41,7 +40,7 @@ Other times you need to **rewind the whole game back a few moments**, _void any 
 
 This [[Script Change Tools#⏪ Rewind|rewinding]] process is discussed in greater detail in the '[[Script Change Tools]]' article.
 
-> #nb
+> ### Nb.
 > Note that these are all mostly 'meta-exceptions'. Dire consequences may be hounding your characters all the time, in game, but only if you've understood and accepted their fate before you put them in those positions. This is all part of the 'social contract' of play.
 
 #### Retroactive-Continuity

@@ -7,7 +7,7 @@ alias:
   - kith / kin
   - favor
 tags:
-  - publicdomain
+  - CC0
   - core
   - rules
   - advice
@@ -15,7 +15,6 @@ tags:
 author: Seraaron
 license: CC0 1.0
 date created: 2021-09-09+1500
-last updated: Thursday 2021-09-23 @ 19:29:20 (UTC+0100)
 
 ---
 
@@ -32,12 +31,12 @@ VINPC — pronounced /vɪn·pi·si/ — stands for 'Very Important Non-Player Ch
 
 All [[Player Characters]] may choose or make up NPCs that they wish to mark as being VINPCs. This is done by writing their name and their relationship to you in one of the three boxes on your [character sheet](#charsheet).
 
-> #nb
+> ### Nb.
 > If you don't fill all your VINPC slots during [[Character Assembly|character assembly]] then don't worry, you can designate someone you meet during a session as a VINPC instead a — if you find that you like them — signaling to your FC that you like this character and want to see them more often in play, making them significant to your character's life.
 
 **Kith and kin can always be found in the world, simply by asking your FC if you can go and talk to them**. The only restrictions against this notion are common sense ones, like them being too far away, in a place you don't have easy access to, or otherwise currently unavailable. **Similarly, kith and kin will never betray you**, unless you push them too far ([[#Falling Out|see below]]).
 
-#que You shouldn't list other PCs as kith or kin, even if they're literally members of your character's family; but functionally _your allied party members can also be reached at any time using this rule_.
+#question You shouldn't list other PCs as kith or kin, even if they're literally members of your character's family; but functionally _your allied party members can also be reached at any time using this rule_.
 
 #### Three per Player
 
@@ -60,9 +59,9 @@ Each kith and kin entry has a diamond next to them called 'favor'. This diamond 
 
 **If you currently lack favor** and want them to do any of these things for you, then you must persuade, bribe, or manipulate them like any other NPC.
 
-#imp Not having favor doesn't mean they suddenly hate you, it just means they're unwilling to aid you without recompense or a good reason.
+#important Not having favor doesn't mean they suddenly hate you, it just means they're unwilling to aid you without recompense or a good reason.
 
-#que And what's considered 'reasonable' can change from NPC to NPC, by the discretion of your Facilitator.
+#question And what's considered 'reasonable' can change from NPC to NPC, by the discretion of your Facilitator.
 
 ##### Regaining Favor
 
@@ -79,7 +78,7 @@ If you abuse your relationship with a VINPC then you may lose more than just fav
 
 Or — if it makes sense to the FC to do this — they can instead become a _rival_ whom you frequently meet and come into conflict with from then onward. In either case, the NPC in question won't return to your kith and kin list until you can redeem yourself in their eyes.
 
-> #nb
+> ### Nb.
 > There is no solid 'gauge' for this, exactly — so that the system _cannot be "gamed"_ — but **your FC should always warn you** if they feel your relationship with a VINPC is waning.
 
 ##### Bereavement Protection
@@ -94,6 +93,6 @@ On the surface, these restrictions about VINPC death and betrayal may seem artif
 
 ---
 
-###### This Article is Released to Public Domain [(CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)
+###### This Article is Released to Public Domain [(CC0 1.0)](https:/creativecommons.org/publicdomain/zero/1.0/)
 
 ---

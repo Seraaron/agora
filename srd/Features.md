@@ -3,14 +3,13 @@ alias:
   - features
   - Feature
 tags:
-  - creativecommons
+  - CC-BY
   - rules
   - optional
   - features
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-08-23+2300
-last updated: Thursday 2021-09-23 @ 18:19:37 (UTC+0100)
 
 ---
 

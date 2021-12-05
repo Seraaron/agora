@@ -20,6 +20,24 @@ Right now, the only thing availiable is the published SRD or 'system reference d
 - Magic jobs still need finishing.
 - Other tweaks and fixes.
 
+#### 5 Dec 2021
+- Changes some tags and metadata in all articles
+- Emedded job sybsystems into their own articles
+- Updated social discourse and martial combat based on playtesting and feedback:
+  - Presence calculation is slightly simplified
+  - Composure renamed to Disposition (and this name is also shared with martial combat now too, so Stamina is also renamed to Disposition)
+  - Add Health to Disposition roll, so you're less screwed if you don't have one of the two jobs.
+  - Momentum gains +1 at 5, and every 10 momentum thereafter (though the grid graphic hasn't been updated yet), and new momentum grid only goes up to 50.
+  - Tones grant flat momentum each round, and you can no longer change tone mid round except via an exploit.
+  - Speechlessness doesn't force you to skip a turn anymore, but you're still kinda incentivized to do so, as it instead drops your Presence to 0 until the end of the round you next take a turn on.
+  - Turns taken on tied disposition now resolve simultanously.
+  - You can't take the same move twice in a row (so no more double question or double dismiss)
+  - Exploits have been reworded, so they're from your perspective not the target's.
+  - Detract has been renamed Chide, and Dismiss has been renamed Conclude
+  - Some moves now give bonus dice depending on what tone your opponent is currently in.
+  - You can now conclude from any tone, just the type of conclusion changes.
+  - Similar changes for martial combat.
+
 #### 17 Nov 2021
 - Added 'Social Discourse': A modified version of the combat rules that introduce rhetorical theory.
 - Updated martial combat (minor tweaks).

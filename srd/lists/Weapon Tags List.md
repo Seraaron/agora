@@ -2,300 +2,202 @@
 alias:
   - weapon tags
 tags:
-  - creativecommons
+  - CC-BY
   - tags
   - list
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-18 19:04
-date updated: 2021-11-19 14:17
-
+date updated: 2021-12-01 11:55
 ---
 
----
+### Weapon Tags
 
-###### Weapon Tags
+#ammo-type
 
----
+- The damage type of this weapon depends on what type of ammo you load into it.
+	- **See:** [[Ammo Types]]
 
-##### #ammo-type
+#any-melee
 
-The damage type of this weapon depends on what type of ammo you load into it:
+- You can use any melee job to attack with this weapon, as though it had all three melee job tags: #brawler #martialist #warrior
 
-![[Ammo Types]]
+#any-ranged
 
----
+- You can use any ranged job to attack with this weapon, as though it had all three ranged job tags: #archer #hunter #gunner
 
-##### #any-melee
+#archer
 
-You can use any melee job to attack with this weapon, as though it had all three melee job tags: #brawler #martialist #warrior
+- Use with the [[Archer]] job to make ranged attack rolls with this weapon.
 
----
+#artillery
 
-##### #any-ranged
+- Add a +1D bonus to all attacks made with this weapon while it is mounted on a turret, but attacks made with it if it's dismounted cannot benefit from being #light or #heavy.
 
-You can use any ranged job to attack with this weapon, as though it had all three ranged job tags: #archer #hunter #gunner
+#bashing
 
----
+- This weapon inflicts wound with blunt force trauma that can break bones or cause internal bleeding. See [[Damage Type vs Armor Weight|damage lookup table]] for [[Spur]] damage.
 
-##### #archer
+#bayonet
 
-Use with the [[Archer]] job to make ranged attack rolls with this weapon.
+- You may treat this item as a #piercing #brawler weapon when the bayonet is attached, but it also adds a +1 difficulty factor to your ranged attacks.
+- The bayonet can also be used separately as a common-quality dagger.
 
----
+#binding
 
-##### #artillery
+- Grants a +1D bonus to [[Grapple]] and [[Disarm]] attack rolls, but deals minimal damage on [[Spur]] attacks (see the [[Damage Type vs Armor Weight|damage lookup table]]).
 
-Add a +1D bonus to all attacks made with this weapon while it is mounted on a turret, but attacks made with it if it's dismounted cannot benefit from being #light or #heavy.
+#brawler
 
----
+- Use with the [[Brawler]] job to make melee attack rolls with this weapon.
 
-##### #balanced
+#burning
 
-Counts as #light weapon when used one-handed, or a #heavy weapon when used two-handed — and swapping between grips is a free action — but the weapon is also neither #long nor #short, so it cannot benefit from your positioning.
+- Deals 7 stamina damage on hit, regardless of what armor the target has (unless they are immune to burning).
 
-Balanced items also weighs 2 in [[Carry Weight|carry costs]].
+#cavalry
 
-#imp A weapon must be either #heavy or #light — and either #long or #short — or else it is #balanced.
+- Add a +1D bonus to all attacks made with this weapon while you are mounted, but attacks made with it on foot cannot benefit from being #light or #heavy.
 
----
+#crushing
 
-##### #bashing
+- Deals 6 stamina damage on [[Spur]] hit, regardless of the armor the target has (unless they are immune to crushing).
 
-This weapon inflicts wound with blunt force trauma that can break bones or cause internal bleeding. See [[Damage Type vs Armor Weight|damage lookup table]] for [[Spur]] damage.
+#explosive
 
----
+- The ammunition for this weapon causes an explosion on impact which deals stamina damage to everyone within close-quarters of your target equal to your margin of success on the attack.
 
-##### #bayonet
+#firearm
 
-You may treat this item as a #piercing #brawler weapon when the bayonet is attached, but it also adds a +1 difficulty factor to your ranged attacks. The bayonet can also be used separately as a common-quality dagger.
+- Ignores poise added by a #shield, #hand-guard, or #barding, but makes a loud noise when used — which might draw unwanted attention to the fight, _making stealth impossible_ — and can be deafening if used indoors.
+- You can also [[Shields Shall be Shattered|shatter a shield]] and still [[Kill]] (pacify) your target with this weapon, unless their shield is  #bullet-proof.
+- Firearms also tend to be more expensive, due to their abundance of extra tags.
 
----
+#flexible
 
-##### #binding
+- Ignores poise added by shields or hand-guards, but any allies within your close-quarters suffer a +1 difficulty penalty to their attack rolls.
 
-Grants a +1D bonus to [[Grapple]] and [[Disarm]] attack rolls, but deals minimal damage on [[Spur]] attacks (see the [[Damage Type vs Armor Weight|damage lookup table]]).
+#formation
 
----
+- Grants +1D to all [[Spur]] and [[Flank]] attack rolls, so long as you remain in close-quarters with an ally also using a #formation weapon.
 
-##### #brawler
+#freezing
 
-Use with the [[Brawler]] job to make melee attack rolls with this weapon.
+- Deals 5 stamina damage on [[Spur]] hit, regardless of what armor the target has (unless they are immune to freezing).
 
----
+#great
 
-##### #burning
+- Adds a +1D bonus to all [[Spur]] and [[Pacify]] attack rolls when used in battle.
+- This tag also adds one (+1) to the item's [[Carry Weight|encumbrance cost]].
+- You can also [[Shields Shall be Shattered|shatter a shield]] and still [[Kill]] (pacify) your target with this weapon, unless their shield is also #great.
 
-Deals 7 stamina damage on hit, regardless of what armor the target has (unless they are immune to burning).
+#gunner
 
----
+- Use with the [[Gunner]] job to make ranged attack rolls with this weapon.
 
-##### #cavalry
+#hand-guard
 
-Add a +1D bonus to all attacks made with this weapon while you are mounted, but attacks made with it on foot cannot benefit from being #light or #heavy.
+- This weapon grant +1 poise while equipped, effectively counting as a small shield, due to its cross-guard, knuckle-bow, or basket-hilt, but that also makes the item more expensive than one without.
 
----
+#heavy
 
-##### #crushing
+- Add a +1D bonus to [[Assault]] and [[Pacify]] attack rolls, and must be wielded with two hands (for modest or ample sized creatures).
+- Heavy items also weigh 3 in [[Carry Weight|carry costs]].
 
-Deals 6 stamina damage on [[Spur]] hit, regardless of the armor the target has (unless they are immune to crushing).
+#hunter
 
----
+- Use with the [[Hunter]] job to make ranged attack rolls with this weapon.
 
-##### #explosive
+#light
 
-The ammunition for this weapon causes an explosion on impact which deals stamina damage to everyone within close-quarters of your target equal to your margin of success on the attack.
+- Add a +1D bonus to [[Spur]] and [[Flank]] attack rolls, and can be wielded with only one hand (for modest or ample sized creatures).
+- Light items also weigh 1 in [[Carry Weight|carry costs]].
 
----
+#lightning
 
-##### #firearm
+- Deals 8 stamina damage on hit, regardless of what armor the target has (unless they are immune to lightning).
 
-Ignores poise added by a #shield, #hand-guard, or #barding, but makes a loud noise when used — which might draw unwanted attention to the fight, _making stealth impossible_ — and can be deafening if used indoors.
+#long
 
-You can also [[Shields Shall be Shattered|shatter a shield]] and still [[Kill]] (pacify) your target with this weapon, unless their shield is  #bullet-proof.
+Depends on whether the weapon is melee or ranged:
+- _Melee:_ Adds a +1D bonus against targets in open spaces.
+- _Ranged:_ Adds a +1D bonus against 'far away' targets.
 
-Firearms also tend to be more expensive, due to their abundance of extra tags.
+#martialist
 
----
+- Use with the [[Martialist]] job to make melee attack rolls with this weapon.
 
-##### #flexible
+#medium
 
-Ignores poise added by shields or hand-guards, but any allies within your close-quarters suffer a +1 difficulty penalty to their attack rolls.
+- Counts as #light weapon when used one-handed, or a #heavy weapon when used two-handed — and swapping between grips is a free action — but the weapon is also neither #long nor #short, so it cannot benefit from your positioning.
+- Medium items also weighs 2 in [[Carry Weight|carry costs]].
 
----
+#important A weapon must be either #heavy or #light — and either #long or #short — or else it is #medium.
 
-##### #formation
+#natural
 
-Grants +1D to all [[Spur]] and [[Flank]] attack rolls, so long as you remain in close-quarters with an ally also using a #formation weapon.
+- This “item” is a part of your body and cannot be disarmed (though it could be dismembered, which would count as a [[Wounds and Scars|wound]]). It is innate to your species.
+- It doesn't weigh anything, but it cannot be bought or sold.
 
----
+#paired
 
-##### #freezing
+- These weapons come as a symmetrical pair — one for each hand.
+- If you have the 'Ambidextrous' specialty and wield both weapons then they also grant you +1 Poise, similar to a shield.
 
-Deals 5 stamina damage on [[Spur]] hit, regardless of what armor the target has (unless they are immune to freezing).
+#piercing
 
----
+- This weapon inflicts wounds with penerating trauma that causes major blood loss. See [[Damage Type vs Armor Weight|damage lookup table]] for [[Spur]] damage.
 
-##### #great
+#reload
 
-Adds a +1D bonus to all [[Spur]] and [[Pacify]] attack rolls when used in battle.
+- You must spend a turn resetting or reloading this weapon between every attack, using the [[Interact]] move.
 
-This tag also adds one (+1) to the item's [[Carry Weight|encumbrance cost]].
+#rending
 
-You can also [[Shields Shall be Shattered|shatter a shield]] and still [[Kill]] (pacify) your target with this weapon, unless their shield is also #great.
+- This weapon inflict wounds by tearing flesh, causing deep lacerations, and dislocating joints. See [[Damage Type vs Armor Weight|damage lookup table]] for [[Spur]] damage.
 
----
+#scope
 
-##### #gunner
+- When you make attacks with this weapon from the 'remote' distance you may ignore the usual poise bonus your target would gain (from 'shooting into the fray') and effectively placing you outside of a battle when used to snipe at - targets this way.
 
-Use with the [[Gunner]] job to make ranged attack rolls with this weapon.
+#secret
 
----
+- Can be easily hidden on your person and quickly drawn from that hiding place as a free action with a Finesse check, but it slips from your hand if the roll fails.
+- This tag also subtracts one (-1) from the item's [[Carry Weight|encumbrance cost]], to a minimum of 0.
 
-##### #hand-guard
-
-This weapon grant +1 poise while equipped, effectively counting as a small #shield, due to its cross-guard, knuckle-bow, or basket-hilt, but that also makes the item more expensive than one without.
-
----
-
-##### #heavy
-
-Add a +1D bonus to [[Assault]] and [[Pacify]] attack rolls, and must be wielded with two hands (for modest or ample sized creatures).
-
-Heavy items also weigh 3 in [[Carry Weight|carry costs]].
-
----
-
-##### #hunter
-
-Use with the [[Hunter]] job to make ranged attack rolls with this weapon.
-
----
-
-##### #light
-
-Add a +1D bonus to [[Spur]] and [[Flank]] attack rolls, and can be wielded with only one hand (for modest or ample sized creatures).
-
-Light items also weigh 1 in [[Carry Weight|carry costs]].
-
----
-
-##### #lightning
-
-Deals 8 stamina damage on hit, regardless of what armor the target has (unless they are immune to lightning).
-
----
-
-##### #long
+#short
 
 Depends on whether the weapon is melee or ranged:
 
--   (_melee_): Adds a +1D bonus against targets in open spaces.
--   (_ranged_): Adds a +1D bonus against 'far away' targets.
+- _Melee:_ Adds a +1D bonus against targets in enclosed spaces.
+- _Ranged:_ Adds a +1D bonus against 'nearby' targets.
 
----
+#one-shot
 
-##### #martialist
+- This weapon can only be used with a ranged attack once per battle, either because re-loading it takes too long, or because it is thrown and would have to be retrieved to be used again.
 
-Use with the [[Martialist]] job to make melee attack rolls with this weapon.
+#slashing
 
----
+- This weapon inflicts wounds with deep cuts and slices that cause major blood loss. See [[Damage Type vs Armor Weight|damage lookup table]] for [[Spur]] damage.
 
-##### #natural
+#returning
 
-This “item” is a part of your body and cannot be disarmed (though it could be dismembered, which would count as a [[Wounds and Scars|wound]]). It is innate to your species.
+- There is a 1-in-6 chance that this weapon returns to you at the beginning of the round after it's thrown.
+	- This increases to a 50% chance with the 'Boomerangs' specialty.
 
-It doesn't weigh anything, but it cannot be bought or sold.
+#two-shot
 
----
+- This weapon can only be used with a ranged attack twice per battle, either because re-loading it takes too long, or because it is common to only carry two and then retrieve them after the battle.
 
-##### #paired
+#warrior
 
-Usually come as a pair of symmetrical weapons; one for each hand. You gain a +1D bonus to your [[Spur]] and [[Assault]] rolls but _only if_ you have both weapons equipped and have the 'Ambidexterity' specialty.
+- Use with the [[Warrior]] job to make melee attack rolls with this weapon.
 
----
+#worn
 
-##### #piercing
+- This item cannot be disarmed or pick-pocketed while equipped, but it takes a turn to drop — using [[Interact]], instead of a free action — and _two turns_ to equip.
+- You can only wear one item of the same type at a time, unless it is also #paired.
 
-This weapon inflicts wounds with penerating trauma that causes major blood loss. See [[Damage Type vs Armor Weight|damage lookup table]] for [[Spur]] damage.
+#x-shot
 
----
-
-##### #reload
-
-You must spend a turn resetting or reloading this weapon between every attack, using the [[Interact]] move.
-
----
-
-##### #rending
-
-This weapon inflict wounds by tearing flesh, causing deep lacerations, and dislocating joints. See [[Damage Type vs Armor Weight|damage lookup table]] for [[Spur]] damage.
-
----
-
-##### #scope
-
-When you make attacks with this weapon from the 'remote' distance you may ignore the usual poise bonus your target would gain (from 'shooting into the fray') and effectively placing you outside of a battle when used to snipe at targets this way.
-
----
-
-##### #secret
-
-Can be easily hidden on your person and quickly drawn from that hiding place as a free action with a Finesse check, but it slips from your hand if the roll fails.
-
-This tag also subtracts one (-1) from the item's [[Carry Weight|encumbrance cost]], to a minimum of 0.
-
----
-
-##### #short
-
-Depends on whether the weapon is melee or ranged:
-
--   (_melee_): Adds a +1D bonus against targets in enclosed spaces.
--   (_ranged_): Adds a +1D bonus against 'nearby' targets.
-
----
-
-##### #one-shot
-
-This weapon can only be used with a ranged attack once per battle, either because re-loading it takes too long, or because it is thrown and would have to be retrieved to be used again.
-
----
-
-##### #slashing
-
-This weapon inflicts wounds with deep cuts and slices that cause major blood loss. See [[Damage Type vs Armor Weight|damage lookup table]] for [[Spur]] damage.
-
----
-
-##### #returning
-
-There is a 1-in-6 chance that this weapon returns to you after it's thrown. (This increases to a 50:50 chance with the 'Boomeranger' specialty).
-
----
-
-##### #two-shot
-
-This weapon can only be used with a ranged attack twice per battle, either because re-loading it takes too long, or because it is common to only carry two and then retrieve them after the battle.
-
----
-
-##### #warrior
-
-Use with the [[Warrior]] job to make melee attack rolls with this weapon.
-
----
-
-##### #worn
-
-This item cannot be disarmed or pick-pocketed while equipped, but it takes a turn to drop — using [[Interact]], instead of a free action — and _two turns_ to equip.
-
-You can only wear one item of the same type at a time, unless it is also #paired.
-
----
-
-##### #x-shot
-
-This weapon can only be used with a ranged attack 'x' times per battle, either because re-loading it takes too long, or because it is common to only that many of them and then retrieve them after the battle.
-
----
+- This weapon can only be used with a ranged attack 'x' times per battle, either because re-loading it takes too long, or because it is common to only that many of them and then retrieve them after the battle.

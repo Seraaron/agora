@@ -6,12 +6,11 @@ alias:
   - spokesperson
   - herald
 tags:
-  - creativecommons
+  - CC-BY
   - jobs
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
-last updated: Saturday 2021-09-25 @ 00:24:43 (UTC+0100)
 date updated: 2021-11-24 16:58
 ---
 

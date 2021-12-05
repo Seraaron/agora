@@ -1,7 +1,7 @@
 ---
 alias: [namer, binder, invoker]
 tags:
-  - creativecommons
+  - CC-BY
   - jobs
 author: Seraaron
 license: CC BY 4.0

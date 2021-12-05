@@ -2,13 +2,12 @@
 alias:
   - player styles
 tags:
-  - creativecommons
+  - CC-BY
   - advice
   - essay
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-23+2300
-last updated: Thursday 2021-09-23 @ 23:52:33 (UTC+0100)
 
 ---
 

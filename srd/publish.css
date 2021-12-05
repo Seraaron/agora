@@ -9,8 +9,9 @@ _______________
 **************/
 
 /* GOOGLE FONT IMPORTS */
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Petrona:ital,wght@0,600;0,800;1,500;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,500;0,800;1,600;1,900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Vollkorn+SC:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@0,800;1,800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Overlock:ital,wght@0,400;0,900;1,400;1,900&display=swap');
@@ -51,6 +52,7 @@ _______________
   --col-lilac:         #5348c1;
   --col-desat-lilac:   #8c88b6;
   --col-blue:          #2b76cf;
+  --col-deep-blue:     #2968a6;
   --col-desat-blue:    #7699c2;
   --col-cyan:          #28c6d3;
   --col-desat-cyan:    #8dc3c7;
@@ -59,6 +61,7 @@ _______________
   /*font family library*/
   --font-sans:            'Lato', sans-serif;
   --font-serif:           'Petrona', serif;
+  --font-serif-alt:       'Crimson Pro', serif;
   --font-serif-black:     'Vollkorn', serif;
   --font-smallcaps:       'Vollkorn SC', serif;
   --font-cursive:         'Overlock', cursive;
@@ -67,8 +70,8 @@ _______________
 
   /* text size library */
   --font-size-dropcap: 3.0em;
-  --font-size-huge:    2.5em;
-  --font-size-larger:  2.2em;
+  --font-size-huge:    2.4em;
+  --font-size-larger:  2.1em;
   --font-size-large:   1.9em;
   --font-size-bigger:  1.6em;
   --font-size-big:     1.3em;
@@ -136,7 +139,9 @@ _______________
   --thead-ul-color: var(--col-darkest-gray);
   --thead-bg-color: var(--col-dark-gray);
   --thead-font-color: var(--col-off-white);
-  --th-hover-color: var(--col-lightest-gray);
+  --th-hover-color: var(--col-darkest-gray);
+  --td-hover-color: rgba(190, 190, 190, 0.5);
+  --tr-even-color: var(--col-lightest-gray);
 
   --embed-bg-color: var(--col-lightest-gray);
 
@@ -145,8 +150,10 @@ _______________
   --tagpill-bg-color: var(--col-lighter-gray);
   --tagpill-bg-hover-color: var(--col-lightest-gray);
 
-  --code-editor-color: var(--col-brown);
-  --codeblock-bg-color: var(--col-off-white);
+  --code-editor-color: var(--col-blue);
+  --codeblock-bg-color: rgba(200, 200, 200, 0.5);
+
+  --embed-bg-color: rgba(255, 255, 255, 0.5);
 
   --h1-internal-color: var(--col-red);
   --h2-internal-color: var(--col-magenta);
@@ -182,7 +189,9 @@ _______________
   --thead-ul-color: var(--col-lightest-gray);
   --thead-bg-color: var(--col-light-gray);
   --thead-font-color: var(--col-off-black);
-  --th-hover-color: var(--col-black);
+  --th-hover-color: var(--col-lightest-gray);
+  --td-hover-color: rgba(55, 55, 55, 0.5);
+  --tr-even-color: var(--col-darkest-gray);
 
   --embed-bg-color: var(--col-darkest-gray);
 
@@ -191,8 +200,10 @@ _______________
   --tagpill-bg-color: var(--col-black);
   --tagpill-bg-hover-color: var(--col-umber);
 
-  --code-editor-color: var(--col-orange);
-  --codeblock-bg-color: var(--col-off-black);
+  --code-editor-color: var(--col-desat-cyan);
+  --codeblock-bg-color: rgba(60, 60, 60, 0.5);
+
+  --embed-bg-color: rgba(0, 0, 0, 0.5);
 
   --h1-internal-color: var(--col-salmon);
   --h2-internal-color: var(--col-desat-magenta);
@@ -219,30 +230,46 @@ html, body {
 
 /* tables */
 table {
+  font-family: var(--font-serif);
+  font-size: var(--font-size-small);
+  text-align: initial;
   width: 100%;
 }
-
-table, td {
-  background-color: var(--background-primary);
-  border-color: var(--background-primary) !important;
-  font-family: var(--font-serif);
-}
-td:hover {
-  background-color: var(--th-hover-color);
-}
-th {
-  border-color: var(--thead-bg-color) !important;
-  font-family: var(--font-serif);
-  font-weight: 900;
-}
-th:hover {
-  background-color: var(--thead-ul-color);
-}
 thead {
+  font-family: var(--font-serif-alt);
   font-size: var(--font-size-plus);
   color: var(--thead-font-color);
-  background-color: var(--thead-bg-color);
-  border-bottom: 0.2em solid var(--thead-ul-color) !important;
+}
+.markdown-preview-view td,
+.reveal table td {
+    border: none;
+}
+.markdown-preview-view th,
+.reveal table th {
+    background-color: var(--thead-bg-color);
+    border: none;
+    border-bottom: 0.2em solid var(--thead-ul-color) !important;
+}
+th:hover {
+  background-color: var(--th-hover-color) !important;
+}
+.markdown-preview-view td:nth-child(odd),
+.reveal table td:nth-child(odd) {
+    background-color: var(--col-bg-color);
+    border: 0;
+}
+.markdown-preview-view tr:nth-child(even),
+.reveal table tr:nth-child(even) {
+    background-color: var(--tr-even-color);
+    border: 0;
+}
+.markdown-preview-view tr:nth-child(odd),
+.reveal table tr:nth-child(odd) {
+    background-color: var(--background-primary);
+    border: 0;
+}
+td:hover {
+  background-color: var(--td-hover-color) !important;
 }
 
 
@@ -275,12 +302,9 @@ hr {
 /* code segments */
 .cm-s-obsidian .HyperMD-codeblock, .cm-s-obsidian span.cm-inline-code, .markdown-preview-view code {
   color: var(--code-editor-color);
-}
-.HyperMD-codeblock {
-  line-height: 1.4em !important;
-}
-.HyperMD-codeblock-bg {
   background-color: var(--codeblock-bg-color) !important;
+  padding-top: 0.1em;
+  display: inline-block;
 }
 
 
@@ -290,7 +314,7 @@ hr {
 .cm-header-4, .markdown-preview-section h4, h4,
 .cm-header-5, .markdown-preview-section h5, h5 {
   padding-top: var(--margin-header-top);
-  font-family: var(--font-serif-black);
+  font-family: var(--font-serif);
 }
 .cm-header-1, .cm-header-2, .cm-header-3, .cm-header-4, .cm-header-5, .cm-header-6 {
   font-family: var(--font-serif);
@@ -318,24 +342,33 @@ hr {
 .markdown-preview-section h1, h1 {
   font-family: var(--font-smallcaps);
   font-size: var(--font-size-huge);
-  text-align: center;
   color: var(--title-color);
+  text-align: center;
 }
 .markdown-preview-section h2, h2 {
   font-size: var(--font-size-larger);
   color: var(--title-color);
+  text-align: left;
 }
 .markdown-preview-section h3, h3 {
+  font-family: var(--font-smallcaps);
   font-size: var(--font-size-large);
   color: var(--title-color);
+  text-align: left;
+  text-indent: 0.5em;
 }
 .markdown-preview-section h4, h4 {
   font-size: var(--font-size-bigger);
   color: var(--title-color);
+  text-align: left;
+  text-indent: 1em;
 }
 .markdown-preview-section h5, h5 {
+  font-family: var(--font-smallcaps);
   font-size: var(--font-size-big);
   color: var(--title-color);
+  text-align: left;
+  text-indent: 1.5em;
 }
 .markdown-preview-section h6, h6 {
   font-family: var(--font-smallcaps);
@@ -389,10 +422,10 @@ ul ul::before {
 .tag {
   color: var(--tag-color);
   font-family: var(--font-cursive);
-  font-size: var(--font-size-small);
+  font-size: var(--font-size-smaller);
   font-weight: 700;
   cursor: pointer;
-  padding: 0em 0.6em 0em 0.5em;
+  padding: 0em 0.5em 0em 0.5em;
   border-radius: 1em;
   text-align: center;
   display: inline-block;
@@ -409,20 +442,20 @@ ul ul::before {
 }
 
 /* __________________________________________________________________________ */
-/* SNIPPET: Enlarge image on hover by @den */
+/* SNIPPET: Enlarge image on click by @den */
 .markdown-preview-view img {
   display: block;
   margin-top: var(--margin-header-top);
   margin-bottom: var(--margin-header-bot);
   margin-left: auto;
   margin-right: auto;
-  width: 70%;  /* experiment with values */
+  width: 90%;  /* experiment with values */
   transition:transform 0.6s ease;
 }
 
-.markdown-preview-view img:hover {
+.markdown-preview-view img:active {
   -webkit-transform:scale(1.1); /* experiment with values */
-  transform:scale(1.5);
+  transform:scale(1.75);
 }
 
 /* __________________________________________________________________________ */
@@ -463,11 +496,11 @@ input[type=checkbox]:checked {
   border:none;
 }
 .markdown-preview-view .markdown-embed-content {
-  background-color: var(--background-primary);
+  background-color: var(--embed-bg-color);
   border-radius: 0.8em 0.3em 0.3em 0.8em;
 }
 .markdown-preview-view:hover .markdown-embed-content:hover {
-  background-color: var(--embed-bg-color);
+  background-color: var(--td-hover-color);
 }
 /* the link on the top right corner*/
 .markdown-embed-link {
@@ -498,12 +531,7 @@ input[type=checkbox]:checked {
   background-repeat: repeat;
 }
 /* Hides the text of the #tags  */
-.tag[href="#eg"], .tag[href="#nb"], .tag[href="#ie"],
-.tag[href="#cf"], .tag[href="#ps"], .tag[href="#id"],
-.tag[href="#imp"], .tag[href="#que"], .tag[href="#up"], .tag[href="#dw"], .tag[href="#ast"],
-.tag[href="#ft"], .tag[href="#jb"], .tag[href="#as"], .tag[href="#rq"],
-.tag[href="#definion"], .tag[href="#axiom"], .tag[href="#theorem"], .tag[href="#corollary"], .tag[href="#lemma"], .tag[href="#proof"], .tag[href="#qed"],
-.tag[href="#quote"] {
+.tag[href="#important"], .tag[href="#question"], .tag[href="#asterisk"], .tag[href="#quote"] {
   position: relative;
   background-color: transparent !important;
   color: transparent !important;
@@ -511,86 +539,8 @@ input[type=checkbox]:checked {
   pointer-events: none;
 }
 /* Defines the styling of the text and tag content */
-/* exempli gratia */
-.tag[href="#eg"]:after {
-  font-family: var(--font-smallcaps) !important;
-  font-size: var(--font-size-large) !important;
-  color: var(--title-color);
-  font-weight: 700;
-  content: "Eg.";
-  display: inline;
-  position: absolute;
-  left: -0.1em;
-  line-height: 0.8em;
-  margin-top: 0.2em;
-}
-/* nota bene */
-.tag[href="#nb"]:after {
-  font-family: var(--font-smallcaps) !important;
-  font-size: var(--font-size-large) !important;
-  color: var(--title-color);
-  font-weight: 700;
-  content: "Nb.";
-  display: inline;
-  position: absolute;
-  left: -0.1em;
-  line-height: 0.8em;
-  margin-top: 0.2em;
-}
-/* id est */
-.tag[href="#ie"]:after {
-  font-family: var(--font-smallcaps) !important;
-  font-size: var(--font-size-large) !important;
-  color: var(--title-color);
-  font-weight: 700;
-  content: "Ie.";
-  display: inline;
-  position: absolute;
-  left: -0.1em;
-  line-height: 0.8em;
-  margin-top: 0.2em;
-}
-/* conferatur */
-.tag[href="#cf"]:after {
-  font-family: var(--font-smallcaps) !important;
-  font-size: var(--font-size-large) !important;
-  color: var(--title-color);
-  font-weight: 700;
-  content: "Cf.";
-  display: inline;
-  position: absolute;
-  left: -0.1em;
-  line-height: 0.8em;
-  margin-top: 0.2em;
-}
-/* postscript / postulate */
-.tag[href="#ps"]:after {
-  font-family: var(--font-smallcaps) !important;
-  font-size: var(--font-size-large) !important;
-  color: var(--title-color);
-  font-weight: 700;
-  content: "Ps.";
-  display: inline;
-  position: absolute;
-  left: -0.1em;
-  line-height: 0.8em;
-  margin-top: 0.2em;
-}
-/* identity / idea */
-.tag[href="#id"]:after {
-  font-family: var(--font-smallcaps) !important;
-  font-size: var(--font-size-large) !important;
-  color: var(--title-color);
-  font-weight: 700;
-  content: "Id.";
-  display: inline;
-  position: absolute;
-  left: -0.1em;
-  line-height: 0.8em;
-  margin-top: 0.2em;
-}
 /* important bullet */
-.tag[href="#imp"]:after {
+.tag[href="#important"]:after {
   font-family: var(--font-smallcaps) !important;
   font-size: var(--font-size-bigger) !important;
   color: var(--col-crimson);
@@ -598,11 +548,11 @@ input[type=checkbox]:checked {
   content: "!";
   display: inline;
   position: absolute;
-  left: 0.85em;
+  left: 2em;
   line-height: 1em;
 }
 /* question bullet */
-.tag[href="#que"]:after {
+.tag[href="#question"]:after {
   font-family: var(--font-smallcaps) !important;
   font-size: var(--font-size-bigger) !important;
   color: var(--col-crimson);
@@ -610,34 +560,11 @@ input[type=checkbox]:checked {
   content: "?";
   display: inline;
   position: absolute;
-  left: 0.8em;
+  left: 1.95em;
   line-height: 1em;
 }
-/* up bullet */
-.tag[href="#up"]:after {
-  font-family: var(--font-smallcaps) !important;
-  font-size: var(--font-size-big) !important;
-  color: var(--col-crimson);
-  font-weight: 700;
-  content: "▲";
-  display: inline;
-  position: absolute;
-  left: 0.45em;
-  line-height: 1em;
-}
-/* down bullet */
-.tag[href="#dw"]:after {
-  font-family: var(--font-smallcaps) !important;
-  font-size: var(--font-size-big) !important;
-  color: var(--col-crimson);
-  font-weight: 700;
-  content: "▼";
-  display: inline;
-  position: absolute;
-  left: 0.45em;
-  line-height: 1em;
-}
-.tag[href="#ast"]:after {
+/* asterisk bullet */
+.tag[href="#asterisk"]:after {
   font-family: var(--font-smallcaps) !important;
   font-size: var(--font-size-big) !important;
   color: var(--col-crimson);
@@ -645,164 +572,8 @@ input[type=checkbox]:checked {
   content: "∗";
   display: inline;
   position: absolute;
-  left: 0.9em;
+  left: 2.3em;
   line-height: 1em;
-}
-/* AGORA TAGS */
-/* features */
-.tag[href="#ft"]:after {
-  font-family: var(--font-smallcaps) !important;
-  font-size: var(--font-size-big) !important;
-  color: var(--title-color);
-  font-weight: 700;
-  content: "Features:";
-  text-decoration: underline;
-  display: inline;
-  position: absolute;
-  left: -0.1em;
-  line-height: 0.8em;
-  margin-top: 0.2em;
-}
-/* jobs */
-.tag[href="#jb"]:after {
-  font-family: var(--font-smallcaps) !important;
-  font-size: var(--font-size-big) !important;
-  color: var(--title-color);
-  font-weight: 700;
-  content: "Jobs:";
-  text-decoration: underline;
-  display: inline;
-  position: absolute;
-  left: -0.1em;
-  line-height: 0.8em;
-  margin-top: 0.2em;
-}
-/* assets */
-.tag[href="#as"]:after {
-  font-family: var(--font-smallcaps) !important;
-  font-size: var(--font-size-big) !important;
-  color: var(--title-color);
-  font-weight: 700;
-  content: "Assets:";
-  text-decoration: underline;
-  display: inline;
-  position: absolute;
-  left: -0.1em;
-  line-height: 0.8em;
-  margin-top: 0.2em;
-}
-/* requirements */
-.tag[href="#rq"]:after {
-  font-family: var(--font-smallcaps) !important;
-  font-size: var(--font-size-big) !important;
-  color: var(--title-color);
-  font-weight: 700;
-  content: "Requires:";
-  text-decoration: underline;
-  display: inline;
-  position: absolute;
-  left: -0.1em;
-  line-height: 0.8em;
-  margin-top: 0.2em;
-}
-/* MATHS TAGS */
-/* definition */
-.tag[href="#definion"]:after {
-  font-family: var(--font-smallcaps) !important;
-  font-size: var(--font-size-large) !important;
-  color: var(--title-color);
-  font-weight: 700;
-  content: "Def";
-  text-decoration: underline;
-  display: inline;
-  position: absolute;
-  left: -0.1em;
-  line-height: 0.8em;
-  margin-top: 0.2em;
-}
-/* axiom */
-.tag[href="#axiom"]:after {
-  font-family: var(--font-smallcaps) !important;
-  font-size: var(--font-size-large) !important;
-  color: var(--title-color);
-  font-weight: 700;
-  content: "Axi";
-  text-decoration: underline;
-  display: inline;
-  position: absolute;
-  left: -0.1em;
-  line-height: 0.8em;
-  margin-top: 0.2em;
-}
-/* theorem */
-.tag[href="#theorem"]:after {
-  font-family: var(--font-smallcaps) !important;
-  font-size: var(--font-size-large) !important;
-  color: var(--title-color);
-  font-weight: 700;
-  content: "Thm";
-  text-decoration: underline;
-  display: inline;
-  position: absolute;
-  left: -0.1em;
-  line-height: 0.8em;
-  margin-top: 0.2em;
-}
-/* corollary */
-.tag[href="#corollary"]:after {
-  font-family: var(--font-smallcaps) !important;
-  font-size: var(--font-size-large) !important;
-  color: var(--title-color);
-  font-weight: 700;
-  content: "Cor";
-  text-decoration: underline;
-  display: inline;
-  position: absolute;
-  left: -0.1em;
-  line-height: 0.8em;
-  margin-top: 0.2em;
-}
-/* lemma */
-.tag[href="#lemma"]:after {
-  font-family: var(--font-smallcaps) !important;
-  font-size: var(--font-size-large) !important;
-  color: var(--title-color);
-  font-weight: 700;
-  content: "Lem";
-  text-decoration: underline;
-  display: inline;
-  position: absolute;
-  left: -0.1em;
-  line-height: 0.8em;
-  margin-top: 0.2em;
-}
-/* proof */
-.tag[href="#proof"]:after {
-  font-family: var(--font-smallcaps) !important;
-  font-size: var(--font-size-large) !important;
-  color: var(--title-color);
-  font-weight: 700;
-  content: "Proof";
-  border-bottom: 0.2em double var(--dropcap-color);
-  display: inline;
-  position: absolute;
-  left: -0.1em;
-  line-height: 0.8em;
-  margin-top: 0.2em;
-}
-/* quod erat demonstrandum */
-.tag[href="#qed"]:after {
-  font-family: var(--font-smallcaps) !important;
-  font-size: var(--font-size-small) !important;
-  color: var(--title-color);
-  font-weight: 700;
-  content: "QED";
-  /* or use ∎ or ⌷ or // or whatever you prefer */
-  display: inline;
-  position: absolute;
-  left: -0.1em;
-  line-height: 0.8em;
-  margin-top: 0.2em;
 }
 /* quote */
 .tag[href="#quote"]:after {
@@ -815,16 +586,7 @@ input[type=checkbox]:checked {
   position: absolute;
   right: 1.2em;
   top: 0.3em;
-}
-/* comment-out as needed */
-.tag[href="#eg"], .tag[href="#nb"], .tag[href="#ie"],
-.tag[href="#cf"], .tag[href="#ps"], .tag[href="#id"],
-.tag[href="#imp"], .tag[href="#que"], .tag[href="#up"], .tag[href="#dw"], .tag[href="#ast"],
-.tag[href="#ft"], .tag[href="#jb"], .tag[href="#as"], .tag[href="#rq"],
-.tag[href="#definion"], .tag[href="#axiom"], .tag[href="#theorem"], .tag[href="#corollary"], .tag[href="#lemma"], .tag[href="#proof"], .tag[href="#qed"],
-.tag[href="#quote"],
-p:not(:last-child) {
-  padding-bottom: var(--margin-header-bot);
+  line-height: 1em;
 }
 
 /* __________________________________________________________________________ */

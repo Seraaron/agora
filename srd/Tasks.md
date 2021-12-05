@@ -3,13 +3,12 @@ alias:
   - Task
   - variable rolls
 tags:
-  - creativecommons
+  - CC-BY
   - rules
   - rolls
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-07-20+0100
-last updated: Thursday 2021-09-23 @ 20:47:49 (UTC+0100)
 
 ---
 
@@ -47,17 +46,16 @@ This is the discussion phase, where you must [[Agenda|state your agenda]] and de
 
 **Your FC should always make it clear to you what the consequences of the roll will be**, if they've not already been implied. This is a hint as to what will happen as a result of your actions — a glimpse of your potential future, _regardless of success or failure_ — shared between players.
 
-> #ie
+> ### Ie.
 > _Whenever you attempt to impose your agenda, the world reacts;_ and though those reactions aren't entirely in your control — and may not even be _known_ to your character — you deserve to know what they're likely to be, so you can make an informed decision about how to proceed.
 
-
-#imp There is always room to adjust the consequences before you roll dice: If you shift your objective slightly, or change your description to use a different job, the consequences may alter in kind.
+#important There is always room to adjust the consequences before you roll dice: If you shift your objective slightly, or change your description to use a different job, the consequences may alter in kind.
 
 #### Gather Job dice and Bonuses
 
 **You may suggest which [[Jobs|job]] you think is most appropriate for you to roll** _but your Peers may disagree with you and suggest another Job instead_, based on their own interpretation of what you've described.
 
-> #nb
+> ### Nb.
 > If your Peers _are_ disagreeing with you (or each other) about the job then try to break it down:
 >
 > -   **Discuss which [[Abilities|ability]] is being used first-and-foremost** (as every job takes its rank from the ability it's linked to).
@@ -79,7 +77,7 @@ If you are currently [[Stress|stressed]] in the ability that you're using to rol
 
 **Every Task starts with a number of factors equal to the number of objectives**. Generally, _this can be no more than four things_ before the Task should be broken up into multiple rolls. This is because the game usually progresses in [[Session Structure#Turns|turns]], and there's only so much you can accomplish at one time.
 
-> #eg
+> ### Eg.
 >
 > 1.  _"Sneak past the sleeping monster undetected"_ **is one objective, and so 1 starting factor.**
 > 2.  _"Sneak past the sleeping monster and avoid the traps"_ **is two objectives, so 2 starting factors.**
@@ -96,7 +94,7 @@ There are generally two lists that the FC can draw factors from for every Task: 
 
 The FC should focus on _only the most important factors for the agenda_, **not just selecting any and all that apply**. Certain specific factors will seem to supersede generic ones too. Therefore, it is best to choose from the specific factors first, and then come to look at the generic factors to catch anything you missed.
 
-#que Alternatively, if you're using one of the conflict systems, like [[Martial Combat|combat]] or [[Social Discourse|debate]], then the difficulty factors may be established by the 'move' you're using and some small choices.
+#question Alternatively, if you're using one of the conflict systems, like [[Martial Combat|combat]] or [[Social Discourse|debate]], then the difficulty factors may be established by the 'move' you're using and some small choices.
 
 ---
 
@@ -106,7 +104,7 @@ When you first start playing this game, the set-up phase can take a few minutes 
 
 It's usually worth the time spent talking, because a Task can often accomplish a lot more in a few minutes than _hours of play_ might do otherwise. And as you get used to the game and settle into your characters, the process and pacing should speed up eventually.
 
-> #nb
+> ### Nb.
 > These discussions are stictly _non-linear_, meaning that the order that you go through them may not be the same for every Task. Sometimes you may find you need to return to some parts again as the conversation flows, other times you may find you skip over the parts that are obvious or implicit.
 >
 > There's a back-and-forth to this process, and it's _conversational in nature_, not a one-sided decree.
@@ -123,7 +121,7 @@ It's usually worth the time spent talking, because a Task can often accomplish a
 
 **If the initial roll represents your raw talent or natural intuitions, then your '[[KISSing|Kismet, Insight, Stunts, and Specialties]]' represent techniques and skills _that you only use if you need to_**, or the spending of cosmic favors for another shot at success.
 
-> #nb
+> ### Nb.
 > **[[KISSing]] has it's own article of advice for players to browse** — which makes up the majority of the rolling phase — but here's the short version:
 >
 > -   Mechanically, **each KISS lets you re-roll a die and count more successes** to help you overcome the factors that stand against you.
@@ -131,7 +129,7 @@ It's usually worth the time spent talking, because a Task can often accomplish a
 >
 > Remember to ‘keep it short and sweet’ too!
 
-#imp **You must accept the results once any dice have been KISSed and rolled**, even if they're no better (or worse) than the initial roll.
+#important **You must accept the results once any dice have been KISSed and rolled**, even if they're no better (or worse) than the initial roll.
 
 ### 3. Apply Outcomes
 
@@ -140,7 +138,7 @@ Once the rolling is finished and you have counted up all your successes you shou
 -   **If you met or exceeded the target number of factors with successes, then you complete Task and fulfill your objectives**.
 -   **If you have fewer successes than the number of factors, then you fail the Task and *none* of your objectives are properly fulfilled.**
 
-> #nb
+> ### Nb.
 > Typically, once you've rolled for a Task, either you or your FC can _describe what the outcome looks like_. If you failed by a small margin, then you may describe which factors were overcome and which ones ultimately foiled you, but this is mostly for narrative effect — *the full consequences of failure will still be applied.*
 
 Then your turn usually concludes, and _the consequences of your actions may haunt you for many more turns to come_, regardless of success or failure, and the game continues on as we '[[Let the dice fall where they may|let it ride]]'.

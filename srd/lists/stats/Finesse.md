@@ -2,13 +2,12 @@
 alias:
   - Fin
 tags:
-  - creativecommons
+  - CC-BY
   - stats
   - core
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-22+2100
-last updated: Thursday 2021-09-23 @ 21:54:28 (UTC+0100)
 
 ---
 
@@ -16,7 +15,7 @@ last updated: Thursday 2021-09-23 @ 21:54:28 (UTC+0100)
 
 Your Finesse (or '**Fin**' for short) represents your _physical grace_, dexterity, flexibility, style, general coordination, and the making delicate or balanced and deliberate movements.
 
-> #eg
+> ### Eg.
 > Some **_simple verbs_** which may require a Finesse [[Checks|check]] include:
 >
 > -   **Attack:** _Fight a target with basic or natural weapons, such as fists or feet, but **without the intent to kill**._
@@ -29,4 +28,4 @@ Your Finesse (or '**Fin**' for short) represents your _physical grace_, dexterit
 > -   **Sneak:** _Move slowly and stealthily or in a furtive manner past an obstacle or a potential observer._
 > -   **Unbind:** _Unfasten a knot or bond, or release yourself from physical restraint by twisting and writhing your whole body._
 
-#que [[Shock]] is the [[Stress|stress]] of Finesse.
+#question [[Shock]] is the [[Stress|stress]] of Finesse.

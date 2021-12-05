@@ -4,7 +4,7 @@ alias:
   - debrief
   - wrap up meeting
 tags:
-  - creativecommons
+  - CC-BY
   - consent
   - tools
   - advice
@@ -13,7 +13,6 @@ author: Beau Jágr Sheldon
 editor: Seraaron
 date created: est. 2013
 most recent official revision: April, 2021
-last updated: Friday 2021-11-05 @ 16:38:22 (UTC+0000)
 date updated: 2021-11-05 16:38
 
 ---
@@ -26,7 +25,7 @@ Wrap up meetings (also known as 'debreifs') are session segment that you should 
 
 After earning your [[Lots]], you have the opportunity to round the table again and just cover anything that happened in the game that you want to talk about and give feedback on, _from constructive to negative_. It's good to develop a habit of talking these things through and [[Taking notes|taking notes]] so you can continue to improve.
 
-> #eg
+> ### Eg.
 > Someone might want to talk about an in-game moment that went over their boundaries, but they didn't feel comfortable stopping with a [[Script Change Tools#⏸️ Pause|pause]] or [[Script Change Tools#⏪ Rewind|rewind]]. Discuss _why that happened_, and what could be done to make sure it doesn't happen again.
 
 Try to discuss game feel, plot choices, feelings of imbalance, improper character spotlighting, or mechanical disagreements. These are all valid talking points. Basically, use wrap up meetings to talk about anything that could be improved and how it the current implementation impacted the players or the FC.

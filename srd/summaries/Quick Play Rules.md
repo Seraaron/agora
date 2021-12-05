@@ -3,13 +3,12 @@ alias:
   - play procedure
   - quick play
 tags:
-  - creativecommons
+  - CC-BY
   - rules
   - summary
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-07-21+1400
-last updated: Friday 2021-09-24 @ 23:02:26 (UTC+0100)
 date updated: 2021-11-05 19:54
 
 ---

@@ -4,12 +4,12 @@ alias:
   - influences
   - acknowledgments
 tags:
-  - somerightsreserved
+  - CC-BY-NC-ND
   - personal
+  - index
 author: Seraaron
 license: CC BY-NC-ND 4.0
 date created: 2021-09-17+1500
-last updated: Friday 2021-09-17 @ 15:35:12 (UTC+0100)
 
 ---
 
@@ -57,7 +57,7 @@ A _brilliant_ but somewhat esoteric game by Joshua A C Newman. The tone and styl
 
 The [Script Change Toolbox](https://thoughty.itch.io/script-change) was first designed by Beau Jágr Sheldon, but it is also directly influenced by things like 'Lines and Veils', 'the X card', and many other related tools. I just think that script change is the best _all-in-one solution_ available right now, which is why I wanted to include it directly in Agora (with Beau's permission).
 
-[[Peers]] and [[VINPCs]] are a culmination of all my thoughts on the wider conversation about collaborative storytelling, meta-gaming, and safety tools in roleplaying games: Basically, I wanted to codify a consensus method for better collaborative storytelling, and to add player protections against overly-assertive GMs. (And I've released those articles as *public domain*, under the [CC0 1.0](https://creativecommons.org/share-your-work/public-domain/cc0/) license).
+[[Peers]] and [[VINPCs]] are a culmination of all my thoughts on the wider conversation about collaborative storytelling, meta-gaming, and safety tools in roleplaying games: Basically, I wanted to codify a consensus method for better collaborative storytelling, and to add player protections against overly-assertive GMs. (And I've released those articles as *public domain*, under the [CC0 1.0](https:/creativecommons.org/share-your-work/public-domain/cc0/) license).
 
 ###### Videos & Blogs
 
@@ -70,15 +70,15 @@ The [Script Change Toolbox](https://thoughty.itch.io/script-change) was first de
 ###### Additional Influences
 
 -   [[Jobs]] are primarily influenced by my love for [Final Fantasy Tactics](https://finalfantasy.fandom.com/wiki/Final_Fantasy_Tactics). I've always loved multi-classing / job systems in JRPGs, though Agora isn't primarily a game about tactical combat, the inclusion of jobs is still novel to me. (You could just as easily call them 'skills' or 'skillsets' though, if you're thinking about hacking them).
--   The idea for '[[NPCs don't roll|only players roll]]' came from the Cypher System, by Monte Cook Games. Though this is an optional play-style not a core rule. Still, I tried to design Agora so that it _could be_ played this way if one wanted.
 -   'Say 'yes' or roll' was first introduced to me by Burning Wheel, but it actually comes from the now defunct [Dogs in the Vineyard](https://en.wikipedia.org/wiki/Dogs_in_the_Vineyard) 2004 game, by Vincent Baker. (Though an alternative generic system called '[DOGS](https://www.drivethrurpg.com/product/274623/Dogs)' was made in 2019 with Vincent's blessing).
 -   A few things from [Blades in the Dark](https://bladesinthedark.com/), by John Harper, like the concept of stress and flashbacks, plus a generally good design ethos.
 -  'Be a fan of the players' is a common sentiment shared by many [Powered by the Apocalypse](https://itch.io/physical-games/tag-pbta) and [Forged in the Dark](https://itch.io/c/1712796/forged-in-the-dark-games).
 - Kevin Crawford's GMing advice in [Godbound](https://www.drivethrurpg.com/product/185959/Godbound-A-Game-of-Divine-Heroes-Free-Edition) and [Worlds Without Number](https://www.drivethrurpg.com/product/348809/Worlds-Without-Number-Free-Edition), especially in regards to making and running factions or religions, is _invaluable_. Definitely go check them out.
 -   [[Exclusive Features]] were directly inspired by [13th Age's](https://www.13thagesrd.com/) 'One Unique Thing', by Pelgrane Press,  except that I wanted uniques to have an actual mechanical use, whereas Circumstances fulfill the more narrative / qualitative focus in Agora.
 -   The motivation for creating [[Momentum]] in combat is also similar to the 'Escalation Die', from 13th Age, but with a very different mechanical implementation. 
--   [[Martial Combat#Exploits|Exploits]], which a target uses against you when you fail a roll in combat, are taken fairly directly from the [Forthwright RPG](https://www.drivethrurpg.com/product/223977/Forthright-Open-Roleplay-Creative-Commons-Edition) by Room 209 Gaming (CC BY 4.0), with a little editing to make them work for Agora.
--   [[Shields Shall be Shattered]], an optional rule that turns your shield into a form of ablative armor, is popular in many OSR style games, but I think it originates from [Trollsmyth's blog](https://trollsmyth.blogspot.com/2008/05/shields-shall-be-splintered.html).
+-   Certain aspects of the conflict systems, such as the use of 'disposition' and 'moves', were partially-inspired by the combat system seen in Johnstone Metzger's [Nightmares Underneath](https://www.drivethrurpg.com/product/195355/The-Nightmares-Underneath), and partially-inspired by [3rd Edition Exalted](https://www.drivethrurpg.com/product/162759/Exalted-3rd-Edition?cPath=8329_24225) by Onyx Path Publishing.
+-   [[Martial Combat#Exploits|Exploits]], which a target uses against you when you fail a roll in a conflict, are taken fairly directly from the [Forthwright RPG](https://www.drivethrurpg.com/product/223977/Forthright-Open-Roleplay-creativecommons-Edition) by Room 209 Gaming (CC BY 4.0), with a little editing to make them work for Agora.
+-   [[Shields Shall be Shattered]], an optional rule that turns your shield into a form of ablative armor, is popular in many OSR games, but I think it originates from [Trollsmyth's blog](https://trollsmyth.blogspot.com/2008/05/shields-shall-be-splintered.html).
 
 Finally, my previous employment as a gambling auditor made me realize that roleplaying is a form of _narrative gambling_, and that if you think of it in those terms then a player _must be informed of the odds_ so that they can make informed decisions about how they want to play and what they want to put at stake. There's *a lot more* I could say about this, but let's leave it at that for now.
 
@@ -101,6 +101,6 @@ Finally, my previous employment as a gambling auditor made me realize that rolep
 
 ---
 
-###### Some Rights Reserved [(CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/) in this Article
+###### Some Rights Reserved [(CC BY-NC-ND 4.0)](https:/creativecommons.org/licenses/by-nc-nd/4.0/) in this Article
 
 ---

@@ -6,14 +6,13 @@ alias:
   - traits
   - trait
 tags:
-  - creativecommons
+  - CC-BY
   - rules
   - advice
   - features
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-04+1800
-last updated: Thursday 2021-09-23 @ 18:19:57 (UTC+0100)
 date updated: 2021-11-19 16:05
 
 ---
@@ -53,7 +52,7 @@ An archetype doesn't exclude you from taking other jobs or specialties later on,
 
 By default, you may choose three archetypes for your character: An **ancestry** or **species**, your **culture**, and a **class** or **vocation**. Which ones you choose, what your available choices are, and how important those decisions are will all depend on your game's [[Genre, Tone, and Themes|genre, themes, and tone]] — so be sure to discuss it in [[Development Sessions|session zero]].
 
-#que Archetype are explained in more detail in the [[Character Assembly]] article, or you can jump straight to the [[Archtypes List]] and start browsing.
+#question Archetype are explained in more detail in the [[Character Assembly]] article, or you can jump straight to the [[Archtypes List]] and start browsing.
 
 ![[Wealth]]
 
@@ -75,7 +74,7 @@ These traits represent the _most important_ parts of your character's physical, 
 
 The important thing to know about background traits is that _you should only need to add the things that are most fundamental to you:_ Something that you want to make relevant to the game, but which you don't think are likely to ever change during play, and which you don't ever want to be brought into question. By putting a trait in your background, you're making a statement about yourself.
 
-> #eg
+> ### Eg.
 > There's no point in writing 'human' into your traits if everyone else in the game's setting is also a human. So you only need to declare things that the highlight your differences from others around you, and only if you _want_ those differences to be made important.
 
 #### Size
@@ -91,16 +90,16 @@ Size is a special background trait because it's unlikely to ever meaningfully ch
 
 Most adult humans will either be considered 'Small' or 'Modest' under these definitions.
 
-#imp It is not possible to play as 'smaller than small' or 'larger than large' characters without your [[Facilitator|FC's]] permission, as these may be simply impractical.
+#important It is not possible to play as 'smaller than small' or 'larger than large' characters without your [[Facilitator|FC's]] permission, as these may be simply impractical.
 
 ##### Size _Does_ Matter (sometimes)
 
 When there is a difference in sizes between you and another character — and your [[Facilitator|FC]] determines that this difference should be _mechanically represented_ during a roll — then either a bonus die or a difficulty factor may be added, depending on the context of the action.
 
-> #eg
+> ### Eg.
 > A larger character attempting to wrestle with a smaller character may be given a bonus die, but if the opponent is _significantly_ smaller than the larger one then they may be given a penalty instead.
 
-#imp Size also affects your [[Carry Weight]] limit, if you're using those rules.
+#important Size also affects your [[Carry Weight]] limit, if you're using those rules.
 
 ### Foregrounds
 
@@ -118,7 +117,7 @@ These are mostly cosmetic, expressive, societal, or personality traits. They rep
 
 The important thing to know about putting a trait in the foreground is that _you're stating that it is something that you think is possible to alter over time:_ Something that could either become fundamentally important to you over time and eventually get moved into the background, which could slowly become less and less relevant until it's removed entirely, or something which might just stay where it is but always gets noticed. By putting a trait in your foreground, you're making a statement about yourself.
 
-#que Foreground traits may also be old [[Conditions|conditions]] that you have finally learned how to deal with, or, at least, which you can move on from and no longer wish to use — via '[[Conditions#Catharsis|catharsis]]'.
+#question Foreground traits may also be old [[Conditions|conditions]] that you have finally learned how to deal with, or, at least, which you can move on from and no longer wish to use — via '[[Conditions#Catharsis|catharsis]]'.
 
 ---
 
@@ -145,7 +144,7 @@ Age is a special foreground trait because age can change over extended periods o
 
 The older your character's starting age, the more starting [[#Wealth|wealth]] you get, and the more [[Jobs#Master Levels|master levels]] you can take. Older characters also typically have more starting [[Conditions|conditions]], though: Roll, or choose, 1-3 more times on the [[D666 Conditions|conditions list]].
 
-#imp It is not possible to play as child or an extremely elderly character without your [[Peers|Peer's]] permission, as they are **capped at only one [[Health]]** — and they are likely to be more difficult to roleplay respectfully, or may not suit your game's [[Genre, Tone, and Themes|tone]].
+#important It is not possible to play as child or an extremely elderly character without your [[Peers|Peer's]] permission, as they are **capped at only one [[Health]]** — and they are likely to be more difficult to roleplay respectfully, or may not suit your game's [[Genre, Tone, and Themes|tone]].
 
 ---
 
@@ -163,13 +162,13 @@ Beyond providing a means for players to express themselves and create the charac
 
 **When your Circumstances drive play, or when you _play them earnestly and respectfully_, through roleplay, showing off, or expressing the trait at the right time to get what you want.** You get the reward at [[End-of-Session Rewards|the end of each session]], so make a note when these moments occur.
 
-#imp Circumstances can also affect what kinds of people you may reasonably know if you're using the [[Capabilities#Links|Links capabaility]].
+#important Circumstances can also affect what kinds of people you may reasonably know if you're using the [[Capabilities#Links|Links capabaility]].
 
 ## Making-up Circumstances
 
 Since circumstances are just evocative words and phrases, it's quite easy to come up with new ones.
 
-> #eg
+> ### Eg.
 > They can be as broad and wide-reaching as "Undead" — which would imply, for example, that undead creatures are *sapient and playable* in your world — or as narrow and specific as "West-islander tattoos (spiral patterns)" or "Missing tooth (upper-left canine)". 
 
 **There's an infinity of options**, but don't be overwhelmed. As mentioned, the key is to _only include the really important things_, or in other words _the things that you want to be most-relevant to the game_.

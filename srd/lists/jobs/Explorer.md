@@ -7,12 +7,11 @@ alias:
   - survivalist
   - climber
 tags:
-  - creativecommons
+  - CC-BY
   - jobs
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0100
-last updated: Saturday 2021-09-25 @ 01:14:44 (UTC+0100)
 date updated: 2021-11-24 13:55
 ---
 
@@ -24,7 +23,7 @@ Safely navigating wild or dangerous places, especially rocky mountains, dense fo
 
 May also include foraging for wild food, ingredients, and medicine along the way, and prospecting or scavenging a location for useful resources, using [[Resolve]].
 
-#imp **Possibly Requires:** #rogue-tools, or at least some rope
+#important **Possibly Requires:** #rogue-tools, or at least some rope
 
 _**Suggested Specialties:** Acute Sense of Direction, [animals], [biomes], Athletics, Climbing, Bushcraft, Orienteering, Swimming..._
 

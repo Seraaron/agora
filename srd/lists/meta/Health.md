@@ -1,13 +1,12 @@
 ---
 alias: []
 tags:
-  - creativecommons
+  - CC-BY
   - meta
   - consent
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-23+1600
-last updated: Friday 2021-09-24 @ 14:50:08 (UTC+0100)
 
 ---
 
@@ -15,12 +14,12 @@ last updated: Friday 2021-09-24 @ 14:50:08 (UTC+0100)
 
 **You start with two Health**, best represented by filling in the diamonds (ie. ◇◇ → ◆◆) on your [[Character Sheets|character sheet]], since it changes fairly infrequently.
 
-> #nb
+> ### Nb.
 > Health represents both your physical and mental well-being, your capacity to continue fighting for what you believe in, and a measure of your _life energy_. It is a complex stat, which can be damaged and healed; but _that damage always leave a mark_.
 
 If your [[Peers]] allow it, you may opt to start the game with only one Health point, and instead _start with a point of Fidelity and an active [[Wounds and Scars|wound]];_ representing something in your character's recent past that they stood up for and were injured because of.
 
-#que Junior and senior [[Circumstances#Age|aged]] characters only have *one health* as their maximum, so they are more vulnerable. 
+#question Junior and senior [[Circumstances#Age|aged]] characters only have *one health* as their maximum, so they are more vulnerable. 
 
 ### Cheating Death
 
@@ -28,7 +27,7 @@ When you are faced with deathly consequences, you may **spend a Health point to 
 
 The way you cheat death may be described in any way you feel is fitting for the situation, but feel free to open up the discussion to your [[Peers]] if you're feeling stuck. Whatever the case, you survive what _should have been_ a fatal situation.
 
-> #eg
+> ### Eg.
 > It may be that some dramatically appropriate complication arises, which throws everything you thought you knew into turmoil; or that a friend saves you at the last moment; or that your sheer force of will and disregard for death carries you through; or perhaps it's just dumb luck.
 
 ### Healing
@@ -39,12 +38,12 @@ The way you cheat death may be described in any way you feel is fitting for the 
 
 **Changing a creed in this way will _exclude the possibility of earning [[Fidelity]] from it_**, at the end of the [[Campaign Arcs|arc]], but you will gain a [[Specialties|specialty]] related to your death-defying experience instead.
 
-> #nb
+> ### Nb.
 > It is possible to recover from a wound without regaining your Health. Getting a wound and losing health are caused by the same event (ie. almost dying), but they heal in different ways.
 >
 > **See also:** [[Conditions#Convalescence]]
 
-#que You can _technically_ change your mind back again (in another arc) to a previously abandoned Creed, but only if it makes and your [[Peers]] agree.
+#question You can _technically_ change your mind back again (in another arc) to a previously abandoned Creed, but only if it makes and your [[Peers]] agree.
 
 ### Dying
 If you are wounded, _and you refuse to change your mind to heal_, and then get hurt again but still want to live, then you will drop to zero Health (ie. ◇◇). **You don't immediately die at zero Health, but you _will fall unconscious and start dying!_**

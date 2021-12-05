@@ -6,12 +6,11 @@ alias:
   - technician
   - logistician
 tags:
-  - creativecommons
+  - CC-BY
   - jobs
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
-last updated: Saturday 2021-09-25 @ 00:38:20 (UTC+0100)
 date updated: 2021-11-24 19:44
 ---
 
@@ -23,7 +22,7 @@ Designing, directing, overseeing, and operating all manner of things — applyin
 
 May also include designing new tools, machinery, equipment, buildings, and other structures, or inventing new technologies entirely, using [[Resolve]].
 
-#imp **Requires:** #academic-tools or #artistic-tools
+#important **Requires:** #academic-tools or #artistic-tools
 
 _**Suggested Specialties:** Construction, Design, Logistics, Numeracy, [science]..._
 

@@ -2,32 +2,29 @@
 alias:
   - disarm
 tags:
-  - creativecommons
+  - CC-BY
   - move
-  - submove
-  - martial
-  - offense
+  - counteractive
+  - defensive
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-11 11:43
-date updated: 2021-11-24 18:54
+date updated: 2021-11-30 22:35
 ---
 
 #### Disarm
 
 _Disarm is for skillfully forcing your opponent to drop their weapon, or unseating them from a steed, or knocking them out of a vehicle as they pass you by._
 
-| Roll    | Difficulty = **[Target's Poise] + [Target's Warrior ∥ Rider lvl.]*** |
-| :------ | -------------------------------------------------------------------- |
-|         | **[[Martialist]]** ∥ **[[Skirmisher]]**                              |
-| **+1**  | Your weapon is #binding?                                             |
-| **+1**  | Your weapon is #balanced?                                            |
-| **+1**  | Your opponent is in Aggressive stance?                               |
-| **+MD** | + [weapon dice] + [aid / other bonuses]                              |
+| Roll     | Difficulty = 3 + [Target's Poise]                                                 |
+| :------- | --------------------------------------------------------------------------------- |
+|          | **[[Martialist]]** ∥ **[[Skirmisher]]**                                           |
+| **+1**   | You have **the same physical size** as your opponent, or the same size while mounted? |
+| **+1**   | Your opponent is in aggressive stance?                                            |
+| **+1-2** | Your weapon is #binding or #medium?                                               |
+| **+MD**  | + [weapon dice] + [aid / other bonuses]                                           |
 
-| Result       | Consequences                                                                                                                                                                                                                                 |
-| ------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Success:** | Your **target's weapon or shield flies out of their hand** and lands within a few paces, or you may unseat them from their mount and they fall prone, _and_ you deal any **[margin of success]** as Stamina damage _at the end of the round_ |
-| **Failure:** | You take your **[margin of failure]** in Stamina damage _at the end of the round_, _and_ **your target may exploit you**                                                                                                                     |
-
-#ast Use the target's [[Driver]] or [[Pilot]] level if they're riding a vehicle or flying.
+| Result       | Consequences                                                                                                                                                                                                                                              |
+| ------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Success:** | Your **target's weapon or shield flies out of their hand** and lands _within a few paces_ (or you may _unseat them from their mount_ and they **fall prone**), _and_ you deal any **[margin of success]** as Disposition damage _at the end of the round_ |
+| **Failure:** | You take your **[margin of failure]** in Disposition damage _at the end of the round_, and **your target may exploit you**                                                                                                                                |

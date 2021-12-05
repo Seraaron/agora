@@ -7,14 +7,13 @@ alias:
   - KISSed
   - rerolling
 tags:
-  - creativecommons
+  - CC-BY
   - rules
   - rolls
   - advice
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-07-28+1400
-last updated: Thursday 2021-10-14 @ 18:51:29 (UTC+0100)
 
 ---
 
@@ -42,7 +41,7 @@ Once you've exhausted all your options or simply decide you've got enough KISSes
 
 **'Insight' means using special knowledge, secrets, or [[Specialties#Fact Checks|established facts]] to your advantage**. This is usually done by _referencing other things that have already happened in game_, rather than being something you can point to or spend from your own character sheet.
 
-> #eg
+> ### Eg.
 >
 > -   Things that you've **discovered** _through play_, or things you're just now putting together in the moment.
 > -   Drawing on **wisdom** that your character _should already know_, given their history or personality.
@@ -57,10 +56,10 @@ Thus, the best way to use insights as valid KISSes is to **take lots of [[Taking
 
 _When you KISS a die with a stunt, the re-roll won't decide if what you've described or said really happens, but rather how the world will react to what you've just done._
 
-> #nb
+> ### Nb.
 > Another way of interpreting stunts is that you effectively describe what your character's _thinks_ they're doing or saying, and if the re-roll fails then describe what _really_ happened afterwards.
 
-#imp _Stunts don't need Peer approval_ in the same way that Insights or Specialties do. 
+#important _Stunts don't need Peer approval_ in the same way that Insights or Specialties do. 
 
 Stunts are quite potent, and so to limit their effectiveness: **Each roll can only be KISSed by a single stunt**, at most.
 
@@ -87,13 +86,13 @@ These facts combine to mean that _the most dice you can potentially KISS per rol
 
 Furthermore, when there is an [[Opposed Tasks|Opposed task]] or a [[Checks#Versus Checks|Versus check]], these restrictions prevent one side from re-rolling first, and then the other side using that information to decide how much to KISS.
 
-#que Generally, **there's no point in KISSing a die that has already succeeded** — unless you're desperately trying to roll 6s to use [[Ego]] or cause an [[Exploding Dice|explosion]] — but if you do so and the second result is worse then you must keep it.
+#question Generally, **there's no point in KISSing a die that has already succeeded** — unless you're desperately trying to roll 6s to use [[Ego]] or cause an [[Exploding Dice|explosion]] — but if you do so and the second result is worse then you must keep it.
 
 ### Keep it Short & Sweet
 
 This is the second definition of 'KISS' and it's use here is to remind you to not slow down the game's pace for too long while re-rolling: That **each KISS should be meaningful but brief**, _just like a real kiss_. 💋
 
-> #nb
+> ### Nb.
 > **You should keep these tips in mind when advocating for KISSes:**
 >
 > -   Use your _most obvious_ KISSes first.
@@ -105,14 +104,14 @@ While advocating, try to avoid semantic arguments about _what kind_ of KISS it i
 
 In other words: **If you've agreed that it's a KISS, then it's a KISS;** _the final effect is the same_ regardless of the source.
 
-#imp Be careful not to 'double-dip': Meaning, if two or more things are _applicable but similarly-veined_, then only take one KISS.
+#important Be careful not to 'double-dip': Meaning, if two or more things are _applicable but similarly-veined_, then only take one KISS.
 
 
 #### What are 'Obvious' KISSes?
 
 This is when you invoke an insight, or use a specialty that is applicable to the roll _without a shadow of a doubt_. You'll know it's obvious when just the mention of it gets immediate affirmation from the majority of the table.
 
-> #eg
+> ### Eg.
 > If you're a [[Mage*]], and you have 'Pyromancy magic' as a listed specialty, and you're trying to cast a fire-based spell, then that pyromancy specialty will be an obvious KISS, and no one should challenge you for using it.
 
 
@@ -125,7 +124,7 @@ You only _really_ need to justify a KISS if _less than half_ of your friends are
 
 If a player is not keeping it short and sweet, we call that 'tongue'.
 
-> #eg
+> ### Eg.
 > When a player is dredging through their whole character sheet and all their notes begging for KISSes at every subheader; or they start rambling while describing a stunt; or they've run out of kismet and start asking if they should have earned any extra Lots or Ego from a previous scene; and so on.
 
 A Peer may say “no tongue!” or “you're really tonguing it” if they think you're doing this, and _if the FC agrees_, then **the KISSing process stops short and all you can do now is re-roll any dice you've already picked up**.
@@ -152,7 +151,7 @@ That said, there is _something of a strategy_ that will emerge if you enjoy usin
 
 Only the FC may veto a [[#Stunts|stunt]] before it's rolled, if what you said is _too_ far-fetched or simply doesn't make sense within the context of the fiction or the [[Worldbuilding#World Rules|rules of the world]].
 
-> #nb
+> ### Nb.
 > Generally, your FC should **try to add to the description of a stunt**, slightly re-aligning it with what would be more reasonable, **rather than flatly denying it**. This makes the process more collaborative, and fun, and _encourages players to try to seek thrills rather than seeking permission_.
 
 However, regular use (or over-use) of stunts can really change the game's [[Genre, Tone, and Themes|tone]]. Some players may simply be better at stunting than others too, since it relies on real-life improvisational skills. So discuss with your [[Peers]] before play whether you want to further limit their use of stunts, by either:

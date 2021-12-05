@@ -7,12 +7,11 @@ alias:
   - cutpurse
   - smuggler
 tags:
-  - creativecommons
+  - CC-BY
   - jobs
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0100
-last updated: Saturday 2021-09-25 @ 01:15:43 (UTC+0100)
 date updated: 2021-11-24 17:16
 ---
 
@@ -24,7 +23,7 @@ Picking locks and pockets, finding and disarming traps, looting and scavenging. 
 
 May also include smuggling illegal goods or contraband, using [[Wits]].
 
-#imp **Requires:** #rogue-tools 
+#important **Requires:** #rogue-tools 
 
 _**Suggested Specialties:** Confidence, Sleight of Hand, Stealth, Streetfly, Traps..._
 

@@ -4,12 +4,11 @@ alias:
   - cheater
   - forger
 tags:
-  - creativecommons
+  - CC-BY
   - jobs
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0100
-last updated: Saturday 2021-09-25 @ 01:12:18 (UTC+0100)
 date updated: 2021-11-23 17:38
 ---
 
@@ -23,7 +22,7 @@ May be used during a [[Social Discourse|social discourse]] to obscure informatio
 
 May also include playing games of chance, or hiding, encrypting, and destroying information, or creating forgeries, using [[Wits]].
 
-#imp **Possibly Requires:** #rogue-tools
+#important **Possibly Requires:** #rogue-tools
 
 _**Suggested Specialties:** Etiquette, Deception, Deep Dark Secrets, Flawless Alibis, Jargon [language], [laws], Old Adages, Patience..._
 

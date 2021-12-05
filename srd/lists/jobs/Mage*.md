@@ -1,12 +1,11 @@
 ---
 alias: [wizard, witch, sorcerer, warlock]
 tags:
-  - creativecommons
+  - CC-BY
   - jobs
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-23+1800
-last updated: Saturday 2021-09-25 @ 01:26:44 (UTC+0100)
 
 ---
 
@@ -20,7 +19,7 @@ Performing magic, _real magic_, whatever that may look like in your setting. Fro
 
 **Dice rolled on this job automatically [[Exploding Dice|explode]], meaning 6s may be re-rolled** (before KISSing).
 
-#imp **Requires:** #ritual-tools, and possibly spell components
+#important **Requires:** #ritual-tools, and possibly spell components
 
 _**Suggested Specialties:** Deep Dark Secrets, [magic], Poetry, Prayer, Rituals, Symbolism..._
 

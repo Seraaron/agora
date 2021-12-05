@@ -1,13 +1,15 @@
 ---
 alias: []
 tags:
-  - creativecommons
+  - CC-BY
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-09 20:20
 date updated: 2021-11-09 20:21
 
 ---
+
+#unfinished 
 
 ### Aerie Culture
 

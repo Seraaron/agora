@@ -1,8 +1,9 @@
 ---
 alias: [SQ, superior]
 tags:
-  - creativecommons
+  - CC-BY
   - embed
+  - gear
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-26 16:39

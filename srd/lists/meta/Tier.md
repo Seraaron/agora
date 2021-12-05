@@ -1,13 +1,12 @@
 ---
 alias: []
 tags:
-  - creativecommons
+  - CC-BY
   - rules
   - meta
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-10-15+1600
-last updated: Friday 2021-10-15 @ 20:53:46 (UTC+0100)
 date updated: 2021-10-15 23:28
 
 ---
@@ -18,35 +17,36 @@ Different types of character concepts can be grouped under different 'tiers'. Th
 
 The four tiers, from lowest to highest, are: **Ordinary**, **Heroic**, **Legendary**, and **Mythic**.
 
-#que Write your tier in parentheses next to your campaign's name on your character sheet. (You can only [[Development Sessions#Changing Tier|advance your tier]] during [[Development Sessions|development sessions]]).
+#question Write your tier in parentheses next to your campaign's name on your character sheet. (You can only [[Development Sessions#Changing Tier|advance your tier]] during [[Development Sessions|development sessions]]).
 
 ##### Tier Benefits:
 
-| Tier          | Ability Rank Array | Bonus Rank Adv. | Bonus caps* |
-| ------------- | :----------------: | :-------------: | :---------: |
-| **Ordinary**  |  6, 6, 5, 5, 4, 4  |        ↑2       |      +0     |
-| **Heroic**    |  6, 5, 5, 4, 4, 4  |        ↑2       |     +20     |
-| **Legendary** |  5, 4, 4, 4, 3, 3  |        ↑3       |     +40     |
-| **Mythic**    |  4, 4, 4, 3, 3, 3  |        ↑3       |     +70     |
+| Tier          | Ability Rank Array | Bonus ¢aps* |
+| ------------- |:------------------:|:-----------:|
+| **Ordinary**  |  5, 5, 5, 4, 4, 4  |     +0      |
+| **Heroic**    |  5, 4, 4, 4, 4, 3  |     +20     |
+| **Legendary** |  4, 4, 4, 3, 3, 3  |     +40     |
+| **Mythic**    |  4, 3, 3, 3, 3, 2  |     +70     |
 
-#ast Only for creating characters from scratch, flatpacks have these bonus points already accounted for.
+#asterisk Only for creating characters from scratch, flatpacks have these bonus points already accounted for.
 
 The 'ability rank array' is a set of numbers that you should spread out among your [[Rank|ability ranks]], assigning one number to each ability, and the subsequent 'bonus ranks' means that two or three of the numbers in that array can be raised by an extra rank (ie. 6 → 5 → 4 → 3 → 2). The bonus 'caps' — character assembly points — may be spent at any stage of [[Character Assembly|character creation]] to give your character a few extra treats.
 
-#imp Each ability **can't be advanced more than once** with these bonus ranks.
+#important Each ability **can't be advanced more than once** with these bonus ranks.
 
-> #eg
+> ### Eg.
+> #rewrite 
 > An 'ordinary tier' character could have an ability spread like this:
 > ![[example_correctAbilities.png]]
 >
-> ###### ie. {5, 6-1, 6; 4, 5, 4-1}
+> #### Ie. {5, 6-1, 6; 4, 5, 4-1}
 >
 > But not like this:
 > ![[example_incorrectAbilities.png]]
 >
-> ###### ie. {5, 6, 6; 4, 5, 4-2}
+> #### Ie. {5, 6, 6; 4, 5, 4-2}
 
-#que You don't have to assign your ability ranks until the end of the character assembly process, since your decision will be partially informed by the jobs you decide to take, so feel free to come back to this step later.
+#question You don't have to assign your ability ranks until the end of the character assembly process, since your decision will be partially informed by the jobs you decide to take, so feel free to come back to this step later.
 
 ---
 

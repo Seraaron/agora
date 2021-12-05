@@ -5,12 +5,11 @@ alias:
   - singer
   - band
 tags:
-  - creativecommons
+  - CC-BY
   - jobs
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
-last updated: Saturday 2021-09-25 @ 00:23:56 (UTC+0100)
 date updated: 2021-11-24 16:56
 ---
 
@@ -24,7 +23,7 @@ May be used during [[Martial Combat|combat]] to rally yourself or your allies.
 
 May also include composing new music, poetry, or epic stories, using [[Appeal]].
 
-#imp **Requires:** An instrument or a voice, and possibly #academic-tools
+#important **Requires:** An instrument or a voice, and possibly #academic-tools
 
 _**Suggested Specialties:** Acute Sense of Hearing, Composition, [genre], [instruments], Performance..._
 

@@ -1,10 +1,9 @@
 ---
 alias: [challenging principles]
-tags: [creativecommons, advice]
+tags: [CC-BY]
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-10-15+1400
-last updated: Friday 2021-10-15 14:46:46 (UTC+0100)
 ---
 
 # Challenging Principles
@@ -23,13 +22,13 @@ _Agora is designed to be hard_, at least in the early game. A quick look at the 
 
 There are two main philosophies of approach to designing challenges for players to overcome: **[[#Static Challenges]]** and **[[#Scaling Challenges]]**.
 
-#imp These two approaches are _not mutually exclusive_.
+#important These two approaches are _not mutually exclusive_.
 
 #### Static Challenges
 
 This approach is defined by making a decision about the difficulty of an obstacle _and then sticking to it_. The world does not 'give' in response to the character's display of skill or prowess:
 
-> #eg
+> ### Eg.
 >
 > -   You cannot intimidate a wall before trying to climb it, to somehow make the surface easier to grab onto.
 > -   The enemies are considered 'cunning', and will thus always be considered cunning for the purpose of this encounter.
@@ -45,7 +44,7 @@ If you were to return to the same (or similar) static challenge multiple times o
 
 This approach is defined by opting to make sure the difficulty of the obstacle is roughly matched to the character attempting to overcome it, or otherwise being more flexible about the difficulty. The world judges you, and raises an equal but opposite response:
 
-> #eg
+> ### Eg.
 >
 > -   You are matched up against an opponent of approximately equal size and strength in a tournament.
 > -   The guard, now alert to your presence (which may have previously been a static challenge), raises the alarm and arms a nearby trap.

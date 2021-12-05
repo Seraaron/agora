@@ -4,13 +4,12 @@ alias:
   - specialty
   - Specialty
 tags:
-  - creativecommons
+  - CC-BY
   - rules
   - features
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-07+1200
-last updated: Tuesday 2021-09-07 12:22:35 (UTC+0100)
 date updated: '2021-10-04T22:16:34+01:00'
 
 ---
@@ -34,16 +33,16 @@ Once a specialty has been actively used, lightly fill in or tick the circle symb
 
 A specialty can also inform you that your character is proficient, capable, and comfortable with the thing in question, _without the need for a roll;_ which may allow you to do things which wouldn't otherwise be possible, or prevent you from being penalized. *This is similar to how [[Habits#Habits are Versatile|certain habits]] can work. *
 
-> #eg
+> ### Eg.
 > The 'Literacy' specialty lets you read and write in your native language, and in any other languages that you have a specialty in ([[#Using language Specialties|see below]]).
 
-#que _These 'passive uses' are always available to you_, even once the specialty has exhausted its active use for the session.
+#question _These 'passive uses' are always available to you_, even once the specialty has exhausted its active use for the session.
 
 ## [generic] Specialties
 
 When you see a generic noun listed as a specialty in lower-case between square-brackets, [like this], it means that there are many potential specialties like it. When you add one to your [[Character Sheets|character sheet]] you should place a proper noun or an adjective specific to that specialty before the word in the square brackets, to identify it.
 
-> #eg
+> ### Eg.
 > The specialty *[city]* should become *London [city]* when you add it to your sheet if your character lived or worked in or around London a lot, rather than interpreting it to mean a specialty for _any_ city.
 
 ---
@@ -52,14 +51,14 @@ When you see a generic noun listed as a specialty in lower-case between square-b
 
 Languages have a special use case. As with any [[#generic Specialties|generic specialty,]] a '[language]' specialty should be appended with a named language of your choice:
 
-> #eg
+> ### Eg.
 > Such as *English [language]*, *Malay [language]*, or *Swahili [language]*, or whatever setting-appropriate language you like, such as *Goblin [language]* or *Toki Pona [language]*.
 
 Having a [language] specialty passively informs us that you can speak that language with passing accuracy (and read and write in it fairly well too, if you also have the 'Literacy' specialty), [[When to roll dice|without a roll]].
 
 But instead of being actively used to [[#Fact Checks|establish facts]], language specialties can be used with [[Appeal]] to 'find the right words' _and express yourself for a scene in that language without the risk of being misunderstood_. Your degree of success, then, determines the complexity of the ideas you're able to accurately convey.
 
-#que This _example case_, using languages, should serve as a model for how you might use other specialties in combination with a [[Checks|Check]] too.
+#question This _example case_, using languages, should serve as a model for how you might use other specialties in combination with a [[Checks|Check]] too.
 
 ---
 

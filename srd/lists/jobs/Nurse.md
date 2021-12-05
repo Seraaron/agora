@@ -5,12 +5,11 @@ alias:
   - midwife
   - herbalist
 tags:
-  - creativecommons
+  - CC-BY
   - jobs
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
-last updated: Saturday 2021-09-25 @ 00:49:54 (UTC+0100)
 date updated: 2021-11-24 16:57
 ---
 
@@ -24,7 +23,7 @@ May be used to temporarily treat [[Stress|stress]] for someone — removing it u
 
 May also include acupuncture, massage, and chiropracty, using [[Finesse]].
 
-#imp **Possibly Requires:** #medical-tools 
+#important **Possibly Requires:** #medical-tools 
 
 _**Suggested Specialties:** Acute Sense of Empathy, Children, [condition], Flattery, Patience..._
 

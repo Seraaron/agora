@@ -6,13 +6,12 @@ alias:
   - bosun
   - boatswain
 tags:
-  - creativecommons
+  - CC-BY
   - jobs
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0100
-last updated: Saturday 2021-09-25 @ 01:05:55 (UTC+0100)
-date updated: 2021-11-24 16:59
+date updated: 2021-12-01 13:13
 ---
 
 ### Pilot ([[Endurance|End]])
@@ -25,7 +24,7 @@ Must be used to reposition in [[Martial Combat|combat]] while flying, and may be
 
 May also include dogfighting while flying, using [[Wits]], if the vessel has built-in gun controls from the cockpit.
 
-#imp **Requires:** A vessel or vehicle
+#important **Requires:** A vessel or vehicle
 
 _**Suggested Specialties:** Confidence, Navigation, Quick Reflexes, [vehicle], [vessel]..._
 

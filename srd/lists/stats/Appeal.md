@@ -2,21 +2,19 @@
 alias:
   - App
 tags:
-  - creativecommons
+  - CC-BY
   - stats
   - core
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-22+2100
-last updated: Thursday 2021-09-23 @ 21:54:15 (UTC+0100)
-
 ---
 
 ### Appeal
 
 Your Appeal (or '**App**' for short) represents your _mental grace_, charisma, articulation, social dynamism, confidence, artistic sentiment, capacity for leadership, and emotional senses.
 
-> #eg
+> ### Eg.
 > Some **_simple verbs_** which may require an Appeal [[Checks|check]] include:
 >
 > -   **Create:** _Make a simple artistic expression of something in your medium of choice (may require some simple tools)._
@@ -28,4 +26,4 @@ Your Appeal (or '**App**' for short) represents your _mental grace_, charisma, a
 > -   **Notice Emotion:** _Determine someone's current and foremost emotion, read the room, or just get a vibe check (this is not mind-reading)._
 > -   **Plea / Apologize:** _Earnestly ask for something, supplicate yourself to someone, or beg for mercy or forgiveness._
 
-#que [[Worry]] is the [[Stress|stress]] of Appeal.
+#question [[Worry]] is the [[Stress|stress]] of Appeal.

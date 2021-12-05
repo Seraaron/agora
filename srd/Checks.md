@@ -4,7 +4,7 @@ alias:
   - check
   - checks
 tags:
-  - creativecommons
+  - CC-BY
   - rules
   - rolls
 author: Seraaron
@@ -39,7 +39,7 @@ Compare your successes to the following chart to determine the result:
 |   **3+**  | **Pass with flying colors:**                                                                                                                                                                                                                                                                                             |
 |   (~5%)   | *Your objective is completed with ease and aplomb or with time to spare. Your FC may give you additional information they would have otherwise kept secret. In some cases you may gain a new item or remove a point of stress. In other cases you just get to show off.*                                               |
 
-#que The percentages listed above are your approximate chances of rolling that many successes with 3 rank 5 dice. (You can find more numbers like these in the [[Dice Probabilities and Statistics]] article).
+#question The percentages listed above are your approximate chances of rolling that many successes with 3 rank 5 dice. (You can find more numbers like these in the [[Dice Probabilities and Statistics]] article).
 
 #### KISSing Checks
 
@@ -47,7 +47,7 @@ After the dice have been rolled, if you've not succeeded to your level of satisf
 
 **If you've received [[Helping|help]], then your ally can KISS for you as well**.
 
-#imp [[Lots]] spent on Checks do not convert to *[[Earning Experience|exp]]*, however. 
+#important [[Lots]] spent on Checks do not convert to *[[Earning Experience|exp]]*, however. 
 
 ---
 
@@ -80,7 +80,7 @@ If there is a roll that all the [[Player Characters]] must complete to progress 
 
 [[KISSing|KISSes]] can be used as per usual, but those whose dice have already all landed as successes *can also use their KISSes to pull up anyone else who failed*, as though everyone is [[Helping|helping]] one another; promoting a sense of team work.
 
-#que If the Group check is also '[[Stressful Rolls|stressful]]' then only the participants who failed their roll receive the stress, not the whole group.
+#question If the Group check is also '[[Stressful Rolls|stressful]]' then only the participants who failed their roll receive the stress, not the whole group.
 
 ### Versus Checks
 
@@ -88,7 +88,7 @@ When two or more characters want to compete to do the same thing, with equal or 
 
 *If there's a tie* then you either reach the goal simultaneously or the competition continues using a different [[Abilities|ability]] until a clear winner is found, whichever makes more sense.
 
-> #eg
+> ### Eg.
 > A chase might start off as a [[Swiftness]] check; but then progress to a [[Finesse]] check if you run into a busy market and start throwing stalls over and dodging between carts; and could then go to an [[Endurance]] check if you're still neck and neck.
 
 Use an [[Opposed Tasks|Opposed task]] roll to resolve more complex competing agendas, or a [[Conflict Systems|conflict system]] for a detailed breakdown of the moment-to-moment action.

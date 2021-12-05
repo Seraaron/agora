@@ -5,12 +5,11 @@ alias:
   - boxer
   - pugilist
 tags:
-  - creativecommons
+  - CC-BY
   - jobs
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0100
-last updated: Saturday 2021-09-25 @ 01:10:46 (UTC+0100)
 date updated: 2021-11-23 16:17
 ---
 
@@ -24,7 +23,7 @@ May be used during [[Martial Combat|combat]] to make melee attacks, using the ta
 
 May also include making and using improvisational weapons, or using tools as weapons, using [[Finesse]].
 
-#imp **Possibly Requires:** #brawler weapons
+#important **Possibly Requires:** #brawler weapons
 
 _**Suggested Specialties:** Intimidation, Improvisation, [martial arts], Natural [armor / weapons], Quick Reflexes..._
 

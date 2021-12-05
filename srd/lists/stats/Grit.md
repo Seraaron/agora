@@ -2,13 +2,12 @@
 alias:
   - Gri
 tags:
-  - creativecommons
+  - CC-BY
   - stats
   - optional
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-22+2300
-last updated: Thursday 2021-09-23 @ 21:54:31 (UTC+0100)
 
 ---
 
@@ -20,7 +19,7 @@ Use Grit in games about facing the horrors of combat and war, adventures with fr
 
 A high Grit rank means that you don't hesitate when faced with dire situations, and you're more capable of making tough decisions quickly, not letting the ethical quandaries of your actions stand in your way. Lower Grit means that you either have some misgivings about what you're doing, or just that you're still green.
 
-#imp Most people are not trained killers, so most Grit ranks will be low.
+#important Most people are not trained killers, so most Grit ranks will be low.
 
 #### Rolling Grit
 
@@ -28,7 +27,7 @@ A high Grit rank means that you don't hesitate when faced with dire situations, 
 
 This Check is **hard** if you know the target personally, otherwise it is **normal**. Failing means you can't bring yourself to do it, or that you deliberately miss. _There are no easy Grit checks_. 
 
-> #nb
+> ### Nb.
 > Your [[Facilitator|FC]] may also ask for you to make a Grit check under some of the following situations:
 >
 > ###### Hard
@@ -45,7 +44,7 @@ This Check is **hard** if you know the target personally, otherwise it is **norm
 
 Failing a normal Grit check means that you [[Capabilities#What does hesitation mean to you|hesitate]] for a moment, and if the check was hard then you suffer some kind of mental or physical break and gain a random point of [[Stress|stress]].
 
-#que Roll a d6 to choose a random [[Stress#The Core Stresses|core stress]].
+#question Roll a d6 to choose a random [[Stress#The Core Stresses|core stress]].
 
 #### Deriving Grit
 
@@ -60,4 +59,4 @@ Grit starts at [[Rank|rank]] 6, and advances or regresses by one step (ie. 6 ↔
 | #dw | If you've ever deserted a war and don't regret it, _then regress your Grit_                                                             |
 | #dw | If you've ever been on the receiving end of the kind of brutality that you're capable of dispensing to others, _then regress your Grit_ |
 
-#que [[You can only reach rank 2 Grit with a special gambit]].
+#question [[You can only reach rank 2 Grit with a special gambit]].

@@ -2,7 +2,7 @@
 alias:
   - conditions list
 tags:
-  - creativecommons
+  - CC-BY
   - list
   - features
   - examples
