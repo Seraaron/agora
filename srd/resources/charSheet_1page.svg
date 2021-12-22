@@ -7,9 +7,9 @@
    viewBox="0 0 250 353"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    sodipodi:docname="charSheet_1page.svg"
-   inkscape:export-filename="/home/iori/pCloudDrive/Roleplaying/Agora_alpha/images/charSheet_onePage.png"
+   inkscape:export-filename="/home/iori/Documents/Agora Testing/srd/resources/charSheet_onePage_preview.png"
    inkscape:export-xdpi="291.27252"
    inkscape:export-ydpi="291.27252"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -30,13 +30,13 @@
      inkscape:guide-bbox="true"
      inkscape:zoom="1"
      inkscape:cx="386"
-     inkscape:cy="230"
+     inkscape:cy="550"
      inkscape:window-width="2560"
      inkscape:window-height="1379"
-     inkscape:window-x="1687"
+     inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1856"
+     inkscape:current-layer="layer11"
      inkscape:lockguides="false"
      units="in">
     <inkscape:grid
@@ -250,19 +250,19 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.39192px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';fill:#4d4d4d;stroke-width:0.282659"
          x="134.67709"
          y="340.02704"
-         id="tspan253320">One-page Character Sheet (v1.0)</tspan></text>
+         id="tspan253320">One-page Character Sheet (v1.1)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.39192px;line-height:1.25;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';letter-spacing:-0.127196px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.282659"
-       x="136.98479"
+       x="162.31541"
        y="272.74841"
        id="text78919-6-8-3-0-4-6-9-361"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.39192px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';fill:#4d4d4d;stroke-width:0.282659"
-         x="136.98479"
+         x="162.31541"
          y="272.74841"
          id="tspan239866-3-7-4-5-2"
-         dx="-0.10683202">Use once per session to KISS, establish a fact, or auto-succeed a Check!</tspan></text>
+         dx="-0.10683202">Use once per session to KISS dice or establish a fact!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.08787px;line-height:1.25;font-family:Petrona;-inkscape-font-specification:'Petrona Semi-Bold';display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282659"
@@ -1501,7 +1501,7 @@
        sodipodi:nodetypes="cc" />
     <g
        id="g1837"
-       transform="translate(0,0.33798311)">
+       transform="translate(0,3.5129832)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.95724px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;display:inline;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.282659"
@@ -1523,7 +1523,7 @@
            id="tspan78917-1-8-8-9"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.95724px;font-family:Lato;-inkscape-font-specification:Lato;fill:#aa0000;stroke-width:0.282659"
            x="20.819181"
-           y="67.355385">Foreground traits</tspan></text>
+           y="67.355385">Foregrounds</tspan></text>
       <path
          style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.26708;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 19.709463,63.307652 H 190.64069"
@@ -1537,7 +1537,7 @@
     </g>
     <g
        id="g1845"
-       transform="translate(0,0.53904775)">
+       transform="translate(0,2.1265478)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.95724px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;display:inline;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.282659"
@@ -1548,7 +1548,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.95724px;font-family:Lato;-inkscape-font-specification:Lato;fill:#aa0000;stroke-width:0.282659"
            x="20.819181"
            y="56.243786"
-           id="tspan239866">Background traits</tspan></text>
+           id="tspan239866">Backgrounds</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.95724px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;display:inline;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.282659"
@@ -1706,25 +1706,6 @@
        d="M 86.603497,329.27941 H 103.51091"
        id="path56743-2-0-4-9-8-9-69-1-3-29-9"
        sodipodi:nodetypes="cc" />
-    <g
-       id="g1829">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.95724px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;display:inline;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.282659"
-         x="20.819181"
-         y="78.866653"
-         id="text78919-6-8-3-5-0"><tspan
-           sodipodi:role="line"
-           id="tspan78917-1-8-8-9-3"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.95724px;font-family:Lato;-inkscape-font-specification:Lato;fill:#aa0000;stroke-width:0.282659"
-           x="20.819181"
-           y="78.866653">Walks of Life</tspan></text>
-      <path
-         style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.26708;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 19.709463,74.55617 H 229.10022"
-         id="path56743-2-0-6-1-1-7-0"
-         sodipodi:nodetypes="cc" />
-    </g>
     <g
        id="g2729"
        transform="translate(0.26458334)">

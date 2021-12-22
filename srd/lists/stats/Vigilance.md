@@ -2,8 +2,7 @@
 alias:
   - Vig
 tags:
-  - CC-BY
-  - stats
+  - stat
   - optional
 author: Seraaron
 license: CC BY 4.0
@@ -21,7 +20,7 @@ Use Vigilance in games about exploration and mystery, or in games with strong th
 
 _If you have some kind of supernatural perceptions_, such as the ability to see spiritual energies, read auras, or use some other kind of 'sixth sense', or if you have a weird preternatural talent, like night-vision or lightning reflexes, then a successful Vigilance [[Checks|check]] is usually what's required to 'activate' it _in the heat of the moment_ (or to be able to rely on it when it really counts).
 
-#question The specific rules for these powers are usually given as [[Features]], in their descriptions, along with what constitutes a _hard_ Check for that power.
+❓ The specific rules for these powers are usually given as [[Gambits]], in their descriptions, along with what constitutes a _hard_ Check for that power.
 
 Similarly, Vigilance may be used as the basis for a [[magical subsystem]], using its rank to perform Tasks with an appropriate [[Jobs|job]] (eg. the default [[Mage*]] job uses Vigilance as its rank).
 
@@ -53,9 +52,9 @@ Vigilance starts at [[Rank|rank]] 6, and advances or regresses by one step (ie. 
 | #up | If you have stared death in face, or encountered supernatural forces beyond your ken, _then advance your Vigilance_                                      |
 | #up | If your life is full of mysticism and wonder, or you're frequently pushing at the boundaries of what was thought possible, _then advance your Vigilance_ |
 | #dw | If Endurance is your worst physical ability, _then regress your Vigilance_                                                                               |
-| #dw | If you don't believe in fairy tales or ghost stories*, _then regress your Vigilance_                                                                     |
+| #dw | If you don't believe in fairy tales or ghost stories, _then regress your Vigilance_                                                                     |
 | #dw | If you've so far lead a very sheltered or arrogant lifestyle, _then regress your Vigilance_                                                              |
 
-#asterisk Or whatever the next-best equivalent for your setting would be, if fairies &or ghosts are real in your world. (The more generic version of this same question is basically, _"do you believe in the stuff that everyone else thinks is 'just fantasy'?"_).
+**Note:** Use whatever the next-best equivalent for fairies &or ghosts in your setting, those things _are definately_ real in your world. (The more generic version of this same question is basically, _"do you believe in the stuff that everyone else thinks is 'just fantasy'?"_).
 
-#important [[You can only reach rank 2 Vigilance with a special gambit]].
+❗ [[You can only reach rank 2 Vigilance with a special gambit]].

@@ -5,8 +5,6 @@ alias:
   - ranks
   - ability ranks
 tags:
-  - CC-BY
-  - core
   - rules
   - rolls
 author: Seraaron
@@ -31,22 +29,22 @@ Rank is applied to your dice before rolling them, and which rank you use depends
 
 ### Interpreting Ranks
 
-You may interpret your ranks, then, as a representation of your character's natural talents; but they also represent a _honed efficacy_, as they can _slowly but surely_ be increased by playing the game ([[#Advancing Rank|see below]]).
+You may interpret your ranks as a representation of your character's natural talents — but they also represent a _honed efficacy_, as they can _slowly but surely_ be increased by playing the game ([[#Advancing Rank|see below]]).
 
 |  Rank | Success Chance _/ die_ | Narrative Interpretation                                                                      |
 | :---: | :--------------------: | --------------------------------------------------------------------------------------------- |
 | **6** |         16.67%         | Others might think you inexperienced, inept, or otherwise find you lacking in this department |
 | **5** |         33.34%         | You are _roughly on par_ with any average person here                                         |
-| **4** |          50.0%         | Other people would say that you have a 'natural talent' for this sort of thing                |
+| **4** |          50.0%         | Other people would say that you have a ‘natural talent’ for this sort of thing                |
 | **3** |         66.67%         | Your competency is among the best in the world                                                |
 | **2** |         83.34%         | People often say you must be blessed by fate, or believe you to be a supernatural being       |
 | **1** |          100%          | You are _unrivaled_ in this capacity                                                          |
 
 The above table should give you an idea how each rank relates to one another. Rank 5 is considered the norm for most folks, regardless of species or gender. Most starting [[Player Characters]] should not expect to have more than one or two abilities deviate from this norm.
 
-#question The only way to start the game with significantly better ranks is by raising the [[Tier|tier]] of your whole character; which is an optional rule, and naturally requires [[Peers|Peer approval]].
+❓ The only way to start the game with significantly better ranks is by raising the [[Tier]] of your whole character, which requires [[Peers|Peer approval]].
 
-### Choosing which Ability Rank to use
+### Choosing which Rank to Use
 
 Rank is tied to each ability, and to each capability. Each [[Jobs|job]] also has an ability listed next to it:
 
@@ -63,7 +61,7 @@ There are two main ways to advance ranks in this game, and one optional method:
 
 - And optionally, during a [[Development Sessions|development session]] (and usually after a [[Downtime and Travel|time-skip]]), you may decide _as a group_ to raise your character's [[Tier|tier]] which _reduces the worst possible_ rank for that character.
 
-- And optionally, special [[Features]] may _temporarily advance_ the rank of a roll when certain conditions are met.
+- And optionally, special [[Gambits]] may _temporarily advance_ the rank of a roll when certain conditions are met.
 
 **When your rank advances, it does so by one 'step'.** This means rank 6 goes to rank 5, rank 5 goes to rank 4, and so on. These steps are represented with plain-text arrows in other sections (ie. 6 → 5 → 4 → 3 → 2 → 1), as a reminder.
 
@@ -76,7 +74,7 @@ There are two main ways to advance ranks in this game, and one optional method:
 
 ###### Rank 1
 
-**Rank 1 is more of a _theoretical ideal_ than an achievable reality**. _You cannot start the game with rank 1 in anything_, and **you cannot permanently advanced any ability to rank 1**. The only way to get rank 1 is by spending [[Fidelity]], or using certain [[Features]], on a rank 2 ability for the temporary boost, but a full gauge cannot be spent for a permanent advancement to rank 1.
+**Rank 1 is more of a _theoretical ideal_ than an achievable reality**. _You cannot start the game with rank 1 in anything_, and **you cannot permanently advanced any ability to rank 1**. The only way to get rank 1 is by spending [[Fidelity]], or using certain [[Gambits]], on a rank 2 ability for the temporary boost, but a full gauge cannot be spent for a permanent advancement to rank 1.
 
 ---
 
@@ -84,4 +82,4 @@ There are two main ways to advance ranks in this game, and one optional method:
 
 The main way to lose rank is to get [[Wounds and Scars|wounded]], which _temporarily regresses_ an appropriate your ability rank by one step (ie. 2 → 3 → 4 → 5 → 6) until you recover.
 
-#question Special [[Capabilities|capabilities]], like [[Capabilities#Honor|Honor]], also have mechanics for regressing ranks when certain conditions arise.
+❓ Special [[Capabilities|capabilities]], like [[Capabilities#Honor|Honor]], also have mechanics for regressing ranks when certain conditions arise.

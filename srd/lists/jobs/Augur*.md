@@ -1,13 +1,13 @@
 ---
 alias:
-  - diviner
-  - oracle
-  - psycher
-  - psionicist
-  - psyon
+  - Diviner
+  - Oracle
+  - Psycher
+  - Psionicist
+  - Psyon
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-24 15:11

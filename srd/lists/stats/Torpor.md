@@ -2,7 +2,7 @@
 alias:
   - torpor
 tags:
-  - CC-BY
+
   - stress
   - optional
 author: Seraaron

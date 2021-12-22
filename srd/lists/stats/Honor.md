@@ -2,8 +2,7 @@
 alias:
   - Hon
 tags:
-  - CC-BY
-  - stats
+  - stat
   - optional
 author: Seraaron
 license: CC BY 4.0
@@ -28,7 +27,7 @@ You mainly make Honor [[Checks|checks]] to avoid embarrassment and social faux p
 >
 > -   Making yourself clean and presentable, and properly greeting a superior.
 >     -   _Hard_ if the event is unexpected.
-> -   Resisting temptations and [[Principles#Habits|habits]] that may lead you to an unvirtuous lifestyle.
+> -   Resisting temptations and [[Habits]] that may lead you to an unvirtuous lifestyle.
 >     -   _Hard_ if you have a previous history with that kind of thing.
 > -   Assessing the Honor of someone else, to determine how much respect to treat them with.
 >     -   _Hard_ if you're from a different caste or culture from them.
@@ -39,9 +38,7 @@ You mainly make Honor [[Checks|checks]] to avoid embarrassment and social faux p
 
 Some of the things above would ordinarily be do-able without a Check — it's usually better to [[When to roll dice|say 'yes']] than perform an _easy_ Honor check, for example — but if there is ever any inner conflict or _doubt_ then roll the dice, and let the result make a decision for you.
 
-#question The 'Etiquette' specialty can *usually* be used instead of [[Ego]] to auto-pass an Honor check, once per session.
-
-#important Failure creates great opportunities for roleplaying, but it also may cause you to gain '[[Shame]]' (the [[Stress|stress]] of Honor).
+❗ Failure creates great opportunities for roleplaying, but it also may cause you to gain '[[Shame]]' (the [[Stress|stress]] of Honor).
 
 #### Deriving Honor
 
@@ -51,12 +48,12 @@ Honor starts at [[Rank|rank]] 3, and regresses by one step (ie. 3 → 4 → 5 �
 | --- | ------------------------------------------------------------------------------------------------------------------------------- |
 | #dw | If you have had to defend your own honor and failed, or tried to offend someone else's and failed, _then regress your Honor_    |
 | #dw | If you have acted in an immoral way, or reached beyond the duties of your station, _then regress your Honor_                    |
-| #dw | If you have disobeyed a direct order from your superior, or broken an oath, _then regress your Honor_                           |
+| #dw | If you have disobeyed a direct order from your superior, or broken an Oath, _then regress your Honor_                           |
 | #dw | If you have continually pursued principles (during play) that don't match the ideals of your society, _then regress your Honor_ |
 
-#question [[You can only reach rank 2 Honor with a special gambit]].
+❓ [[You can only reach rank 2 Honor with a special gambit]].
 
-If you fall beyond rank 6, then remove the Honor capability from your sheet entirely and add a [[Conditions|condition]] to represent your societal punishment (eg. being branded, stripped of certain rights, or even exiled). In the most extreme feudalistic societies, losing all your honor may result in a death sentence; in which case you're character will have to become a _fugitive to survive_.
+If you fall beyond rank 6, then remove the Honor capability from your sheet entirely and add a [[Conditions|condition]] to represent your societal punishment (eg. being branded, stripped of certain rights, or even exiled). In the most extreme feudalistic societies, losing all your honor may result in a death sentence. Avoiding this fate means that you're character will have to _become a fugitive to survive_.
 
 Honor can only be regained when you do something that annuls one of your transgressions in the eyes of your society, advancing back up by one step (ie. 6 → 5 → 4 → 3) each time. These redemptions should be discussed with [[Peers]], but should reflect your culture's values, and can be something to strive for with your [[Principles|principles]].
 

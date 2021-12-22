@@ -3,7 +3,7 @@ alias:
   - character assembly
   - character creation
 tags:
-  - CC-BY
+
   - rules
 author: Seraaron
 license: CC BY 4.0
@@ -17,7 +17,7 @@ Character assembly is the process of making a [[Player Characters|Playable Chara
 
 If you're unable to make characters together, for whatever reason, then be sure to [[Peers#How to use your Peers|review]] each other's character sheets before you begin playing. 
 
-![[Character creation summary]]
+![[Character Assembly Summary]]
 
 ## 1. Concept Concept Concept
 
@@ -28,7 +28,7 @@ A concept _doesn't have to be perfect_ — or it doesn't matter if your [[Peers]
 > ### Eg.
 >
 > -   An ambitious noblewoman, intent on rallying the people of the city to his side and publicly humiliating the aristocrats and pundits who said it couldn't be done.
-> -   Like a cross between Robin Hood and Don Quixote; someone who wants to stealing from the rich and give to the poor, but he's completely incompetent.
+> -   Like a cross between Robin Hood and Don Quixote — someone who wants to stealing from the rich and give to the poor, but he's completely incompetent.
 > -   An adopted child, ferried to a distant land, who's now building a mercenary company with the aid of some friends and other adventurers.
 
 So long as the character is clear to you — and your Peers _mostly_ get where you're going with it, and can see their own character concepts working in tandem with yours — then you should be okay to proceed.
@@ -54,7 +54,7 @@ There are two main methods for fleshing-out your concept into a [[Player Charact
 
 ## Using Flatpacks
 
-The flatpacks (or 'FPs' for short) that you can choose depend on your [[Tier]]. When you use a flatpack, most of the creative heavy lifting — the conceptualization and number-crunching — has already been done for you; leaving you with a few options to fill out and some customizations to add.
+The flatpacks (or 'FPs' for short) that you can choose depend on your [[Tier]]. When you use a flatpack, most of the creative heavy lifting — the conceptualization and number-crunching — has already been done for you. This leaves you with a few options to fill out and some customizations to add.
 
 #unfinished 
 

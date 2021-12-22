@@ -2,9 +2,9 @@
 alias:
   - note taking
   - taking notes
+  - take notes
   - notes
 tags:
-  - CC0
   - advice
 author: Seraaron
 license: CC0 1.0

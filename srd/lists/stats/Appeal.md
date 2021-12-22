@@ -2,9 +2,7 @@
 alias:
   - App
 tags:
-  - CC-BY
-  - stats
-  - core
+  - stat
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-22+2100
@@ -26,4 +24,4 @@ Your Appeal (or '**App**' for short) represents your _mental grace_, charisma, a
 > -   **Notice Emotion:** _Determine someone's current and foremost emotion, read the room, or just get a vibe check (this is not mind-reading)._
 > -   **Plea / Apologize:** _Earnestly ask for something, supplicate yourself to someone, or beg for mercy or forgiveness._
 
-#question [[Worry]] is the [[Stress|stress]] of Appeal.
+❓ [[Worry]] is the [[Stress|stress]] of Appeal.

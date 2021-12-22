@@ -1,14 +1,14 @@
 ---
 alias:
   - exploration
-  - trailblazer
-  - pathfinder
-  - delver
-  - survivalist
-  - climber
+  - Trailblazer
+  - Pathfinder
+  - Delver
+  - Survivalist
+  - Climber
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0100
@@ -23,7 +23,7 @@ Safely navigating wild or dangerous places, especially rocky mountains, dense fo
 
 May also include foraging for wild food, ingredients, and medicine along the way, and prospecting or scavenging a location for useful resources, using [[Resolve]].
 
-#important **Possibly Requires:** #rogue-tools, or at least some rope
+¶ **Possibly Requires:** #rogue-tools, or at least some rope
 
 _**Suggested Specialties:** Acute Sense of Direction, [animals], [biomes], Athletics, Climbing, Bushcraft, Orienteering, Swimming..._
 

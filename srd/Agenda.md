@@ -5,7 +5,7 @@ alias:
   - agenda
   - agendas
 tags:
-  - CC-BY
+
   - advice
 author: Seraaron
 license: CC BY 4.0
@@ -17,7 +17,7 @@ date created: 2021-07-30+1200
 
 During play, once it is decided that [[When to roll dice|you should roll dice]], your [[Facilitator]] will pause the scene and begin to _openly discuss your agenda_ for that roll. In other words, **talk about what you're trying to achieve and how?**
 
-Coming up with an agenda each [[Session Structure#Turns|turn]] can be a _complex and personal_ process; everyone will do it slightly differently, because everyone thinks differently.
+Coming up with an agenda each [[Session Structure#Turns|turn]] can be a _complex and personal_ process — everyone will do it slightly differently, because everyone thinks differently.
 
 > ### Nb.
 > **The following are some questions you can ask yourself if you're feeling stuck:**

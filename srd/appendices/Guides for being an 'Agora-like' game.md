@@ -1,7 +1,7 @@
 ---
 alias: []
 tags:
-  - CC-BY
+
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-12-01 14:03
@@ -46,7 +46,7 @@ date created: 2021-12-01 14:03
 - Kismet (meta-currencies) and Principles
 	- You can use the one's in Agora as is, or change their uses slightly
 	- But if you want to change kismet drastically then add new _types of kismet_ instead, rather than still trying to call them Lots and Ego, etc.
-	- Similarly, if you have an idea for another write-in box that isn't goals, habits, or creeds, then go ahead and add it (and remove the ones you don't need) rather than renaming the existing ones
+	- Similarly, if you have an idea for another write-in box that isn't Goals, Habits, or Creeds, then go ahead and add it (and remove the ones you don't need) rather than renaming the existing ones
 - KISSing (re-roll mechanic)
 	- You can move KISSes to happen before the roll if you prefer, meaning that a KISS just adds more dice to the pool instead of re-rolling
 	- But don't make a new acronym that functionally does the same thing as KISSing

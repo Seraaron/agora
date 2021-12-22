@@ -4,12 +4,11 @@ alias:
   - gymnastics
   - parkour
 tags:
-  - CC-BY
-  - jobs
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-24+2300
-date updated: 2021-11-23 16:48
+date updated: 2021-12-14 15:02
 ---
 
 ### Acrobat ([[Finesse|Fin]])

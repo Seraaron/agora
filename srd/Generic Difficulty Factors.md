@@ -2,8 +2,7 @@
 alias:
   - generic factors
 tags:
-  - CC-BY
-  - list
+
   - embed
   - rules
 author: Seraaron

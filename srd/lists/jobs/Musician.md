@@ -1,12 +1,12 @@
 ---
 alias:
   - music
-  - instrumentalist
-  - singer
-  - band
+  - Instrumentalist
+  - Singer
+  - Band Member
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
@@ -23,7 +23,7 @@ May be used during [[Martial Combat|combat]] to rally yourself or your allies.
 
 May also include composing new music, poetry, or epic stories, using [[Appeal]].
 
-#important **Requires:** An instrument or a voice, and possibly #academic-tools
+¶ **Requires:** An instrument or a voice, and possibly #academic-tools
 
 _**Suggested Specialties:** Acute Sense of Hearing, Composition, [genre], [instruments], Performance..._
 

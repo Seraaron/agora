@@ -1,13 +1,13 @@
 ---
 alias:
-  - soldier
-  - guard
-  - watcher
-  - infantry
-  - trooper
+  - Soldier
+  - Guard
+  - Watcher
+  - Infantryman
+  - Trooper
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0100
@@ -24,7 +24,7 @@ May be used during [[Martial Combat|combat]] to rally yourself, and can also be 
 
 May also include actively searching an area for intruders, preempting an ambush, or spotting a disguised or stealthed individual, using [[Wits]].
 
-#important **Possibly Requires:** #laborious-tools or weapons
+¶ **Possibly Requires:** #laborious-tools or weapons
 
 _**Suggested Specialties:** [armor], [biomes], Construction, Hauling, Tactics, Observation..._
 

@@ -1,8 +1,8 @@
 ---
 alias: []
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0100
@@ -19,7 +19,7 @@ Recklessly attacking other beings without concern for self-preservation, using a
 
 **Dice rolled on this job automatically [[Exploding Dice|explode]], meaning 6s may be re-rolled.**
 
-#important **This job cannot be learned by sapient beings.**
+❗ **This job cannot be learned by sapient beings.**
 
 > ##### Specific Factors:
 >

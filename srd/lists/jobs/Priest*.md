@@ -1,14 +1,13 @@
 ---
 alias:
-  - cleric
-  - priestess
+  - Cleric
+  - Priestess
+  - Shaman
+  - Druid
   - prayer
-  - ritualist
-  - shaman
-  - druid
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
@@ -25,7 +24,7 @@ Leading prayer or meditation sessions. Invoking the names of gods and spirits an
 
 May also include divination, exorcism and warding, reading peoples auras and omens, or telling fortunes, using [[Resolve]].
 
-#important **Possibly Requires:** #ritual-tools
+¶ **Possibly Requires:** #ritual-tools
 
 _**Suggested Specialties:** Almanacs, [mythology], Patience, Prayer, Rituals, Symbolism, Zealotry..._
 

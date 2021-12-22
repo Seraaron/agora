@@ -3,27 +3,27 @@ alias:
   - thievery
   - stealing
   - sleight of hand
-  - pickpocket
-  - cutpurse
-  - smuggler
+  - Pickpocket
+  - Cutpurse
+  - Smuggler
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0100
-date updated: 2021-11-24 17:16
+date updated: 2021-12-08 17:58
 ---
 
 ### Thief ([[Finesse|Fin]])
 
 #civic #financial #rogue
 
-Picking locks and pockets, finding and disarming traps, looting and scavenging. Moving stealthily *by yourself*, especially in cities or buildings, and generally passing without a trace. Also a bit of a catch-all for any non-violent criminal odd-jobs.
+Picking locks and pockets, finding and disarming traps, looting and scavenging. Moving stealthily _by yourself_, especially in cities or buildings, and generally passing without a trace. Also a bit of a catch-all for any _non-violent_ criminal odd-jobs.
 
 May also include smuggling illegal goods or contraband, using [[Wits]].
 
-#important **Requires:** #rogue-tools 
+¶ **Requires:** #rogue-tools
 
 _**Suggested Specialties:** Confidence, Sleight of Hand, Stealth, Streetfly, Traps..._
 

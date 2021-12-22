@@ -2,11 +2,11 @@
 alias:
   - nursing
   - child care
-  - midwife
-  - herbalist
+  - Midwife
+  - Herbalist
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
@@ -23,7 +23,7 @@ May be used to temporarily treat [[Stress|stress]] for someone — removing it u
 
 May also include acupuncture, massage, and chiropracty, using [[Finesse]].
 
-#important **Possibly Requires:** #medical-tools 
+¶ **Possibly Requires:** #medical-tools 
 
 _**Suggested Specialties:** Acute Sense of Empathy, Children, [condition], Flattery, Patience..._
 

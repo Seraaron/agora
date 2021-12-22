@@ -1,8 +1,7 @@
 ---
 alias:
   - example worlds
-tags:
-  - CC-BY-SA
+tags: []
 author: Seraaron
 license: CC BY-SA 4.0
 date created: 2021-09-23+2100

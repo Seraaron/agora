@@ -2,9 +2,7 @@
 alias:
   - Swi
 tags:
-  - CC-BY
-  - stats
-  - core
+  - stat
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-22+2100
@@ -26,4 +24,4 @@ A your Swiftness (or '**Swi**' for short) represents your _physical speed_, stre
 > -   **Sprint / Chase:** _Race at your full speed as quickly as possible to a location in sight, or run to catch up to someone or to escape from them._
 > -   **Throw:** _Hurl something as far as you can or towards a specific target, or throw someone to the ground, but **without the intent to kill**._
 
-#question [[Pain]] is the [[Stress|stress]] of Swiftness.
+❓ [[Pain]] is the [[Stress|stress]] of Swiftness.

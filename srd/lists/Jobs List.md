@@ -3,20 +3,15 @@ alias:
   - job list
   - jobs list
 tags:
-  - CC-BY
   - list
-  - jobs
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-14+1100
-date updated: 2021-11-24 18:06
+date updated: 2021-12-22 00:36
 ---
 
 # Jobs List
-
-## Sort Order
-
-There are many ways one can sort the jobs list, aside from alphabetical. For example, we could group them by their tags, but many jobs do not exclusively belong to one tag or another. Jobs also have alternative names hidden in their metadata, which may also make them easier to search for.
 
 Use the following list of job tags to help you search for jobs of a similar type:
 
@@ -26,9 +21,11 @@ Use the following list of job tags to help you search for jobs of a similar type
 | #financial   | #intrigue | #laborious | #magic    | #martial | #medical |
 | #performance | #ritual   | #rogue     | #social   | #vehicle | #vessel  |
 
-Don't worry too much about the meaning of each job tag — they're just here to help with searching and grouping — they have no inherent mechanical effect, except for #magic (which makes dice rolls [[Exploding Dice|explode]]).
+Don't worry too much about the meaning of each job tag — they're just here to help with searching and grouping — **they have no inherent mechanical effect**, except for #magic (which makes dice rolls [[Exploding Dice|explode]]).
 
-#question The numbers in curly braces, {like this}, at the end of some job descriptions reference that job's position in the [[D66 Jobs|D66 common jobs table]].
+Jobs also have _alternative names_ hidden in their metadata, which may also make them easier to search for.
+
+❓ The numbers in curly braces, {like this}, at the end of some job descriptions reference that job's position in the [[D66 Jobs|D66 common jobs table]].
 
 ###### A-B
 
@@ -43,7 +40,7 @@ Don't worry too much about the meaning of each job tag — they're just here to 
 ###### C-D
 
 ![[Charmer]]
-![[Cipher]]
+![[Deceiver]]
 ![[Clothier]]
 ![[Commander]]
 ![[Diplomat]]
@@ -78,7 +75,7 @@ Don't worry too much about the meaning of each job tag — they're just here to 
 
 ![[Orator]]
 ![[Philosopher]]
-![[Physician*]]
+![[Physician]]
 ![[Pilot]]
 ![[Priest*]]
 

@@ -1,13 +1,13 @@
 ---
 alias:
-  - writer
-  - author
-  - journalist
-  - chronicler
-  - archivist
+  - Writer
+  - Author
+  - Journalist
+  - Chronicler
+  - Archivist
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
@@ -22,7 +22,7 @@ Taking record of the world according to the views of others, copying documents, 
 
 May also include collecting your own thoughts and ideas into a recorded form, usually as a letter, poem, or book, or authoring a work of fiction, using [[Appeal]].
 
-#important **Requires:** #academic-tools
+¶ **Requires:** #academic or #financial-tools
 
 _**Suggested Specialties:** Composition, [culture], [genre], Gossip, [history], Literacy, [lore]..._
 

@@ -1,12 +1,12 @@
 ---
 alias:
   - brawling
-  - wrestler
-  - boxer
-  - pugilist
+  - Wrestler
+  - Boxer
+  - Pugilist
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0100
@@ -21,15 +21,14 @@ Boxing and hand-to-hand fighting, using any natural weapons available to you, su
 
 May be used during [[Martial Combat|combat]] to make melee attacks, using the target's  poise as the base difficulty, and can be used to grapple an opponent to the ground.
 
-May also include making and using improvisational weapons, or using tools as weapons, using [[Finesse]].
+May also include making and using improvisational weapons, or using-tools as weapons, using [[Finesse]].
 
-#important **Possibly Requires:** #brawler weapons
+¶ **Possibly Requires:** #brawler, #natural, or improvised weapons
 
 _**Suggested Specialties:** Intimidation, Improvisation, [martial arts], Natural [armor / weapons], Quick Reflexes..._
 
-> #### Wrestling
+> #### Wrestling Matches & Barfights
 >
-> Not every fight needs to be as tactical or as complex as a [[Martial Combat|full combat]], especially not when everyone's using Brawler. Sometimes you just need to knock someone out cold, or lock them to the ground and bind them, or perhaps you're just having a punch up in a bar. In these cases, make an [[Opposed Tasks|Opposed task]] roll and add your armor and weapons dice.
-
+> Not every fight needs to be as tactical or as complex as a [[Martial Combat|full combat]], especially not when everyone's using Brawler. Sometimes you just need to knock someone out cold, or lock them to the ground and bind them, or perhaps you're just having a punch up in a tavern. In these cases, use an [[Opposed Tasks|Opposed Task]] roll and add your armor dice to your defensive pool.
 
 ###### {[[D66 Jobs|51]]}

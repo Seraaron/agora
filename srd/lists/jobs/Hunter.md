@@ -1,13 +1,13 @@
 ---
 alias:
-  - hunting
-  - throwing
-  - trapper
-  - tracker
-  - slinger
+  - Hunting
+  - Throwing
+  - Trapper
+  - Tracker
+  - Slinger
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
@@ -22,7 +22,7 @@ Throwing weapons in [[Martial Combat|combat]], as well as shooting or chasing do
 
 May be used during [[Martial Combat|combat]] to make ranged attacks or to bind a target from a short distance, using the target's  poise as the base difficulty.
 
-#important **Requires:** #hunter weapons, or traps and nets, or other #rouge-tools
+¶ **Requires:** #hunter weapons, or traps and nets, or other #rogue-tools
 
 _**Suggested Specialties:** [animal], Bushcraft, Stealth, Throwing [weapons], Traps..._
 

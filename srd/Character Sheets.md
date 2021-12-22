@@ -1,6 +1,6 @@
 ---
 alias: [character sheet, character folio]
-tags: [CC-BY]
+tags: []
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-10-22+2300

@@ -1,16 +1,16 @@
+
 ---
 alias:
   - construction
 tags:
-  - CC-BY
-  - subsystems
+  - subsystem
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-12-01 13:08
 date updated: 2021-12-01 13:24
 ---
 
-#### Building
+### Building
 
 When you want to build a large structure — such as a house, bridge, fort, or ship — first consider the size of the project and the variety of materials required to make it. This will give you a base difficulty and the approximate time taken to make the roll, which also creates [[Downtime and Travel|downtime]] for the other players, as follows:
 
@@ -26,15 +26,15 @@ When you want to build a large structure — such as a house, bridge, fort, or s
 
 You must acquire the right materials, workforce, and the permission to build, separately — which are processes that may take several prior rolls in their own right, and may cost a lot of money.
 
-##### Specific Factors
+##### Specific Factors:
 
 Add any specific factors, or [[Generic Difficulty Factors|generic factors]], to the base difficulty:
 
 - “Building multiples at once...? (_+1 factor per copy_)
 - “The design style demands great embellishment, high attention to detail, or rare materials...? (_increases worth but not functionality_)
-- “The structure has more than three habitable stories, or stretches out longer than a mile horizontally...?
+- “The structure has more than three Habitable stories, or stretches out longer than a mile horizontally...?
 
-##### Methods & Technology
+#### Methods & Technology
 
 Finally consider the technology and methods you're able utilize in the construction process, to determine a difficulty multiplier.
 
@@ -54,9 +54,9 @@ $$
 Total = (Base + Factors) \times Multiplier
 $$
 
-#question If you're using #high-tech or #magic, then your dice on each roll can [[Exploding Dice|explode]].
+❓ If you're using #high-tech or #magic, then your dice on each roll can [[Exploding Dice|explode]].
 
-##### Splitting the Roll
+#### Splitting the Roll
 
 This calculation will very likely give you a final difficulty that is much higher than seems possible to achieve, and that's why you can split the roll up into smaller pieces and perform them over time. Each roll takes the same amount of time though, so the amount of times you split it up increases the total duration of the construction by that much.
 
@@ -69,7 +69,7 @@ Failure on a roll either means that that portion of  the construction must be re
 
 ##### Helping Hands
 
-This process assumes that you have enough workers to suit the scope of the project. If you don't, then building anything larger than a house by yourself is practically impossible. Workers therefore, do not [[Helping|help]] in the normal sense — that is, they don't give you [[KISSing|KISSes]] — instead they will proportionally expedite the process.
+This process assumes that you have enough [[Worker|workers]] to suit the scope of the project. If you don't, then building anything larger than a house by yourself is practically impossible. Workers therefore, do not [[Helping|help]] in the normal sense — that is, they don't give you [[KISSing|KISSes]] — instead they will proportionally expedite the process.
 
 > ### Ie.
 > _If you have double the workers then each roll takes half as long; three times the workers equals a one-third reduction in time; four times gives a quarter; five times is a fifth; and so on._

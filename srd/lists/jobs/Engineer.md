@@ -1,13 +1,13 @@
 ---
 alias:
   - engineering
-  - applied scientist
-  - inventor
-  - technician
-  - logistician
+  - Applied Scientist
+  - Inventor
+  - Technician
+  - Logistician
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
@@ -22,7 +22,7 @@ Designing, directing, overseeing, and operating all manner of things — applyin
 
 May also include designing new tools, machinery, equipment, buildings, and other structures, or inventing new technologies entirely, using [[Resolve]].
 
-#important **Requires:** #academic-tools or #artistic-tools
+¶ **Requires:** #academic-tools or #artistic-tools
 
 _**Suggested Specialties:** Construction, Design, Logistics, Numeracy, [science]..._
 

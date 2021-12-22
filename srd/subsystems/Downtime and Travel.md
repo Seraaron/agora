@@ -5,8 +5,7 @@ alias:
   - time-skips
   - travel
 tags:
-  - CC-BY
-  - subsystems
+  - subsystem
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-05 18:43

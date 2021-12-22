@@ -1,12 +1,12 @@
 ---
 alias:
   - riding
-  - horseman
-  - cavalry
-  - cowboy
+  - Horseman
+  - Cavalry
+  - Cowboy
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
@@ -23,7 +23,7 @@ Must be used to reposition in [[Martial Combat|combat]] while riding, and may be
 
 If racing or jockeying then use [[Swiftness]] instead.
 
-#important **Requires:** A mount or vehicle
+¶ **Requires:** A mount or vehicle
 
 _**Suggested Specialties:** [animal], Athletics, Competition, Mounted Combat, [vehicle]..._
 

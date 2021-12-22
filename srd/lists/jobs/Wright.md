@@ -1,14 +1,13 @@
 ---
 alias:
-  - maker
-  - carpenter
-  - furnisher
-  - carver
-  - manufacturer
-  - building
+  - Maker
+  - Carpenter
+  - Furnisher
+  - Carver
+  - Manufacturer
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
@@ -23,7 +22,7 @@ Making and repairing common objects, especially those made of wood or stone, and
 
 May also include the construction of larger and more complex things like bridges, buildings, and ships, using [[Resolve]] (see below).
 
-#important **Requires:** A workshop, materials, and #craft-tools
+¶ **Requires:** A workshop, materials, and #craft-tools
 
 _**Suggested Specialties:** Construction, Carpentry [crafts], Hauling, [vehicles], [vessels]..._
 

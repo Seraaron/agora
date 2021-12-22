@@ -1,11 +1,11 @@
 ---
 alias:
   - archery
-  - arbalist
-  - crossbowman
+  - Arbalist
+  - Crossbowman
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
@@ -20,10 +20,12 @@ Loosing projectiles with elastic-powered ranged weapons, such as longbows, cross
 
 May also include the tillering and crafting of your own bows or crossbows, as well as fetching your own arrows or bolts, using [[Wits]].
 
-#important **Requires** #archer weapons, and appropriate ammo
+¶ **Requires** #archer weapons, and appropriate ammo
 
 _**Suggested Specialties:** [armor], Archery [weapons], Athletics, Competition, Stealth..._
 
-**Note:** This job is usually replaced with [[Gunner]] if playing in a more contemporary setting.
-
 > ![[Ammo Types]]
+>
+>![[Ammo Quantities]]
+
+**Note:** This job may be replaced with [[Gunner]] if playing in a more contemporary setting.

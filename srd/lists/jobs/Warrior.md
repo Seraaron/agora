@@ -1,14 +1,14 @@
 ---
 alias:
-  - fighter
-  - combatant
-  - knight
-  - battleborn
-  - brave
-  - man-at-arms
+  - Fighter
+  - Combatant
+  - Knight
+  - Battleborn
+  - Brave
+  - Man-at-Arms
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0100
@@ -23,9 +23,9 @@ Fighting with whatever sophisticated melee weapons are appropriate for your cult
 
 May be used during [[Martial Combat|combat]] to make melee attacks, using the target's  poise as the base difficulty, and can inflict a final killing blow. Can also be used for the final shot when [[Hunter|hunting]] big game.
 
-#important **Requires:** #warrior weapons, and #armor or a #shield
+¶ **Requires:** #warrior weapons, and #armor or a #shield
 
-#question May also require a _noble background_, or the [[Honor]] capability, if that's appropriate for your setting.
+❓ May also require a _noble background_, or the [[Honor]] capability, if that's appropriate for your setting.
 
 _**Suggested Specialties:** [armor], Athletics, Competition, Quick Reflexes, [weapons]..._
 

@@ -2,11 +2,12 @@
 alias:
   - cooking
   - baking
-  - chef
-  - brewer
+  - Chef
+  - Brewer
+  - Vintner
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
@@ -21,7 +22,7 @@ Covers all forms of baking and other methods of cooking, or culinary arts. Desig
 
 May also include directing others to cook with you, or for you, as a chef would, using [[Resolve]].
 
-#important **Requires:** A kitchen or oven, ingredients and materials, and a knife
+¶ **Requires:** A kitchen or oven, ingredients and materials, and a knife
 
 _**Suggested Specialties:** Acute Sense of  Taste, Cooking [handicrafts], [culture], Seduction..._
 

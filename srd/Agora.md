@@ -3,7 +3,6 @@ alias:
   - contents
   - index
 tags:
-  - CC-BY
   - list
   - index
 author: Seraaron
@@ -20,7 +19,7 @@ date updated: 2021-12-01 14:20
 
 ---
 
-###### #important THIS IS A WORK IN PROGRESS #important
+###### ❗ THIS IS A WORK IN PROGRESS ❗
 
 **You are currently reading the first _major public 'alpha' release_. Meaning that there's a lot of content missing, such as character creation rules or really anything besides the core gameplay system.**
 
@@ -51,7 +50,7 @@ _But if you like what you see, then consider joining the [Discord.gg/JwM6zBszKr]
 	- [[Peers]]
 - [[Agenda]]
 	- [[When to roll dice]]
-- [[Checks vs. Tasks]]
+- [[Using Checks and Tasks]]
 	- [[Checks]]
 	- [[Tasks]]
 		- [[Opposed Tasks]]
@@ -82,7 +81,7 @@ _But if you like what you see, then consider joining the [Discord.gg/JwM6zBszKr]
 
 ### § 3 — Modular Mechanics
 
-- [[Conflict Systems]]
+- [[Understanding Conflicts]]
 	- [[Martial Combat]]
 	- [[Social Discourse]]
 - #unfinished

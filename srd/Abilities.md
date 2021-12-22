@@ -4,9 +4,8 @@ alias:
   - ability
   - Ability
 tags:
-  - CC-BY
   - rules
-  - stats
+  - stat
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-07-29+1400
@@ -21,7 +20,7 @@ There's also a third group of _optional abilities_, called [[Capabilities|capabi
 
 ## Mental Abilities
 
-The mental abilities are called **[[Appeal]]**, **[[Resolve]]**, and **[[Wits]]**. They cover the majority of your sensory systems, your power to think and feel as a sapient creature, your basic social skills and language usage, your general acumen and perceptions, and so on. You should [[Checks vs. Tasks|make rolls]] using the [[Rank|rank]] of a mental ability whenever conflict or tension arises from an action that predominantly uses your mind.
+The mental abilities are called **[[Appeal]]**, **[[Resolve]]**, and **[[Wits]]**. They cover the majority of your sensory systems, your power to think and feel as a sapient creature, your basic social skills and language usage, your general acumen and perceptions, and so on. You should [[Using Checks and Tasks|make rolls]] using the [[Rank|rank]] of a mental ability whenever conflict or tension arises from an action that predominantly uses your mind.
 
 ![[Appeal]]
 
@@ -31,7 +30,7 @@ The mental abilities are called **[[Appeal]]**, **[[Resolve]]**, and **[[Wits]]*
 
 ## Physical Abilities
 
-The physical abilities are called **[[Finesse]]**, **[[Endurance]]**, and **[[Swiftness]]**. They cover the majority of your muscular systems, your power to move and survive as an animate creature, your basic athletic skills and tool usage, your general fitness and tactile senses, and so on. You should [[Checks vs. Tasks|make rolls]] using the [[Rank|rank]] of a physical ability whenever conflict or tension arises from an action that predominantly uses your body.
+The physical abilities are called **[[Finesse]]**, **[[Endurance]]**, and **[[Swiftness]]**. They cover the majority of your muscular systems, your power to move and survive as an animate creature, your basic athletic skills and tool usage, your general fitness and tactile senses, and so on. You should [[Using Checks and Tasks|make rolls]] using the [[Rank|rank]] of a physical ability whenever conflict or tension arises from an action that predominantly uses your body.
 
 ![[Finesse]]
 

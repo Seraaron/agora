@@ -1,19 +1,19 @@
 ---
 alias:
   - begging
-  - pleader
-  - busker
-  - vagrant
+  - Pleader
+  - Busker
+  - Vagrant
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
 date updated: 2021-12-01 01:10
 ---
 
-### Beggar ([[Resolve|Res]])
+### Beggar ([[Appeal|App]])
 
 #civic #financial #laborious #social #rogue
 

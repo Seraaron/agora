@@ -2,9 +2,7 @@
 alias:
   - Res
 tags:
-  - CC-BY
-  - stats
-  - core
+  - stat
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-22+2100
@@ -27,4 +25,4 @@ Your Resolve (or '**Res**' for short) represents your _mental fortitude_, wisdom
 > -   **Rest:** _Sleep soundly through turbulence, bad weather, loud noises, or other disturbances._
 > -   **Wait:** _Test your patience, meditate, or stay awake during your normal hours of sleeping._
 
-#question [[Burnout]] is the [[Stress|stress]] of Resolve.
+❓ [[Burnout]] is the [[Stress|stress]] of Resolve.

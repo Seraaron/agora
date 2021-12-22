@@ -3,21 +3,20 @@ alias:
   - martial combat
   - combat
 tags:
-  - CC-BY
   - conflict
   - subsystem
   - martial
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-10-20+1200
-date updated: 2021-11-30 20:46
+date updated: 2021-12-18 17:16
 ---
 
 # Martial Combat
 
 When a situation is turning into a fight with multiple combatants and **your differences can't be resolved by any means other than violence**; when you each know deep down that in order to leave this place alive today you'll need to muster all your skills and either kill your opponents outright, capture them, or make them flee; _this is when combat begins_.
 
-Martial combats are most often utilized in games that feature high adventure, dungeon crawling, and wilderness exploration, or frequent encounters with [[Beasts & Nightmares]]. If the fight is more one-sided, with one side intending to murder the other and the other side wants to just escape from the start, then consider using a [[Chase Scene]] or just a simple [[Opposed Tasks|Opposed task]] instead.
+Martial combats are most often utilized in games that feature high adventure, dungeon crawling, and wilderness exploration, or frequent encounters with [[Beasts & Nightmares]]. If the fight is more one-sided, with one side intending to [[Murder Most Foul|murder]] the other and the other side wants to just escape from the start, then consider using a [[Opposed Tasks|Opposed Task]] or just a simple [[Versus Checks|Vs. Check]] instead.
 
 Before you get into clashing steel or spilling any blood, there's a little bit of bookeeping and set up to do first, to ensure that the battle runs smoothly for all the players:
 
@@ -25,6 +24,7 @@ Before you get into clashing steel or spilling any blood, there's a little bit o
 - **The other important number to keep an eye on during the fight is [[Momentum]]**, which governs how intense the fight is getting and how close anyone is to being easily pacified.
 
 > ### Nb.
+>
 > This system functions very similarly to [[Social Discourse|social discourse]], except using #martial jobs instead of #social ones. It can be used to run anything from single-opponent duels to small-scale military engagements, but it will become tedious and difficult to run with more than a dozen combatants.
 
 ## Positions
@@ -33,18 +33,19 @@ We generally aren't too concerned about tracking the exact positions of all the 
 
 Instead, you should try to **gauge your position _relative to your target_ only when it's important**. These distances are broken down into five main brackets, indexed from 0 to 4 and usually called '**Close-Quarters**', '**Within a Few Paces**', '**Nearby**', '**Far Away**', and '**Remote**', using natural language.
 
-#important Moving to a 'Remote' position will effectively place you outside of the battle, unless you have a long-ranged weapon (in which case see [[#Shooting into the Fray]], below).
+❗ Moving to a 'Remote' position will effectively place you outside of the battle, unless you have a long-ranged weapon (in which case see [[#Shooting into the Fray]], below).
 
 ### Starting Position
 
 When the combat begins, your [[Facilitator]] will generally decide how close or far away everyone is from each other, based on all the descriptions so far.
 
 > ### Eg.
+>
 > If there was a dialogue scene before the fight erupted, then everyone will probably start at the close-quarters range.
 >
 > If you're being ambushed in a valley, then you'll be at the center of the conflict and your enemies will be at nearby ranges on either side.
 
-#important Avoid starting everyone too far away, because you'll either spend the first three rounds closing the distance, which will be very boring, or someone will just get out of range and  leave the battle.
+❗ Avoid starting everyone too far away, because you'll either spend the first three rounds closing the distance, which will be very boring, or someone will just get out of range and  leave the battle.
 
 ---
 
@@ -58,7 +59,7 @@ When the combat begins, your [[Facilitator]] will generally decide how close or 
 |  3. | **Far Away:**               |  _~100-300_  |    _~30-90_    |   20-60   |
 |  4. | **Remote:**                 |    _>300_    |      _>90_     |    >60    |
 
-#question Grid square equivalents are also provided here for those that _do_ prefer to use visual aids, tile maps, and figurines.
+❓ Grid square equivalents are also provided here for those that _do_ prefer to use visual aids, tile maps, and figurines.
 
 ---
 
@@ -79,10 +80,9 @@ $$
 That is:
 
 - Start with the _highest_ of:
-	- Your **[[Acrobat]]  level**
-	- Your **Armor dice**
-		- (ie. usually based on materials and weight)
-- Then and your **Helm dice**, and some conditional benefits:
+	- Your **[[Acrobat]]  level**.
+	- Your **Armor dice** (ie. usually based on materials and weight).
+- Then and your **Helm dice** if you're wearing one, and some conditional benefits:
 	- Add +1 _if you're on unstable, icy, or sloped terrain, or if fighting on a boat?_
 	- Add +1 _if you're fighting in darkness, low visibility, or if fighting in bad weather?_
 	- Add +1 _if there's lots of cover nearby, such as trees, rocks, pillars, crates, or the corners of buildings?_
@@ -128,46 +128,49 @@ The number of combatants also determines roughly how long each round is, in-game
 |        **8-11** |        25        | _~40 sec_              |
 |        **≥ 12** |        30        | _~80 sec_              |
 
-#question [[Non-player Characters|NPCs]] usually use preset Poise and Disposition scores.
+❓ [[Non-player Characters|NPCs]] usually use preset Poise and Disposition scores.
 
 ![[Momentum]]
 
 ## Stances
 
-**At the start of each round, each standing combatant must choose and announce which 'stance' they enter.**
+**At the start of each round, each standing combatant must choose and announce which stance they enter.** Your stance represents the physical 'posture' that you assume for the next few seconds, which visually telegraphs to your opponents what you might be planning to try next.
 
-The announcement of your stance can just be verbal, if you like, or you can use slips of paper and write your stance on it, **or playing card suits** (ie. hearts ♥, spades ♠, diamonds ♦, and clubs ♣), and then all reveal your writings at the same time.
+The announcement of your stance can just be verbal, if you like, or you can use slips of paper and write your stance on it, **or play 'scissors-paper-stone'** (ie. ✂️, 📃, 🪨), and then all reveal your stances at the same time.
 
 Your stance determines _how much [[Momentum]] you add to the conflict at this start of the round_, and which [[#Moves|moves]] you can choose from on your turn:
 
-| ♣ **Aggressive Stance** ♣                                                                                                                                            |
+| ✂️ **Aggressive Stance** ✂️                                                                                                                                          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | _This is pushing forward. You are attacking quickly and boldly, but also leaving yourself open to be flanked or outmaneuvered if there are other combatants around._ |
 | _**Momentum**_ +2                                                                                                                                                    |
 | _**Moves:**_  [[Assault]], [[Spur]], [[Flank]] (Charge), [[Pacify]] (Any), or [[Interact]]                                                                           |
 
-| ♠ **Counteractive Stance** ♠                                                                                                                                      |
+| 📃 **Counteractive Stance** 📃                                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | _This is holding the line. You are attacking occasionally, when you see a good opportunity, but you are otherwise keeping your guard up and trying to stay safe_. |
 | _**Momentum**_ +1                                                                                                                                                 |
 | _**Moves:**_ [[Flank]] (Any), [[Spur]], [[Rally]], [[Pacify]] (Grapple), or [[Interact]]                                                                          |
 
-| ♦ **Defensive Stance** ♦                                                                                                                                                       |
+| 🪨 **Defensive Stance** 🪨                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | _This is pulling backward. You are mostly defending yourself, using every dodge, parry, and block in your repertoire, while trying to catch your breath or do something else._ |
 | _**Momentum**_ +0                                                                                                                                                              |
 | _**Moves:**_ [[Rally]], [[Reposition]], [[Treat]], [[Pacify]] (Intimidate), [[Flank]] (Disarm), or [[Interact]]                                                                |
 
-#important Once you've made your decision, the only way to change your stance in the middle of a round is via the 'Change Stance' [[#Exploits|exploit]].
+❗ Once you've made your decision, the only way to change your stance in the middle of a round is via the 'Change Stance' [[#Exploits|exploit]].
 
 > ### Nb.
+>
 > The stance you choose each round should also depend on how you describe your character's actions, but don't worry too much if your descriptions don't match up exactly with your actions, your intentions are more important here.
+>
+> Also note that if you do throw _scissors-paper-stone_ then **this is just an easy way to quickly choose and reveal your stance**, it doesn't mean that one inherently 'beats' the other. Though the corresponding symbols work as a mnemonic device too.
 
 ### Prone
 
-Some strikes can leave you staggered or knocked to the ground, which is a very vulnerable position to be in. While speechless:
+Some strikes can leave you staggered or knocked to the ground, which is a very vulnerable position to be in. While prone:
 
-- **Your [[#Presence]] is reduced to 0**,
+- **Your [[#Poise]] is reduced to 0**,
 - You cannot use any move or exploit that would change your position, and
 - _Your next move suffers a +1 difficulty penalty_.
 
@@ -177,13 +180,13 @@ You may _stand up_ on your turn using the [[Interact]] move, to remove the effec
 
 Some attacks can cause 'hesitation'. This simply means that **your next move roll suffers a +1 difficulty penalty**, and it's cleared immediately afterwards. _The only way to remove hesitation before a roll is to use the 'Shake Off' [[#Exploits|exploit]]_.
 
-#important If multiple sources are causing hesitation _while you're already hesitating_ then **they do not stack**.
+❗ If multiple sources are causing hesitation _while you're already hesitating_ then **they do not stack**.
 
 ## Turn Order
 
 **Start with the character who currently has the _highest_ Disposition, and progress the turn order down to the _lowest_**. A turn consists of: Rolling momentum, [[#Martial Moves List|choosing a move]], performing that move, and squeezing in any [[#Free Actions|free actions]] if you want.
 
-#question You can only act outside of your turn if you're given the opportunity to use an [[#Exploits|exploit]] by another character.
+❓ You can only act outside of your turn if you're given the opportunity to use an [[#Exploits|exploit]] by another character.
 
 ### Rounds
 
@@ -191,7 +194,7 @@ Some attacks can cause 'hesitation'. This simply means that **your next move rol
 
 At the end of each round, if a character's Disposition has raised or lowered for any reason, then they will move up or down the turn order, respectively. To make sure that no one accidentally goes twice or has their turn skipped, **only apply Disposition changes at the end of each round**.
 
-#important Each player need only track how much their own Disposition will change and _then tell the FC at the end of that round_, so their position on the momentum grid can be updated.
+❗ Each player need only track how much their own Disposition will change and _then tell the FC at the end of that round_, so their position on the momentum grid can be updated.
 
 ### Tied Disposition
 
@@ -201,7 +204,7 @@ If two or more characters have equal dispositions, then **they have to effective
 
 If you're reduced to zero Disposition at the end of a round then you will collapse from exhaustion, or will be paralyzed with fear, and are _effectively treated as an unconscious combatant_. Unconscious combatants count as being [[#Prone|prone]], except _they can't use any moves_, and they may be automatically pacified.
 
-#question Using the [[Pacify]] move on a character with zero Disposition will automatically succeed without need for a roll, unless you are trying to kill them (in which case make a [[Grit]] check).
+❓ Using the [[Pacify]] move on a character with zero Disposition will automatically succeed without need for a roll, unless you are trying to kill them (in which case make a [[Grit]] check).
 
 ## Martial Actions
 
@@ -215,24 +218,24 @@ Moves are the _main actions_ available to you each [[#Turn Order|turn]], determi
 
 **There are eight moves in total, which can be grouped into two categories, or four rough pairs:**
 
-|     Offense |  —  | Utility        |
+|     Offense |     | Utility        |
 | ----------: | :-: | :------------- |
 | [[Assault]] |  —  | [[Treat]]      |
 |    [[Spur]] |  —  | [[Rally]]      |
 |   [[Flank]] |  —  | [[Reposition]] |
 |  [[Pacify]] |  —  | [[Interact]]   |
 
-**Offensive** moves tend to either damage your opponent's Disposition, inflict [[Stress]], or cause other status effects, and benefit from the +MD; whereas **Utility** moves tend to either repair that damage, or let you change positions, or cause different kinds of effects.
+**Offensive** moves tend to either damage your opponent's Disposition, inflict [[Stress]], or cause other status effects, and benefit from the +MD. Whereas **Utility** moves tend to either repair that damage, or let you change positions, or cause different kinds of effects.
 
 - **A move can only be performed if you're in the right [[#Stance Choice|stance]] to use it**.
-- Most moves require a particular [[Jobs|job]] or a choice of jobs to be used properly. (When you see the double-bar symbol ∥ it means 'or' — _choose one_).
+- Most moves require a particular [[Jobs|job]] or a choice of jobs to be used properly. (nb. When you see the x-o symbol ¤ it means 'exclusive or' — _choose one_).
 - The bonuses and difficulties of the roll are all worked out as you read down the move, and should be fairly self-explanatory.
 	- Though some moves also require you to be in the right postion, or to use the right kinds of [[Gear List#Weapons|weapons]], to get the most benefit from them.
 - You _may_ [[KISSing|KISS]] move rolls, but remember to _keep it short and sweet_.
 	- _[[Earning Experience|exp]]_ from KISSing may be applied immediately, but no exp is earned from a failed move roll.
 - **You may not use the same move two rounds in a row**.
 
-#question See the [[#Martial Moves List]] below to read each move separately, or print off the [[move cards]] from the resources chapter.
+❓ See the [[#Martial Moves List]] below to read each move separately, or print off the [[move cards]] from the resources chapter.
 
 ### Free Actions
 
@@ -282,13 +285,11 @@ When you come to choose your move each turn, it's okay if you'd prefer to descri
 
 #unfinished
 
-### Experience from Conflict
-
-Instead of tracking your failures during a combat, which would slow down the game's pace, **you earn _[[Earning Experience|exp]]_ equal any [[Lots]] spent plus the MD bonus that the fight ended on**, and you must distribute those points _relatively evenly_ among all the jobs you rolled with during the battle.
+![[Experience from Conflict]]
 
 ## Shooting into the Fray
 
-Weapons with the #hunter tag cannot be shot from a 'remote' range, whereas #archer and #gunner weapons *can be*, but they suffer a +3 difficulty penalty to all attacks, unless the weapon has a scope and then it's only a +1 penalty.
+Weapons with the #hunter tag cannot be shot from a 'remote' range, whereas #archer and #gunner weapons _can be_, but they suffer a +3 difficulty penalty to all attacks, unless the weapon has a scope and then it's only a +1 penalty.
 
 Also if your shooting into a conflict from remote range and miss, ...
 

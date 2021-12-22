@@ -1,12 +1,13 @@
 ---
 alias:
   - investigation
-  - detective
   - interrogation
   - extortion
+  - Detective
+  - Cop
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
@@ -23,7 +24,7 @@ May be used during a [[Social Discourse|social discourse]] to ask questions and 
 
 The work of an inspector can also involve more intense forms of interrogation, so this job may include activities such as blackmailing or gaslighting, and threatening violence or torture, using [[Resolve]].
 
-#important **Possibly Requires:** #rogue-tools
+¶ **Possibly Requires:** #rogue-tools
 
 _**Suggested Specialties:** Cold Hard Facts, Intimidation, Criminal [laws], Observation..._
 

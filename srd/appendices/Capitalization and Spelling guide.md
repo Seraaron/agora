@@ -4,7 +4,7 @@ alias:
   - capitalization
   - spelling
 tags:
-  - CC-BY
+
   - index
 author: Seraaron
 license: CC BY 4.0
@@ -47,8 +47,8 @@ Despite being British, I've written Agora to use [predominantly American spellin
 
 - This is the _vastly more common_ way of spelling words on a global scale, because most of the changes made by [Webster's 1806 spelling reform](https://en.wikipedia.org/wiki/English-language_spelling_reform) were designed to make the language easier to learn and use.
 - And _it is easier_. I'm dyslexic, and American words are just easier for me to remember how to spell. They're generally more phonetic and shorter, which I like.
-	- Still old habits die hard, and you may find the odd British spelling here and there.
+	- Still old Habits die hard, and you may find the odd British spelling here and there.
 	- Either way, both types of spelling are _technically correct_ because the English language is [descriptive not prescriptive](https://en.wikipedia.org/wiki/Linguistic_description).
-- But also, unless the game ever gets translated to other languages, the United States has the largest English speaking population in the world, and is therefore my largest target market; so it behooves me to cater the game somewhat to Americans.
+- But also, unless the game ever gets translated to other languages, the United States has the largest English speaking population in the world, and is therefore my largest target market — so it behooves me to cater the game somewhat to Americans.
 
 ---

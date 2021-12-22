@@ -12,9 +12,23 @@ Right now, the only thing availiable is the published SRD or 'system reference d
 
 ## Changelogs
 
-### Alpha version
+### Alpha Versions
 
-#### 5 Dec 2021
+#### 22 Dec 2021 (v0.4)
+- Added gambits list
+- Added cultures list
+- Added adventuring professions list
+- Finished gear and tags list (appart from vehicles, vessels, and animals)
+- Changed opposed tasks system: Now uses versus pools separated into offense and defense
+- Slight tweaks to spealties and conditions list
+- Added pilcrow sign to job description to indicate required tools
+- Added recovery times and treatment difficulties to different wounds
+- Improved checks vs tasks explanation article
+- Updated metadata and tags in almost all articles (again)
+- Minor changes to help, vinpcs, fact checks, and kismet rules based on alpha playtesting feedback 
+
+
+#### 5 Dec 2021 (v0.3.2)
 - Updated metadata and tags on all articles
 - Embedded job subsystems into their own articles to make searching easier
 - A few weapons updates
@@ -32,7 +46,7 @@ Right now, the only thing availiable is the published SRD or 'system reference d
     - Some moves now give bonus dice depending on what tone your opponent is currently in.
     - You can now conclude from any tone, just the type of conclusion changes.
 
-#### 28 Nov 2021
+#### 28 Nov 2021 (v0.3.1)
 
 - Updated job descriptions and added specific factors.
 - Also included some small subsystems like alchemy, crafting, and building.
@@ -40,11 +54,11 @@ Right now, the only thing availiable is the published SRD or 'system reference d
 - Other tweaks and fixes.
 
 
-#### 17 Nov 2021
+#### 17 Nov 2021 (v0.3)
 - Added 'Social Discourse' -- which is a modified version of the combat rules that introduce rhetorical theory.
 - Updated martial combat (minor tweaks)
 
-#### 12 Nov 2021
+#### 12 Nov 2021 (v0.2)
 - Check difficulties changed to be graduated and failure forward (making them more variable, but also more predictable, since Tasks have ended up being more binary in their use).
 - You can now also KISS checks (instead of the weird auto-success mechanic I had before), and you can also add a single asset or piece of gear to a check.
 - A 'stressful' modifier can now be applied to rolls, which means you take stress damage if you fail (upping the stakes, but not the difficulty).
@@ -57,7 +71,7 @@ Right now, the only thing availiable is the published SRD or 'system reference d
 - Adjusted the combat rule and started writing social conflict system.
 - Starting to add 'next article' and 'previous article' links to the bottom of every page to hopefully make navigating the wiki in a linear order a little easier for those that want to read it like a book.
 
-#### 13 Oct 2021
+#### 13 Oct 2021 (v0.1)
 - Initial public release
 
 ---

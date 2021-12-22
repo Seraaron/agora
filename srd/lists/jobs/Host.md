@@ -1,13 +1,13 @@
 ---
 alias:
-  - hostess
-  - curator
-  - entertainer
-  - barkeep
-  - publican
+  - Hostess
+  - Curator
+  - Entertainer
+  - Barkeep
+  - Publican
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000

@@ -1,14 +1,14 @@
 ---
 alias:
   - stewardship
-  - governor
-  - investor
-  - auditor
-  - strategist
-  - manager
+  - Governor
+  - Investor
+  - Auditor
+  - Strategist
+  - Manager
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
@@ -25,7 +25,7 @@ May be used during a [[Social Discourse|social discourse]] to argue or to prove 
 
 May also include planning and directing military maneuvers or business operations, making sure supply lines are maintained, that the workers get paid, and that plans are not revealed to the wrong people, using [[Wits]].
 
-#important **Possibly Requires:** Property, or custody over an estate, and #academic-tools 
+¶ **Possibly Requires:** Property, or custody over an estate, and #financial-tools 
 
 _**Suggested Specialties:** Barter, [estate], Etiquette, [laws], Finance, [history]..._
 

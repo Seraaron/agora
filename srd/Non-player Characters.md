@@ -1,6 +1,6 @@
 ---
 alias: [Non-Player Character, NPC, NPCs]
-tags: [CC-BY, core, advice]
+tags: [advice]
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-07-30+1900

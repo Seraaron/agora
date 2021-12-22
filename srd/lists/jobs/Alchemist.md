@@ -1,17 +1,16 @@
 ---
 alias:
   - transmutation
-  - chemist
+  - Chemist
   - munitions
-  - chandler
-  - apothecary
+  - Chandler
+  - Apothecary
 tags:
-  - CC-BY
-  - jobs
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
-date updated: 2021-11-24 21:34
+date updated: 2021-12-21 14:49
 ---
 
 ### Alchemist ([[Wits|Wit]])
@@ -22,10 +21,10 @@ Transmuting one material to another, either with science or magic — or both? �
 
 May also include soap and candle making, munitions and weapons experimentation, and making new magical discoveries, using [[Resolve]].
 
-#important **Requires:** #ritual-tools and #academic-tools
+¶ **Requires:** #ritual-tools _and_ #academic-tools
 
 _**Suggested Specialties:** Brewing Potions, Chemistry [science], Distilling Poisons, Esoteric [history], Transmutation [magic], Symbolism, Rituals..._
 
-**Note:** This job is usually replaced with [[Physician*]] if playing in a more contemporary setting.
-
 > ![[Alchemy]]
+
+**Note:** This job may be replaced with [[Physician]] if playing in a more contemporary setting.

@@ -1,11 +1,13 @@
 ---
 alias:
   - illusion
+  - Apparitionist
+  - Visioneer
 tags:
-  - CC-BY
+
   - magic
   - embed
-  - jobs
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-12-01 13:02

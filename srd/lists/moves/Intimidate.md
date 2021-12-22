@@ -2,8 +2,8 @@
 alias:
   - intimidation
 tags:
-  - CC-BY
   - move
+  - finishing
   - aggressive
   - defensive
 author: Seraaron

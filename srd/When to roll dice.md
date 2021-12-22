@@ -4,8 +4,6 @@ alias:
   - why we roll
   - say 'yes'
 tags:
-  - CC-BY
-  - tools
   - advice
   - consent
 author: Seraaron
@@ -55,5 +53,5 @@ Players can follow these guides to avoid being told 'No':
 
 - **Next article:** [[Let the dice fall where they may]]!
 - **Previous article:**
-- **Related article:** [[Checks vs. Tasks]]
+- **Related article:** [[Using Checks and Tasks]]
 

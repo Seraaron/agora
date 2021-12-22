@@ -1,10 +1,11 @@
 ---
 alias:
-  - seducer
+  - Seducer
+  - Con Artist
   - suggestion
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
@@ -19,14 +20,15 @@ Seducing or socially disarming someone for any reason, by being flaunty, or dece
 
 May be used during a [[Social Discourse|social discourse]] to flatter or persuade, or to incite specific reactions, using your opponent's presence as the difficulty, and the level may also be used to determine your own presence.
 
-_**Suggested Specialties:** Confidence, Deception, Flattery, Persuasion, Seduction..._
+_**Suggested Specialties:** Confidence, Lies, Flattery, Persuasion, Seduction..._
 
-**Note:** This is _not_ mind control, and shouldn't be treated as such. Also, you _must get permission_ from the controlling player to use this on a [[Player Characters|Player Character]] or [[VINPCs|VINPC]].
 
 > ##### Specific Factors:
 >
 > - “The last person you asked refused or rejected you...?
 > - “Your motivations are political, or you're being ungenuine...?
 > - “You're asking them to do something that goes against their ethics, morality, taste, or principles...?
+
+**Note:** This is _not_ mind control, and shouldn't be treated as such. Also, you _must get permission_ from the controlling player to use this on a [[Player Characters|Player Character]] or [[VINPCs|VINPC]].
 
 ###### {[[D66 Jobs|61]]}

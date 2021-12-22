@@ -1,15 +1,15 @@
 ---
 alias:
-  - fashionista
-  - tailor
-  - cobbler
-  - leathersmith
-  - hatter
-  - dressmaker
-  - weaver
+  - Fashionista
+  - Tailor
+  - Cobbler
+  - Leathersmith
+  - Hatter
+  - Dressmaker
+  - Weaver
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
@@ -24,7 +24,7 @@ Working fine material like wool, cotton, hemp, or silk, into yarn and string, by
 
 May also include cutting and styling clothes, shoes, hats, and accessories, or any other fashion items, using [[Appeal]].
 
-#important **Requires:** A workshop, materials, &or #artistic-tools or #craft-tools
+¶ **Requires:** A workshop, materials, &or #artistic-tools or #craft-tools
 
 _**Suggested Specialties:** Fashion, Gossip, [handicrafts], Knots, Leatherwork [crafts]..._
 

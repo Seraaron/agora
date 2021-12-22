@@ -2,7 +2,7 @@
 alias:
   - shame
 tags:
-  - CC-BY
+
   - stress
   - optional
 author: Seraaron

@@ -3,7 +3,7 @@ alias:
   - play procedure
   - quick play
 tags:
-  - CC-BY
+
   - rules
   - summary
 author: Seraaron
@@ -21,81 +21,30 @@ date updated: 2021-11-05 19:54
 
 1.  [[Agenda|Find your agenda]], and turn it into *an action and objective(s)*.
 
-2.  **[[When to roll dice|Assuming you should even roll]]**, discuss the [[Difficulties and Consequences|consequences]], which [[Abilities|ability]] to use, and whether this roll should be a  [[Checks vs. Tasks|Check or a Task]]:
+2.  **[[When to roll dice|Assuming you should even roll]]**, discuss the [[Difficulties and Consequences|consequences]], which [[Abilities|ability]] to use, and whether this roll should be a  [[Using Checks and Tasks|Check or a Task]]:
     -   **For [[Checks]] — Gather three dice**
-        -   Add dice from *one* relevant [[Assets and Gear|asset or peice of gear]], if any.
         -   Minus any [[Stress|stress]] in the ability you're using.
     -   **For [[Tasks]] — Gather your [[Jobs#Levels in Context|Job dice]]**
-        -   Add dice from *any* relevant [[Assets and Gear|assets or gear]].
+        -   Add dice from any relevant [[Assets and Gear|assets or gear]].
         -   Add bonus dice from any other sources or special advantages.
         -   Minus any [[Stress|stress]] in the ability you're using.
-    -   **Ask for [[Helping|help]] if you need it**, or if it's offered.
 
-3.  **Roll the dice!**
-
-4.  **Count a success for each die that *equals or exceeds your [[Rank|ability rank]]***.
+3.  **Roll the dice, and count a success for each die that *equals or exceeds your [[Rank|ability rank]]***.
     -   You may [[KISSing|KISS]] any dice that fail you — using [[Kismet]] or [[KISSing#Insight|Insights]], by [[KISSing#Stunts|Stunting]], or with the aid of your [[Specialties]] — *to re-roll them*.
+    -   [[Helping]] allies may KISS dice for you, but this ties them to the consequences of the roll.
 
-5.  Whether you pass or fail depends on the [[Checks vs. Tasks|type of roll]] and the number of successes that you rolled:
+5.  Whether you pass or fail depends on the [[Using Checks and Tasks|type of roll]] and the number of successes that you rolled:
     -   **For [[Checks]] — You must get *2 successes* to pass**.
         -   1 success  means *failure with a twist* — You don't get what you want, *but* something interesting happens.
         -   3+ successes is an *exceptional pass* — You get what you wanted, *and* something unexpected happens.
     -   **For [[Tasks]] — You must get *successes ≥ [[Generic Difficulty Factors|difficulty factors]]* to pass**.
 		-   Each difficulty factor represents an objective to complete, a problem to solve, or an obstacle that stands in your way.
 		-   *Margin of failure* indicates how close you came to success, and which obstacles were overcome, but your agenda is ultimately unfulfilled.
+		-   If you succeed, take +1 [[Earning Experience|exp]]. If you failed, take +2.
 	- **If you failed the roll and it was deemed [[Stressful Rolls|stressful]]**, then take a point of stress in the ability you rolled with.
-6.  **[[Let the dice fall where they may|Let the dice rest where they may]]**, end your [[Session Structure#Turns|turn]], and continue roleplaying.
+6.  **[[Let the dice fall where they may|Let the dice rest where they fell]]**, and continue roleplaying until.
 
 ---
 
 -   **Next article:** [[Quick Session Plan]]
 -   **Previous article:** [[Introduction]]
-
-%%
-
-##### Gameplay Loop:
-
-```mermaid
-graph TD;
-	Agenda!-->Action;
-	Action-->Roll?;
-    Roll?-->Yes;
-    Roll?-->No;
-    No-->Roleplay;
-    Roleplay-->Agenda!;
-	Yes-->Consequences;
-	Consequences-->Check/Task?;
-	Consequences-->Roll?;
-	Check/Task?-->Check;
-	Check/Task?-->Task;
-	Objective/s-->Factors;
-	Check-->Difficulty;
-	Difficulty-->Consequences;
-	Job-->Factors;
-	Factors-->Difficulty;
-	Agenda!-->Objective/s;
-	Action-->Ability;
-	Check-->Ability;
-	Task-->Job;
-	Ability-->Rank;
-	Job-->Ability;
-	Ability-->Job;
-	Difficulty-->Rank;
-	Rank-->Dice;
-	+Help-->Dice;
-	+Bonus-->Dice;
-	-Stress-->Dice;
-	Dice-->Roll!;
-	Roll!-->Specialty/Ego?;
-	Specialty/Ego?-->Auto-succeed!;
-	Auto-succeed!-->Result;
-	Roll!-->Result;
-	Roll!-->KISS?;
-	KISS?-->Re-roll!;
-	Re-roll!-->Result;
-	Consequences-->Result;
-	Result-->Roleplay;
-	
-```
-
-%%

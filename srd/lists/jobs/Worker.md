@@ -1,17 +1,17 @@
 ---
 alias:
-  - laborer
-  - hauler
-  - workman
-  - commoner
-  - builder
-  - carrier
-  - digger
-  - logger
-  - miner
+  - Laborer
+  - Hauler
+  - Workman
+  - Commoner
+  - Builder
+  - Carrier
+  - Digger
+  - Logger
+  - Miner
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
@@ -26,7 +26,7 @@ This is a catch-all for menial labor and service odd-jobs in an enterprise or in
 
 May also include suddenly pulling or pushing something with great strength and speed, using [[Swiftness]].
 
-#important **Requires:** #laborious-tools or any other necessary tools
+¶ **Requires:** #laborious-tools or any other necessary-tools
 
 _**Suggested Specialties:** Athletics, Construction, Barter, Hauling, Streetfly..._
 

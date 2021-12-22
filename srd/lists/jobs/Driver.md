@@ -1,11 +1,11 @@
 ---
 alias:
   - driving
-  - chauffeur
-  - charioteer
+  - Chauffeur
+  - Charioteer
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
@@ -22,7 +22,7 @@ Must be used to reposition in  [[Martial Combat|combat]] while driving, and may 
 
 May also include hatching a plan to move a particular type of cargo from one place to another most efficiently, using [[Resolve]].
 
-#important **Requires:** An animal-drawn vehicle or an automatic vehicle
+¶ **Requires:** An animal-drawn vehicle or an automatic vehicle
 
 _**Suggested Specialties:** Acute Sense of Distance, [animal], Hauling, Logistics, [vehicle]..._
 

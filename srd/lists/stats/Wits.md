@@ -2,8 +2,7 @@
 alias:
   - Wit
 tags:
-  - CC-BY
-  - stats
+  - stat
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-22+2100
@@ -24,4 +23,4 @@ Your Wits (or '**Wit**' for short) represents your _mental speed_, intelligence,
 > -   **Quip:** _Verbally jab at someone, make a quick and clever retort, or simply crack a joke (can ease social tensions, or raise them)._
 > -   **Read / Parse:** _Ingest the meaning of something written, printed, drawn, carved, or otherwise displayed in a language that you already understand (may require [[Specialties List#L-O|Literacy]])._
 
-#question [[Confusion]] is the [[Stress|stress]] of Wits.
+❓ [[Confusion]] is the [[Stress|stress]] of Wits.
