@@ -1,14 +1,14 @@
 ---
 alias:
-  - handler
-  - farrier
-  - vet
-  - shepherd
-  - herder
-  - tamer
+  - Handler
+  - Farrier
+  - Vet
+  - Shepherd
+  - Herder
+  - Tamer
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
@@ -19,11 +19,11 @@ date updated: 2021-11-24 16:37
 
 #animal #civic #laborious #medical
 
-Keeping, breeding, rearing, training, and otherwise caring for animals, for yourself or others. Includes some veterinary skills, and covers the animal-handling side of a farrier’s work, for example. Can also be used to deter wild beast from attacking you or your party.
+Keeping, breeding, rearing, training, and otherwise caring for animals, for yourself or others. Includes some veterinary skills — similar to a [[Medic]], but for animals — and covers the animal-handling side of a farrier's work, for example. Can also be used to deter wild beast from attacking you or your party.
 
 May also include protecting and herding livestock across large tracts of land, often with the aid of a dog, horse, or other obedient animal, using [[Wits]].
 
-#important **Requires:** #laborious-tools and animals, and occasionally #medical-tools
+¶ **Requires:** #laborious-tools and animals, and occasionally #medical-tools
 
 _**Suggested Specialties:** Almanacs, [animal], [biomes], Barter, Patience..._
 

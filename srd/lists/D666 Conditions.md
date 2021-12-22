@@ -1,19 +1,20 @@
 ---
 alias:
   - conditions list
+  - example conditions
+  - condition suggestions
 tags:
-  - CC-BY
   - list
+  - rng
   - features
   - examples
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-23+1800
-date updated: 2021-11-18 14:08
-
+date updated: 2021-12-22 12:39
 ---
 
-#### D666 Conditions
+#### D666 Example Conditions
 
 **The lists below are all _just suggestions_.** Since they're just words or simple phrases it's quite easy to make up new ones. Some may be more applicable than others, and some may rarely ever come up. _This is fine_ because conditions are optional anyway. You may also notice that some are thematically similar, or may even be synonyms, and this is fine as well — because sometimes picking _the right word_ can be important too.
 
@@ -42,11 +43,11 @@ date updated: 2021-11-18 14:08
 | 135. | Bitter                  | 235. | Dyslexic                    |
 | 136. | Blind                   | 236. | Dyspraxic                   |
 | 141. | Boastful                | 241. | Easily Distracted           |
-| 142. | Branded                 | 242. | Easily Tricked              |
-| 143. | Broken Arm              | 243. | Enemies Around Every Corner |
-| 144. | Broken Hip              | 244. | Esoteric                    |
-| 145. | Broken Leg              | 245. | Exhausted                   |
-| 146. | Broken Rib              | 246. | Exiled                      |
+| 142. | Branded                 | 242. | Easily Frightened           |
+| 143. | Broken Body             | 243. | Enemies Around Every Corner |
+| 144. | Broken Heart            | 244. | Esoteric                    |
+| 145. | Broken Mind             | 245. | Exhausted                   |
+| 146. | Broken Limb             | 246. | Exiled                      |
 | 151. | Broken Teeth            | 251. | Facade                      |
 | 152. | Bruises Like a Peach    | 252. | Fear of Commitment          |
 | 153. | Bully                   | 253. | Fear of Darkness            |
@@ -62,44 +63,44 @@ date updated: 2021-11-18 14:08
 
 ###### 300 (F-K) — 400 (L-O)
 
-|    № | Suggested Condition           |    № | Suggested Condition          |
-| ---: | ----------------------------- | ---: | ---------------------------- |
-| 311. | Fear of Spiders / Insects     | 411. | Lacks Restraint              |
-| 312. | Fear of the Unknowable        | 412. | Lazy                         |
-| 313. | Fear of the Unknown           | 413. | Limping                      |
+|    № | Suggested Condition         |    № | Suggested Condition          |
+| ---: | --------------------------- | ---: | ---------------------------- |
+| 311. | Fear of Spiders / Insects   | 411. | Lacking Restraint            |
+| 312. | Fear of the Unknowable      | 412. | Lazy                         |
+| 313. | Fear of the Unknown         | 413. | Limping                      |
 | 314. | Fear of Thunder / Lightning | 414. | Living in the Past           |
-| 315. | Feral                         | 415. | Logical to a Fault           |
-| 316. | Filled With Regret            | 416. | Lonely                       |
-| 321. | Forgetful                     | 421. | Lustful                      |
-| 322. | Frail                         | 422. | Maimed                       |
-| 323. | Fugitive                      | 423. | Melancholic                  |
-| 324. | Gallows Humor                 | 424. | Melodramatic                 |
-| 325. | Greedy                        | 425. | Merciless                    |
-| 326. | Grieving                      | 426. | Messianic                    |
-| 331. | Gross                         | 431. | Mischievous                  |
-| 332. | Grumpy                        | 432. | Miserly                      |
-| 333. | Gullible                      | 433. | Missing Eye                  |
-| 334. | Half-hearted                  | 434. | Missing Organ                |
-| 335. | Hard of Hearing               | 435. | Moody                        |
-| 336. | Heartbroken                   | 436. | Morbid                       |
-| 341. | Hemophiliac                   | 441. | Must Get the Last Word       |
-| 342. | Hoarder                       | 442. | Mute                         |
-| 343. | Holds a Grudge                | 443. | Muttering                    |
-| 344. | Holier Than Thou              | 444. | Narcissistic                 |
-| 345. | Hollow                        | 445. | Narcoleptic                  |
-| 346. | Hurtful                       | 446. | Needy                        |
-| 351. | Hyperfixated                  | 451. | Never Looking Back           |
-| 352. | Hypermobility                 | 452. | Nihilistic                   |
-| 353. | Ideologue                     | 453. | No Appreciation for the Arts |
-| 354. | Ignoble                       | 454. | No Fears                     |
-| 355. | Impatient                     | 455. | No Sense of Direction        |
-| 356. | Impulsive                     | 456. | No Sense of Humor            |
-| 361. | In Too Deep                   | 461. | No Sense of Personal Space   |
-| 362. | Indulgent                     | 462. | Nosey                        |
-| 363. | Insomniac                     | 463. | Numb                         |
-| 364. | Irrational Hatred             | 464. | Oathbreaker                  |
-| 365. | Jaded                         | 466. | Obsessed                     |
-| 366. | Klepto                        | 465. | Obedient                     |
+| 315. | Feral                       | 415. | Logical to a Fault           |
+| 316. | Filled With Regret          | 416. | Lonely                       |
+| 321. | Forgetful                   | 421. | Lustful                      |
+| 322. | Frail                       | 422. | Maimed                       |
+| 323. | Fugitive                    | 423. | Melancholic                  |
+| 324. | Gallows Humor               | 424. | Melodramatic                 |
+| 325. | Greedy                      | 425. | Merciless                    |
+| 326. | Grieving                    | 426. | Messianic                    |
+| 331. | Gross                       | 431. | Mischievous                  |
+| 332. | Grumpy                      | 432. | Missing Eye                  |
+| 333. | Gullible                    | 433. | Missing Limb                 |
+| 334. | Half-hearted                | 434. | Missing Organ                |
+| 335. | Hard of Hearing             | 435. | Moody                        |
+| 336. | Heartbroken                 | 436. | Morbid                       |
+| 341. | Hemophiliac                 | 441. | Must Get the Last Word       |
+| 342. | Hoarder                     | 442. | Mute                         |
+| 343. | Holds a Grudge              | 443. | Muttering                    |
+| 344. | Holier Than Thou            | 444. | Narcissistic                 |
+| 345. | Hollow                      | 445. | Narcoleptic                  |
+| 346. | Hurtful                     | 446. | Needy                        |
+| 351. | Hyperfixated                | 451. | Never Looking Back           |
+| 352. | Hypoglycaemic               | 452. | Nihilistic                   |
+| 353. | Ideologue                   | 453. | No Appreciation for the Arts |
+| 354. | Ignoble                     | 454. | No Fear                      |
+| 355. | Impatient                   | 455. | No Sense of Direction        |
+| 356. | Impulsive                   | 456. | No Sense of Humor            |
+| 361. | In Too Deep                 | 461. | No Sense of Personal Space   |
+| 362. | Indulgent                   | 462. | Nosey                        |
+| 363. | Insomniac                   | 463. | Numb                         |
+| 364. | Irrational Hatred           | 464. | Oathbreaker                  |
+| 365. | Jaded                       | 466. | Obsessed                     |
+| 366. | Klepto                      | 465. | Obedient                     |
 
 ###### 500 (O-S) — 600 (S-W)
 
@@ -124,9 +125,9 @@ date updated: 2021-11-18 14:08
 | 535. | Overprotective            | 635. | Tremors              |
 | 536. | Oversharing               | 636. | Trouble Maker        |
 | 541. | Paralytic                 | 641. | Ugly Soul            |
-| 542. | Poisoned                  | 642. | Unclean              |
-| 543. | Prosthetic Arm            | 643. | Unimaginative        |
-| 544. | Prosthetic Leg            | 644. | Unimpressed          |
+| 542. | Perpetually Bored         | 642. | Unclean              |
+| 543. | Perfectionist             | 643. | Unimaginative        |
+| 544. | Prosthetic Limb           | 644. | Unimpressed          |
 | 545. | Psychotic                 | 645. | Unlucky              |
 | 546. | Quirky                    | 646. | Unstylish            |
 | 551. | Recovering from Surgery   | 651. | Untrusting           |

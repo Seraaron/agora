@@ -4,9 +4,7 @@ alias:
   - debrief
   - wrap up meeting
 tags:
-  - CC-BY
   - consent
-  - tools
   - advice
 license: CC BY 4.0
 author: Beau Jágr Sheldon
@@ -19,11 +17,15 @@ date updated: 2021-11-05 16:38
 
 ### ⏏️ Wrap Up
 
-Wrap up meetings (also known as 'debreifs') are session segment that you should try to make time for at the end of every session; leaving _at least_ 15 minutes. There is a required component to wrap up meetings for [[Agora]] — the kismet rewards — and an _optional_ feedback component which is part of the broader [[Script Change Tools]].
+Wrap up meetings (also known as 'debreifs') are session segment that you should make time for at the end of every session. **Try to leave _at least_ 15 minutes.**
 
-![[End-of-Session Rewards]]
+There is a required component to wrap up meetings for [[Agora]] — the [[Kismet]] rewards — and an _optional_ feedback component which is part of the broader [[Script Change Tools]].
 
-After earning your [[Lots]], you have the opportunity to round the table again and just cover anything that happened in the game that you want to talk about and give feedback on, _from constructive to negative_. It's good to develop a habit of talking these things through and [[Taking notes|taking notes]] so you can continue to improve.
+![[End-of-Session Lot Rewards]]
+
+![[End-of-Session Ego Rewards]]
+
+After earning your [[Lots]], you have the opportunity to round the table again and just cover anything that happened in the game that you want to talk about and give feedback on, _from constructive to negative_. It's good to develop a Habit of talking these things through and [[Taking notes|taking notes]] so you can continue to improve.
 
 > ### Eg.
 > Someone might want to talk about an in-game moment that went over their boundaries, but they didn't feel comfortable stopping with a [[Script Change Tools#⏸️ Pause|pause]] or [[Script Change Tools#⏪ Rewind|rewind]]. Discuss _why that happened_, and what could be done to make sure it doesn't happen again.
@@ -40,7 +42,7 @@ Constructive criticism is great, but feedback is generally most useful when it's
 
 During wrap meetings, it's also important to address anything that came up during the session that needs more discussion, even if it might be a hard topic. No one should be pressed to reveal their personal trauma or any intimate details, but they should be able to feel comfortable addressing issues that came up when they're ready.
 
-> ##### Wrap Up Prompts
+> #### Wrap Up Prompts
 >
 > If you're not sure what to talk about, here's some suggestions:
 >

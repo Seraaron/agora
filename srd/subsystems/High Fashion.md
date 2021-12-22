@@ -2,7 +2,7 @@
 alias:
   - fashion
 tags:
-  - CC-BY
+
   - embed
   - gear
 author: Seraaron

@@ -2,8 +2,8 @@
 alias:
   - kill
 tags:
-  - CC-BY
   - move
+  - finishing
   - aggressive
 author: Seraaron
 license: CC BY 4.0
@@ -18,7 +18,7 @@ _Describe how you push the advantage, find an opening, and strike true! Though o
 
 |    Roll | Difficulty = 1 + [Target's Pois.] − (Mome. − [Target's Disp.])                                                                                         |
 | ------: | ---------------------------------------------------------------------------------------------------------------- |
-|         | **[[Archer]]** ∥ **[[Gunner]]** ∥ **[[Warrior]]**                                                                |
+|         | **[[Archer]]** ¤ **[[Gunner]]** ¤ **[[Warrior]]**                                                                |
 |  **+1** | Your opponent is in aggressive stance?                                                                   |
 |  **+1** | Your opponent is unhelmeted?                                                                                     |
 |  **+1** | You are using your weapon at its best range? (_ie._ #short: _indoors / nearby_, or #long: _outdoors / far away_) |
@@ -31,4 +31,4 @@ _Describe how you push the advantage, find an opening, and strike true! Though o
 | **Double Success:** | Only if you *twice-exceeded* the difficulty with your successes will the target **die immediately**!                                                                                                                                         |
 | **Failure:** | **You hesitate**, you suffer your **[margin of failure]** as Disposition damage _at the end of the round_, _and_ **your target may exploit you** |
 
-#important _Executing a surrendered opponent will require a successful [[Grit]] check_.
+❗ _Executing a surrendered opponent will require a successful [[Grit]] check_.

@@ -5,7 +5,7 @@ alias:
   - PC
   - PCs
 tags:
-  - CC-BY
+
   - advice
   - referee
 author: Seraaron
@@ -16,20 +16,20 @@ date created: 2021-07-21
 
 # Player Characters
 
-A Player character (aka. _Playable character_ or PC for short) is like a fictional marionette that you control, and speak for, and otherwise inhabit to interact with the game world for the duration of play session using your imagination. This is the primary act of _roleplaying_.
+A 'Player Character' (aka. a _playable character_ or PC for short) is like a fictional marionette that you control, and speak for, and otherwise inhabit to interact with the game world for the duration of a play session using your imagination. This is the primary act of _roleplaying_.
 
 > ### Nb.
-> **Player character's are usually the protagonists of the stories we tell**, _or at least the main cast_. Player characters are always either:
+> **Player character's are usually the protagonists of the stories we tell**, _or members of the main cast at least_. Player characters are always either:
 >
-> -   Actively working on getting what they want
-> -   Dealing with some kind of conflict in their life
-> -   Or undergoing some kind of change
+> -   Actively working on getting what they want,
+> -   Dealing with some kind of conflict in their life,
+> -   Or undergoing some kind of change.
 >
-> And we follow their point of view, through each triumph and disaster, for the majority of each session.
+> We follow their point of view, through each triumph and disaster, for the majority of each session.
 >
 > By contrast, the characters that are not actively controlled by yourself or other players are called [[Non-player Characters]] (NPCs), whom are typically controlled by the [[Facilitator]]. _They're more like the side cast_.
 
-You create your PC in a process called '[[Character Assembly]]', which is a set of special rules that you engage with only during [[Development Sessions|development sessions]] to create a believable sapient being; assembled out of lists and choices, and stats and numbers.
+You create your PC in a process called '[[Character Assembly]]', which is a set of special rules that you engage with only during [[Development Sessions|development sessions]] to create a believable sapient being — assembled out of lists and choices, and stats and numbers.
 
 **Then life is breathed into the character at the start of each [[Session Structure|session of play]] by speaking aloud their [[Principles]]**, _which you have hand-written to match the games current [[setting and situation]]_.
 

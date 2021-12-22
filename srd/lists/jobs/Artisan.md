@@ -1,14 +1,13 @@
 ---
 alias:
-  - artist
-  - creator
-  - painter
-  - specialist
-  - artificer
-  - handicrafter
+  - Artist
+  - Creator
+  - Painter
+  - Artificer
+  - Handicrafter
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
@@ -23,7 +22,7 @@ Plying a specialized artistic trade or handicraft. Producing goods in limited qu
 
 Depending on what you're doing, it may be more appropriate to use [[Finesse]] instead.
 
-#important **Requires:** A workshop, materials, &or #artistic-tools or #craft-tools
+¶ **Requires:** A workshop, materials, &or #artistic-tools or #craft-tools
 
 _**Suggested Specialties:** Composition, [culture], Design, [genre], [handicraft]..._
 

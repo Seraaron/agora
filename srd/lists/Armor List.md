@@ -2,17 +2,14 @@
 alias:
   - armor list
 tags:
-  - CC-BY
   - martial
   - list
   - gear
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-19 01:10
-date updated: 2021-12-01 12:39
+date updated: 2021-12-22 12:53
 ---
-
-### Armor
 
 **All armor has the #armor tag.** Add your armor dice to the _first part_ of your [[Martial Combat#Poise|poise]] calculation.
 
@@ -31,9 +28,7 @@ You suffer a +1 difficulty factor to all rolls related to stealth and mobility w
 | +5   | **Platemail / Plate 'n' Chain**              | #super-heavy | #hardened                |  24¢ |
 | +6   | **Fully Articulated Plate**                  | #super-heavy | #flexible #hardened      |  35¢ |
 
-#question The dice ratings start at +2 because 1 die is equivalent to [[#Natural Armor|natural]] (unarmored) human skin.
-
-![[Damage Type vs Armor Weight]]
+❓ The dice ratings start at +2 because 1 die is equivalent to [[#Natural Armor|natural]] (unarmored) human skin.
 
 ### Helmets
 
@@ -68,34 +63,35 @@ Be aware, though, that some weapons and magics can bypass your shield entirely, 
 | +3   | **Kite Shield**   | #medium | —                              |   8¢ |
 | +3   | **Tower Shield**  |  #heavy | #great                         |  12¢ |
 
-#important Only take the highest dice from your shields to add to your poise. (If you have a weapon with a #hand-guard, for example, but are also using a shield then use the shield's dice for your poise until your shield is [[Shields Shall be Shattered|shattered]] or [[Disarm|disarmed]]).
-
-![[Shields Shall be Shattered]]
+❗ Only take the highest dice from your shields to add to your poise. (If you have a weapon with a #hand-guard, for example, but are also using a shield then use the shield's dice for your poise until your shield is [[Shields Shall be Shattered|shattered]] or [[Disarm|disarmed]]).
 
 ### Natural Armor
 
 Unarmored or #natural armors have no cost or weight because they are innate to your species. All natural armor also effectively carries the #flexible and #quiet tags, negating the mobility and stealth penalties from normal #armor.
 
-| Dice | #natural                                  |   Type  | Additional Tags                                           |
-| ---- | :---------------------------------------- | :-----: | --------------------------------------------------------- |
-| +1   | **Unarmored Skin**                        |  #armor | —                                                         |
-| +2   | **Tough Hide**                            |  #armor | #secret                                                   |
-| +2   | **Fur Coat / Blubber**                    |  #armor | #warming                                                  |
-| +3   | **Sharkskin / Scales**                    |  #armor | —                                                         |
-| +4   | **Carapace / Shell / Cephalothorax**      |  #armor | #hardened #secret                                         |
-| +4   | **Dermal Plates / Scutes / Thick Scales** |  #armor | #cooling                                                  |
-| +5   | **Exoskeleton / Scintillating Scales**    |  #armor | #hardened                                                 |
-| +1   | **Antlers**                               |  #helm  | #ablative  #binding #brawler #monster                     |
-| +1   | **Crest / Rostrum**                       |  #helm  | #crested                                                  |
-| +2   | **Horns / Cranial Plates**                |  #helm  | #crested #bashing #brawler #monster                       |
-| +3   | **Extremely Thick Skull**                 |  #helm  | #bashing #brawler #monster                                |
-| +1   | **Giant Pincer**                          | #shield | #brawler #crushing #great #heavy #monster #rending #short |
+| Dice | #natural                                    |   Type  | Additional Tags                                           |
+| ---- | :------------------------------------------ | :-----: | --------------------------------------------------------- |
+| +1   | **Unarmored Skin**                          |  #armor | —                                                         |
+| +2   | **Tough Hide**                              |  #armor | #secret                                                   |
+| +2   | **Fur Coat / Blubber**                      |  #armor | #warming                                                  |
+| +3   | **Scales / Sharkskin**                      |  #armor | —                                                         |
+| +4   | **Carapace / Shell / Cephalothorax**        |  #armor | #hardened #secret                                         |
+| +4   | **Dermal Plates / Scutes / Thick Scales**   |  #armor | #cooling                                                  |
+| +5   | **Full Exoskeleton / Scintillating Scales** |  #armor | #hardened                                                 |
+| +1   | **Antlers**                                 |  #helm  | #ablative  #binding #brawler #monster                     |
+| +1   | **Crest / Rostrum**                         |  #helm  | #crested                                                  |
+| +2   | **Horns / Cranial Plates**                  |  #helm  | #crested #bashing #brawler #monster                       |
+| +3   | **Extremely Thick Skull**                   |  #helm  | #bashing #brawler #monster                                |
+| +1   | **Giant Pincer**                            | #shield | #brawler #crushing #great #heavy #monster #rending #short |
 
 Natural armor dice ratings are equivalent to those of [[#Armor|crafted armors]], assuming that the creature is of modest or ample [[Circumstances#Size|size]]. That is, smaller creatures may have fewer dice for the same type of armor, and larger creatures may have more.
 
 > ### Eg.
+>
 > A real life sea crab does not have +5 armor — equivalent to platemail — but a giant enemy crab _might!_
+
+#### Armor on Armor
 
 You _can_ wear crafted armor over the top of natural armor, but the only reason for doing so would be to reduce the amount of stamina damage you take from [[Spur|spur]] attacks, as per the [[Damage Type vs Armor Weight|damage lookup table]], or to get more dice than your natural armor provides.
 
-#important **Only take the highest armor and helm dice among all the armor your wearing to calculate [[Martial Combat#Poise|poise]]**, do not add them all together.
+❗ **Only take the highest armor and helm dice among all the armor your wearing to calculate [[Martial Combat#Poise|poise]]**, do not add them all together.

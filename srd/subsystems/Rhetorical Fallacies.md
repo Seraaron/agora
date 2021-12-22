@@ -4,7 +4,7 @@ alias:
   - rhetoric
   - the art of persuasion
 tags:
-  - CC-BY
+
   - social
   - extra
   - advice
@@ -16,7 +16,7 @@ date updated: 2021-11-30 00:22
 
 ### Rhetorical Fallacies
 
-You will have probably noticed in the social move descriptions — but also in the [[Social Discourse]] system in general — a number of references to various rhetorical devices. These are tools you can use to help you raise points and make your arguments. If you're not familiar, then this is all part of the so-called _[art of persuasion](https://en.wikipedia.org/wiki/Rhetoric)_.
+You will have probably noticed in the social move descriptions — but also in the [[Social Discourse]] system in general — a number of references to various rhetorical devices. These are tools you can use to help you raise points and make your arguments. If you're not familiar, then this is all part of the so-called _['art of persuasion'](https://en.wikipedia.org/wiki/Rhetoric)_.
 
 **The social discourse system _doesn't_ model the platonic ideal of rhetorical debate**. Indeed, there are times when using such fallacies is actually rewarded. A fallacy is a type of deception that  discourages an open exchange of ideas. They instead try to distract or mislead using flawed reasoning.
 

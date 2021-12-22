@@ -4,15 +4,17 @@ alias:
   - session
   - sessions
 tags:
-  - CC-BY
   - advice
-  - core
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-24 +1900
-date updated: 2021-11-05 16:44
-
+date updated: 2021-12-16 20:33
 ---
+
+> #quote
+> _From the moment you say ‘action’ to the moment you say ‘cut’, **what is that?**_
+> _It's the fixing of reality. The fixing of time's essence. **It is a mosaic made with time**._
+> — **Andrei Tarkovsky**
 
 ## Session Structure
 
@@ -20,22 +22,19 @@ Before you start your first session of play it can be useful to just familiarize
 
 **The largest unit is of course the session itself**. A good session should last between 3 and 5 hours, or longer if you're feeling up for it, and contains at least one of each of the following segments:
 
--   **🎦 Introduction** — Placed at the start of a session. Spend a few minutes going around the table reading aloud your [[Principles]],  setting the [[Genre, Tone, and Themes|mood]], and framing the first [[#scenes|scene]].
--   **🔂 Recap** — Take turns each session after the first to let a [[Peers|Peer]] brief the rest of the table on what they remember happening last time. This can highlight the moments that they thought were most important, or what they took the most [[Taking notes|notes]] about.
--   **▶️ Actual Play** — The majority of a session. This is where almost all of the roleplaying, rolling dice, and story moments happen. These are the parts you'll probably remember the most.
--   **⏸️ Breaks** — Actual play is usually broken up with breaks. A ten minute break every couple of hours is a good rate. But take more breaks, or longer breaks, if you need to. You can also do another quick recap between breaks.
--   **⏏️ Wrap up** — Placed at the end of a session. First an opportunity to earn back some [[Lots]] by answering [[End-of-Session Rewards|some questions]], and then a more general feedback round-table discussion as the session winds down and people start to leave.
-
-> #quote
-> _From the moment you say 'action' to the moment you say 'cut', **what is that?**_
-> _It's the fixing of reality. The fixing of time's essence. **It is a mosaic made with time**._
-> — **Andrei Tarkovsky**
+- **🎦 Introduction** — Placed at the start of a session. Spend a few minutes going around the table reading aloud your [[Principles]],  setting the [[Genre, Tone, and Themes|mood]], and framing the first [[#scenes|scene]].
+- **🔂 Recap** — Take turns each session after the first to let a [[Peers|Peer]] brief the rest of the table on what they remember happening last time. This can highlight the moments that they thought were most important, or what they took the most [[Taking notes|notes]] about.
+- **▶️ Actual Play** — The majority of a session. This is where almost all of the roleplaying, rolling dice, and story moments happen. These are the parts you'll probably remember the most.
+- **⏸️ Breaks** — Actual play is usually broken up with breaks. A ten minute break every couple of hours is a good rate. But take more breaks, or longer breaks, if you need to. You can also do another quick recap between breaks.
+- **⏏️ Wrap up** — Placed at the end of a session. First an opportunity to earn back some [[Lots]] by answering [[Wrap Up|some questions]], and then a more general feedback round-table discussion as the session winds down and people start to leave.
 
 ### ▶️ Actual Play
 
 This is where most of the session lives. This is when you roleplay, roll dice, and have the most fun! Still, that's approximately 2 or 3 hours of nebulous time in which to 'have fun', so some **additional structural terms** can be useful for both [[Player Characters|players]] and [[Facilitator|Facilitators]] to plan the order of events with. These terms are: **[[#Scenes]]**, **[[#Turns]]**, and **[[#Cuts]]**.
 
-The terms come predominantly from screenwriting theory, but they can be useful for roleplaying too; as we can almost think of a gameplay session as a little show that we simultaneously direct and perform for ourselves. The only budget is our imaginations.
+> ### Nb.
+>
+> These terms come predominantly from screenwriting theory, but they can be useful for roleplaying too; as we can almost think of a gameplay session as a little show that we simultaneously direct and perform for ourselves. _The only budget is our imaginations_.
 
 #### Scenes
 
@@ -50,6 +49,7 @@ Once the space is clear in the players minds, they can begin to explore the scen
 This is unfortunately a bit like asking _"how long is a piece of string?"_, because the answer is the same: _"As long as it needs to be"_. In general, a scene shouldn't last longer than an hour of real world playtime, but that hour could only be fifteen minutes in the game world. So it really depends on the context.
 
 > ### Ie.
+>
 > You can say that some minutes pass without ending a scene, but if you want to skip forwards by more than an hour then that usually starts a new scene.
 >
 > You can say that a new scene starts when the place changes, or when we would need to change the set dressing if this were a stage play, but some scenes can take place while moving, or between two rooms with many jumps back and forth.
@@ -64,7 +64,7 @@ In the end, there's no right answer. You will just have to build up a sense of h
 
 Scenes can be broken down further into turns, which this is a very useful tool to help with 'spotlighting'. That is, making sure that every player gets enough time to do something and make progress each session, and making sure they don't feel left out.
 
-Unlike scenes, turns _do_ have a more definite length: **A turn ends shortly after a [[Player Characters|PC]] performs a [[Tasks|Task]] roll**. If you feel that you have nothing to add, or no strong [[Agenda|agenda]] to push in the current scene, then you may skip your turn; and once every player has skipped their turn — either explicitly or implicitly — _then a scene can end_.
+Unlike scenes, turns _do_ have a more definite length: **A turn ends shortly after a [[Player Characters|PC]] performs a [[Tasks|Task]] roll**. If you feel that you have nothing to add, or no strong [[Agenda|agenda]] to push in the current scene, then you may skip your turn. Once every player has skipped their turn — either explicitly or implicitly — _then a scene can end_.
 
 When a turn passes it also means that time passes, and **the [[Facilitator|FC]] usually gets a turn as well as the players**. This is your chance _make the world to respond_ the player's actions and to the results of their rolls. This is where the all important [[Difficulties and Consequences|consequences]] can rear their heads and give something new for the characters to react to.
 
@@ -72,20 +72,22 @@ So long as everyone at the table is offered a turn before someone else takes ano
 
 ##### Beats
 
-Beats are the smallest parcel of time in a scene. They are like _sub-turns_, but less structured. There's no need to pass beats like passing turns — that will just happen naturally as part of the conversation — though you _can_ explicitly ask for a beat if you want to.
+Beats are the smallest parcel of time in a scene. They are like _sub-turns_, but less structured. There's usually no need to pass beats like passing turns — that will just happen naturally as part of the conversation — just chime in when you want to.
 
 > ### Eg.
+>
 > A beat can be several seconds of dialogue, or perhaps only contain a single sentence, an action, a thought, or even just a facial expression.
 
-We base turns on Tasks because they're usually the more interesting and complex [[Checks vs. Tasks|type of roll]], but a turn can also be littered with [[Checks]]. You can typically make a Check as part of a beat if you need to; and this can even happen in the middle of someone else's turn, if it needs to.
+**We base turns on Tasks because they're usually the more interesting and complex [[Using Checks and Tasks|type of roll]]**, but a turn can also be littered with [[Checks]]. You can typically make a Check as part of a beat if you need to. This can even happen in the middle of someone else's turn, _if it needs to_.
 
-#important Try not to be disruptive with your requests for Checks during other people's turns though, and don't let your interruptions get too frequent, else we call that 'hogging the spotlight', which is frowned upon.
+❗ Try not to be disruptive with your requests for Checks during other people's turns though, and don't let your interruptions get too frequent. Otherwise we call that 'hogging the spotlight', which is frowned upon.
 
 #### Cuts
 
 Cuts are either used to end a scene, or to skip forwards in time during a scene, or to see a scene from another perspective. You can simply say _"let's cut here"_ and then describe what happens next. By far the most common use of cuts though is just to jump between perspectives, to keep us centered on the action or the important dialogue, and to remove sections of time to help the session keep a good pace.
 
 > ### Ie.
+>
 > If this were a film, then it would be a _literal cut_ between two reels, sometimes also called a 'hard cut'.
 >
 > A 'soft cut',  then, is more like a _fade_ — either a fade to black or a cross-fade into another scene — which can invoke a different feeling from a hard cut.

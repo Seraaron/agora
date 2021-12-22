@@ -1,9 +1,10 @@
 ---
 alias:
   - momentum
+  - MD
+  - Momentum Dice
 tags:
-  - CC-BY
-  - subsystems
+  - subsystem
   - social
   - martial
   - embed
@@ -29,11 +30,11 @@ date updated: 2021-11-29 17:58
 
 **At Momentum 5, and every 10 Momentum thereafter, everyone in the conflict gains a constant +1 bonus die to _every offensive move_**. These are called 'Momentum Dice', or **+MD** in the move descriptions to remind you of them.
 
-| Momentum: | 0-4 | 5-14 | 15-24 | 25-34 | 35-44 | 45-50* |
+| Momentum: | 0-4 | 5-14 | 15-24 | 25-34 | 35-44 | 45-50 |
 | --------: | :-: | :--: | :---: | :---: | :---: | :----: |
 |   **MD:** |  +0 |  +1  |   +2  |   +3  |   +4  |   +5   |
 
-#asterisk **At Momentum 50** — should the conflict somehow last that long — everyone gets too exhausted to continue arguing or fighting effectively. _The MD stays at +5_, but Momentum stops increasing any further, and anyone still standing takes a **random point of temporary stress** *at the beginning of every round* thereafter until they either pass out, surrender, or walk away.
+**Note:** **At Momentum 50** — should the conflict somehow last that long — everyone gets too exhausted to continue arguing or fighting effectively. _The MD stays at +5_, but Momentum stops increasing any further, and anyone still standing takes a **random point of temporary stress** *at the beginning of every round* thereafter until they either pass out, surrender, or walk away.
 
 The  '[[Agora Momentum Grid.pdf|Momentum Grid]]' also clearly shows the current +MD in each cell:
 

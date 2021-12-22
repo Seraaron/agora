@@ -3,7 +3,7 @@ alias:
   - finisher
   - pacified
 tags:
-  - CC-BY
+
   - move
   - martial
   - offense
@@ -15,7 +15,7 @@ date updated: 2021-11-30 12:06
 
 # Pacify
 
-###### #offense #martial #move
+###### #offense #finishing #martial #move
 
 _There's many ways to 'pacify' someone, and how you do it will depend mainly on how you feel about the cause of this violence in the first place. Choose what your intent will be before using this move. Though there's no point trying to disable your opponents until they're are weak enough to justify the risk._
 
@@ -27,7 +27,7 @@ _There's many ways to 'pacify' someone, and how you do it will depend mainly on 
 
 **Warning:** The difficulty of this move is governed by the _difference_ between the current Momentum and your target's Disposition, so **if Momentum is _lower_ than their Disposition then the roll is _harder_** by that much.
 
-#question Though _the minimum difficulty is still 1 + [the target's poise]._
+❓ Though _the minimum difficulty is still 1 + [the target's poise]._
 
 ![[Grapple]]
 
@@ -35,4 +35,4 @@ _There's many ways to 'pacify' someone, and how you do it will depend mainly on 
 
 ![[Kill]]
 
-#important If you are pacifying a character who has no Disposition then using this move will automatically succeed.
+❗ If you are pacifying a character who has no Disposition then using this move will automatically succeed.

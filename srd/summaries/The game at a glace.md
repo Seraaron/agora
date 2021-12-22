@@ -2,7 +2,7 @@
 alias:
   - the game at a glace
 tags:
-  - CC-BY
+
   - summary
   - embed
 author: Seraaron
@@ -18,6 +18,6 @@ date created: 2021-09-23+1500
 -   **_Two_ pool-based resolution systems, using D6s, counting successes based on [[Rank|rank]]:**
     -   **Quick-and-dirty [[Checks]]** — _for fast-paced action!_
     -   **Deep-and-varied [[Tasks]]** — _for slower, more nuanced, scenes…_
--   **Use bespoke [[Capabilities|capabilities]] and [[Features|gambits]] to perfectly match the style and themes of your setting, or your current adventure!**
 -   **Level-up individual [[Jobs|jobs]] based on their in-game use!**
--   **Clean and accessible design, with an easy-to-navigate _[[Agora|free wiki]]!_**
+-   **Use bespoke [[Capabilities|capabilities]] and [[Gambits|gambits]] to perfectly match the style and themes of your setting, or your current adventure!**
+-   **Clean and accessible design, with an easy-to-navigate _[free wiki](https://publish.obsidian.md/agora)!_**

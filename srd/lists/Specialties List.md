@@ -2,13 +2,12 @@
 alias:
   - specialty list
 tags:
-  - CC-BY
   - features
   - list
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-23+1800
-date updated: 2021-12-01 18:42
+date updated: 2021-12-20 15:41
 ---
 
 # Specialties List
@@ -17,11 +16,11 @@ date updated: 2021-12-01 18:42
 
 ###### A-B
 
-| Acute Sense of...                                                                                                                                    |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Use when:** The given sense is being used predominantly or intensively for an action.                                                              |
-| _Passively:_ Your FC may choose to inform you of more things relating to that sense than they ordinarily might, or you can remind them to do so.     |
-| _**Example Senses:** Hearing, Sight, Smell, Taste, Touch, etc, or less common 'senses' like Balance, Empathy, Heat, Distance, Direction, Time, etc._ |
+| Acute Sense of...                                                                                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Use when:** The given sense is being used predominantly or intensively for an action.                                                                                                                  |
+| _Passively:_ Your FC may choose to inform you of more things relating to that sense than they ordinarily might, or you can remind them to do so.                                                         |
+| _**Example Senses:** Hearing, Sight, Smell, Taste, Touch, etc, or less common 'senses' like Balance, Empathy, Heat, Distance, Direction, Time, etc. (Not your [[Sixth Sense]] though, that's a gambit)._ |
 
 | Almanacs                                                                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -31,40 +30,42 @@ date updated: 2021-12-01 18:42
 | Ambidexterity                                                                                                                            |
 | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | **Use when:** Needing to operate something with both hands equally skillfully, such as when dual-wielding weapons, or playing the piano. |
-| _Passively:_ You gain +1 Poise while wielding a set of #paired weapons, similar to if you were using a shield.                          |
+| _Passively:_ You gain +1 Poise while wielding a set of #paired weapons, similar to if you were using a shield.                           |
 
 | [animal]                                                                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Use when:** Caring for, riding, hunting, avoiding, or otherwise interacting with an animal of a given type.                                                                                                       |
+| **Use when:** Caring for, riding, taming, hunting, avoiding, or otherwise interacting with an animal of a given type.                                                                                               |
 | _Passively:_ Ensures that this animal will never indirectly harm you, or that they will never accidentally throw you from your saddle.                                                                              |
 | _**Examples:** House Pets, Livestock, Deer, Rodents, Poultry, Songbirds, Birds of Prey, Fish, Sharks, Lizards, Snakes, Shellfish, Insects, Spiders, Jellyfish, Coral, etc._                                         |
 | _**(steed) Examples:** Horses, Mules, Camels, Elephants, etc, or specially-bred Dogs, Bears or Rhinos, or perhaps even more exotic things like Great Birds, Dinosaurs, or Giant Arthropods if your setting allows._ |
-| #question Try to favor natural or linguistic groupings of animals — known as 'clades' — rather than strict scientific species and families.                                                                         |
+
+❓ Try to favor natural or linguistic groupings of animals — known as 'clades' — rather than strict scientific species and families.
 
 | Appraisal                                                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Use when:** Judging the material worth of an object or artefact, or identifying what it does or what it can be used for, based on technical insights and experience. |
 
-| [armor]                                                                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Use when:** Making or repairing armor of the given weight, or when rolling your armor dice while wearing it, or when attacking others wearing that type of armor.                        |
-| _Passively:_ Ensures that the armor does not chafe or _weigh too heavily on you_ while you wear it, and that you can secure your harness effectively, thus reducing the carry cost by one. |
-| _**Types:** Natural, Light, Balanced, Heavy, Super-Heavy, Helms, Shields_                                                                                                                  |
+| [armor]                                                                                                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Use when:** Making or repairing armor of the given weight, or when rolling your armor dice while wearing it, or when attacking others wearing that type of armor.                             |
+| _Passively:_ Ensures that the armor does not chafe or _weigh too heavily on you_ while you wear it, and that you can secure your harness effectively, removing the [[Carry Weight]] while worn. |
+| _**Types:** Natural, Light, Balanced, Heavy, Super-Heavy, Helms, Shields_                                                                                                                       |
 
 | Athletics                                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Use when:** Physically exercising for recreation or survival, or when participating in a general sport, especially for cardiovascular activities like running. |
-| #question You can also make up and use a [sport] specialty for specific activities.                                                                              |
 
-| Barter                                                                                                                                               |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Use when:** Exchanging goods and services of roughly equal value, and debating what that value is.                                                 |
-| _Passively:_ You can always round in your favor when buying or selling in bulk, if you're tracking individual coins and currencies (see [[Wealth]]). |
+❓ You can also make up and use a [sport] specialty for specific activities.
 
-| [biomes]                                                                                                                                                                                                                            |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Use when:** Navigating, exploring, exploiting, or otherwise surviving in a biome or environment of the given  type.                                                                                                               |
-| _**Examples:** Mountain, Prairie, Woodland, Jungle, Forest, Desert, Savanna, Lowland, River & Valleys, Highland, Taiga, Tundra, Islands & Coasts, Marine, Caves & Lakes, Submarine, Urban, Swamps, Hellish, Celestial, Alien, etc._ |
+| Barter                                                                                                                                                      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Use when:** Exchanging goods and services of roughly equal value, and debating what that value is.                                                        |
+| _Passively:_ You can always round in your favor when buying or selling in bulk, if you're tracking individual coins and currencies (see [[Caps as Coins]]). |
+
+| [biome]                                                                                                                                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Use when:** Navigating, exploring, exploiting, or otherwise surviving in a biome or environment of the given  type.                                                                                                                          |
+| _**Examples:** Mountain, Prairie & Steppe, Woodland, Jungle, Forest, Desert, Savanna & Shrub, Lowland, Rivers & Valleys, Highland, Taiga & Tundra, Islands & Coasts, Marine, Caves, Submarine, Urban, Swamps, Hellish, Celestial, Alien, etc._ |
 
 | Boomerangs                                                                                                                 |
 | -------------------------------------------------------------------------------------------------------------------------- |
@@ -74,7 +75,7 @@ date updated: 2021-12-01 18:42
 | Bushcraft                                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Use when:** Finding food, water, and shelter in the wilderness; specifically, when using skills related to making and using tools that help you survive. |
-| _Passively:_ You can always find enough dry material to build a fire.                                                                                      |
+| _Passively:_ You can always find enough dry material to build a small fire.                                                                                |
 
 ###### C-D
 
@@ -82,16 +83,17 @@ date updated: 2021-12-01 18:42
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Use when:** Working with infants and juveniles; but not teenagers. Knowing how to speak to them, entertain and play with them, and how best to teach or raise them. |
 
-| [city] / [settlement]                                                                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Use when:** Interacting with a given city at a civic or political level.                                                                                                    |
-| _Passively:_ You know where all the important streets and buildings are, and where the all big-shots live.                                                                    |
-| #question Use the names of any specific city or other populous settlement in your setting here, including towns and villages, or city districts (if that's more appropriate). |
+| [city] / [settlement]                                                                                      |
+| ---------------------------------------------------------------------------------------------------------- |
+| **Use when:** Interacting with a given city at a civic or political level.                                 |
+| _Passively:_ You know where all the important streets and buildings are, and where the all big-shots live. |
 
-| Climbing                                                                                      |
-| --------------------------------------------------------------------------------------------- |
-| **Use when:** Scaling cliffs and walls, bouldering across rocks, ascending ropes and ladders. |
-| _Passively:_ You're unphazed by great heights and never get vertigo.                          |
+❓ Use the names of any specific city or other populous settlement in your setting here, including towns and villages, or city districts (if that's more appropriate).
+
+| Climbing                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------ |
+| **Use when:** Scaling cliffs, walls, and trees, bouldering across rocks, ascending ropes and broken ladders. |
+| _Passively:_ You're unphazed by great heights and never get vertigo.                                         |
 
 | Cold Hard Facts                                                                    |
 | ---------------------------------------------------------------------------------- |
@@ -127,19 +129,19 @@ date updated: 2021-12-01 18:42
 | _**(carpentry) Examples:** Carts, Barrels (cooper), Shields, Wagons, Furniture, Scaffolds, Ships, Boats, Arrows & Bolts (fletcher), Bridges, Huts, Cabins, Watchtowers, Palisades, etc._                                                                                   |
 | _**(metallurgy) Examples:** Black metals (iron, lead, titanium, & steel), White metals (tin, silver, gold, & aluminum), Red metals (copper, brass, bronze, & other alloys), Weapons, Tools, Armor, Gears, Horseshoes (farrier), Traps, Jewelry, Locks, Guns, Clocks, etc._ |
 
-| [culture]                                                                                                                                                        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Use when:** Interacting with a given culture that differs from your own circumstances, or if you specialize in your own culture then that makes you an expert. |
-| #question Use the names of any specific cultural, religious, or ethnic groups in your setting here, or different types of species too (if that's relevant).      |
+| [culture] / [religion]                                                                                                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Use when:** Interacting with a given culture or religion that differs from your own circumstances, or if you specialize in your own then that makes you an expert. |
+
+❓ Use the names of any specific cultural, religious, or ethnic groups in your setting here, or different types of species too (if that's relevant).
 
 | Dance                                                                                                   |
 | ------------------------------------------------------------------------------------------------------- |
 | **Use when:** Dancing, or showing off with your body, and attempting to attract others with your moves. |
 
-| Deception                                                                                                                                                        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Use when:** Lying to others to get what you want from them, or hiding the truth, or otherwise making things more difficult to understand than they need to be. |
-| _Passively:_ You can tell when others are using the same tactics on you.                                                                                         |
+| Disguise                                                                                                                      |
+| ----------------------------------------------------------------------------------------------------------------------------- |
+| **Use when:** Making or wearing costumes and makeup to attempt to look like someone else, or when trying hide in plain sight. |
 
 | Deep Dark Secrets                                                                                                                                                       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -165,7 +167,8 @@ date updated: 2021-12-01 18:42
 | [faction]                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------- |
 | **Use when:** Directly dealing with or involving yourself with a given faction or organization, or when establishing facts about them. |
-| #question Use the names of any specific factions, affiliations, companies, or other organizations in your setting here.                |
+
+❓ Use the names of any specific [[Factions, Institutions, Organizations|factions, affiliations, companies, or other organizations]] in your setting here.
 
 | Fashion                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------- |
@@ -175,6 +178,11 @@ date updated: 2021-12-01 18:42
 | Finance                                                                           |
 | --------------------------------------------------------------------------------- |
 | **Use when:** Making economic decisions at a personal, civic, or political scale. |
+
+| Fishing                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------- |
+| **Use when:** Hunting for fish, shellfish, and other sea creatures, using lines or nets, spears, or your bare hands. |
+| _Passively:_ You can sit in the rain for hours, waiting for a bite.                                                  |
 
 | Flattery                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -211,11 +219,17 @@ date updated: 2021-12-01 18:42
 | **Use when:** Pushing, dragging, lifting, or shunting anything heavy and cumbersome, or otherwise performing feats of strength.                                              |
 | _Passively:_ Your base [[Carry Weight]] increases by 4 points, meaning you can carry a fair amount more than would normally be expected of someone of your size and stature. |
 
-| [history]                                                                                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Use when:** Recalling or establishing facts and information about the history or geography of a given place or people, or of a specific time period.                                       |
-| _Passively:_ Ensures that you know the major dates and battle-sites, or can always spot the telltale signs of that history within a given locale.                                            |
-| #question Use the names of any civilization, location, or historic peoples in your setting here, including specific regions or nations, or even entire planets (if that's more appropriate). |
+| Heat Discipline                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Use when:** Surviving in a tundra, or a taiga, or in the dead of winter, when conserving heat is of utmost importance, especially while traveling between settlements. |
+| _Passively:_ Ensures you always wrap up warm, and have a dry set of clothes ready if needed.                                                                             |
+
+| [history]                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Use when:** Recalling or establishing facts and information about the history or geography of a given place or people, or of a specific time period. |
+| _Passively:_ Ensures that you know the major dates and battle-sites, or can always spot the telltale signs of that history within a given locale.      |
+
+❓ Use the names of any civilization, location, or historic peoples in your setting here, including specific regions or nations, or even entire planets (if that's more appropriate).
 
 | Improvisation                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -239,13 +253,19 @@ date updated: 2021-12-01 18:42
 
 | [language]                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Use when:** Speaking a given non-native language from your own circumstances, or if you specialise in your own native language/s then that makes you an expert. |
-| #question Use the names of any living, archaic, or dead languages in your setting here, including different types of sign language, codes, or jargon.             |
+| **Use when:** Speaking a given non-native language from your own circumstances, or if you specialize in your own native language/s then that makes you an expert. |
+
+❓ Use the names of any living, archaic, or dead languages in your setting here, including different types of sign language, codes, or jargon.
 
 | [laws]                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Use when:** Calling on 'the rule of law' to defend you, especially when citing a specific term, subsection, or agreement may aid you, or when otherwise dealing with systems of jurisprudence. |
 | _**Examples:** Public, Civil, Criminal, Administrative, Constitutional, Contract, Martial, etc._                                                                                                 |
+
+| Lies                                                                                                                                                              |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Use when:** Deceiving others to get what you want from them, or hiding the truth, or otherwise making things more difficult to understand than they need to be. |
+| _Passively:_ You can tell when others are using the same tactics on you.                                                                                          |
 
 | Literacy                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -255,11 +275,6 @@ date updated: 2021-12-01 18:42
 | Logistics                                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Use when:** Dealing with procurement, distribution, and replacement of materials and personnel, especially in a military or business management context. |
-
-| [lore]                                                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Use when:** Recalling or establishing facts and information about anything that you are wise to, which you know the secrets of, or that you just know a lot of trivia about. |
-| #question This is a catch-all for any specific thing you wish to be an expert on, from an academic standpoint; you can put just about anything here.                           |
 
 | [magic]                                                                                                                                                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -279,10 +294,11 @@ date updated: 2021-12-01 18:42
 | **Use when:** Fighting from the back of a steed, or while riding a chariot or other vehicle.                                                                                                                                                 |
 | _Passively:_ Allows you to treat your mount as a form of #ablative armor, if you want to. In other words, a killing blow will always kill your steed or destroy your vehicle before it kills you. (**See:** [[Shields Shall be Shattered]]). |
 
-| [mythology]                                                                                                                                                    |
+| [mythology] / [lore]                                                                                                                                           |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Use when:** Recalling or establishing supposed facts and alluded information about legends, quasi-histoical events, and religious tales, of a given culture. |
-| #question Use the names of any specific cultural, religious, or ethnic groups in your setting here, or different types of species too (if that's relevant).    |
+
+❓ Use the names of any specific cultural, religious, or ethnic groups in your setting here, or different types of species too (if that's relevant).
 
 | Navigation                                                                                                                                    |
 | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -298,9 +314,9 @@ date updated: 2021-12-01 18:42
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Use when:** Actively searching for something that is lost, or which is trying not to be found — or otherwise keeping a look out for thieves, assassins, ne'er-do-wells, and sneaky dastards. |
 
-| Old Adages                                                                                                              |
-| ----------------------------------------------------------------------------------------------------------------------- |
-| **Use when:** You recite a proverb or other such aphorism to help you prove a point, or just to sound more intelligent. |
+| Old Adages                                                                                                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Use when:** You recite a proverb, common saying, or some other such aphorism to help you prove a point, warn against something, or just to make yourself sound wise. |
 
 | Orienteering                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -332,14 +348,19 @@ date updated: 2021-12-01 18:42
 | **Use when:** Communicating with or worshiping a higher being.                                                            |
 | _Passively:_ You know all the right hand-gestures and any appropriate offerings, and can mutter chants under your breath. |
 
+| Propaganda                                                                                                                                                                          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Use when:** Publicly broadcasting to a faction, organization, or a whole nation, or when making posters, writing speeches, or inventing new methods of swaying people _en masse_. |
+| _Passively:_ You can tell when others are using the same tactics on you.                                                                                                            |
+
 | Quick Reflexes                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Use when:** In combat, to gain stamina or when repositioning; or out of combat, whenever fast reaction speeds are required.                         |
+| **Use when:** In combat, when rolling for Disposition, or while repositioning; or out of combat, whenever fast reaction speeds are required.          |
 | _Passively:_ You can catch a falling vase, snatch an insect out of the air, or perform other simple feats of heightened response time without a roll. |
 
 | Rhetoric                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Use when:** Making a logical argument to convince someone of something, or to urge them to do something for you, using logic and reason. |
+| **Use when:** Making arguments to convince someone of something, or to urge them to do something for you, using logic, empathy, or ethics. |
 | _Passively:_ You can tell when others are using the same tactics on you.                                                                   |
 
 | Rituals                                                                                                                                       |
@@ -426,6 +447,11 @@ date updated: 2021-12-01 18:42
 | **Use when:** Operating, cleaning, and maintaining the given vessel or aircraft.                                                                                                     |
 | _**Examples:** Rowboat, Barge, Sloop, Yacht, Longship, Galley, Frigate, Cruiser, Gunboat, Battleship, Tanker, Carrier, Hovercraft, Amphibious Tank, Submarine, etc._                 |
 | _**(flying) Examples:** Glider, Bushplane, Seaplane, Biplane, Helicopter, Gunship, Dropship, Jet, Bomber, Airliner, Dirigible / Blimp, Flying Mech, Compound Shuttle, Thopter, etc._ |
+
+| Water Discipline                                                                                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------- |
+| **Use when:** Surviving in a desert, when conserving water is of utmost importance, especially while traveling between settlements. |
+| _Passively:_ Ensures your water-skins and drinking bottles are always refilled, at every opportunity you get.                       |
 
 | [weapons]                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

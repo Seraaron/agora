@@ -1,7 +1,7 @@
 ---
 alias: []
 tags:
-  - CC-BY
+
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-12-01 13:42
@@ -32,7 +32,7 @@ rp emerges from dilemmas in different ways
 
 - locks: the players must rp, asking questions, to find a key to unlock the next part of the conversation
 	- this is usually difficult to pull of, because the parameters are unclear
-	- rp should not be treated like a trap, or a guessing game; it's a response
+	- rp should not be treated like a trap, or a guessing game — it's a response
 - bubbles: the players rp freely to create outcomes
 	- better, because there is no set solution, only reactions and consequences
 

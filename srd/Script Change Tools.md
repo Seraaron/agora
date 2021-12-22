@@ -2,9 +2,7 @@
 alias:
   - consent and safety tools
 tags:
-  - CC-BY
   - consent
-  - tools
   - advice
   - optional
 author: Beau Jágr Sheldon
@@ -33,13 +31,13 @@ Sometimes we aren't ready when this happens. _Sometimes people don't know all of
 
 _At any point during the game_, if a [[Player Characters|Player Character]] (PC), [[Facilitator]] (FC), or another [[Peers|Peer]] finds that they are uncomfortable with the subject matter or actions happening in the game, they can call for a Script Change (either out loud, or by sending a private message to the FC or another player they trust). Then, to return to play at any time afterwards, simply say "let's resume" or give the FC two thumbs up.
 
-**Always try to introduce the Script Change tools** — or your preferred alternative — **_before character creation and worldbuilding_, during your first [[Development Sessions|development session]]**; especially if you're starting with a new group, or if you're introducing some fresh faces to an older group. It can be used to address player backstories where the details might get too gritty or goofty, settings elements like aliens or zombies, and [[Genre, Tone, and Themes|themes]] like betrayal or grief.
+**Always try to introduce the Script Change tools** — or your preferred alternative — **_before character creation and worldbuilding_, during your first [[Development Sessions|development session]]**. (Especially if you're starting with a new group, or if you're introducing some fresh faces to an older group). It can be used to address player backstories where the details might get too gritty or goofty, settings elements like aliens or zombies, and [[Genre, Tone, and Themes|themes]] like betrayal or grief.
 
 ---
 
 ###### What's the point of these mechanics?
 
-If you're playing a game with other people, you should always discuss consent first. You may choose not to use these _exact tools_ in your game — perhaps you have a set of tools that you're already used to using — but not using _any_ consent and safety tools in your game is like not wearing a helmet while riding a bike; you might feel a bit silly going through the motions the first few times, but you'll be thankful that you did if you ever take a tumble!
+If you're playing a game with other people, you should always discuss consent first. You may choose not to use these _exact tools_ in your game — perhaps you have a set of tools that you're already used to using — but not using _any_ consent and safety tools in your game is like not wearing a helmet while riding a bike: You might feel a bit silly going through the motions the first few times, but you'll be thankful that you did if you ever take a tumble!
 
 Either privately, or as a group: **Ask what everyone is okay with, and what they're not.** Establish expectations for the game: Tone, content, story elements, etc. Script Change helps you to address when troublesome elements come up in game or when issues no one expected arise.
 
@@ -47,16 +45,16 @@ Either privately, or as a group: **Ask what everyone is okay with, and what they
 
 ## Getting Started
 
-###### (Picks, Squicks, and Icks!)
+### (Picks, Squicks, and Icks!)
 
 #### 1. Choose a 'rating' for your game content
 
-Imagine your game is a play, film, or video game and ask yourself _"what content warnings and age ratings would be given to audiences before they bought in?"_ You can use whatever official rating system is widely used in your country, or use one of the following basic **EATS** letter ratings:
+Imagine your game is a play, film, or video game and ask yourself _"what content warnings and age ratings would be given to audiences before they bought in?"_ You can use whatever official rating system is widely used in your country, or use one of the following basic **SATE** letter ratings:
 
--   **E** for Everyone and anyone
--   **A** for Adult fiction or horror
--   **T** for Teen / Young-Adult fiction
--   **S** for Sexually explicit / erotic content
+-   **S** for Sexually explicit or erotic content.
+-   **A** for Adult fiction or horror, or mature content.
+-   **T** for Teen / Young-Adult fiction.
+-   **E** for Everyone and anyone.
 
 Write your game's rating at the top of the ['Faciliator's Notes' sheet](#charsheet), along with any potential content warnings that _you think are likely to come up_ based on your [[Pitching and Planning|game's pitch]].
 
@@ -69,7 +67,7 @@ This may be things that a player wants to _categorically avoid_, or at least kee
 No one is required to contribute, but everyone should feel welcome to note subjects down. _Be considerate_, because people are often just trying to make sure everyone has fun — and sometimes customizing content is what makes that happen!
 
 > ### Ie.
-> Add the content to the list on the Faciliator's Notes with your preferred tool use (that is, which of the script change tools should be used if this topic comes up in play?). There's no need to record the names of the concerned players alongside these subjects; _they apply to everyone at the table_, not just contributors.
+> Add the content to the list on the Faciliator's Notes with your preferred tool use (that is, which of the script change tools should be used if this topic comes up in play?). There's no need to record the names of the concerned players alongside these subjects — _they apply to everyone at the table_, not just contributors.
 >
 > -   Content that you absolutely will not abide being in the game should go under the '**Icks**' heading — which constitute any triggering, traumatizing, scary, or distressing topics. _Hard lines,_ or things you say 'no' to.
 > -   Content that you want to avoid, but not have removed from the game entirely, should be written under the '**Squicks**' heading — meaning, gross things that make you mildly uncomfortable. _Soft lines_, or 'veils'.
@@ -81,7 +79,7 @@ These are the '**Picks**' of the game — things that you think are fun, excitin
 Be willing to negotiate, be respectful, and make sure to consider all of the picks, squicks, and icks in this discussion and during the game. When players use Script Change, if a new topic comes up as an issue, it should be added to the Faciliator's Notes. Therefore, try to make photocopies of these notes for everyone (or share the digital file) after the session, so that everyone can stay up to date.
 
 > ### Nb.
-> If one player's 'picks' conflict with another's 'squicks' or 'icks', then err on the side caution and _put them on the list that prevents them from doing the most harm;_ or come to some agreement with that player about how to signal when a moment like that may come up.
+> If one player's 'picks' conflict with another's 'squicks' or 'icks', then err on the side caution and _put them on the list that prevents them from doing the most harm_. Otherwise, you must come to some agreement with that player about how to signal when a moment like that may come up.
 >
 > If no agreement can be reached, then it may be that this game pitch — or in the worst case, that this whole gaming group — is just not for you. That's unfortunate, _but it does happen_. Try to handle it respectfully, but bow out quickly if you need to.
 
@@ -89,9 +87,9 @@ Be willing to negotiate, be respectful, and make sure to consider all of the pic
 
 **You don't have to explain everything, but try to tell your Peers what's bothering you about a specific piece of content when it comes up during the session.**
 
-This prevents it from happening again and makes things clearer fro everyone. That said, If you are _truly uncomfortable_ detailing the issue, that’s okay too; just identify the specific item that is an issue and add it to the Faciliator's Notes so it doesn't come up again.
+This prevents it from happening again and makes things clearer fro everyone. That said, If you are _truly uncomfortable_ detailing the issue, that’s okay too — just identify the specific item that is an issue and add it to the Faciliator's Notes so it doesn't come up again.
 
-_If you need to talk about it, you can ask for a pause to explain what’s going on, and the other players should listen._ It is also good to discuss any topics that came up during a wrap up or debriefing. Remember to respect each other _as friends_, first, in how much you ask of one another; keep in mind that they're probably not professional therapists and should not be treated as such. Just try to be generous and forgiving to each other, when mistakes are made, and understanding of each others' limitations.
+_If you need to talk about it, you can ask for a pause to explain what’s going on, and the other players should listen._ It is also good to discuss any topics that came up during a wrap up or debriefing. Remember to respect each other _as friends_, first, in how much you ask of one another. Just try to be generous and forgiving to each other, when mistakes are made, and understanding of each other's limitations.
 
 During this discussion, if you plan to share anything personal that someone else at the table has listed as a squick or an ick then make sure to warn them so they can make themselves safe first. If they need to excuse themselves so you can address the topic, then let them.
 
@@ -102,7 +100,6 @@ Again, be understanding, and _imagine people complexly_.
 Script change is both an in-game tool and a _social contract_. You should all agree to what's been laid out in the Faciliator's Notes before playing, as well as agreeing to the following terms simultaneously:
 
 -   **Violating this agreement should be treated like not following the rules in any other game.** Anyone — _including the FC_ — who flagrantly or repeatedly brings up content that's been flagged as inappropriate should be **given a warning by a fellow Peer**. If that warning is ignored, then you may ask them to leave the game; or in the worst cases, _ask them to leave the friend group entirely_.
-
 -   **Speak plainly about your concerns when you have them.** No one should ever feel pressured to do something that they feel violates the contract. The rules here support your right to feel safe and comfortable while playing the game.
 
 _If someone refuses to agree to these terms, then you are perfectly within your rights to refuse to let them play at your table._
@@ -122,7 +119,7 @@ Using the tools is as simple as saying the name of the tool you want to use, or 
 
 Pauses are used when things get a little too intense and that you need a breather, or that you want to discuss something out of game before continuing. Discussing the content isn't required, but can be useful. During a pause, you can then use any other script change tool, such as fast-forward, rewind, or frame-by-frame, or you can use it as a break in the action before resuming with no changes or omissions.
 
-#question Pause should also be used to call for 'bio breaks' during long sessions. That is, using the restroom, staying hydrated, getting snacks, and so on.
+❓ Pause should also be used to call for 'bio breaks' during long sessions. That is, using the restroom, staying hydrated, getting snacks, and so on.
 
 ### ⏩ Fast-forward
 
@@ -134,13 +131,13 @@ Another technique is to use this to _skip to the next most interesting point in 
 
 ### ⏪ Rewind
 
-If something has already been said or done that you take issue with, and you weren't able to pause in time, then you can ask to rewind to a specific point, and begin playing again from that point; or just discuss what to edit out while the game is paused.
+If something has already been said or done that you take issue with, and you weren't able to pause in time, then you can ask to rewind to a specific point, and begin playing again from that point. You can also just discuss what to edit out while the game is paused.
 
 Try to be clear what content is the issue and be willing to work together to see where the story should go from there.
 
-Generally, this should be used for smaller adjustments, addressing specific issues that can be fixed through brief discussion, or 'retconning', and making different decisions in a scene; _but it can also be used to take back rolls if necessary._
+Generally, this should be used for smaller adjustments, addressing specific issues that can be fixed through brief discussion, or 'retconning', and making different decisions in a scene. _It can also be used to take back rolls if necessary._
 
-#important **We respect the dice as oracles of fate, but they do not own our destines**.
+❗ **We respect the dice as oracles of fate, but they do not own our destines**.
 
 ### ⏯️ Frame-by-Frame
 
@@ -162,7 +159,7 @@ When the rewind tool is used, it's usually easiest to to say that what just happ
 
 Sometimes players even just ask for a perspective change for the original scene, or for something to be framed in a way that is safer for them. _Discuss it with your Peers every time_, because how you feel about handling it can change according to the specific situation.
 
-However, final rulings do reside with the person who first called for the tool to be used; in some cases, they may want to just say it that it "didn't happen" and there’s no narrative representation. (If this is what is safest for them, we must respect that). Similarly, we should respect players in different scenarios asking to have it be represented as a part of the fiction, again, if they are the one who called the tool.
+However, final rulings do reside with the person who first called for the tool to be used. In some cases, they may want to just say it that it "didn't happen" and there’s no narrative representation. (If this is what is safest for them, we must respect that). Similarly, we should respect players in different scenarios asking to have it be represented as a part of the fiction, again, if they are the one who called the tool.
 
 **It's important to note that the experiences still happened in real life** — whether it was triggering content or just simply _off tone_ — it doesn't completely disappear for the players at the table. _Do not erase people’s experiences_. Script Change is a meta-toolbox, and we must acknowledge reality regardless of the fiction, even if that's difficult to do sometimes.
 
@@ -189,7 +186,9 @@ The following tools are optional because not everyone will find them as useful a
 
 ### Hand Signals
 
-The FC or another Peer can use the script change tools on your behalf, if they notice that you're too nervous to use them yourself and something is happening in-game that's clearly making you uncomfortable. You can privately message them of course, but people often put themselves on 'do not disturb' mode when they play games (and some tables have a strict 'no phones' policy); so **an alternative is to use hand signals**:
+The FC or another Peer can use the script change tools on your behalf, if they notice that you're too nervous to use them yourself and something is happening in-game that's clearly making you uncomfortable. You can privately message them of course, but people often put themselves on 'do not disturb' mode when they play games (and some tables have a strict 'no phones' policy).
+
+**Thus, an alternative is to use hand signals**:
 
 -   👍👍 **Two thumbs up:** All's well, please continue!
 -   👍 **Thumbs up:** I'm good, but may need a pause soon.
@@ -208,13 +207,13 @@ With an instant replay, right after a scene happens, you can call for an instant
 
 Instant replays are particularly useful when you're doing intense social scenes or complicated actions, or if you've just has a longer scene that might have left some people feeling lost. Or it can be used to just see a moment of action again from a different angle.
 
-#question You can also use an instant replay _at the beginning of a session_ to quickly recap the previous session and get everyone back up to speed.
+❓ You can also use an instant replay _at the beginning of a session_ to quickly recap the previous session and get everyone back up to speed.
 
 ### 🎦 Highlight Reel
 
 A highlight reel is usually used at the end of the session, or during a break. This is a strictly positive thing, and the intention is to allow players to point out things they liked about the session or the campaign so far.
 
-Each player should have the opportunity to mention a specific scene or interaction they liked in the session, including the FC. Since it's inevitable that players might have negative or constructive feedback for the game, we recommend that you [[Taking notes|make a note about it]] during the session (or on a break) and then bring it up during [[#⏏️ Wrap Up|wrap up]] or in a [[Development Sessions|dev session]]; especially for emotionally intense games.
+Each player should have the opportunity to mention a specific scene or interaction they liked in the session, including the FC. Since it's inevitable that players might have negative or constructive feedback for the game, we recommend that you [[Taking notes|make a note about it]] during the session (or on a break) and then bring it up during [[#⏏️ Wrap Up|wrap up]] or in a [[Development Sessions|dev session]] — especially for emotionally intense games.
 
 ![[Wrap Up]]
 

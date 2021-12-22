@@ -2,8 +2,6 @@
 alias:
   - shock
 tags:
-  - CC-BY
-  - core
   - stress
 author: Seraaron
 license: CC BY 4.0
@@ -17,7 +15,7 @@ Being _shaken_ is the [[Stress|stress]] of [[Finesse]]. It is a combination of f
 
 ##### Remedies for Shock
 
-**Shock must be remedied by indulging your personal vices, or by crying, or both**: _whatever calms your nerves and blows off steam_, basically.
+**Shock must be remedied by indulging your personal vices, or by crying, or both**: _Whatever calms your nerves and blows off steam_, basically.
 
 > ### Eg.
-> Traditionally, 'vices' includes things like theft, violence, or boasting — the [seven deadly sins](https://en.wikipedia.org/wiki/Seven_deadly_sins) and all that — but it could just as easily mean substance abuse, regressing to old habits, entering a bout of melancholy, or causing personal sacrilege.
+> Traditionally, 'vices' includes things like theft, violence, or boasting — the [seven deadly sins](https://en.wikipedia.org/wiki/Seven_deadly_sins) and all that — but it could just as easily mean substance abuse, regressing to old Habits, entering a bout of melancholy, or causing personal sacrilege.

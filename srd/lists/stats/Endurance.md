@@ -2,9 +2,7 @@
 alias:
   - End
 tags:
-  - CC-BY
-  - stats
-  - core
+  - stat
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-22+2100
@@ -28,4 +26,4 @@ Your Endurance (or '**End**' for short) represents your _physical fortitude_, co
 > -   **Stomach:** _Eat or drink something intoxicating, poisonous, or rancid, and hold it down without ill-effect._
 > -   **Wrestle / Bind:** _Physically contend with someone or something for an extended period, using every muscle to gain an inch, but **without the intent to kill**._
 
-#question [[Fatigue]] is the [[Stress|stress]] of Endurance.
+❓ [[Fatigue]] is the [[Stress|stress]] of Endurance.

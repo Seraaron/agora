@@ -2,7 +2,7 @@
 alias:
   - harm
 tags:
-  - CC-BY
+
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-10-28+1500
@@ -22,13 +22,12 @@ _These attacks are intended to cause harm, draw blood, and cause panic. They cou
 
 |          Roll | Difficulty = [Target's Poise]                                                                                     |
 | ------------: | ----------------------------------------------------------------------------------------------------------------- |
-|  _**Melee:**_ | **[[Brawler]]** ∥ **[[Martialist]]** ∥ **[[Warrior]]**                                                            |
+|  _**Melee:**_ | **[[Brawler]]** ¤ **[[Martialist]]** ¤ **[[Warrior]]**                                                            |
 |        **+1** | Your weapon is #heavy?                                                                                            |
 |        **+1** | You have a **larger physical size** than your opponent, or you have a larger size while mounted?                      |
 |        **+1** | You're using a weapon with #long reach in an _open space_, or using a #short reach weapon in an _enclosed space_? |
 |       **+MD** | + [weapon / mount dice] + [aid / other bonuses]                                                                   |
-|               |                                                                                                                   |
-| _**Ranged:**_ | **[[Archer]]** ∥ **[[Gunner]]** ∥ **[[Hunter]]**                                                                  |
+| _**Ranged:**_ | **[[Archer]]** ¤ **[[Gunner]]** ¤ **[[Hunter]]**                                                                  |
 |        **+1** | Your weapon is #heavy?                                                                                            |
 |        **+1** | You are mounted, flying, or riding a vehicle (_and your opponent isn't_)?                                         |
 |        **+1** | You are using a #short ranged weapon from _nearby_, or using a #long ranged weapon from _far away_?               |
@@ -41,5 +40,3 @@ _These attacks are intended to cause harm, draw blood, and cause panic. They cou
 |              |    _Defensive_    | Immediately inflict ⬥ [[Fatigue]] (_End_) stress, and...                                                                           |
 |              |         —         | ..._at the end of the round_ deal any **[margin of success]** as Disposition damage against them.                                      |
 | **Failure:** |       _Any_       | You and your opponent _both_ take **[your successes]** as Disposition damage _at the end of the round_, _and_ **they may exploit you** |
-
-#asterisk If your weapon or ammo has multiple applicable tags then choose the consequence you like.

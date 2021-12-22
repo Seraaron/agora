@@ -2,9 +2,8 @@
 alias:
   - let it ride
   - let the dice fall where they may
+  - let the dice rest where they fell
 tags:
-  - CC-BY
-  - tools
   - advice
   - consent
 author: Seraaron
@@ -14,11 +13,11 @@ date updated: 2021-11-05 16:39
 
 ---
 
-### Let the dice fall where they may!
+## Let the dice fall where they may!
 
 We use this phrase, or sometimes just say "let it ride" for short, to pull _triple-duty_ in [[Agora]], referring to three philosophies of play at once:
 
--   That you should **respect your dice as _oracles of our character's fates_**; and thus we should roll _openly and without fear_, and we shouldn't try to 'fudge' or manipulate our dice.
+-   That you should **respect your dice as _oracles of our character's fates_**. Therefore, we should roll _openly and without fear_, and we shouldn't try to 'fudge' or manipulate our dice.
 -   That **you shouldn't roll more than once against any one obstacle**, and _you should not roll again against that same obstacle until the initial consequences are dealt with_, or until the situation changes.
 -   And that **if something is [[When to roll dice|worth rolling for]], then the potential outcomes of failure are just as important as the potential outcomes of success**.
 

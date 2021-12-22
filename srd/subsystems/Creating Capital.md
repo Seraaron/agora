@@ -2,7 +2,7 @@
 alias:
   - creating capital
 tags:
-  - CC-BY
+
   - gear
 author: Seraaron
 license: CC BY 4.0

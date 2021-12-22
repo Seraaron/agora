@@ -2,7 +2,7 @@
 alias:
   - rout
 tags:
-  - CC-BY
+
   - move
   - counteractive
 author: Seraaron
@@ -17,7 +17,7 @@ _Rout is for breaking formations and forcing a retreat._
 
 | Roll    | Difficulty = 2 + [Target's Poise]                                                                                         |
 | :------ | ------------------------------------------------------------------------------------------------------------------------- |
-|         | **[[Warrior]]** ∥ **[[Skirmisher]]**                                                                                      |
+|         | **[[Warrior]]** ¤ **[[Skirmisher]]**                                                                                      |
 | **+1**  | You have a **smaller physical size** than your opponent, you're stealthed, or your target is mounted and larger than you? |
 | **+1**  | Your weapon is #light?                                                                                                    |
 | **+1**  | Your opponent is in counteractive stance?                                                                                 |

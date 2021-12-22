@@ -1,12 +1,12 @@
 ---
 alias:
-  - martial artist
   - martial arts
-  - cultivator
-  - wuxia
+  - Martial Artist
+  - Cultivator
+  - Wuxia
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-23 15:12
@@ -23,7 +23,7 @@ May be used during [[Martial Combat|combat]] to make melee attacks, using the ta
 
 Martial arts may be culturally specific, so this job will mean different things to different people. Some martial arts use weapons, others use _the body as a weapon_. You may [[Peers|decide as a group]] how a Martialist differs from a [[Warrior]] or a [[Brawler]], in your setting, for example, aside from _the difference in abilities_ used.
 
-#important **Possibly Requires:** #martialist  weapons
+¶ **Possibly Requires:** #martialist  weapons
 
 _**Suggested Specialties:** Athletics, [martial arts], Patience, Quick Reflexes, [weapons]..._
 

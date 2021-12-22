@@ -2,7 +2,7 @@
 alias:
   - treat
 tags:
-  - CC-BY
+
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-10-28+1500
@@ -33,6 +33,6 @@ _Conflicts are fraught with panic and danger, and sometimes even the best among 
 | **Success:** | Target immediately **removes a point of [[Stress]]** (◆ → ◇) in the specified ability (until the end of the conflict), may clear all other status effects too, _and_ they take a bonus die to their next move roll |
 | **Failure:** | _At the end of the round_ target **removes a point of [[Stress]]** in the specified ability (until the end of the conflict)                                                                                        |
 
-#important  If you accumulate 12 total stress, or if you are treated more than eleven times in a single conflict, _you will fall unconscious_ and can be easily pacified by an opponent.
+❗  If you accumulate 12 total stress, or if you are treated more than eleven times in a single conflict, _you will fall unconscious_ and can be easily pacified by an opponent.
 
-#question This is effectively the same as the process of '[[Stress#Pushing Through It|Pushing Through It]]' except using Medic instead of Nurse.
+❓ This is effectively the same as the process of '[[Stress#Pushing Through It|Pushing Through It]]' except using Medic instead of Nurse.

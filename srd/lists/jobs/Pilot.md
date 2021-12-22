@@ -1,13 +1,14 @@
 ---
 alias:
   - piloting
-  - aviator
-  - helmsman
-  - bosun
-  - boatswain
+  - Aviator
+  - Helmsman
+  - Bosun
+  - Boatswain
+  - Ace
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0100
@@ -24,7 +25,7 @@ Must be used to reposition in [[Martial Combat|combat]] while flying, and may be
 
 May also include dogfighting while flying, using [[Wits]], if the vessel has built-in gun controls from the cockpit.
 
-#important **Requires:** A vessel or vehicle
+¶ **Requires:** A vessel or vehicle
 
 _**Suggested Specialties:** Confidence, Navigation, Quick Reflexes, [vehicle], [vessel]..._
 

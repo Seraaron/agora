@@ -1,14 +1,14 @@
 ---
 alias:
-  - researcher
-  - theoretical scientist
-  - cartographer
-  - mathematician
-  - statistician
-  - scientist
+  - Researcher
+  - Theoretical Scientist
+  - Cartographer
+  - Mathematician
+  - Statistician
+  - Scientist
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000
@@ -23,7 +23,7 @@ Researching a topic, and digging through libraries, reading books, and writing r
 
 May even include computer programming, using [[Wits]], if your setting allows.
 
-#important **Requires:** A library, computer, or private book collection, and #academic-tools
+¶ **Requires:** A library, computer, or private book collection, and #academic-tools
 
 _**Suggested Specialties:** Appraisal, [history], Literacy, [lore], Numeracy, Patience, [science]..._
 

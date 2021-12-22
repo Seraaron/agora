@@ -3,14 +3,14 @@ alias:
   - carry weight
   - carry limit
   - encumbrance
-  - encumbrance cost
+  - carry cost
 tags:
-  - CC-BY
-  - subsystems
+  - subsystem
+  - optional
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-09 22:43
-date updated: 2021-11-29 13:00
+date updated: 2021-12-09 17:11
 ---
 
 ### Carry Weight
@@ -25,14 +25,14 @@ That said, not everyone knows what it's like to wield real weapons, or wear armo
 
 Your base 'carry limit' is 8 minus your Endurance [[Rank|rank]], **plus a bonus** from your [[Circumstances#Size|size]]:
 
-| Size   | Carry Limit      | _Approx. Comfortable Carry Weight_ |
-| ------ | ---------------- | ---------------------------------- |
-| Small  | 8 − END **+ 4**  | _~30-40 lbs (10-20 kg)_            |
-| Modest | 8 − END **+ 8**  | _~90-140 lbs (40-60 kg)_           |
+| Size   |    Carry Limit   | _Approx. Comfortable Carry Weight_ |
+| ------ | :--------------: | :--------------------------------- |
+| Small  |  8 − END **+ 4** | _~30-40 lbs (10-20 kg)_            |
+| Modest |  8 − END **+ 8** | _~90-140 lbs (40-60 kg)_           |
 | Ample  | 8 − END **+ 14** | _~170-230 lbs (80-100 kg)_         |
 | Large  | 8 − END **+ 22** | _~265-360 lbs (120-160 kg)_        |
 
-#question Giving a total carry limit of 12-14 for most adult human characters, for example.
+❓ This gives a total carry limit of 12-14 for most adult human characters, for example.
 
 #### Carry Costs
 

@@ -12,37 +12,53 @@ Right now, the only thing availiable is the published SRD or 'system reference d
 
 ## Changelogs
 
-### Alpha (Version 0)
+### Alpha Versions
 
-#### 5 Dec 2021
-- Changes some tags and metadata in all articles
-- Emedded job sybsystems into their own articles
-- Updated social discourse and martial combat based on playtesting and feedback:
-  - Presence calculation is slightly simplified
-  - Composure renamed to Disposition (and this name is also shared with martial combat now too, so Stamina is also renamed to Disposition)
-  - Add Health to Disposition roll, so you're less screwed if you don't have one of the two jobs.
-  - Momentum gains +1 at 5, and every 10 momentum thereafter (though the grid graphic hasn't been updated yet), and new momentum grid only goes up to 50.
-  - Tones grant flat momentum each round, and you can no longer change tone mid round except via an exploit.
-  - Speechlessness doesn't force you to skip a turn anymore, but you're still kinda incentivized to do so, as it instead drops your Presence to 0 until the end of the round you next take a turn on.
-  - Turns taken on tied disposition now resolve simultanously.
-  - You can't take the same move twice in a row (so no more double question or double dismiss)
-  - Exploits have been reworded, so they're from your perspective not the target's.
-  - Detract has been renamed Chide, and Dismiss has been renamed Conclude
-  - Some moves now give bonus dice depending on what tone your opponent is currently in.
-  - You can now conclude from any tone, just the type of conclusion changes.
-  - Similar changes for martial combat.
+#### 22 Dec 2021 (v0.4)
+- Added gambits list
+- Added cultures list
+- Added adventuring professions list
+- Finished gear and tags list (appart from vehicles, vessels, and animals)
+- Changed opposed tasks system: Now uses versus pools separated into offense and defense
+- Slight tweaks to spealties and conditions list
+- Added pilcrow sign to job description to indicate required tools
+- Added recovery times and treatment difficulties to different wounds
+- Improved checks vs tasks explanation article
+- Updated metadata and tags in almost all articles (again)
+- Minor changes to help, vinpcs, fact checks, and kismet rules based on alpha playtesting feedback 
 
-#### 28 Nov 2021
-  - Updated job descriptions and added specific factors.
-  - Also included some small subsystems like alchemy, crafting, and building.
-  - Magic jobs still need finishing.
-  - Other tweaks and fixes.
 
-#### 17 Nov 2021
-- Added 'Social Discourse': A modified version of the combat rules that introduce rhetorical theory.
-- Updated martial combat (minor tweaks).
+#### 5 Dec 2021 (v0.3.2)
+- Updated metadata and tags on all articles
+- Embedded job subsystems into their own articles to make searching easier
+- A few weapons updates
+- Updated social and martial combat systems based on playtesting and feedback:
+    - Presence calculation is slightly simplified
+    - Composure renamed to Disposition (and this name is also shared with martial combat now too, so Stamina will also be renamed to  Disposition)
+    - Add Health to Disposition roll, so you're less screwed if you don't have one of the two jobs.
+    - Momentum gains +1 at 5, and every 10 momentum thereafter (though the grid graphic hasn't been updated yet).
+    - Tones grant flat momentum each round, and you can no longer change tone mid round except via an exploit.
+    - Speechlessness doesn't force you to skip a turn anymore, but you're still kinda incentivized to do so, as it instead drops your Presence  to 0 until the end of the round you next take a turn on.
+    - Turns taken on tied disposition now resolve simultanously.
+    - You can't take the same move twice in a row (so no more double question or double dismiss)
+    - Exploits have been reworded, so they're from your perspective not the target's.
+    - Detract has been renamed Chide, and Dismiss has been renamed Conclude 
+    - Some moves now give bonus dice depending on what tone your opponent is currently in.
+    - You can now conclude from any tone, just the type of conclusion changes.
 
-#### 12 Nov 2021
+#### 28 Nov 2021 (v0.3.1)
+
+- Updated job descriptions and added specific factors.
+- Also included some small subsystems like alchemy, crafting, and building.
+- Magic jobs still need finishing.
+- Other tweaks and fixes.
+
+
+#### 17 Nov 2021 (v0.3)
+- Added 'Social Discourse' -- which is a modified version of the combat rules that introduce rhetorical theory.
+- Updated martial combat (minor tweaks)
+
+#### 12 Nov 2021 (v0.2)
 - Check difficulties changed to be graduated and failure forward (making them more variable, but also more predictable, since Tasks have ended up being more binary in their use).
 - You can now also KISS checks (instead of the weird auto-success mechanic I had before), and you can also add a single asset or piece of gear to a check.
 - A 'stressful' modifier can now be applied to rolls, which means you take stress damage if you fail (upping the stakes, but not the difficulty).
@@ -55,7 +71,7 @@ Right now, the only thing availiable is the published SRD or 'system reference d
 - Adjusted the combat rule and started writing social conflict system.
 - Starting to add 'next article' and 'previous article' links to the bottom of every page to hopefully make navigating the wiki in a linear order a little easier for those that want to read it like a book.
 
-#### 13 Oct 2021
+#### 13 Oct 2021 (v0.1)
 - Initial public release
 
 ---

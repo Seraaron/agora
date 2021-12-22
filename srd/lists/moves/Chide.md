@@ -2,7 +2,7 @@
 alias:
   - chide
 tags:
-  - CC-BY
+
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-11 23:21
@@ -17,7 +17,7 @@ _You attempt to undermine your opponent's points and positions and try to discre
 
 |    Roll | Difficulty = [Target's Presence]                                                                                                                                                                                      |
 | ------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|         | **[[Charmer]]** ∥ **[[Cipher]]** ∥ **[[Commander]]**                                                                                                                                                                  |
+|         | **[[Charmer]]** ¤ **[[Deceiver]]** ¤ **[[Commander]]**                                                                                                                                                                  |
 |  **+1** | Your comments were rude, inappropriate, obnoxious, or vulgar?                                                                                                                                                         |
 |  **+1** | You have **employed** an ethical or empathetic fallacy? (eg. _appeal to authority, emotion, dogma, or popularity, ad hominem attacks, moral equivalence, ultimatums, scare tactics, strawmen, slippery slopes, etc._) |
 |  **+1** | Your opponent is using a logical tone?                                                                                                                                                                                |

@@ -2,9 +2,8 @@
 alias:
   - alchemy
 tags:
-  - CC-BY
   - rules
-  - subsystems
+  - subsystem
   - magic
 author: Seraaron
 license: CC BY 4.0
@@ -41,7 +40,7 @@ Decide how much stuff you want to affect in the process, according to the total 
 |   **Tonne** |     +4     | _~ 2205 lbs / 1000 kg_      |
 |    **Keel** |     +5     | _~ 424 cwt / 21.54 tn_      |
 
-#question Don't forget to add any appropriate [[Generic Difficulty Factors|generic factors]] too.
+❓ Don't forget to add any appropriate [[Generic Difficulty Factors|generic factors]] too.
 
 ##### Time and Circles
 

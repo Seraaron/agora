@@ -2,8 +2,6 @@
 alias:
   - worry
 tags:
-  - CC-BY
-  - core
   - stress
 author: Seraaron
 license: CC BY 4.0

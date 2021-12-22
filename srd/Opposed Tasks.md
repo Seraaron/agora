@@ -1,71 +1,71 @@
 ---
 alias:
-  - Opposed tasks
-  - Opposing task
+  - Opposing Tasks
+  - Opposed Task
 tags:
-  - CC-BY
   - rules
   - rolls
   - optional
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-03+2300
-date updated: 2021-11-26 23:33
+date updated: 2021-12-18 16:58
 ---
 
 ### Opposed Tasks
 
-The [[Player Characters]] may sometimes find themselves at odds with one another — either by getting argumentative or by literally fighting, or competing in some other way — and will begin to take sides. At some point this will come to a head, and the [[Facilitator|FC]] should declare that a roll needs to happen to settle the matter.
+Characters may sometimes find themselves at odds with one another — either by getting argumentative or by literally fighting, or competing in some other way. _At some point this will come to a head_, and the [[Facilitator|FC]] should declare that a roll needs to happen to settle the matter.
 
-Assuming that the opposition is complex enough to warrant a [[Tasks|Task]] roll, and can't simply be resolved with a [[Checks#Versus Checks|Versus Check]], then you must decide if the Task is **[[#Symmetrical Opposition|symmetrically opposed]]** or **[[#Asymmetrical Opposition|asymmetrically opposed]]**.
+Assuming that the opposition is complex enough to warrant a [[Tasks|Task]] roll, and can't simply be resolved with a [[Versus Checks|Versus Check]], then you must form into sides during the [[Tasks#1 Set-up|set-up phase]] and each begin splitting your dice into two pools: [[#Offense and Defense]].
 
-##### Forming 'Sides'
+#### Forming Sides
 
-If two or more characters already agree or want to work together to achieve the same objective against the others, then one player should lead the roll and the rest should [[Helping|help]].
+If two or more characters already agree or want to work together to achieve the same objective against the others, then **these characters can pool all their dice together**, combining their job levels and asset dice and other bonuses, and allowing everyone on the same side to [[KISSing|KISS]] any dice, as per the [[Helping|help rules]].
 
-#### Symmetrical Opposition
+#### Offense and Defense
 
-This is where each side of the conflict has a roughly _equal but opposite_ agenda —where victory for one side means a total loss for all the others — a so-called '[zero-sum game](https://en.wikipedia.org/wiki/Zero-sum_game)'. Each party simultaneously takes actions to get what they want while also trying to prevent their opponents from doing the same.
+Once you've chosen what job to use for the conflict, gather up those level dice, add any assets, gear, or other bonuses, a then split the total pool into two smaller pools:
+
+- Your 'offensive' pool is rolled against _the opposing side's defensive pool_.
+- Your 'defensive' pool is rolled against _the opposing side's offensive pool_.
+
+**Asset dice should be added to the pool that makes the most sense**.
 
 > ### Eg.
 >
-> - Two characters are fighting and they each want to subdue or injure the other.
-> - A race to see who will finish first.
-> - Each side is trying to persuade a neutral third party of something with arguments for and against the other positions.
-
-Start by working out what the opposed [[Agenda|agendas]] are, and which [[Generic Difficulty Factors|difficulty factors]] apply to each side. _The set-up and rolling phases are largely the same as a normal Task_, except that you go through it with all rolling parties at once. Each side may have different side objectives but they should all have the same main objective.
-
-#important When you get to [[KISSing]] be careful to **declare all KISSes on all sides _before re-rolling_**, so that no-one gains special knowledge about the other's fate before committing to a KISS.
-
-Finally, for the outcome phase: **The side with the most successes _who has also overcome their difficulty factors_ is declared the winner of the Task**. If no one overcomes the difficulty then no one wins, and you may need to progress to a different set of jobs.
-
-##### Breaking Ties: Win–Win or Lose–Lose?
-
-If two or more sides have an equal number of successes, then _the side with the fewest difficulty factors wins_.
-
-If these are _also_ equally matched then you must simply _decide as [[Peers]] what kind of outcome makes the most sense:_ Either the tied opponents somehow all get what they want, at the expense of each other; or no one really gets what they wanted — a compromise is found — and the opportunity to try again is removed.
-
-> ### Eg. **(cont.)**
+> For a violent conflict, weapons dice should add to the offensive pool, armor and helms should add to the defensive pool, and shields or tools can add to either pool. (Violent oppositions are always [[Stressful Rolls|stressful]]).
 >
-> - The two characters fighting both subdue and injure each other at the same time.
-> - The racing characters finish simultaneously, and are awarded a joint prize.
-> - The third party in the argument decides to weigh each position equally and find the middle ground.
+> For a rhetorical conflict, appropriate influence and prestige dice should add to the offensive pool, factions and property can be added to the defensive pool, and reputations and capital can be added to either pool. (These bonuses are fairly context-dependent, so discuss what makes most sense with your [[Peers]]).
 
-#### Asymmetrical Opposition
+**The [[Facilitator|FC]] may also add bonus dice to both sides**, which should usually get added to the defensive pool, **instead of adding [[Generic Difficulty Factors|generic factors]]**.  This is because the dice being rolled against one another _function as the effective difficulty_.
 
-This is where one side wants something, and another side wants to stop them _but doesn't want to achieve anything for themselves in return_. **One party is an active aggressor, and the other is a passive defender**.
+❓ You can choose to put all the dice you can into one pool or the other, but this can make for a fairly asymmetric conflict. _This can be a tactical decision or a narrative one_.
 
-> ### Eg.
-> Two characters are fighting, but one is trying to hurt the other and the other is just trying to dodge and parry. Or one character is trying to persuade the other of something, but the other isn't trying to persuade them of the opposite case.
+#### Resolution
 
-##### Defender's Advantage
+**Roll both pools at the same time** — holding one pool in each hand, using different colored dice, if possible — and count the successes in each separately. **Your usual objective here is to overcome your opponent's defense, and to defend yourself from their offense**. _Your opponent's objectives are probably the same_.
 
-In this instance, the opposed Task works almost identically to a normal Task, except **the defending side's players takes the helm from the FC to decide the difficulty factors and the consequences for the aggressor**.
+When you come to [[KISSing|KISS]] your dice, be sure to announce which dice you're KISSing and which pool they belong to, and put them to one side while your opponent announced their KISSes too. **Once all the dice have been chosen  to be KISSed _then_ you may re-roll them**. This ensures that no one side has advanced knowledge over the fate of the other.
 
-_They can even spend [[Lots]] to count as additional difficulty factors against the other side_ (which is only expended if the opponent accepts the terms and rolls their dice).
+**The side with the _most successes_ in each opposing pool wins that half of the conflict.** Thus, there are 4 possible outcomes of this kind roll, when considering each half:
 
-The purpose of this is to **let the defending player set the conditions under which they would accept defeat**, and committing to the result.
+- **Your offense _beat_ their defense AND your defense _beat_ their offense.** This is a _total win_ for your side. You have lost no ground, and gained everything you wanted. The opposing side must concede. They are at your mercy.
+- **Your offense _beat_ their defense BUT your defense  _lost to_ their offense.** You were _partially successful_. You are hurting, but so are they. You may have gained some ground, but it came at a cost. Something must budge. Either come to a compromise or else roll again with a different job.
+- **Your offense _lost to_ their defense BUT your defense _beat_ their offense.** You _both failed_ to get what you really wanted. Neither side is particularly hurt. No ground is gained or lost. You are at an impasse. You must either agree to disagree and walk away or else roll again with a different job.
+- **Your offense _lost to_ their defense AND your defense _lost to_ their offense.** This is a _total loss_ for your side. You have lost ground, and cannot gain any standing to push again. Your opponent declares victory. You are at their mercy.
 
-#question This is basically another [[Script Change Tools|consent mechanic]]: Once the opposing side has heard the conditions of the Task, they may back down, and if they do then the game moves on without a roll. If they accept the challenge, then we know in advance that all parties will agree to the outcome of the dice rolls.
+If the roll was deemed to be [[Stressful Rolls|stressful]] and your defense lost against their offense then you will take [[Stress|stress]] regardless of whether your offense was successful or not.
+
+##### Breaking Ties: Defender's Advantage
+
+When one side's offensive successes are equal to the other side's defensive successes, or _vice versa_,  **the defensive side takes always precedence**.
+
+To justify this, consider it this way: **Each side's defensive successes are effectively acting as the difficulty factors for the opposing side's offensive roll**. Thus, in order for an offensive roll to succeed _you must also count a base factor from the offensive roll's original objective_.
+
+❗ **This means that in order to beat your opponent's defense you must actually get _one success more_ than their defensive roll.**
 
 ![[Murder Most Foul]]
+
+---
+
+- **Related Articles:** [[Understanding Conflicts]]

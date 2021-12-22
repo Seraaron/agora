@@ -4,7 +4,7 @@ alias:
   - shattered
   - ablative armor
 tags:
-  - CC-BY
+
   - extra
   - shield
   - martial
@@ -33,4 +33,4 @@ That is, **only a great shield can negate a killing blow from a great weapon**.
 
 Similarly, only magic shields can be shattered against magic attacks, and only bullet-proof shield can be shattered against firearm shots.
 
-#question Thus *if you're fighting a dual but don't want it to be deadly*, you can fight until the first shield is shattered (or the first to three) and then declare the victor.
+❓ Thus *if you're fighting a dual but don't want it to be deadly*, you can fight until the first shield is shattered (or the first to three) and then declare the victor.

@@ -1,6 +1,6 @@
 ---
 alias: [worldbuilding]
-tags: [CC-BY]
+tags: []
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-24+1100

@@ -2,7 +2,7 @@
 alias:
   - endorse
 tags:
-  - CC-BY
+
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-11 23:21
@@ -17,7 +17,7 @@ _You try to reinforce a previous point or bring forward new evidence that suppor
 
 |   Roll | Difficulty = 1 + [Twice the Current MD Value]                                                                                              |
 | -----: | ------------------------------------------------------------------------------------------------------------------------------------------ |
-|        | **[[Charmer]]** ∥ **[[Diplomat]]** ∥ **[[Steward]]**                                                                                       |
+|        | **[[Charmer]]** ¤ **[[Diplomat]]** ¤ **[[Steward]]**                                                                                       |
 | **+1** | You've put your name or reputation on the line with your endorsement, or used a phrase like “mark my words” or “you can quote me on this”? |
 | **+1** | This is your first use of Endorse this scene?                                                                                              |
 |  **+** | [reputation dice] + [aid / other bonuses]                                                                                                  |

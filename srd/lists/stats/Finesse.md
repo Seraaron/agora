@@ -2,9 +2,7 @@
 alias:
   - Fin
 tags:
-  - CC-BY
-  - stats
-  - core
+  - stat
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-22+2100
@@ -28,4 +26,4 @@ Your Finesse (or '**Fin**' for short) represents your _physical grace_, dexterit
 > -   **Sneak:** _Move slowly and stealthily or in a furtive manner past an obstacle or a potential observer._
 > -   **Unbind:** _Unfasten a knot or bond, or release yourself from physical restraint by twisting and writhing your whole body._
 
-#question [[Shock]] is the [[Stress|stress]] of Finesse.
+❓ [[Shock]] is the [[Stress|stress]] of Finesse.

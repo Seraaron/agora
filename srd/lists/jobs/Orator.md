@@ -1,13 +1,13 @@
 ---
 alias:
-  - actor
-  - lawyer
-  - politician
-  - spokesperson
-  - herald
+  - Actor
+  - Lawyer
+  - Politician
+  - Spokesperson
+  - Herald
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-25+0000

@@ -9,6 +9,9 @@
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    sodipodi:docname="momentumGrid.svg"
+   inkscape:export-filename="/home/iori/Documents/Agora Testing/srd/resources/momentumGrid_preview.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -27,13 +30,13 @@
      inkscape:guide-bbox="true"
      inkscape:lockguides="true"
      inkscape:zoom="1.11125"
-     inkscape:cx="399.55006"
-     inkscape:cy="571.42857"
-     inkscape:window-width="2560"
-     inkscape:window-height="1379"
-     inkscape:window-x="1920"
-     inkscape:window-y="32"
-     inkscape:window-maximized="1"
+     inkscape:cx="399.10011"
+     inkscape:cy="570.97863"
+     inkscape:window-width="1395"
+     inkscape:window-height="1082"
+     inkscape:window-x="2990"
+     inkscape:window-y="170"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer6">
     <sodipodi:guide
        position="200.0016,286.24762"
@@ -83,11 +86,13 @@
     <sodipodi:guide
        position="-41.004682,17.000294"
        orientation="0,-1"
-       id="guide4404" />
+       id="guide4404"
+       inkscape:locked="true" />
     <sodipodi:guide
        position="-2.2023809,271.58334"
        orientation="0,-1"
-       id="guide4442" />
+       id="guide4442"
+       inkscape:locked="true" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -3036,7 +3041,7 @@
        id="text97432"><tspan
          sodipodi:role="line"
          id="tspan97430"
-         style="stroke-width:0.264583"></tspan></text>
+         style="stroke-width:0.264583" /></text>
     <text
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.25;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime';stroke-width:0.264583"
@@ -3045,7 +3050,7 @@
        id="text98932"><tspan
          sodipodi:role="line"
          id="tspan98930"
-         style="stroke-width:0.264583"></tspan></text>
+         style="stroke-width:0.264583" /></text>
     <text
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.25;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime';stroke-width:0.264583"
@@ -3054,7 +3059,7 @@
        id="text100154"><tspan
          sodipodi:role="line"
          id="tspan100152"
-         style="stroke-width:0.264583"></tspan></text>
+         style="stroke-width:0.264583" /></text>
     <text
        xml:space="preserve"
        style="font-size:7.40833px;line-height:1.25;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime';fill:#9f363c;fill-opacity:1;stroke-width:0.264583"

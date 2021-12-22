@@ -1,7 +1,7 @@
 ---
 alias: []
 tags:
-  - CC-BY
+
   - resource
 author: Seraaron
 license: CC BY 4.0
@@ -137,7 +137,7 @@ date created: 2021-10-04 03:13
 
 ---
 
-### [[Features]]
+### [[Gambits]]
 
 - [ ] **[insert name]** _[insert effect]_
 - [x] **[insert name]** _[insert effect]_ (check box if used this session)

@@ -2,8 +2,8 @@
 alias:
   - grapple
 tags:
-  - CC-BY
   - move
+  - finishing
   - aggressive
   - counteractive
 author: Seraaron
@@ -19,7 +19,7 @@ _Describe the techniques you use as you prove your strength and try to force you
 
 |    Roll | Difficulty = 1 + [Target's Pois.] − (Mome. − [Target's Disp.])                                                                                                              |
 | ------: | ------------------------------------------------------------------------------------------------------------------------------------- |
-|         | **[[Brawler]]** ∥ **[[Hunter]]** ∥ **[[Martialist]]**                                                                                 |
+|         | **[[Brawler]]** ¤ **[[Hunter]]** ¤ **[[Martialist]]**                                                                                 |
 |  **+1** | (Melee only): You're physically wrestling your opponent to the ground, and you've thrown yourself prone for extra leverage and power? |
 |  **+1** | (Melee only): You have a larger physical size than your opponent?                                                                     |
 |  **+1** | Your opponent is in defensive stance?                                                                                                         |

@@ -3,7 +3,7 @@ alias:
   - session zero checklist
   - dev session checklist
 tags:
-  - CC-BY
+
   - advice
   - list
 author: Seraaron
@@ -82,7 +82,7 @@ date created: 2021-09-10+1700
     -   [[Principles|Writing Principles]]
     -   [[Agenda|Finding your agenda]]
     -   [[Abilities]] and [[Rank|rank]]
-    -   [[Checks vs. Tasks]]
+    -   [[Using Checks and Tasks]]
     -   [[Kismet]] and [[KISSing]]
     -   [[Subsystems Index|Subsystems overview]]
 

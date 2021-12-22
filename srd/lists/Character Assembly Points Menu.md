@@ -3,7 +3,7 @@ alias:
   - character assembly points cost list
   - caps menu
 tags:
-  - CC-BY
+
   - list
 author: Seraaron
 license: CC BY 4.0
@@ -22,7 +22,7 @@ date updated: 2021-10-15 23:56
 -   All job levels cost **2 caps** each.
 -   Five is the maximum job level at character creation.
 
-#question Ordinary flatpacks usually give about 20 levels to distribute among a list of pre-set options (which would cost about 40 caps to match), higher tier flatpacks may give more job levels.
+❓ Ordinary flatpacks usually give about 20 levels to distribute among a list of pre-set options (which would cost about 40 caps to match), higher tier flatpacks may give more job levels.
 
 ##### Specialty Costs:
 
@@ -31,9 +31,9 @@ date updated: 2021-10-15 23:56
 -   After that, each new specialty costs a number of caps equal to the number of specialties you already have.
     -   So getting your second specialty costs **1 cap**, the third costs **2 caps**, fourth costs **3 caps**, and so on.
 
-#question That's quite a hard cumulative calculation to do in your head, so here's a handy table for reference:
+That's quite a hard cumulative calculation to do in your head, so here's a handy table for if you know exactly how many specialties you want to take:
 
-| № of Specialties | Total Cost |
+| Total № of Specialties | Total Cost |
 | :--------------: | :--------: |
 |         1        |    free    |
 |         2        |    1 cap   |
@@ -48,19 +48,18 @@ date updated: 2021-10-15 23:56
 |        11        |   55 caps  |
 |        12        |   66 caps  |
 
-#question Ordinary flatpacks usually give about five or six specialties (which would cost 10 or 15 caps to match), higher tier flatpacks may give more specialties.
+❓ Ordinary flatpacks usually give about five or six specialties (which would cost 10 or 15 caps to match), higher tier flatpacks may give more specialties.
 
 ##### Assets & Gear Costs:
 
 -   [[Assets and Gear#Capital Assets|Capital asset]] dice cost **4 caps** per die.
-    -   See the **[[Assets List]]**, for guidance.
+    -   See the **[[Asset Examples List]]**, for guidance.
 -   [[Assets and Gear#Prestigious Assets|Prestigious asset]] dice cost **1 cap** for the first die, **2 caps** for the second die, **3 caps** for the third, and so on (similar to specialties, [[#Specialty Costs|above]]).
     -   See the **[[Prestigious Asset Examples List]]**, for guidance.
 -   [[Assets and Gear#Gear|Gear]] in the **[[Gear List]]** each have their own costs.
     -   Generally, the more dice and [[Tags List|tags]] they have the more expensive they get.
-    -   #open-ended  items are especially costly.
 
-#question It's difficult to compare to flatpacks here, because they are so variable.
+❓ It's difficult to compare to flatpacks here, because they are so variable.
 
 ##### Condition Costs:
 
@@ -69,24 +68,24 @@ date updated: 2021-10-15 23:56
 -   Each additional condition beyond three costs **1 cap** each.
     -   Up to a maximum of six.
 
-#question This is the same as with flatpacks, though some let you choose more than three. Still, conditions are always optional; you don't have to choose any if you don't want to.
+❓ This is the same as with flatpacks, though some let you choose more than three. Still, conditions are always optional — you don't have to choose any if you don't want to.
 
 ##### Kith & Kin Costs:
 
 -   You may take up three [[VINPCs|kith or kin]] NPCs for _free_.
 -   This limit cannot be increased without the FC's permission.
 
-#question This is the same as with flatpacks.
+❓ This is the same as with flatpacks.
 
 ##### Gambit Costs:
 
--   Use the **[[Gambits List]]** to choose your [[Features|gambits]], if any.
+-   Use the **[[Gambits List]]** to choose your [[Gambits|gambits]], if any.
     -   Gambits are locked off in tiers.
     -   You cannot take a gambit of a higher tier than your character.
 -   Your first gambit of the same tier as your character costs **6 caps**.
 -   Your first gambit of a lower tier than your character costs  **3 caps**.
 -   Each additional gambit costs **5 caps**, regardless of tier.
 
-#question Most ordinary flatpacks either don't offer any Gambits, or will only let you choose one from a small selection; and even the higher tier flatpacks only give you a few.
+❓ Most ordinary flatpacks either don't offer any Gambits, or will only let you choose one from a small selection — and even the higher tier flatpacks only give you a few.
 
-#important The only other way to obtain a gambit then, is to make one your [[Exclusive Features]], with your [[Facilitator|FC's]] permission.
+❗ The only other way to obtain a gambit then, is to make one your [[Exclusive Features]], with your [[Facilitator|FC's]] permission.

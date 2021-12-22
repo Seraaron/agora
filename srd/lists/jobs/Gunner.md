@@ -1,15 +1,15 @@
 ---
 alias:
   - gunnery
-  - marksman
-  - musketeer
-  - sharpshooter
-  - artillerist
-  - fusilier
-  - gunslinger
+  - Marksman
+  - Musketeer
+  - Sharpshooter
+  - Artillerist
+  - Fusilier
+  - Gunslinger
 tags:
-  - CC-BY
-  - jobs
+
+  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-24 15:02
@@ -24,10 +24,12 @@ Shooting and maintaining guns, such as muskets, rifles, shotguns, and pistols. M
 
 Also includes operating heavier artillery and seige weapons that use heavy munitions, such as catapults, balista, cannons, mortars, turrets, tanks, gunboats, or drones, if they’re appropriate for your setting.
 
-#important **Requires:** #firearm or #war-machine weapons
+¶ **Requires:** #firearm or #war-machine weapons
 
 _**Suggested Specialties:** Artillery / Gunnery [weapons], Hauling, Tactics, Observation..._
 
-**Note:** This job is usually replaced with [[Archer]] if playing in a more antiquated setting.
-
 > ![[Using Guns]]
+>
+> ![[Ammo Quantities]]
+
+**Note:** This job may be replaced with [[Archer]] if playing in a more antiquated setting.

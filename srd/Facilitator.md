@@ -6,7 +6,6 @@ alias:
   - FCs
   - FC's
 tags:
-  - CC-BY
   - advice
   - referee
 author: Seraaron
@@ -33,7 +32,7 @@ The Facilitator is _one of the other players at the table_, a friend, who simply
 >
 > - **[[Challenging Principles|And to challenge each character's Principles]]**, to make them push for an [[Agenda|agenda]] with almost every roll.
 
-#important If you've played any other RPGs before, then you may continue to call the Facilitator a 'GM' out of habit, but if you do then try to consider them a 'game moderator' rather than a 'game _master_'.
+❗ If you've played any other RPGs before, then you may continue to call the Facilitator a 'GM' out of Habit, but if you do then try to consider them a 'game moderator' rather than a 'game _master_'.
 
 ---
 

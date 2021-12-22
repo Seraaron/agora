@@ -1,6 +1,6 @@
 ---
 alias: [<% tp.file.title.toLowerCase() %>]
-tags: [CC-BY]
+tags: []
 author: Seraaron
 license: CC BY 4.0
 date created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
