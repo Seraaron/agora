@@ -29,7 +29,7 @@ _**Suggested Specialties:** Confidence, Sleight of Hand, Stealth, Streetfly, Tra
 
 > ##### Specific Factors:
 >
-> - “Picking a trapped lock, disarming a trap, or picking silently...?
+> - “Picking a complex lock, disarming a trap, or picking silently...?
 > - “Stealing stuff in broad daylight, or pick-pocketing...?
 > - “Smuggling stolen goods or contraband past inspectors...?
 

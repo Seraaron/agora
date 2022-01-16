@@ -2,8 +2,8 @@
 alias:
   - Highland Culture
   - Highland People
-  - Moor People
-  - Moor Culture
+  - Moorland People
+  - Moorland Culture
 tags:
   - culture
   - archetype
@@ -11,18 +11,18 @@ tags:
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-12-18 19:46
-date updated: 2021-12-21 16:25
+date updated: 2022-01-04 19:52
 ---
 
-### Highland People
+### Highland Culture
 
-_Agricultural people who track animals across the great moors, and quarry the foothills for ore, coal, and stone. They may poke fun at [[Lowland|lowlanders]] and their ‘strange ways’, but they aren't so different really._ #rewrite
+_Agricultural people who track animals across the great moors, and quarry the foothills for ore, coal, and stone, providing for towns and cities. Their rustic and somewhat-sheltered lifestyle is often envied, but rarely pursued._ These people are often considered 'cultural cousins' to both [[Woodland|woodlanders]] and [[Lowland|lowlanders]], but are often treated as 'country bumpkins' by cityfolk.
 
-| Jobs (Lvl. +1)             | 1d6 | Specialty            |
+| Jobs             | 1d6 | Specialty            |
 | :------------------------- | :-: | :------------------- |
-| [[Handler]]                |  1. | Almanacs             |
-| [[Smith]]                  |  2. | [animal]             |
+| [[Baker]] / [[Smith]]      |  1. | Almanacs             |
+| [[Handler]]                |  2. | [animal]             |
 | [[Worker]]                 |  3. | [craft]              |
-| _**Additional Benefits:**_  |  4. | Highland [biome]     |
+| _**Additional Benefits:**_ |  4. | Highland / Moorland, biomes     |
 | ⋄ _Old Adages_             |  5. | [mythology] / [lore] |
-| ⋄ _+1 Community_           |  6. | Subsistence          |
+| ⋄ _+1D Community_           |  6. | Subsistence          |

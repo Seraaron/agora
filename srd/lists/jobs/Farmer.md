@@ -20,7 +20,7 @@ date updated: 2021-11-24 15:08
 
 Ploughing, sowing, growing, harvesting, collecting, preserving and selling food or other plant material. Includes maintenance of all tools and equipment, and knowledge of how to save viable seed for the next season. Also covers the harvesting of byproducts from animals, such as milk, wool, eggs, feathers, or manure,  and includes butchery, furriery, and tannery skills.
 
-Farming is a good way to make ends meet during [[Downtime and Travel|downtime]] — since the most work is done during the harvest months — leaving some free time in the evenings and winters to get on with other projects.
+Farming is a good way to make ends meet during [[Downtime and Travel*|downtime]] — since the most work is done during the harvest months — leaving some free time in the evenings and winters to get on with other projects.
 
 ¶ **Requires:** #laborious-tools &or animals
 

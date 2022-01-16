@@ -45,10 +45,6 @@ _Note-taking is a skill._ Like all skills, it requires practice and upkeep. Our 
 > ### Nb.
 > You may now be noticing that _the whole of [[Agora]]_ is written with some of these note-taking practices in mind: Especially the use of **bold** and _italics_ to highlight the most important text, so that the key rules can be understood at a glace.
 
-### Keeping a Campaign Diary
-
-#unfinished
-
 
 ---
 

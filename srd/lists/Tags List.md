@@ -176,6 +176,13 @@ date updated: 2021-12-22 15:08
 
 ---
 
+###### #fashionable 
+
+- This item initially has one extra die than it's normal rating, *the first time it's worn*, which can be added to certain social rolls.
+- Then it grants one fewer die each subsequent time it is worn, until it's die rating is worthless — _equivalent to normal clothes_.
+
+---
+
 ###### #firearm
 
 - Ignores poise added by a #shield, #hand-guard, or #barding, but makes a loud noise when used — which might draw unwanted attention to the fight, _making stealth impossible_ — and can be deafening if used indoors.

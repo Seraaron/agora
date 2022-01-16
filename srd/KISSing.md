@@ -136,7 +136,7 @@ A Peer may say “no tongue!” or “you're really tonguing it” if they think
 
 **You can think of the four types of KISSes as benefiting four modes of play:**
 
-- **Kismet** benefits those who engage strongly with their principles, conditions, and features.
+- **Kismet** benefits those who engage strongly with their principles, conditions, and circumstances.
 - **Insight** benefits those who pay attention to the world building and small details, and who either have good memories or take lots of notes.
 - **Stunts** benefits those who like to immerse themselves in the roleplaying or the action, or who are good at improvising.
 - **Specialties** benefit those who prefer to optimize their character builds with lists of potential bonuses.
@@ -151,13 +151,13 @@ That said, there is _something of a strategy_ that will emerge if you enjoy usin
 
 #### _Optional:_ Restricted Stunts
 
-Only the FC may veto a [[#Stunts|stunt]] before it's rolled, if what you said is _too_ far-fetched or simply doesn't make sense within the context of the fiction or the [[Worldbuilding#World Rules|rules of the world]].
+Only the FC may veto a [[#Stunts|stunt]] before it's rolled, if what you said is _too_ far-fetched or simply doesn't make sense within the context of the fiction or the [[Worldbuilding*#World Rules|rules of the world]].
 
 > ### Nb.
 >
 > Generally, your FC should **try to add to the description of a stunt**, slightly re-aligning it with what would be more reasonable, **rather than flatly denying it**. This makes the process more collaborative, and fun, and _encourages players to try to seek thrills rather than seeking permission_.
 
-However, regular use (or over-use) of stunts can really change the game's [[Genre, Tone, and Themes|tone]]. Some players may simply be better at stunting than others too, since it relies on real-life improvisational skills. So discuss with your [[Peers]] before play whether you want to further limit their use of stunts, by either:
+However, regular use (or over-use) of stunts can really change the game's [[Genre, Tone, and Themes*|tone]]. Some players may simply be better at stunting than others too, since it relies on real-life improvisational skills. So discuss with your [[Peers]] before play whether you want to further limit their use of stunts, by either:
 
 - Restricting them to only be usable **once per session**, or
 - **Removing them entirely** and reducing the acronym to 'KIS'.
@@ -168,19 +168,12 @@ However, regular use (or over-use) of stunts can really change the game's [[Genr
 
 We sometimes use the word 'KISS' — pronounced  /kɪs/ — as an _adjective_, referring to one's advocacy for a re-roll; sometimes as a _verb_, meaning the action of the re-rolling itself; and even sometimes as a _noun_, in reference to a die that has or will be re-rolled. This somewhat loose definition should flow naturally at the table.
 
-'KISS, 'KISSed', 'KISSes', 'KISSing', and 'KISSable' are all words that you end up seeing, saying, and hearing a lot while playing this game. But if you find the jargon is ruining your game's [[Genre, Tone, and Themes|tone]], then just call them 're-rolls' instead.
+'KISS, 'KISSed', 'KISSes', 'KISSing', and 'KISSable' are all words that you end up seeing, saying, and hearing a lot while playing this game. But if you find the jargon is ruining your game's [[Genre, Tone, and Themes*|tone]], then just call them 're-rolls' instead.
 
 ---
 
-### Only KISS if You _Want_ to
-
-Aside from making the fun acronym work, the use of the word 'kismet' at the start of KISSing should also prompt you to **think about your character's _personal destiny_**, and to ask yourself:
-
-> #quote
-> _What story does this roll tell me about my character's path forwards? If I were to succeed or fail at this exact moment, which way appeals most to me?_
-
-With those questions in mind, you may decide _not to KISS_ after all and to simply accept your fate if that makes for a more appealing story. _But this decision is yours and yours alone_. Failure still has [[Difficulties and Consequences|consequences]], even if you chose that failure for yourself.
-
 ### Only KISS if You _Need_ to
 
-Aside from the great narrative effects of KISSing dice, a useful side-effect is that **these rules generally speed up gameplay when KISSes wouldn't be necessary**. There is a natural tendency to want to draw on every advantage and to 'fire on all cylinders' at all times while playing games, but since _KISSes happen after the main roll_ and the target number of successes you need to pass is always pre-established, **you may find the success you want without needing to KISS**.
+Aside from the great narrative effects of KISSing dice, a useful side-effect is that **these rules generally speed up gameplay when KISSes wouldn't be necessary**.
+
+There is a natural tendency to want to draw on every advantage and to 'fire on all cylinders' at all times while playing games, but since _KISSes happen after the main roll_ and the difficulty of the roll is always pre-established, **you may find the success you want without needing to KISS**.

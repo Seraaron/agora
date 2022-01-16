@@ -1,8 +1,9 @@
 ---
 alias:
-  - jobs
   - Job
   - job
+  - Job System
+  - job system
 tags:
   - rules
   - job
@@ -14,7 +15,7 @@ date updated: 2021-12-09 20:05
 
 ## Jobs
 
-Jobs are what you use to perform [[Tasks]]. The anatomy of a job as it's written on your [character sheet](#charsheet) contains 4 parts:
+Jobs are what you use to perform [[Tasks]]. The anatomy of a job as it's written on your [[Character Resources|character sheet]] contains 4 parts:
 
 - **The _name_ of the job:** _Usually the capitalized noun-form of an active verb._
 - **Its associated _ability_:** _The [[Rank|rank]] of which you must usually use to roll with_.
@@ -60,7 +61,7 @@ If you are reduced to zero dice to roll on a [[Tasks|Task]] — either due to [[
 
 To attain _levels beyond six_ and become a 'master' you must fill the exp bar to twelve and then seek training from another master, gain a high-tech augmentation, or otherwise receive a supernatural blessing — all of which require your [[Peers|Peer's approval]].
 
-The number of master levels you can aquire depends on your [[Circumstances#Age|age]]: **Young characters can only have 1 master level, at most, whereas old characters can have up to 4.**
+The number of master levels you can acquire depends on your [[Age|age]]: **Young characters can only have 1 master level, at most, whereas old characters can have up to 4.**
 
 Master levels can be spread out in any way you like — should you be lucky enough to reach such lofty heights — but four master levels is the ordinary mortal limit. If you put all four master levels into one job then you are considered a 'grandmaster'.
 

@@ -7,25 +7,26 @@ tags:
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-12-22 16:35
+date updated: 2022-01-13 23:44
 ---
 
 ## Lancer
 
-_Description sentence one. Description sentence two._ Explanation sentence one. Explanation sentence two. Explanation sentence three. Explanation sentence four.  #rewrite
+| Major Jobs    | Minor Jobs     |
+| ------------- | -------------- |
+| [[Acrobat]]   | [[Charmer]]    |
+| [[Commander]] | [[Guard]]      |
+| [[Rider]]     | [[Orator]]     |
+| [[Warrior]]   | [[Skirmisher]] |
 
-| Major Jobs (Lvl. 4) | Minor Jobs (Lvl. 3) |
-| ------------------- | ------------------- |
-| [[Commander]]       | [[Acrobat]]         |
-| [[Orator]]          | [[Charmer]]         |
-| [[Rider]]           | [[Guard]]           |
-| [[Warrior]]         | [[Skirmisher]]      |
+| Assets & Gear                            | _Specialties_             | Wealth |
+| ---------------------------------------- | :------------------------ | :----: |
+| ⋄ +1D Religious / Military Order         | ⋄ _[armor]_ / _[weapons]_ |   +2   |
+| ⋄ An #animal Mount (usually a horse)     | ⋄ _[lore]_                |        |
+| ⋄ Leather / Scalemail / Brigandine Armor | ⋄ _Mounted Combat_        |        |
+| ⋄ A Crested Helm / Heater Shield         |                           |        |
+| ⋄ Any EQ #cavalry / Polearm  Weapon      |                           |        |
 
-| Assets & Gear | _Specialties_       | Wealth |
-| ------------- | :------------------ | :----: |
-| ⋄             | ⋄ _[armor]_         |    4   |
-| ⋄             | ⋄ _ Mounted Combat_ |        |
-| ⋄             | ⋄ _ [weapons]_      |        |
+![[Blind Charge]]
 
-![[Blind Charges]]
-
-![[High [stress] Tolerance]]
+![[Highwind Jump]]

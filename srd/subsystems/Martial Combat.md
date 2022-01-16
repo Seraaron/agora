@@ -89,7 +89,7 @@ That is:
 - Divide the total by 2 and round up!
 - Lastly, add your **Shield dice**.
 
-Since you will need to quote this number to other players frequently, **write it down on your [[Character Sheets|character sheet]]**, or somewhere easy to see. Poise is also is also _added_ to your starting [[#Disposition]], but it otherwise remains static.
+Since you will need to quote this number to other players frequently, **write it down on your [[Character Resources|character sheet]]**, or somewhere easy to see. Poise is also is also _added_ to your starting [[#Disposition]], but it otherwise remains static.
 
 Poise only gets recalculated if you [[Disarm|drop]] or [[#Optional Shields Shall be Shattered|shatter]] your shield or if the environment you're fighting in changes drastically.
 
@@ -128,7 +128,7 @@ The number of combatants also determines roughly how long each round is, in-game
 |        **8-11** |        25        | _~40 sec_              |
 |        **≥ 12** |        30        | _~80 sec_              |
 
-❓ [[Non-player Characters|NPCs]] usually use preset Poise and Disposition scores.
+❓ [[Non-player Characters*|NPCs]] usually use preset Poise and Disposition scores.
 
 ![[Momentum]]
 
@@ -281,16 +281,11 @@ When you come to choose your move each turn, it's okay if you'd prefer to descri
 
 ![[Shields Shall be Shattered]]
 
+![[Shooting into the Fray*]]
+
 ## Finishing a Fight
 
 #unfinished
 
 ![[Experience from Conflict]]
 
-## Shooting into the Fray
-
-Weapons with the #hunter tag cannot be shot from a 'remote' range, whereas #archer and #gunner weapons _can be_, but they suffer a +3 difficulty penalty to all attacks, unless the weapon has a scope and then it's only a +1 penalty.
-
-Also if your shooting into a conflict from remote range and miss, ...
-
-#unfinished

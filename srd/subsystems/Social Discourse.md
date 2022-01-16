@@ -73,7 +73,7 @@ That is:
 - Divide the total by 2 and round up!
 - Finally, add a source of **reputation dice** (nb. if it's directly relevant).
 
-Since you will need to quote this number to other players frequently, **write it down on your [[Character Sheets|character sheet]]**, or somewhere easy to see. Presence is also _added_ to your starting [[#Disposition]], but it otherwise remains static.
+Since you will need to quote this number to other players frequently, **write it down on your [[Character Resources|character sheet]]**, or somewhere easy to see. Presence is also _added_ to your starting [[#Disposition]], but it otherwise remains static.
 
 ❓ Property, faction influence, and reputations are all types of [[Assets and Gear|assets]].
 
@@ -109,7 +109,7 @@ This roll works a lot more like a [[Checks|Check]], in that **you're just lookin
 |      Legendary |          20          |
 |         Mythic |          25          |
 
-❓ [[Non-player Characters|NPCs]] usually use preset Presence and Disposition scores.
+❓ [[Non-player Characters*|NPCs]] usually use preset Presence and Disposition scores.
 
 ![[Momentum]]
 
@@ -271,7 +271,3 @@ You may find through the debate that you change your mind about your premise. If
 ❓ Conversely, if your premise remains the same but your intentions have shifted, then the [[#Tones|tone]] you choose will determine what kind of judgment you can make.
 
 ![[Experience from Conflict]]
-
-### Escalate to Violence
-
-#unfinished

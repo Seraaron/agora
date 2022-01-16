@@ -16,3 +16,8 @@ Being _pained_ is the [[Stress|stress]] of [[Swiftness]]. It's not as bad as get
 ##### Remedies for Pain
 
 **Pain must be remedied by seeking pharmaceutical assistance** (ie. painkillers or opioids), **getting a massage or some other kind of professional physiotherapy, or just by resting well for several days**. The important part is to get away from the source of the pain, and either give it time to heal or hasten that healing somehow.
+
+
+##### Overflow
+
+If you have too much Pain, it is most likely to overflow into [[Confusion]] or [[Shock]].

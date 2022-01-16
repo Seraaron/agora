@@ -7,25 +7,24 @@ tags:
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-12-22 16:35
-date updated: 2021-12-22 16:35
+date updated: 2022-01-13 20:24
 ---
 
 ## Duelist
 
-_Description sentence one. Description sentence two._ Explanation sentence one. Explanation sentence two. Explanation sentence three. Explanation sentence four.  #rewrite
+| Major Jobs     | Minor Jobs       |
+| -------------- | ---------------- |
+| [[Acrobat]]    | [[Brawler]]      |
+| [[Charmer]]    | [[Rider]]        |
+| [[Skirmisher]] | [[Investigator]] |
+| [[Warrior]]    | [[Philosopher]]  |
 
-| Major Jobs (Lvl. 4) | Minor Jobs (Lvl. 3) |
-| ------------------- | ------------------- |
-| [[Acrobat]]         | [[Brawler]]         |
-| [[Charmer]]         | [[Rider]]           |
-| [[Skirmisher]]      | [[Investigator]]    |
-| [[Warrior]]         | [[Philosopher]]     |
-
-| Assets & Gear | _Specialties_     | Wealth |
-| ------------- | :---------------- | :----: |
-| ⋄             | ⋄ _Ambidexterity_ |    4   |
-| ⋄             | ⋄ _ Gossip_       |        |
-| ⋄             | ⋄ _ Streetfly_    |        |
+| Assets & Gear                                 | _Specialties_     | Wealth |
+| --------------------------------------------- | :---------------- | :----: |
+| ⋄ +1D Militant / Political / Criminal Faction | ⋄ _Ambidexterity_ |   +2   |
+| ⋄ Any #light Armor                            | ⋄ _Gossip_        |        |
+| ⋄ An EQ Buckler / Parrying Dagger             | ⋄ _Streetfly_      |        |
+| ⋄ Any Excellent-Quality Blade                 |                   |        |
 
 ![[Counterstrike]]
 

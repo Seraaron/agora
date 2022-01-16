@@ -2,12 +2,11 @@
 alias:
   - specialty list
 tags:
-  - features
   - list
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-23+1800
-date updated: 2021-12-20 15:41
+date updated: 2022-01-13 20:08
 ---
 
 # Specialties List
@@ -57,15 +56,15 @@ date updated: 2021-12-20 15:41
 
 ❓ You can also make up and use a [sport] specialty for specific activities.
 
-| Barter                                                                                                                                                      |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Use when:** Exchanging goods and services of roughly equal value, and debating what that value is.                                                        |
-| _Passively:_ You can always round in your favor when buying or selling in bulk, if you're tracking individual coins and currencies (see [[Caps as Coins]]). |
+| Barter                                                                                                                              |
+| ----------------------------------------------------------------------------------------------------------------------------------- |
+| **Use when:** Exchanging goods and services of roughly equal value, and debating what that value is.                                |
+| _Passively:_ You can always round in your favor when buying or selling in bulk, if you're tracking individual coins and currencies. |
 
-| [biome]                                                                                                                                                                                                                                        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Use when:** Navigating, exploring, exploiting, or otherwise surviving in a biome or environment of the given  type.                                                                                                                          |
-| _**Examples:** Mountain, Prairie & Steppe, Woodland, Jungle, Forest, Desert, Savanna & Shrub, Lowland, Rivers & Valleys, Highland, Taiga & Tundra, Islands & Coasts, Marine, Caves, Submarine, Urban, Swamps, Hellish, Celestial, Alien, etc._ |
+| [biomes]                                                                                                                                                                                                                                                                           |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Use when:** Navigating, exploring, exploiting, or otherwise surviving in a biome or environment of the given  type.                                                                                                                                                              |
+| _**Examples:** Mountain, Prairie, Steppe, Woodland, Jungle, Boreal, Sylvan Forest, Desert, Savanna, Shrubland, Lowland, Floodplain, River Valley, Highland, Moorland, Taiga, Tundra, Island, Coastal, Ocean, Cave, Submarine, Urban, Lake, Swamp, Hellish, Celestial, Alien, etc._ |
 
 | Boomerangs                                                                                                                 |
 | -------------------------------------------------------------------------------------------------------------------------- |
@@ -168,12 +167,17 @@ date updated: 2021-12-20 15:41
 | -------------------------------------------------------------------------------------------------------------------------------------- |
 | **Use when:** Directly dealing with or involving yourself with a given faction or organization, or when establishing facts about them. |
 
-❓ Use the names of any specific [[Factions, Institutions, Organizations|factions, affiliations, companies, or other organizations]] in your setting here.
+❓ Use the names of any specific [[Factions, Institutions, Organizations*|factions, affiliations, companies, or other organizations]] in your setting here.
 
 | Fashion                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------- |
 | **Use when:** Needing to make decisions that conform with popular movements, especially in the art and clothes scenes. |
 | _Passively:_ Ensures that you always have clean, fresh, and stylish clothes to wear.                                   |
+
+| Field Dressing                                                                                                          |
+| ----------------------------------------------------------------------------------------------------------------------- |
+| **Use when:** Performing medical operations and delivering care in the middle of battle, or other stressful situations. |
+| _Passively:_ You can tare up just about any piece of clothing into emergency bandages.                                  |
 
 | Finance                                                                           |
 | --------------------------------------------------------------------------------- |
@@ -223,6 +227,11 @@ date updated: 2021-12-20 15:41
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Use when:** Surviving in a tundra, or a taiga, or in the dead of winter, when conserving heat is of utmost importance, especially while traveling between settlements. |
 | _Passively:_ Ensures you always wrap up warm, and have a dry set of clothes ready if needed.                                                                             |
+
+| Herbalism                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------ |
+| **Use when:** Collecting ingredients or mixing concoctions, making poultices, or administering other natural treatments. |
+| _Passively:_ You know which leaves and mushrooms _not_ to eat.                                                           |
 
 | [history]                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -394,10 +403,10 @@ date updated: 2021-12-20 15:41
 | **Use when:** Trying to hide from the senses of others, especially those who are searching for you, or when trying to blend in with your envrionment and avoid general notice. |
 | _Passively:_ You always know when you've been seen while you're sneaking or hiding.                                                                                            |
 
-| Streetfly                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------- |
-| **Use when:** Navigating an unfamiliar city, or trying to find the faster or safest way through a dense urban environment |
-| _Passively:_ Ensures that you always know where the nearest tavern, bar, or casino is.                                    |
+| Streetfly                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------- |
+| **Use when:** Navigating an unfamiliar city, or trying to find the faster or safest way through an urban environment |
+| _Passively:_ Ensures that you always know where the nearest tavern, bar, or casino is.                               |
 
 | Subsistence                                                                                                                                                     |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |

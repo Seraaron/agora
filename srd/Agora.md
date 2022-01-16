@@ -8,124 +8,128 @@ tags:
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-08-24+2200
-date updated: 2021-12-01 14:20
+date updated: 2022-01-16 20:17
 ---
 
 ###### Character-Focused Agenda-Driven Roleplaying
 
-![[agoraLogo.svg]]
+**Welcome to Agora**, _a free and [open-source](https://github.com/Seraaron/agora) roleplaying game_ about playing deep and intricate characters who strive to change the worlds they live in to conform to their ideals.
 
-**Welcome to Agora**, _a free and open roleplaying game_ about playing deep and intricate characters who strive to change the worlds they live in to conform to their ideals.
-
----
-
-###### ❗ THIS IS A WORK IN PROGRESS ❗
-
-**You are currently reading the first _major public 'alpha' release_. Meaning that there's a lot of content missing, such as character creation rules or really anything besides the core gameplay system.**
-
-You _will_ encounter [[broken links]], typos, and #unfinished tags.
-
-_But if you like what you see, then consider joining the [Discord.gg/JwM6zBszKr](https://discord.gg/JwM6zBszKr) or following me on twitter [@SeraaronArt](https://twitter.com/SeraaronArt) for more regular updates and early drafts of 'beta' material._
-
----
-
-![[The game at a glace]]
+![[Blurb]]
 
 > ###### Character Sheet Preview
 >
-> ![[charSheet_onePage.png]]
+> ![[charSheet_2page_spread.svg]]
 >
-> [[Agora Character Sheet (one-page).pdf|Download / Print]]
+> [[Agora Character Sheet (two-page-spread).pdf|Download / Print]]
 
-# Contents
+---
 
-- [[Introduction]]
-- [[Quick Play Rules]]
-- [[Quick Session Plan]]
+###### ❗ Version 0.5.0 ❗
+
+**You are currently reading a work in progress.** You _will_ encounter [[broken links]], typos, and #unfinished tags.
+
+The core game is now fully playable, though the character creation options are still somewhat limited, and there's no magic system yet. If you use the premade archetypes then you can only really play as human adventurers right now. Otherwise, you will have to make up you own archetypes.
+
+_If you like what you see, then consider joining the [Discord.gg/JwM6zBszKr](https://discord.gg/JwM6zBszKr) or following me on twitter [@SeraaronArt](https://twitter.com/SeraaronArt) for more regular updates and early drafts of 'beta' material._
+
+---
+
+# Game Contents
+
+1. [[Introduction]]
+2. [[Quick Play Rules]]
+3. [[Quick Session Plan]]
 
 ### § 1 — Essential Rules
 
-- [[Player Characters]]
+1. [[Player Characters]]
 	- [[Facilitator]]
 	- [[Peers]]
-- [[Agenda]]
+2. [[Agenda]]
 	- [[When to roll dice]]
-- [[Using Checks and Tasks]]
-	- [[Checks]]
+	- [[Let the dice fall where they may]]
+3. [[Using Checks and Tasks]]
+	- [[Checks]]			- [[Fact Checks]]
 	- [[Tasks]]
 		- [[Opposed Tasks]]
-- [[KISSing]]
+4. [[KISSing]]
 	- [[Helping]]
-- [[Difficulties and Consequences]]
-- [[Let the dice fall where they may]]
+5. [[Difficulties and Consequences]]
 
 ### § 2 — Characters
 
-- [[Development Sessions]]
-- [[Character Assembly]]
-- [[Circumstances]]
+1. [[Development Sessions]]
+2. [[Character Assembly]]
+3. [[Circumstances]]
 	- [[Tier]]
-- [[Principles]]
+	- [[Age]]
+	- [[Size]]
+4. [[Principles]]
 	- [[Kismet]]
-- [[Abilities]]
+5. [[Abilities]]
 	- [[Rank]]
 	- [[Stress]]
 	- [[Capabilities]]
-- [[Jobs]]
-- [[Conditions]]
+6. [[Jobs]]
+7. [[Conditions]]
 	- [[Wounds and Scars]]
-- [[Assets and Gear]]
-- [[Specialties]]
-	- [[Fact Checks]]
-- [[VINPCs|Kith and Kin]]
+	- [[Medical Treatment]]
+8. [[Assets and Gear]]
+9. [[Specialties]]
+10. [[VINPCs|Kith and Kin]]
 
 ### § 3 — Modular Mechanics
 
-- [[Understanding Conflicts]]
+1. **[[Understanding Conflicts|Conflict]] Systems:**
 	- [[Martial Combat]]
+		- [[Ammo Quantities]]
+		- [[Damage Type vs Armor Weight]]
+		- [[Shields Shall be Shattered]]
 	- [[Social Discourse]]
-- #unfinished
+		- [[Rhetorical Fallacies]]
+2. **Magic Systems:**
+	- [[Alchemist]]
+	- [[Illusionist]]
+	- #unfinished
+3. **[[Downtime and Travel*|Downtime]] Systems:**
+	- [[Crafting]]
+		- [[Common-Quality]]
+		- [[Excellent-Quality]]
+		- [[Superior-Quality]]
+	- [[High Fashion]]
+	- [[Building]]
 
 ### § 4 — Tools, Essays, and Advice
 
-- [[Script Change Tools]]
-- [[Genre, Tone, and Themes]]
-- [[Pitching and Planning]]
-- [[Campaign Arcs]]
-- [[Session Structure]]
-- [[Challenging Principles]]
-- [[Player Styles]]
-- [[Non-player Characters]]
-- [[Social Encounters]]
-- [[Worldbuilding]]
-- [[Houserules and Temporary Rulings]]
-- #unfinished
+1. [[Script Change Tools]]
+2. [[Campaign Arcs]]
+3. [[Session Structure]]
+4. [[Challenging Principles]]
+5. [[Player Styles]]
 
-### § 5 — Appendices
+### § 5 — Lists & Indices
 
-- [[Example Worlds]]
-- [[The King is Dead (demo scenario)]]
-- [[Guides for being an 'Agora-like' game]]
-	- [[Capitalization and Spelling guide]]
-	- [[Using the License]]
-- [[Influences and Acknowledgments]]
-
-### § 6 — Lists & Indices
-
-- [[Circumstances List]]
-- [[Condition Examples]]
-- [[Jobs List]]
+1. [[Jobs List]]
 	- [[D66 Jobs]]
-- [[Specialties List]]
-- [[Gear List]]
+2. [[D666 Conditions|Conditions List]]
+3. [[Specialties List]]
+4. [[Gear List]]
 	- [[Tags List]]
-- [[Session Zero Checklist]]
+5. [[Gambits List]]
+6. **Archetypes:**
+	- [[Ancestries List]]
+	- [[Cultures List]]
+	- [[Professions List]]
+7. [[Session Zero Checklist]]
+
+### § 6 — Appendices
+
+1. [[Influences and Acknowledgments]]
 
 ### § 7 — Resources
 
-- [[Dice Probabilities and Statistics]]
-- [[Editor's Notes]]
-- [[Agora Character Sheet (one-page).pdf]]
-- [[Agora Character Sheet (two-page-spread).pdf]]
+1. [[Agora Character Sheet (one-page).pdf]]
+2. [[Agora Character Sheet (two-page-spread).pdf]]
 
 ![[Support me]]

@@ -31,7 +31,7 @@ Sometimes we aren't ready when this happens. _Sometimes people don't know all of
 
 _At any point during the game_, if a [[Player Characters|Player Character]] (PC), [[Facilitator]] (FC), or another [[Peers|Peer]] finds that they are uncomfortable with the subject matter or actions happening in the game, they can call for a Script Change (either out loud, or by sending a private message to the FC or another player they trust). Then, to return to play at any time afterwards, simply say "let's resume" or give the FC two thumbs up.
 
-**Always try to introduce the Script Change tools** — or your preferred alternative — **_before character creation and worldbuilding_, during your first [[Development Sessions|development session]]**. (Especially if you're starting with a new group, or if you're introducing some fresh faces to an older group). It can be used to address player backstories where the details might get too gritty or goofty, settings elements like aliens or zombies, and [[Genre, Tone, and Themes|themes]] like betrayal or grief.
+**Always try to introduce the Script Change tools** — or your preferred alternative — **_before character creation and worldbuilding_, during your first [[Development Sessions|development session]]**. (Especially if you're starting with a new group, or if you're introducing some fresh faces to an older group). It can be used to address player backstories where the details might get too gritty or goofty, settings elements like aliens or zombies, and [[Genre, Tone, and Themes*|themes]] like betrayal or grief.
 
 ---
 
@@ -56,7 +56,7 @@ Imagine your game is a play, film, or video game and ask yourself _"what content
 -   **T** for Teen / Young-Adult fiction.
 -   **E** for Everyone and anyone.
 
-Write your game's rating at the top of the ['Faciliator's Notes' sheet](#charsheet), along with any potential content warnings that _you think are likely to come up_ based on your [[Pitching and Planning|game's pitch]].
+Write your game's rating at the top of the ['Faciliator's Notes' sheet](#charsheet), along with any potential content warnings that _you think are likely to come up_ based on your [[Pitching and Planning*|game's pitch]].
 
 Anyone may object to the content warnings that you've put at the top of this sheet, but if they are somehow central to the kind of game you want to run then it may be that _this pitch simply isn't for that group_. Try to think of another pitch that they would enjoy, or else _build the setting and pitch collaboratively_ as part of the development session.
 
@@ -127,7 +127,7 @@ Use this to ask the FC or the currently acting player to skip forward past this 
 
 We sometimes call this 'fading to black' or 'drawing the curtains', and it's especially useful for cutting out any content that people have listed as squicks. Commonly, this includes things like sex scenes, overly gory details, torture, or animal abuse; but it can be anything, really.
 
-Another technique is to use this to _skip to the next most interesting point in the story_ to keep a good session pace. (Though this particular use is employed more often by the FC rather than a player). This is also slightly different from using [[Downtime and Travel|downtime]], [[Session Structure#Cuts|montages]], or [[travel scenes]] though.
+Another technique is to use this to _skip to the next most interesting point in the story_ to keep a good session pace. (Though this particular use is employed more often by the FC rather than a player). This is also slightly different from using [[Downtime and Travel*|downtime]], [[Session Structure#Cuts|montages]], or [[travel scenes]] though.
 
 ### ⏪ Rewind
 

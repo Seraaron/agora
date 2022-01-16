@@ -7,24 +7,24 @@ tags:
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-12-22 16:35
+date updated: 2022-01-14 01:21
 ---
 
 ## Fighter
 
-_Description sentence one. Description sentence two._ Explanation sentence one. Explanation sentence two. Explanation sentence three. Explanation sentence four.  #rewrite
+| Major Jobs     | Minor Jobs     |
+| -------------- | -------------- |
+| [[Commander]]  | [[Brawler]]    |
+| [[Guard]]      | [[Explorer]]   |
+| [[Skirmisher]] | [[Martialist]] |
+| [[Warrior]]    | [[Worker]]     |
 
-| Major Jobs (Lvl. 4) | Minor Jobs (Lvl. 3) |
-| ------------------- | ------------------- |
-| [[Commander]]       | [[Brawler]]         |
-| [[Guard]]           | [[Explorer]]        |
-| [[Skirmisher]]      | [[Martialist]]      |
-| [[Warrior]]         | [[Worker]]          |
-
-| Assets & Gear | _Specialties_    | Wealth |
-| ------------- | :------------- | :----: |
-| ⋄             | ⋄ _[armor]_    |    4   |
-| ⋄             | ⋄ _ Athletics_ |        |
-| ⋄             | ⋄ _ [weapons]_ |        |
+| Assets & Gear                                    | _Specialties_ | Wealth |
+| ------------------------------------------------ | :------------ | :----: |
+| ⋄ +1D Gladiators / Mercenary Guild               | ⋄ _[armor]_   |   +2   |
+| ⋄ Common-Quality #rogue-tools & #laborious-tools | ⋄ _Athletics_ |        |
+| ⋄ Any #medium / #heavy Armor, Helm, & Shield     | ⋄ _[weapons]_ |        |
+| ⋄ One EQ weapon / Three CQ Weapons               |               |        |
 
 ![[Hardy]]
 

@@ -7,25 +7,26 @@ tags:
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-12-22 16:39
+date updated: 2022-01-14 01:21
 ---
 
 ## Tamer
 
-_Description sentence one. Description sentence two._ Explanation sentence one. Explanation sentence two. Explanation sentence three. Explanation sentence four.  #rewrite
+| Major Jobs  | Minor Jobs     |
+| ----------- | -------------- |
+| [[Charmer]] | [[Commander]]  |
+| [[Handler]] | [[Hunter]]     |
+| [[Orator]]  | [[Explorer]]   |
+| [[Rider]]   | [[Skirmisher]] |
 
-| Major Jobs (Lvl. 4) | Minor Jobs (Lvl. 3) |
-| ------------------- | ------------------- |
-| [[Charmer]]          | [[Commander]]       |
-| [[Handler]]         | [[Hunter]]          |
-| [[Orator]]          | [[Explorer]]        |
-| [[Rider]]           | [[Skirmisher]]      |
-
-| Assets & Gear | _Specialties_   | Wealth |
-| ------------- | :-------------- | :----: |
-| ⋄             | ⋄ _[animal]_    |    4   |
-| ⋄             | ⋄ _ Confidence_ |        |
-| ⋄             | ⋄ _ Traps_      |        |
+| Assets & Gear                      | _Specialties_  | Wealth |
+| ---------------------------------- | :------------- | :----: |
+| ⋄ +1D Circus / Theater Affiliation | ⋄ _[animal]_   |   +2   |
+| ⋄ Common-Quality #rogue-tools      | ⋄ _Confidence_  |        |
+| ⋄ Any #light Armor / Helmet        | ⋄ _Traps_      |        |
+| ⋄ Any CQ #hunter Weapon            |                |        |
+| ⋄ An #animal (pet / mount)         |                |        |
 
 ![[Familiar]]
 
-![[Fearsome Growl]]
+#unfinished

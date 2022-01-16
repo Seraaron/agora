@@ -2,6 +2,10 @@
 alias:
   - assets
   - asset dice
+  - assets and gear
+  - assets or gear
+  - gear
+  - equipment dice
 tags:
   - features
   - rules
@@ -36,7 +40,7 @@ Either way, **you can get very creative with what you want to represent as an as
 All assets cost the same number of _'caps'_ during [[Character Assembly|character assembly]]. Simply take the number of dice you wish to asset to provide you with, add one, and multiply the total by five. That is:
 
 $$
-Asset Cost (¢) = (Dice + 1) \times 5
+Asset Cost (¢) = 10 \times Dice
 $$
 
 ❓ There is no set list of what is or isn't an asset, but a list of examples and their costs is provided in the [[Asset Examples List]].
@@ -55,7 +59,7 @@ Most capital assets have direct uses — _investments can grow in value, buildin
 
 Prestigious assets — _also called reputations, influence, community, affiliations, or organization dice_ — are most commonly used when you try to leverage your reputation or position to get what you want.
 
-They can grant you access to places or people than you would otherwise struggle to get to with fewer questions asked, or they can represent a traded favor here, and a whispered name there. They make you important within a given setting or [[Factions, Institutions, Organizations|faction]], and they make you more likely to be listened to or taken seriously in certain social contexts, or they might help you strike fear into your enemies if your influence makes you particularly domineering or dreadful.
+They can grant you access to places or people than you would otherwise struggle to get to with fewer questions asked, or they can represent a traded favor here, and a whispered name there. They make you important within a given setting or [[Factions, Institutions, Organizations*|faction]], and they make you more likely to be listened to or taken seriously in certain social contexts, or they might help you strike fear into your enemies if your influence makes you particularly domineering or dreadful.
 
 > ### Eg.
 >
@@ -105,17 +109,17 @@ Mechanically, _quality ratings exist for gear to limit their availability and po
 
 ### Required Gear
 
-**Sometimes an item or piece of gear is required to perform certain [[Jobs|jobs]].** This is indicated each of their descriptions, but you can add a pilcrow sign ¶ to the start of a job's name when you write it on your [[Character Sheets|character sheet]] to remind you that it has some kind of special requirement.
+**Sometimes an item or piece of gear is required to perform certain [[Jobs|jobs]].** This is indicated each of their descriptions. You can add a pilcrow sign ¶ to the start of a job's name when you write it on your [[Character Resources|character sheet]] to remind you that it has some kind of special requirement.
 
-**If you don't have the exactly the right gear for a job then it counts as a [[Difficulties and Consequences|difficulty factor]] against you.** If you don't have _any_ suitable substitutes or replacement items that could fill the same roll as the tools for a single roll, then you will suffer a **doubled base difficulty penalty**. Or in some cases the [[Facilitator|FC]] may rule that no roll can be made at all.
+**If you don't have the exactly the right gear for a job then it counts as a [[Difficulties and Consequences|difficulty factor]] against you.** If you don't have _any_ suitable substitutes or replacement items that could fill the same roll as the tools for a single roll, then you will suffer a **double difficulty penalty**. Or in some cases the [[Facilitator|FC]] may rule that no roll can be made at all.
 
 > ### Eg.
 >
-> Using the [[Smith]] job requires a workshop or foundry, materials to make what you want, and #craft tools — stuff like hammers, tongs, vices, calipers, and a good thick apron.
+> Using the [[Smith]] job requires a workshop or foundry, materials to make what you want, and #craft-tools — stuff like hammers, tongs, vices, calipers, and a good thick apron.
 >
 > If you're not working in ideal conditions, _say_, outside with a pot furnace, while borrowing a masonry hammer, then  that will count as a difficulty factor.
 >
-> If you've got nothing to use as a hammer except for a rock you just found the floor, then that would double the base difficulty.
+> If you've got nothing to use as a hammer except for a rock you just found the floor, then that would double the difficulty.
 >
 > _If you don't even have a furnace_, and your objective requires the heating of metal, then the roll is simply not possible to attempt at this time.
 
@@ -125,7 +129,7 @@ Gear can break when it's used. **When you make a roll that [[#Required Gear|requ
 
 - **Roll a d6.** If you rolled a 1, your gear gains the #damaged tag.
 - **A damaged item can be used _one more time_ before it breaks,** regardless of success or failure for the roll it's used on.
-- Broken items can be repaired, but this takes time and skill.
+- Broken items can be [[Repairing Items|repaired]], but this takes time and skill.
 
 ❓ If the 'damaged gear' is more like a _limited quantity_ item that you'd run out of — like ammunition, vials of liquid, or reagents and  powders — then give it the #single-use tag instead, and it cannot be repaired.
 

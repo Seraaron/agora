@@ -11,18 +11,18 @@ tags:
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-12-18 19:47
-date updated: 2021-12-21 16:26
+date updated: 2022-01-04 19:46
 ---
 
-### Lowland People
+### Lowland Culture
 
-_Agricultural people who provide food for all the towns and cities, and try to spare some for themselves too. They may poke fun at [[Highland|highlanders]] and their ‘strange ways’, but they aren't so different really._ #rewrite
+_Agricultural people who provide food for all the towns and cities, and try to spare some for themselves too. Their rustic and somewhat-sheltered lifestyle is often envied, but rarely pursued._ These people are often considered 'cultural cousins' to both [[Highland|highlanders]] and [[Woodland|woodlanders]], but are often treated as 'country bumpkins' by cityfolk.
 
-| Jobs (Lvl. +1)             | 1d6 | Specialty       |
+| Jobs             | 1d6 | Specialty       |
 | :------------------------- | :-: | :-------------- |
-| [[Driver]]                 |  1. | [city]          |
-| [[Farmer]]                 |  2. | [craft]         |
-| [[Wright]]                 |  3. | Lowland [biome] |
-| _**Additional Benefits:**_  |  4. | Hauling         |
+| [[Baker]] / [[Wright]]                 |  1. | [city]          |
+| [[Driver]]                |  2. | [craft]         |
+| [[Farmer]]                 |  3. | Lowland / Floodplain, biomes |
+| _**Additional Benefits:**_ |  4. | Hauling         |
 | ⋄ _Livestock [animal]_     |  5. | Subsistence     |
-| ⋄ _+1 Wealth_              |  6. | [vehicle]       |
+| ⋄ _Wealth +1_              |  6. | [vehicle]       |

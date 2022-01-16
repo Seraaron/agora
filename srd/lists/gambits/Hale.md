@@ -9,9 +9,9 @@ date created: 2021-12-14 14:58
 date updated: 2021-12-14 15:56
 ---
 
-### Hale
+#### Hale
 
-|   _Effects_ | Constant                                                                                         |
+|   _Grade_ | Effect Duration: _Constant_                                                                                         |
 | ----------: | ------------------------------------------------------------------------------------------------ |
 |    _Basic:_ | Your body and mind are simply more robust. You have a maximum of 3 [[Health]] now, instead of 2. |
 | _Advanced:_ | Your maximum Health is now raised to 4.                                                          |

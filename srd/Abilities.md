@@ -5,7 +5,6 @@ alias:
   - Ability
 tags:
   - rules
-  - stat
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-07-29+1400
@@ -47,7 +46,7 @@ The physical abilities are called **[[Finesse]]**, **[[Endurance]]**, and **[[Sw
 
 If you've played a certain _very popular_ tabletop roleplaying game or any of its kin, then you may have noticed a nod towards the 'standard six' abilities (ie. Cha, Int, Wis, Dex, Con, Str) in the descriptions above. The similarities are deliberate, in case you feel that the standard six are just easier for you and your group to consistently say and use.
 
-You may of course rename the abilities to anything you like if you feel it would be appropriate for your [[Genre, Tone, and Themes|game's setting or tone]] — so long as your [[Peers]] agree and you keep them consistent — and a character sheet with blank ability names is [available](#charsheet) for you to do _just that_ — but before you do, consider that the differences presented here are _also deliberate_. **For example**, there is a symmetry in _'grace'_, _'fortitude'_, and _'speed'_ between the mental and physical abilities.
+You may of course rename the abilities to anything you like if you feel it would be appropriate for your [[Genre, Tone, and Themes*|game's setting or tone]] — so long as your [[Peers]] agree and you keep them consistent — and a character sheet with blank ability names is [available](#charsheet) for you to do _just that_ — but before you do, consider that the differences presented here are _also deliberate_. **For example**, there is a symmetry in _'grace'_, _'fortitude'_, and _'speed'_ between the mental and physical abilities.
 
 Furthermore, our choice of words posits that traditional notions of 'strength' and 'intelligence' are not so easy to define as some might make it seem, and that our social capacity as sapient beings is intertwined with all of our mental faculties.
 

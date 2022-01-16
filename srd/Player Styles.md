@@ -1,6 +1,7 @@
 ---
 alias:
   - player styles
+  - types of player
 tags:
   - advice
 author: Seraaron

@@ -3,10 +3,8 @@ alias:
   - Fact check
   - establish a fact
 tags:
-
   - rules
   - embed
-  - optional
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-05 21:22
@@ -30,7 +28,7 @@ Fact checks are not only a useful way of  **remember things your character shoul
 |     2     | Obscure knowledge (regular success)                    |
 |     3+    | Secrets and mysteries,  or _plot-convenient knowledge_ |
 
-❓ Establishing facts requires input and cooperation from your [[Peers]], but enables you to do some light collaborative [[Worldbuilding|worldbuilding]] at the table.
+❓ Establishing facts requires input and cooperation from your [[Peers]], but enables you to do some light collaborative [[Worldbuilding*|worldbuilding]] at the table.
 
 In some instances, your [[Facilitator]] may veto these ideas and disallow the Check, but only if they would contradict other pre-planned bits of information. However, in those cases, **the FC can offer some of their pre-written information to you on a successful Fact check instead**.
 

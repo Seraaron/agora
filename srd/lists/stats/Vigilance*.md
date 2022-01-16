@@ -12,13 +12,15 @@ date created: 2021-09-22+2300
 
 ### Vigilance
 
+#rewrite 
+
 Vigilance is a [[Capabilities|capability]] that represents your alertness to the world of the weird, your abnormal perceptions (if any), and your general stability of mind.
 
 Use Vigilance in games about exploration and mystery, or in games with strong themes terror and survival, especially in settings where supernatural events are common or existentially dreadful. If you want to portray a setting where unknowable forces creep behind the fabric of reality, or where such magic is real and known _but still dangerous_, then use Vigilance.
 
 #### Rolling Vigilance
 
-_If you have some kind of supernatural perceptions_, such as the ability to see spiritual energies, read auras, or use some other kind of 'sixth sense', or if you have a weird preternatural talent, like night-vision or lightning reflexes, then a successful Vigilance [[Checks|check]] is usually what's required to 'activate' it _in the heat of the moment_ (or to be able to rely on it when it really counts).
+_If you have some kind of supernatural perceptions_, such as the ability to see spiritual energies, read auras, or use some other kind of 'extra sense', or if you have a weird preternatural talent, like night-vision or lightning reflexes, then a successful Vigilance [[Checks|check]] is usually what's required to 'activate' it _in the heat of the moment_ (or to be able to rely on it when it really counts).
 
 ❓ The specific rules for these powers are usually given as [[Gambits]], in their descriptions, along with what constitutes a _hard_ Check for that power.
 
@@ -40,7 +42,7 @@ Similarly, Vigilance may be used as the basis for a [[magical subsystem]], using
 > -   When you fail to cast a more ordinary spell, or when a spell is cast upon you.
 > -   When you have a religious epiphany or a prophetic nightmare.
 
-Failing a normal Vigilance check means that you [[Capabilities#What does hesitation mean to you|hesitate]] for a moment, and if the check was hard then you suffer a spiritual or psychic break and gain a point of '[[Torpor]]' (the [[Stress|stress]] of Vigilance).
+Failing a normal Vigilance check means that you [[Capabilities#What does 'Hesitation' Mean|hesitate]] for a moment, and if the check was hard then you suffer a spiritual or psychic break and gain a point of '[[Torpor*]]' (the [[Stress|stress]] of Vigilance).
 
 #### Deriving Vigilance
 
@@ -48,13 +50,13 @@ Vigilance starts at [[Rank|rank]] 6, and advances or regresses by one step (ie. 
 
 |     | Vigilance Questions                                                                                                                                      |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #up | If Resolve is your best mental ability, _then advance your Vigilance_                                                                                    |
-| #up | If you have stared death in face, or encountered supernatural forces beyond your ken, _then advance your Vigilance_                                      |
-| #up | If your life is full of mysticism and wonder, or you're frequently pushing at the boundaries of what was thought possible, _then advance your Vigilance_ |
-| #dw | If Endurance is your worst physical ability, _then regress your Vigilance_                                                                               |
-| #dw | If you don't believe in fairy tales or ghost stories, _then regress your Vigilance_                                                                     |
-| #dw | If you've so far lead a very sheltered or arrogant lifestyle, _then regress your Vigilance_                                                              |
+| ⬆️ | If Resolve is your best mental ability, _then advance your Vigilance by 1_.                                                                                    |
+| ⬆️ | If you have stared death in face, or encountered supernatural forces beyond your ken, _then advance your Vigilance by 1_.                                      |
+| ⬆️ | If your life is full of mysticism and wonder, or you're frequently pushing at the boundaries of what was thought possible, _then advance your Vigilance by 1_. |
+| ⬇️ | If Endurance is your worst physical ability, _then regress your Vigilance by 1_.                                                                               |
+| ⬇️ | If you don't believe in fairy tales or ghost stories, _then regress your Vigilance by 1_.                                                                     |
+| ⬇️ | If you've so far lead a very sheltered or arrogant lifestyle, _then regress your Vigilance by 1_.                                                              |
 
 **Note:** Use whatever the next-best equivalent for fairies &or ghosts in your setting, those things _are definately_ real in your world. (The more generic version of this same question is basically, _"do you believe in the stuff that everyone else thinks is 'just fantasy'?"_).
 
-❗ [[You can only reach rank 2 Vigilance with a special gambit]].
+❗ [[Refined Capability|You can only reach rank 2 Vigilance with a special gambit]].

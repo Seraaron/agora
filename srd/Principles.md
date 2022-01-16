@@ -15,7 +15,7 @@ date updated: 2021-12-06 17:51
 
 # Principles
 
-Principles are a way for you to _express your character's personality and motivations_, by writing a few short sentences on your [[Character Sheets|character sheet]] labeled **[[Goals]]**, **[[Habits]]**, and **[[Creeds]]**.
+Principles are a way for you to _express your character's personality and motivations_, by writing a few short sentences on your [[Character Resources|character sheet]] labeled **[[Goals]]**, **[[Habits]]**, and **[[Creeds]]**.
 
 **You may have up to six principles in total** — usually two of each type — unless you have permission from your [[Facilitator|FC]] to add more. **Each one can only be a single sentence**, so there is a bit of a technique to writing _succinct and punchy principles_.
 
@@ -31,7 +31,7 @@ Principles are a way for you to _express your character's personality and motiva
 
 ## Changing Principles
 
-You can generally only write new principles during [[Character Assembly|character assembly]] and at the end of every [[Campaign Arcs|arc]] thereafter, or during [[Downtime and Travel|downtime]]. This is because your [[Facilitator|FC]] probably has something [[Challenging Principles|planned for your current principles]].
+You can generally only write new principles during [[Character Assembly|character assembly]] and at the end of every [[Campaign Arcs|arc]] thereafter, or during [[Downtime and Travel*|downtime]]. This is because your [[Facilitator|FC]] probably has something [[Challenging Principles|planned for your current principles]].
 
 Re-wording a principle before a session starts without changing it's core message is acceptable _if your [[Peers]] agree_. If you're using the '[[#Discovering Principles|discovery]]' rules, then **finding your principles during play** becomes a part of the game. _Otherwise, changing  principles mid-session is usually only done at dramatically appropriate times._
 

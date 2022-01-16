@@ -1,144 +1,143 @@
 ---
 alias:
-  - conditions list
+  - common conditions
   - example conditions
-  - condition suggestions
+  - random conditions table
 tags:
   - list
   - rng
-  - features
   - examples
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-23+1800
-date updated: 2021-12-22 12:39
+date updated: 2022-01-11 21:40
 ---
 
-#### D666 Example Conditions
+#### D666 Common Conditions
 
-**The lists below are all _just suggestions_.** Since they're just words or simple phrases it's quite easy to make up new ones. Some may be more applicable than others, and some may rarely ever come up. _This is fine_ because conditions are optional anyway. You may also notice that some are thematically similar, or may even be synonyms, and this is fine as well — because sometimes picking _the right word_ can be important too.
+**This list of [[Conditions|conditions]] are all _just suggestions_.** Since they're just adjectives, euphemisms, or turns of phrase it's quite easy to readjust the exact wording or make up new entirely ones.
 
-**To roll a D666:** roll 3d6 and take the one that lands closest to your left as the hundreds digit, the one that lands in the middle as the tens digit, and the one that lands to your right as the unitary digit. _This gives up to 216 possible outcomes._
+**To roll a D666:** Roll 3d6 and take the one that lands closest to your left as the hundreds digit, the one that lands in the middle as the tens digit, and the one that lands to your right as the unitary digit. _This gives up to 216 possible outcomes._
 
-###### 100 (A-C) — 200 (C-F)
+###### 100 — 200
 
-|    № | Suggested Condition     |    № | Suggested Condition         |
+|    № | A — C                   |    № | Cr — F                      |
 | ---: | ----------------------- | ---: | --------------------------- |
-| 111. | Abused                  | 211. | Controlling                 |
-| 112. | Addicted to...          | 212. | Corrupt                     |
-| 113. | Aggressive              | 213. | Covered in Aches and Pains  |
-| 114. | Allergic to...          | 214. | Cowardly                    |
-| 115. | Aloof                   | 215. | Cruel                       |
-| 116. | Always Fretting         | 216. | Cryptic                     |
-| 121. | Always Lashing Out      | 221. | Daring                      |
-| 122. | Always Swearing         | 222. | Deaf                        |
-| 123. | Angry                   | 223. | Depressed                   |
-| 124. | Anxious                 | 224. | Diseased                    |
-| 125. | Apprehensive            | 225. | Disfigured                  |
-| 126. | Argumentative           | 226. | Dismissive                  |
-| 131. | Arrogant                | 231. | Disturbed                   |
-| 132. | Asks Too Many Questions | 232. | Doting                      |
-| 133. | Attention Seeking       | 233. | Doubtful                    |
-| 134. | Betrayed                | 234. | Drunk                       |
-| 135. | Bitter                  | 235. | Dyslexic                    |
-| 136. | Blind                   | 236. | Dyspraxic                   |
-| 141. | Boastful                | 241. | Easily Distracted           |
-| 142. | Branded                 | 242. | Easily Frightened           |
-| 143. | Broken Body             | 243. | Enemies Around Every Corner |
-| 144. | Broken Heart            | 244. | Esoteric                    |
-| 145. | Broken Mind             | 245. | Exhausted                   |
-| 146. | Broken Limb             | 246. | Exiled                      |
-| 151. | Broken Teeth            | 251. | Facade                      |
-| 152. | Bruises Like a Peach    | 252. | Fear of Commitment          |
-| 153. | Bully                   | 253. | Fear of Darkness            |
-| 154. | Calloused               | 254. | Fear of Enclosed Spaces     |
-| 155. | Child at Heart          | 255. | Fear of Falling in Love     |
-| 156. | Clairvoyant             | 256. | Fear of Heights             |
-| 161. | Clumsy                  | 261. | Fear of Isolation           |
-| 162. | Color Blind             | 262. | Fear of Loud Noises         |
-| 163. | Compulsive Liar         | 263. | Fear of Open Spaces         |
-| 164. | Condescending           | 264. | Fear of Outsiders           |
-| 165. | Conspiratorial          | 265. | Fear of Pain / Death        |
-| 166. | Contrarian              | 266. | Fear of Silence             |
+| 111. | Aches and Pains         | 211. | Cruel                       |
+| 112. | Addicted to…            | 212. | Cryptic Signals             |
+| 113. | Aggressive              | 213. | Cunning                     |
+| 114. | Allergic to…            | 214. | Daring                      |
+| 115. | Always Lashing Out      | 215. | Dastardly                   |
+| 116. | Angry                   | 216. | Deaf                        |
+| 121. | Anxious                 | 221. | Decadent                    |
+| 122. | Apprehensive            | 222. | Defensive                   |
+| 123. | Argumentative           | 223. | Depressed                   |
+| 124. | Arrogant                | 224. | Devious                     |
+| 125. | Asks Too Many Questions | 225. | Diabolic                    |
+| 126. | Attention Seeking       | 226. | Diseased                    |
+| 131. | Betrayed                | 231. | Disfigured                  |
+| 132. | Big Spender             | 232. | Dismissive                  |
+| 133. | Bitter                  | 233. | Disturbed                   |
+| 134. | Blind                   | 234. | Doting                      |
+| 135. | Boastful                | 235. | Doubtful                    |
+| 136. | Branded                 | 236. | Drunk                       |
+| 141. | Broken Heart            | 241. | Dysphoric                   |
+| 142. | Broken Limb             | 242. | Early Bird                  |
+| 143. | Broken Teeth            | 243. | Easily Distracted           |
+| 144. | Bruises like a Peach    | 244. | Easily Frightened           |
+| 145. | Calloused               | 245. | Edgy                        |
+| 146. | Calm                    | 246. | Enemies Around Every Corner |
+| 151. | Cautious                | 251. | Envious                     |
+| 152. | Charitable              | 252. | Esoteric                    |
+| 153. | Child at Heart          | 253. | Exhausted                   |
+| 154. | Clairvoyant             | 254. | Exiled                      |
+| 155. | Clumsy                  | 255. | Extroverted                 |
+| 156. | Color Blind             | 256. | Facade                      |
+| 161. | Compulsive Liar         | 261. | Fear of …                   |
+| 162. | Condescending           | 262. | Fearless                    |
+| 163. | Conspiring              | 263. | Feral                       |
+| 164. | Contrarian              | 264. | Filled With Regrets         |
+| 165. | Controlling             | 265. | Flirtatious                 |
+| 166. | Cowardly                | 266. | Forgetful                   |
 
-###### 300 (F-K) — 400 (L-O)
+###### 300 — 400
 
-|    № | Suggested Condition         |    № | Suggested Condition          |
-| ---: | --------------------------- | ---: | ---------------------------- |
-| 311. | Fear of Spiders / Insects   | 411. | Lacking Restraint            |
-| 312. | Fear of the Unknowable      | 412. | Lazy                         |
-| 313. | Fear of the Unknown         | 413. | Limping                      |
-| 314. | Fear of Thunder / Lightning | 414. | Living in the Past           |
-| 315. | Feral                       | 415. | Logical to a Fault           |
-| 316. | Filled With Regret          | 416. | Lonely                       |
-| 321. | Forgetful                   | 421. | Lustful                      |
-| 322. | Frail                       | 422. | Maimed                       |
-| 323. | Fugitive                    | 423. | Melancholic                  |
-| 324. | Gallows Humor               | 424. | Melodramatic                 |
-| 325. | Greedy                      | 425. | Merciless                    |
-| 326. | Grieving                    | 426. | Messianic                    |
-| 331. | Gross                       | 431. | Mischievous                  |
-| 332. | Grumpy                      | 432. | Missing Eye                  |
-| 333. | Gullible                    | 433. | Missing Limb                 |
-| 334. | Half-hearted                | 434. | Missing Organ                |
-| 335. | Hard of Hearing             | 435. | Moody                        |
-| 336. | Heartbroken                 | 436. | Morbid                       |
-| 341. | Hemophiliac                 | 441. | Must Get the Last Word       |
-| 342. | Hoarder                     | 442. | Mute                         |
-| 343. | Holds a Grudge              | 443. | Muttering                    |
-| 344. | Holier Than Thou            | 444. | Narcissistic                 |
-| 345. | Hollow                      | 445. | Narcoleptic                  |
-| 346. | Hurtful                     | 446. | Needy                        |
-| 351. | Hyperfixated                | 451. | Never Looking Back           |
-| 352. | Hypoglycaemic               | 452. | Nihilistic                   |
-| 353. | Ideologue                   | 453. | No Appreciation for the Arts |
-| 354. | Ignoble                     | 454. | No Fear                      |
-| 355. | Impatient                   | 455. | No Sense of Direction        |
-| 356. | Impulsive                   | 456. | No Sense of Humor            |
-| 361. | In Too Deep                 | 461. | No Sense of Personal Space   |
-| 362. | Indulgent                   | 462. | Nosey                        |
-| 363. | Insomniac                   | 463. | Numb                         |
-| 364. | Irrational Hatred           | 464. | Oathbreaker                  |
-| 365. | Jaded                       | 466. | Obsessed                     |
-| 366. | Klepto                      | 465. | Obedient                     |
+|    № | Fr — J            |    № | L — O                        |
+| ---: | ----------------- | ---: | ---------------------------- |
+| 311. | Frail             | 411. | Lacking Restraint            |
+| 312. | Fretting          | 412. | Lazy                         |
+| 313. | Frivolous         | 413. | Lightweight                  |
+| 314. | Fugative          | 414. | Limping                      |
+| 315. | Gallows Humor     | 415. | Living in the Past           |
+| 316. | Gluttonous        | 416. | Logical to a Fault           |
+| 321. | Greedy            | 421. | Lonely                       |
+| 322. | Grieving          | 422. | Lost in Thought              |
+| 323. | Gross             | 423. | Lustful                      |
+| 324. | Grumpy            | 424. | Maimed                       |
+| 325. | Gullible          | 425. | Melancholic                  |
+| 326. | Hard of Hearing   | 426. | Melodramatic                 |
+| 331. | Heart of Darkness | 431. | Merciless                    |
+| 332. | Heartbroken       | 432. | Messianic                    |
+| 333. | Heavyweight       | 433. | Mischevious                  |
+| 334. | Hemophilliac      | 434. | Missing Eye                  |
+| 335. | Hoarder           | 435. | Missing Limb                 |
+| 336. | Holds a Grudge    | 436. | Moody                        |
+| 341. | Holier Than Thou  | 441. | Morbid Curiosity             |
+| 342. | Hollow            | 442. | Must Get the Last Word       |
+| 343. | Hubris            | 443. | Mute                         |
+| 344. | Humble            | 444. | Narcissistic                 |
+| 345. | Hyperfixated      | 445. | Needy                        |
+| 346. | Idealogue         | 446. | Neurodivergent               |
+| 351. | Ignoble           | 451. | Never Impressed              |
+| 352. | Impatient         | 452. | Never Looking Back           |
+| 353. | Impulsive         | 453. | Nihilistic                   |
+| 354. | In Too Deep       | 454. | No Appreciation for the Arts |
+| 355. | Indulgent         | 455. | No Sense of Direction        |
+| 356. | Insomniac         | 456. | No Sense of Humor            |
+| 361. | Introverted       | 461. | No Sense of Personal Space   |
+| 362. | Irrational Hatred | 462. | Nosey                        |
+| 363. | Jaded             | 463. | Numb                         |
+| 364. | Jinxed            | 464. | Oathbreaker                  |
+| 365. | Jittery           | 465. | Obedient                     |
+| 366. | Jovial            | 466. | Obsessed                     |
 
-###### 500 (O-S) — 600 (S-W)
+###### 500 — 600
 
-|    № | Suggested Condition       |    № | Suggested Condition  |
+|    № | Or — S                    |    № | T — W                |
 | ---: | ------------------------- | ---: | -------------------- |
-| 511. | Orphaned                  | 611. | Sick                 |
-| 512. | Outcast                   | 612. | Sinner               |
-| 513. | Outdated Ways of Thinking | 613. | Slave to Fate        |
-| 514. | Outlaw                    | 614. | Slow Worker          |
-| 515. | Overanalyzing             | 615. | Smug                 |
-| 516. | Overconfident             | 616. | Stared into the Void |
-| 521. | Overly Cautious           | 621. | Stutter              |
-| 522. | Overly Content            | 622. | Tone Deaf            |
-| 523. | Overly Defensive          | 623. | Too Loud             |
-| 524. | Overly Flirtatious        | 624. | Too Quiet            |
-| 525. | Overly Humble             | 625. | Too Sensitive        |
-| 526. | Overly Organized          | 626. | Too Short            |
-| 531. | Overly Polite             | 631. | Too Tall             |
-| 532. | Overly Romantic           | 632. | Too Trusting         |
-| 533. | Overly Tolerant           | 633. | Traitor              |
-| 534. | Overly Whimsical          | 634. | Traumatic Past       |
-| 535. | Overprotective            | 635. | Tremors              |
-| 536. | Oversharing               | 636. | Trouble Maker        |
-| 541. | Paralytic                 | 641. | Ugly Soul            |
-| 542. | Perpetually Bored         | 642. | Unclean              |
-| 543. | Perfectionist             | 643. | Unimaginative        |
-| 544. | Prosthetic Limb           | 644. | Unimpressed          |
-| 545. | Psychotic                 | 645. | Unlucky              |
-| 546. | Quirky                    | 646. | Unstylish            |
-| 551. | Recovering from Surgery   | 651. | Untrusting           |
-| 552. | Sad                       | 652. | Vain                 |
-| 553. | Scapegoat                 | 653. | Vengeful             |
-| 554. | Scarred                   | 654. | Wanderlust           |
-| 555. | Secretive                 | 655. | Wants to be Martyred |
-| 556. | Self-Absorbed             | 656. | Weak Heart           |
-| 561. | Self-Righteous            | 661. | Weak Joints          |
-| 562. | Self-Sabotaging           | 662. | Weak Stomach         |
-| 563. | Severely Overweight       | 663. | Weary                |
-| 564. | Severely Underweight      | 664. | Wheelchair Bound     |
-| 565. | Shaken to the Core        | 665. | Wistful Dreamer      |
-| 566. | Shrewd                    | 666. | Workaholic           |
+| 511. | Orphaned                  | 611. | The World Must Know! |
+| 512. | Outdated Ways of Thinking | 612. | Thousand Yard Stare  |
+| 513. | Outlaw                    | 613. | Tolerant             |
+| 514. | Overanalyzing             | 614. | Tone Deaf            |
+| 515. | Overconfident             | 615. | Too Loud / Too Quiet |
+| 516. | Overly Attached           | 616. | Too Short / Too Tall |
+| 521. | Overly Skeptical          | 621. | Traitor              |
+| 522. | Overprotective            | 622. | Traumatic Past       |
+| 523. | Oversharing               | 623. | Trepidations         |
+| 524. | Pacifistic                | 624. | Trouble Maker        |
+| 525. | Paranoid                  | 625. | Trusting             |
+| 526. | Polite                    | 626. | Twinkle in the Eye   |
+| 531. | Prosthetic Limb           | 631. | Two Left Feet        |
+| 532. | Proud                     | 632. | Unaccustomed         |
+| 533. | Quarrelsome               | 633. | Uncouth              |
+| 534. | Questioning               | 634. | Unfashionable        |
+| 535. | Quirky                    | 635. | Untrusting           |
+| 536. | Recovering from Surgery   | 636. | Vain                 |
+| 541. | Romantic                  | 641. | Vengeful             |
+| 542. | Scapegoat                 | 642. | Viscious             |
+| 543. | Scarred                   | 643. | Visionary            |
+| 544. | Secretive                 | 644. | Visions From Beyond  |
+| 545. | Self-Absorbed             | 645. | Volatile             |
+| 546. | Self-Righteous            | 646. | Wanderlust           |
+| 551. | Self-Sabotaging           | 651. | Wants to be Martyred |
+| 552. | Sensitive                 | 652. | Weak Heart           |
+| 553. | Shaken to the Core        | 653. | Weak Joints          |
+| 554. | Shrewd                    | 654. | Weak Stomach         |
+| 555. | Slanderous                | 655. | Weary                |
+| 556. | Slave to Fate             | 656. | Well-Organized       |
+| 561. | Slow Worker               | 661. | Wheelchair Bound     |
+| 562. | Smug                      | 662. | Whimsical            |
+| 563. | Sticky Fingers            | 663. | Whispers             |
+| 564. | Stingy                    | 664. | Wistful Dreamer      |
+| 565. | Stuttering                | 665. | Workaholic           |
+| 566. | Swears Like a Sailor      | 666. | Wrathful             |

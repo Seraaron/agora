@@ -4,7 +4,6 @@ alias:
   - jobs list
 tags:
   - list
-  - job
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-14+1100

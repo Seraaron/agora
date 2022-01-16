@@ -7,24 +7,24 @@ tags:
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-12-22 16:35
+date updated: 2022-01-14 01:21
 ---
 
 ## Machinist
 
-_Description sentence one. Description sentence two._ Explanation sentence one. Explanation sentence two. Explanation sentence three. Explanation sentence four.  #rewrite
+| Major Jobs     | Minor Jobs                    |
+| -------------- | ----------------------------- |
+| [[Engineer]]   | [[Alchemist]] / [[Physician]] |
+| [[Gunner]]     | [[Guard]]                     |
+| [[Skirmisher]] | [[Philosopher]]               |
+| [[Driver]]     | [[Smith]]                     |
 
-| Major Jobs (Lvl. 4) | Minor Jobs (Lvl. 3)           |
-| ------------------- | ----------------------------- |
-| [[Engineer]]        | [[Alchemist]] / [[Physician]] |
-| [[Gunner]]          | [[Guard]]                     |
-| [[Skirmisher]]      | [[Philosopher]]               |
-| [[Driver]]          | [[Smith]]                     |
-
-| Assets & Gear | _Specialties_           | Wealth |
-| ------------- | :---------------------- | :----: |
-| ⋄             | ⋄ _[armor] / [weapons]_ |    4   |
-| ⋄             | ⋄ _ [craft]_            |        |
-| ⋄             | ⋄ _ [science]_          |        |
+| Assets & Gear                           | _Specialties_           | Wealth |
+| --------------------------------------- | :---------------------- | :----: |
+| ⋄ +1D Scientific Society / +1D Workshop | ⋄ _[craft]_             |   +2   |
+| ⋄ EQ #craft-tools                       | ⋄ _[armor] / [weapons]_ |        |
+| ⋄ A Thick Cloak & An Open-Faced Helm    | ⋄ _[science]_           |        |
+| ⋄ Any EQ #firearm Weapon / Prototype    |                         |        |
 
 ![[Always Prepared]]
 

@@ -4,6 +4,7 @@ alias:
   - child care
   - Midwife
   - Herbalist
+  - Parent
 tags:
 
   - job

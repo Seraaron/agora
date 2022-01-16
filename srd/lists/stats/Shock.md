@@ -19,3 +19,7 @@ Being _shaken_ is the [[Stress|stress]] of [[Finesse]]. It is a combination of f
 
 > ### Eg.
 > Traditionally, 'vices' includes things like theft, violence, or boasting — the [seven deadly sins](https://en.wikipedia.org/wiki/Seven_deadly_sins) and all that — but it could just as easily mean substance abuse, regressing to old Habits, entering a bout of melancholy, or causing personal sacrilege.
+
+##### Overflow
+
+If you have too much Shock, it is most likely to overflow into [[Fatigue]] or [[Burnout]].

@@ -9,9 +9,9 @@ date created: 2021-12-14 15:00
 date updated: 2021-12-14 15:58
 ---
 
-### Telepathic
+#### Telepathic
 
-|   _Effects_ | Constant                                                                                                                                                                                                                                                                                                           |
+|   _Grade_ | Effect Duration: _Constant_                                                                                                                                                                                                                                                                                                           |
 | ----------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |    _Basic:_ | You can silently speak to others with your mind, so long as you can see them. They will hear your voice in their head, but they cannot necessarily reply (unless they also have telepathy). Alternatively, you can project out a single word or emotion to the minds of _everyone_ within a few paces.             |
 | _Advanced:_ | You can now communicate telepathically with anyone you've communicated with before — out to a remote range — without the need for eye contact. Alternatively, you can selectively project a sentence out to specific individuals that you know are nearby and whom you've communicated with telepathically before. |

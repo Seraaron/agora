@@ -37,7 +37,7 @@ Your [[Peers]] may veto a crafting project that seems incongruous with the techn
 >
 > _You can't create +5 armor out of cloth or leather, or make a +2 sword from wrought bronze or pig iron, or build a plasma rifle in the middle ages._
 
-Be reasonable, and stick to your setting's established [[Genre, Tone, and Themes|genre, tone, and themes]]. **Use the [[Gear List|gear list]] as a guide.** Though, you may add bonus dice to the roll if you're using excellent or superior quality tools.
+Be reasonable, and stick to your setting's established [[Genre, Tone, and Themes*|genre, tone, and themes]]. **Use the [[Gear List|gear list]] as a guide.** Though, you may add bonus dice to the roll if you're using excellent or superior quality tools.
 
 ❓ Similarly, the predominant material you've selected may change the job you should use: [[Clothier]] uses mostly cloth and leather, [[Wright]] uses mostly wood and stone, and [[Smith]] uses mostly metal and machines.
 
@@ -53,7 +53,7 @@ _You cannot decide what quality the items you want to make will be_, you can onl
 
 ##### Crafting Time
 
-**Each roll takes a minimum number of days equal to the total difficulty**, which may generate [[Downtime and Travel|downtime]] for the other players. _If your making armor, or something larger, then use a multiple of weeks instead of days_. Margin of success may also reduce this time, proportionately.
+**Each roll takes a minimum number of days equal to the total difficulty**, which may generate [[Downtime and Travel*|downtime]] for the other players. _If your making armor, or something larger, then use a multiple of weeks instead of days_. Margin of success may also reduce this time, proportionately.
 
 ##### Judging Failure
 

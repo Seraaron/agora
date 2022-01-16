@@ -8,7 +8,7 @@ tags:
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-18 16:55
-date updated: 2021-12-22 15:11
+date updated: 2022-01-13 20:36
 ---
 
 Weapons work a bit differently from [[Armor List|armor and shields]], and are more like _tools_ for the various #martial jobs.
@@ -40,7 +40,7 @@ Some of the weapons in this list have alternatives — usually #great variants �
 | **Canesword**                            | #any-melee          | #short #light | #slashing            | #secret                       |      6¢ |
 | **Hookswords**                           | #martialist         | #medium       | #slashing #binding   | #flexible #hand-guard #paired |      8¢ |
 | **Knife / Bayonet, `Throwing Knives`**   | #brawler `#hunter`  | #short #light | #slashing            | #secret                       | 5¢ `6¢` |
-| **Sickle Sword**                         | #warrior            | #short #light | #rending #binding    | —                             |      5¢ |
+| **Sickle**                               | #warrior            | #short #light | #rending #binding    | —                             |      5¢ |
 | **Tiger-Claws**                          | #martialist         | #short #light | #slashing #binding   | #paired #secret #worn         |      8¢ |
 
 #### CQ Bludgeons
@@ -50,26 +50,27 @@ Some of the weapons in this list have alternatives — usually #great variants �
 | **Baton, `Sectioned Rods`**      | #any-melee  | #short #light  | #bashing `#binding`  | `#flexible`       | 5¢ `7¢` |
 | **Brass Knuckles, `Push-Knife`** | #brawler    | #short #heavy  | #bashing `#piercing` | #worn             | 5¢ `6¢` |
 | **Iron Fan**                     | #martialist | #short #light  | #bashing #slashing   | #secret           | 6¢      |
+| **Hammer**                       | #brawler    | #short #heavy  | #bashing             |                   |         |
 | **Meteor Hammer**                | #martialist | #medium #great | #bashing             | #flexible         | 5¢      |
 | **Scourge**                      | #brawler    | #short #light  | #binding             | #flexible         | 5¢      |
 | **Whip**                         | #martialist | #long #light   | #binding             | #flexible #secret | 6¢      |
 
 #### CQ Polearms
 
-| Weapon (Alt.)                | Job        | Weight           | Damage               | Additional  | ₡ost    |
-| :--------------------------- | ---------- | ---------------- | -------------------- | ----------- | ------- |
-| **Billhook**                 | #any-melee | #long #heavy     | #piercing #binding   | #formation  | 7¢      |
-| **Pike**                     | #warrior   | #long #heavy     | #piercing            | #formation  | 5¢      |
-| **Pitchfork**                | #brawler   | #long #heavy     | #piercing #binding   | —           | 5¢      |
-| **Scythe**                   | #brawler   | #long #light     | #slashing #binding   | —           | 5¢      |
-| **Spear, `Boarspear`**       | #any-melee | #medium `#great` | #piercing `#binding` | #formation  | 5¢ `7¢` |
-| **Staff, `Sectioned Stave`** | #any-melee | #medium          | #bashing  `#binding` | `#flexible` | 4¢ `6¢` |
+| Weapon (Alt.)                 | Job        | Weight           | Damage               | Additional  | ₡ost    |
+| :---------------------------- | ---------- | ---------------- | -------------------- | ----------- | ------- |
+| **Billhook**                  | #any-melee | #long #heavy     | #piercing #binding   | #formation  | 7¢      |
+| **Pike**                      | #warrior   | #long #heavy     | #piercing            | #formation  | 5¢      |
+| **Pitchfork**                 | #brawler   | #long #heavy     | #binding             | —           | 4¢      |
+| **Scythe**                    | #brawler   | #long #light     | #slashing #binding   | —           | 5¢      |
+| **Spear, `Boarspear`**        | #any-melee | #medium `#great` | #piercing `#binding` | #formation  | 5¢ `7¢` |
+| **Staff, `Sectioned Staves`** | #any-melee | #medium          | #bashing  `#binding` | `#flexible` | 4¢ `6¢` |
 
 #### CQ Projectiles
 
 | Weapon (Alt.)               | Job              | Weight        | Damage             | Additional                            | ₡ost    |
 | :-------------------------- | ---------------- | ------------- | ------------------ | ------------------------------------- | ------- |
-| **Blowgun**                 | #any-ranged      | #short #light | #binding #poison-1 | —                                     | 7¢      |
+| **Blowpipe**                | #any-ranged      | #short #light | #binding #poison-1 | —                                     | 7¢      |
 | **Bolas**                   | #hunter          | #short #heavy | #binding           | #cavalry #flexible #one-shot          | 8¢      |
 | **Fire Lance**              | #gunner          | #short #heavy | #burning           | #artillery #bayonet #one-shot #spread | 10¢     |
 | **Hand Cannon**             | #gunner          | #short #heavy | #piercing          | #formation #one-shot                  | 8¢      |
@@ -77,9 +78,9 @@ Some of the weapons in this list have alternatives — usually #great variants �
 | **Javelins**                | #hunter #brawler | #short #heavy | #piercing          | #formation                            | 6¢      |
 | **Longbow, `Greatbow`**     | #archer          | #long #heavy  | #ammo-type         | #formation `#great`                   | 6¢ `7¢` |
 | **Shortbow, `Recurve Bow`** | #archer          | #short #light | #ammo-type         | `#cavalry`                            | 5¢ `6¢` |
-| **Sling**                   | #hunter          | #short #light | #bashing           | #formation #secret                    | 6¢      |
+| **Sling**                   | #hunter          | #short #light | #bashing           | #secret                               | 5¢      |
 | **Slingshot**               | #archer          | #short #light | #bashing           | —                                     | 4¢      |
-| **Sling Staff**             | #hunter          | #long #light  | #bashing           | #formation #bayonet                   | 6¢      |
+| **Sling Staff**             | #any-ranged      | #long #light  | #bashing           | #bayonet                              | 6¢      |
 | **Throwing Hatchets**       | #hunter #brawler | #medium       | #rending           | #paired                               | 5¢      |
 
 > ![[Ammo Types]]
@@ -107,39 +108,39 @@ Some of the weapons in this list have alternatives — usually #great variants �
 
 #### EQ Bludgeons
 
-| Weapon (Alt.)               | Job        | Weight              | Damage             | Additional        | ₡ost      |
-| :-------------------------- | ---------- | ------------------- | ------------------ | ----------------- | --------- |
-| **Buckler**                 | #warrior   | #short #light       | #bashing           | #shield           | 10¢       |
-| **Cestus**                  | #brawler   | #short #super-heavy | #bashing           | #hand-guard #worn | 16¢       |
-| **Combat Spade**            | #any-melee | #short #heavy       | #bashing #binding  | —                 | 14¢       |
-| **Greatclub, `Pole Flail`** | #warrior   | #long #super-heavy  | #bashing           | `#flexible`       | 10¢ `12¢` |
-| **Mace, `Flail`**           | #warrior   | #short #heavy       | #bashing           | `#flexible`       | 8¢ `10¢`  |
-| **Prismatic Sword**         | #warrior   | #short #light       | #slashing #binding | —                 | 10¢       |
-| **Warclub, `Warhammer`**    | #warrior   | #medium             | #bashing           | `#hand-guard`     | 6¢ `10¢`  |
+| Weapon (Alt.)               | Job        | Weight              | Damage            | Additional        | ₡ost      |
+| :-------------------------- | ---------- | ------------------- | ----------------- | ----------------- | --------- |
+| **Buckler**                 | #warrior   | #short #light       | #bashing          | #shield           | 10¢       |
+| **Cestus**                  | #brawler   | #short #super-heavy | #bashing          | #hand-guard #worn | 16¢       |
+| **Greatclub, `Pole Flail`** | #warrior   | #long #super-heavy  | #bashing          | `#flexible`       | 10¢ `12¢` |
+| **Mace, `Flail`**           | #any-melee | #short #heavy       | #bashing          | `#flexible`       | 10¢ `12¢` |
+| **Prismatic Sword**         | #warrior   | #short #light       | #rending #bashing | —                 | 10¢       |
+| **Warclub, `Warhammer`**    | #warrior   | #medium             | #bashing          | `#hand-guard`     | 6¢ `10¢`  |
 
 #### EQ Polearms
 
-| Weapon (Alt.)              | Job                    | Weight                 | Damage            | Additional              | ₡ost      |
-| :------------------------- | ---------------------- | ---------------------- | ----------------- | ----------------------- | --------- |
-| **Battleaxe, `Poleaxe`**   | #warrior               | #medium                | #rending #binding | `#formation`            | 8¢ `10¢`  |
-| **Lance, `Greatlance`**    | #warrior               | #long #light `#great`  | #piercing         | #cavalry  `#hand-guard` | 10¢ `16¢` |
-| **Military Fork**          | #any-melee             | #long #light           | #piercing         | #binding #formation     | 14¢       |
-| **Warscythe, `Polesword`** | #warrior `#martialist` | #short #heavy `#great` | #rending #binding | #cavalry                | 14¢ `18¢` |
+| Weapon (Alt.)              | Job                    | Weight                 | Damage             | Additional              | ₡ost      |
+| :------------------------- | ---------------------- | ---------------------- | ------------------ | ----------------------- | --------- |
+| **Battleaxe, `Poleaxe`**   | #warrior               | #medium                | #rending #binding  | `#formation`            | 8¢ `10¢`  |
+| **Combat Spade**           | #any-melee             | #short #heavy          | #slashing #bashing | —                       | 14¢       |
+| **Lance, `Greatlance`**    | #warrior               | #long #light `#great`  | #piercing          | #cavalry  `#hand-guard` | 10¢ `16¢` |
+| **Military Fork**          | #any-melee             | #long #light           | #piercing #binding | #formation              | 14¢       |
+| **Warscythe, `Polesword`** | #warrior `#martialist` | #short #heavy `#great` | #rending #binding  | #cavalry                | 14¢ `18¢` |
 
 #### EQ Projectiles
 
 | Weapon (Alt.)                     | Job                 | Weight              | Damage     | Additional                            | ₡ost      |
 | :-------------------------------- | ------------------- | ------------------- | ---------- | ------------------------------------- | --------- |
-| **Boomstick, `Dueling Handguns`** | #gunner             | #short #light       | #slashing  | #cavalry #firearm #one-shot `#paired` | 16¢ `18¢` |
+| **Arquebus / Long Gun**           | #gunner             | #long #light        | #piercing  | #bayonet #firearm #one-shot           | 16¢       |
+| **Blunderbuss**                   | #gunner             | #short #heavy       | #bashing   | #firearm #one-shot                    | 14¢       |
 | **Heavy Crossbow**                | #archer             | #long #heavy        | #ammo-type | #artillery #reload                    | 14¢       |
 | **Light Crossbow**                | #archer             | #long #light        | #ammo-type | #formation #reload                    | 14¢       |
-| **Long Gun**                      | #gunner             | #long #light        | #piercing  | #bayonet #firearm #one-shot           | 16¢       |
+| **Musketoon, `Duelling Pistols`** | #gunner             | #short #light       | #slashing  | #cavalry #firearm #one-shot `#paired` | 16¢ `18¢` |
 | **Repeating Crossbow**            | #archer             | #short #light       | #binding   | #artillery #ten-shot                  | 14¢       |
 | **Stonebow**                      | #archer             | #short #heavy       | #bashing   | #reload                               | 10¢       |
 | **Spear-Thrower**                 | #hunter             | #long #light        | #piercing  | —                                     | 8¢        |
 | **Throwing Rings**                | #hunter #martialist | #short #light       | #rending   | #worn                                 | 12¢       |
 | **Throwing Stars**                | #hunter             | #short #light       | #slashing  | #secret                               | 10¢       |
-| **Thunderpipe**                   | #gunner             | #short #heavy       | #bashing   | #firearm #one-shot                    | 14¢       |
 | **Wardarts**                      | #hunter             | #short #heavy       | #slashing  | —                                     | 8¢        |
 | **Wardiscus**                     | #hunter             | #short #super-heavy | #bashing   | —                                     | 10¢       |
 

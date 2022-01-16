@@ -22,7 +22,7 @@ Before you start your first session of play it can be useful to just familiarize
 
 **The largest unit is of course the session itself**. A good session should last between 3 and 5 hours, or longer if you're feeling up for it, and contains at least one of each of the following segments:
 
-- **🎦 Introduction** — Placed at the start of a session. Spend a few minutes going around the table reading aloud your [[Principles]],  setting the [[Genre, Tone, and Themes|mood]], and framing the first [[#scenes|scene]].
+- **🎦 Introduction** — Placed at the start of a session. Spend a few minutes going around the table reading aloud your [[Principles]],  setting the [[Genre, Tone, and Themes*|mood]], and framing the first [[#scenes|scene]].
 - **🔂 Recap** — Take turns each session after the first to let a [[Peers|Peer]] brief the rest of the table on what they remember happening last time. This can highlight the moments that they thought were most important, or what they took the most [[Taking notes|notes]] about.
 - **▶️ Actual Play** — The majority of a session. This is where almost all of the roleplaying, rolling dice, and story moments happen. These are the parts you'll probably remember the most.
 - **⏸️ Breaks** — Actual play is usually broken up with breaks. A ten minute break every couple of hours is a good rate. But take more breaks, or longer breaks, if you need to. You can also do another quick recap between breaks.
@@ -38,15 +38,15 @@ This is where most of the session lives. This is when you roleplay, roll dice, a
 
 #### Scenes
 
-A scene is a place where actions and events of your game occur. They can be 'seen' — in our imaginations — from multiple points of view at once (usually those of the player characters), or we can even 'frame a scene' in a certain way so that we — the players — see it from a perspective that the characters in that place cannot.
+A scene is a place where actions and events of your game occur. They can be 'seen' — in our imaginations — from multiple points of view at once (usually those of the player characters), or we can even 'frame a scene' so that we — the players — can see it from a perspective that the characters in that place cannot.
 
-You should introduce a scene by describing the location, the sounds, smells, and other senses one would experience if they were in that place. Tell us what the architecture is like, what's nearby, and what's off in the distance. You can add characters to the scene, and describe what they're wearing, what they're doing, or who they're talking to. And you should _[[Pitching and Planning|plan]] for something to happen_ at some point in the scene that will entice us and make us want to play to find out _what will happen next_.
+You should introduce a scene by describing the location, the sounds, smells, and other senses one would experience if they were in that place. Tell us what the architecture is like, what's nearby, and what's off in the distance. You can add characters to the scene, and describe what they're wearing, what they're doing, or who they're talking to. And you should _[[Pitching and Planning*|plan]] for something to happen_ at some point in the scene that will entice us and make us want to play to find out _what will happen next_.
 
 Once the space is clear in the players minds, they can begin to explore the scene by roleplaying in character (sometimes called 'first person'), or by describing what they do from afar (sometimes called 'third person'). Some players like to speak 'with a voice'. That is, an accent, or just a certain timbre. Others do not. _Either way is perfectly alright._
 
 ##### How long is a scene?
 
-This is unfortunately a bit like asking _"how long is a piece of string?"_, because the answer is the same: _"As long as it needs to be"_. In general, a scene shouldn't last longer than an hour of real world playtime, but that hour could only be fifteen minutes in the game world. So it really depends on the context.
+This is unfortunately a bit like asking _"how long is a piece of string?"_, because the answer is the same: _"As long as it needs to be"_. In general, a scene shouldn't last longer than an hour of real world playtime, but that hour of play could mean anywhere between a few minutes in the game world to a few hours. So it really depends on the context.
 
 > ### Ie.
 >

@@ -17,7 +17,7 @@ Guns will _ignore non-bullet-proof shields_ during combat — and can even pass 
 
 Outside of combat, a direct hit from a gun can kill someone in seconds — so it's important to always describe non-pacifying hits from guns during combat as near misses or non-vital hits.
 
-❗ Always talk with your [[Peers]] before including guns in your game as it may be sensitive issue for some players, and they can drastically change the feel and [[Genre, Tone, and Themes|tone]] of your setting.
+❗ Always talk with your [[Peers]] before including guns in your game as it may be sensitive issue for some players, and they can drastically change the feel and [[Genre, Tone, and Themes*|tone]] of your setting.
 
 ##### Later Era Firearms
 
