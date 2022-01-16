@@ -531,7 +531,7 @@ input[type=checkbox]:checked {
   background-repeat: repeat;
 }
 /* Hides the text of the #tags  */
-.tag[href="#quote"] {
+.tag[href="#important"], .tag[href="#question"], .tag[href="#asterisk"], .tag[href="#quote"] {
   position: relative;
   background-color: transparent !important;
   color: transparent !important;
@@ -539,6 +539,42 @@ input[type=checkbox]:checked {
   pointer-events: none;
 }
 /* Defines the styling of the text and tag content */
+/* important bullet */
+.tag[href="#important"]:after {
+  font-family: var(--font-smallcaps) !important;
+  font-size: var(--font-size-bigger) !important;
+  color: var(--col-crimson);
+  font-weight: 900;
+  content: "!";
+  display: inline;
+  position: absolute;
+  left: 2em;
+  line-height: 1em;
+}
+/* question bullet */
+.tag[href="#question"]:after {
+  font-family: var(--font-smallcaps) !important;
+  font-size: var(--font-size-bigger) !important;
+  color: var(--col-crimson);
+  font-weight: 900;
+  content: "?";
+  display: inline;
+  position: absolute;
+  left: 1.95em;
+  line-height: 1em;
+}
+/* asterisk bullet */
+.tag[href="#asterisk"]:after {
+  font-family: var(--font-smallcaps) !important;
+  font-size: var(--font-size-big) !important;
+  color: var(--col-crimson);
+  font-weight: 700;
+  content: "∗";
+  display: inline;
+  position: absolute;
+  left: 2.3em;
+  line-height: 1em;
+}
 /* quote */
 .tag[href="#quote"]:after {
   font-family: var(--font-smallcaps) !important;

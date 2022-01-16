@@ -9,9 +9,9 @@ date created: 2021-12-14 14:58
 date updated: 2021-12-14 15:56
 ---
 
-### High [stress] Tolerance
+#### High [stress] Tolerance
 
-|   _Effects_ | Constant                                                                                           |
+|   _Grade_ | Effect Duration: _Constant_                                                                                           |
 | ----------: | -------------------------------------------------------------------------------------------------- |
 |    _Basic:_ | Choose a [[Stress]] type when you take this gambit: You can now suffer 3 points it, rather than 2. |
 | _Advanced:_ | The first point of stress suffered for the chosen type no longer applies a die penalty.            |

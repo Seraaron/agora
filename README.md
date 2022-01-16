@@ -14,6 +14,13 @@ Right now, the only thing availiable is the published SRD or 'system reference d
 
 ### Alpha Versions
 
+#### 16 Jan 2022 (v0.5)
+- Finished character assembly rules (the game should now be fully playable!)
+- Updated professions and cultures
+- Updated conditions rules and conditions list
+- Started ancestries list
+- Added asterisks to articles that aren't currently live on the wiki (ie. heavily unfinished or nee rewriting)
+
 #### 22 Dec 2021 (v0.4)
 - Added gambits list
 - Added cultures list

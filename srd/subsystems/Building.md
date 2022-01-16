@@ -12,7 +12,7 @@ date updated: 2021-12-01 13:24
 
 ### Building
 
-When you want to build a large structure — such as a house, bridge, fort, or ship — first consider the size of the project and the variety of materials required to make it. This will give you a base difficulty and the approximate time taken to make the roll, which also creates [[Downtime and Travel|downtime]] for the other players, as follows:
+When you want to build a large structure — such as a house, bridge, fort, or ship — first consider the size of the project and the variety of materials required to make it. This will give you a base difficulty and the approximate time taken to make the roll, which also creates [[Downtime and Travel*|downtime]] for the other players, as follows:
 
 | Project                            | Base Difficulty | _Time per Roll_ |
 | ---------------------------------- | :-------------: | --------------- |

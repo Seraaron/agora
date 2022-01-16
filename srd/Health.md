@@ -17,15 +17,24 @@ date updated: 2021-12-06 21:50
 Health represents both your physical and mental well-being, your capacity to continue fighting for what you believe in, and a measure of your _life energy_. It is a complex stat, which can be damaged and healed — but _that damage always leave a mark_.
 
 - **All healthy adult characters start with two Health**.
-- This is best represented by filling in the diamonds (ie. ◇◇ → ◆◆) on your [[Character Sheets|character sheet]], since it changes fairly infrequently.
+- This is best represented by filling in the diamonds (ie. ◇◇ → ◆◆) on your [[Character Resources|character sheet]], since it changes fairly infrequently.
 
 If your [[Peers]] allow it, you may **opt to start the game with only one Health point**, and instead _start with a point of [[Fidelity]] and an active [[Wounds and Scars|wound]]_ — representing something in your character's recent past that they stood up for and were injured because of.
 
 ❓ Junior and senior [[Circumstances#Age|aged]] characters only have _one health_ as their maximum, meaning they are more vulnerable.
 
+### Bonus Dice
+
+**Your current Health points are sometimes used to grant bonus dice to rolls.**
+
+> ### Ie.
+> - When using a [[Conditions|condition]] to your [[Conditions#Using them to your Benefit|benefit]], by spending a [[Lots|Lot]].
+> - When you spend [[Ego]] on an [[Exploding Dice|exploding roll]], after [[KISSing]].
+> - When using certain [[Gambits|gambits]].
+
 ### Cheating Death
 
-When you are faced with deathly consequences, you may **spend a Health point to escape with your life**. You receive a [[Wounds and Scars|wound]], _instead of dying_.
+When you are faced with deathly consequences, you may **spend a point of Health to escape with your life**. You receive a [[Wounds and Scars|wound]], _instead of dying_.
 
 The way you cheat death may be described in any way you feel is fitting for the situation, but feel free to open up the discussion to your [[Peers]] if you're feeling stuck. Whatever the case, you survive what _should have been_ a fatal situation.
 

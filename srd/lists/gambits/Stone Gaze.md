@@ -9,9 +9,9 @@ date created: 2021-12-14 15:00
 date updated: 2021-12-14 15:58
 ---
 
-### Stone Gaze
+#### Stone Gaze
 
-|   _Effects_ | Instant                                                                                                                                                                                                                                                                                                                                                                  |
+|   _Grade_ | Effect Duration: _Instant_                                                                                                                                                                                                                                                                                                                                                                  |
 | ----------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |    _Basic:_ | You stare deeply at someone, and your eyes blaze like a basilisks'. If their eyes meet yours, then they are paralyzed — incapable of moving any part of their body — so long as you continue to stare at them. Once you look away, or blink, they can relax again. This may require an Endurance check if you need them to stay paralyzed for longer than half a minute. |
 | _Advanced:_ | Your gaze will now _literally_ turn them to stone — or salt, wood, glass, or similarly invaluable material. They become a statue, and can only return to their proper form if you use this gambit on them again (or if some other magic undoes your curse).                                                                                                              |

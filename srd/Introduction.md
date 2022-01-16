@@ -1,8 +1,7 @@
 ---
 alias:
   - game introduction
-tags:
-
+tags: []
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-28+1700

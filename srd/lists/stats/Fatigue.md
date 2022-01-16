@@ -16,3 +16,7 @@ Being _fatigued_ is the [[Stress|stress]] of [[Endurance]]. Fatigue means genera
 ##### Remedies for Fatigue
 
 **Fatigue must be remedied by cleaning yourself up, eating a good meal, getting a good night's sleep, and putting on fresh clothes the next day.** *A simple solution, but usually an effective one*.
+
+##### Overflow
+
+If you have too much Faituge, it is most likely to overflow into [[Confusion]] or [[Pain]].

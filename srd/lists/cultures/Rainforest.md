@@ -11,18 +11,18 @@ tags:
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-12-18 19:47
-date updated: 2021-12-21 16:26
+date updated: 2022-01-04 16:33
 ---
 
-### Rainforest People
+### Rainforest Culture
 
-_People from the rural jungles and tropical woodlands. Hunter-gatherers mainly. Free, proud, and fiercely independent. They would protect the forests they rely on from any who threaten it._ #rewrite
+_People from the rural jungles and tropical woodlands. Hunter-gatherers mainly. Free, proud, and fiercely independent. They would protect the forests they rely on from any who threaten it._ This culture especially represents any jungle-dwellers who've stuck to their methods and traditions even in the face of a rapidly-changing world. 
 
-| Jobs (Lvl. +1)             | 1d6 | Specialty      |
+| Jobs             | 1d6 | Specialty      |
 | :------------------------- | :-: | :------------- |
-| [[Hunter]]                 |  1. | [animal]       |
-| [[Nurse]]                  |  2. | Bushcraft      |
-| [[Skirmisher]]             |  3. | [craft]        |
-| _**Additional Benefits:**_  |  4. | Jungle [biome] |
+| [[Hunter]] / [[Skirmisher]]              |  1. | [animal]       |
+| [[Nurse]] |  2. | Bushcraft      |
+| [[Explorer]]               |  3. | [craft]        |
+| _**Additional Benefits:**_ |  4. | Jungle, biomes |
 | ⋄ _Climbing_               |  5. | Observation    |
-| ⋄ _+2 Community_           |  6. | Stealth        |
+| ⋄ _+2D Community_           |  6. | Stealth        |

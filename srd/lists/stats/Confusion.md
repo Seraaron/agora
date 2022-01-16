@@ -16,3 +16,7 @@ Being _confused_ is the [[Stress|stress]] of [[Wits]]. It means you are unable t
 ##### Remedies for Confusion
 
 **Fatigue must be remedied by talking it out with someone, and bouncing ideas around or venting if needs be, until your thoughts are realigned.** Or, if there's no one around to talk to _who will understand you_, then you must go for a long walk, meditate, or otherwise do something to clear your mind.
+
+##### Overflow
+
+If you have too much Confusion, it is most likely to overflow into [[Burnout]] or [[Worry]].

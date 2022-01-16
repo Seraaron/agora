@@ -24,7 +24,7 @@ With Illusionist, you can create 'cantrips' — simple single-word charms, that 
 2. **Light Trick:** Blur the outlines of something, see in double, cause a shimmering effect, produce rainbows, images, swirls, or facades.
 3. **Disappear:** Bend light around to make objects and people appear to vanish from the sight of specific observers. The trick may still be detected by other senses though.
 4. **Mesmerize:** Leave someone dazed and confused, make them follow a simple command or answer a 'yes/no' question honestly, or put them to sleep.
-5. **Dreamscape:** View, project, or enter the dreams and memories of another person with a touch. You enter a trance as you mentally step into their mind.
+5. **Dreamscape:** View, project, or enter the dreams and memories of another person with a touch. You enter a trance as you mentally step into their mind. #rewrite 
 
 **Note:** None of these effects are exactly 'real'. An illusion cannot cause physical harm, nor can they threaten the life of another, or make someone do something abhorrent. _This is not mind control_.
 

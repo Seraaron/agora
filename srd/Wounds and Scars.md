@@ -6,7 +6,7 @@ alias:
   - scar
   - convalescence
 tags:
-
+  - cw
   - features
   - rules
 author: Seraaron
@@ -19,7 +19,7 @@ date updated: 2021-12-08 17:13
 
 **You get wounded when you spend [[Health]] to [[Health#Cheating Death|cheat death]]**, and you get scars once those wounds fade. _A wound temporarily recedes the rank of one of your abilities by one step (ie. 2 → 3 → 4 → 5 → 6) until you [[Health#Healing|heal]]._
 
-A wound can be visually signified on your [[Character Sheets|character sheet]] by putting a light slash through your current rank and writing the new rank in superscript (eg. $5$ → $\cancel{5} ^6$).
+A wound can be visually signified on your [[Character Resources|character sheet]] by putting a light slash through your current rank and writing the new rank in superscript (eg. $5$ → $\cancel{5} ^6$).
 
 ❗ If the chosen ability is _already at rank 6_, regressing it any further means that you are completely unable to use that ability, and you will fail all rolls with it automatically. Put an X mark through the rank to signify this (ie. $6$ → $\cancel{\bcancel{6}}$)
 
@@ -37,7 +37,7 @@ When you put a slash through your current ability rank, you should also give a n
 
 ### Convalescence
 
-**As you heal, your wound is eventually replaced with a scar**, which then works exactly like [[Conditions#Applying Conditions|any other condition]]. This process is called 'convalescence' — _the period of healing_. The exact point at which the conversion from wound to scar happens is decided by your [[Peers]], but it's usually during [[Downtime and Travel|downtime]] or [[Development Sessions|development sessions]].
+**As you heal, your wound is eventually replaced with a scar**, which then works exactly like [[Conditions#Applying Conditions|any other condition]]. This process is called 'convalescence' — _the period of healing_. The exact point at which the conversion from wound to scar happens is decided by your [[Peers]], but it's usually during [[Downtime and Travel*|downtime]] or [[Development Sessions|development sessions]].
 
 ![[Medical Treatment]]
 

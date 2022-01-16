@@ -20,9 +20,7 @@ Specialties can represent a great range of things: Fields of study, disciplines,
 
 **Each specialty can be _actively used_ once per session to [[KISSing|KISS]] a die, to re-roll, it while performing _any_ relevant dice roll**. _Suggestions are given in the [[Specialties List]] for cases when each might be used_.
 
-Once a specialty has been actively used, put a checkmark ✓ in the circle next to their name on your [[Character Sheets|character sheet]]. Then erase all the marks at the end of the session, so they're fresh for next time.
-
-❓ You can prematurely refresh the use of a specialty _before the end of a session_ by '[[Conditions#Accepting Your Fate|accepting your fate]]' while using a [[Conditions|condition]] to handicap yourself.
+Once a specialty has been actively used, put a checkmark ✓ in the circle next to their name on your [[Character Resources|character sheet]]. Then erase all the marks at the end of the session, so they're fresh for next time.
 
 #### Passive Uses
 
@@ -38,15 +36,15 @@ A specialty can also inform you that your character is proficient, capable, and 
 
 ### [Generic] Specialties
 
-When you see a generic noun listed as _a specialty in lower-case between square-brackets_ [like this], it means that there are many potential specialties like it. When you add one to your [[Character Sheets|character sheet]] you should **replace or append the generic noun with a capitalized _specific noun_ or an adjective or phrase related to it**, to identify it.
+When you see a generic noun listed as _a specialty in lower-case between square-brackets_ [like this], it means that there are many potential specialties like it. When you add one to your [[Character Resources|character sheet]] you should **replace or append the generic noun with a capitalized _specific noun_ or an adjective or phrase related to it**, to identify it.
 
 Generic specialties are especially useful for [[Fact Checks|establishing facts]].
 
 > ### Eg.
 >
-> The _'[city]'_ specialty should become _'London City'_ or _'City of London'_ or just _'London [city]'_ when you add it to your sheet if your character lived or worked in or around London a lot, rather than interpreting it to mean a specialty for _any_ city.
+> The _'[city]'_ specialty should become _'London City'_ or _'City of London'_ or just _'London, city'_ when you add it to your sheet if your character lived or worked in or around London a lot, rather than interpreting it to mean a specialty for _any_ city.
 
-❓ How you decide to write it on your sheet is your own aesthetic choice, but when prespecified generics are listed in [[Agora]] we use the form _'Specific [generic]'_.
+❓ How you decide to write it on your sheet is your own aesthetic choice, but when prespecified generics are listed in [[Agora]] we use the form _'Specific, generic'_.
 
 ---
 
@@ -71,7 +69,7 @@ Instead of being used to make [[Fact Checks|Fact checks]], language specialties 
 Beyond [[Character Assembly|character assembly]] there are three ways to learn new specialties:
 
 - **When you fail to uphold a [[Creeds|Creed]] for any reason** — but usually when [[Health#Healing|regaining Health]] — **you will learn something from the experience in the form of a new specialty**, gained at the end of the current [[Campaign Arcs|arc]].
-- **You can learn a new specialty during a [[Downtime and Travel|downtime skip]] of one or more _years_**, so long as you can find an appropriate mentor, course, or school.
+- **You can learn a new specialty during a [[Downtime and Travel*|downtime skip]] of one or more _years_**, so long as you can find an appropriate mentor, course, or school.
 - **Your [[Facilitator|FC]] can also award you with a new specialty at any time** _if they think you've done enough during the course of a campaign to earn it_. (Though this is usually done during a [[Development Sessions|development session]] as a reward for keeping a [[Habits|Habit]] for long enough).
 
 ### Inventing New Specialties
@@ -85,7 +83,7 @@ Specialties are just words — usually pluralized nouns, proper nouns, or short 
 3. _Optionally:_ Think of a fun little passive use that mostly adds flavor, rather than anything that adds new mechanics or requires you to do any extra bookkeeping.
 4. Check with your [[Peers]] that it's okay, and then write it down.
 
-**Alternatively:** If you want something a little 'crunchier' then adding to the [[Gambits List]] might be a better idea instead, but this requires more governance from your [[Facilitator|FC]].
+*Alternatively:* If you want something a little 'crunchier' then adding to the [[Gambits List]] might be a better idea instead, but this requires more governance from your [[Facilitator|FC]].
 
 ---
 

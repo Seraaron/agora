@@ -8,26 +8,26 @@ tags:
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-24 19:00
-date updated: 2021-11-05 18:44
-
+date updated: 2021-12-22 20:24
 ---
 
 ## Campaign Arcs
 
-Arcs are _journeys through a story_. The term comes from screenwriting where it's used to help give structure to narratives and _to [[Pitching and Planning|plan]] rises and falls in_ tension to keep an audience member interested. As players of a roleplaying game, **we often take on the positions of both actor and audience**, so it can be useful to think about the structure of the stories we want to tell using similar terms.
+Arcs are _journeys through a story_. The term comes from screenwriting where it's used to help give structure to narratives and _to [[Pitching and Planning*|plan]] rises and falls in_ tension to keep an audience member interested. As players of a roleplaying game, **we often take on the positions of both actor and audience**, so it can be useful to think about the structure of the stories we want to tell using similar terms.
 
 In [[Agora]], **arcs are collections of [[Session Structure|sessions]]**. _How many sessions?_ That depends on your pacing, and the kind of story you want to tell. The average arc length should probably be about 10 or 12 sessions, but some might only be 6 sessions, others may be 20 sessions or more!
 
 > ### Ie.
-> Each arc should have a [[Genre, Tone, and Themes|theme]] to it, or a specific subplot that you want to explore. This way, an arc can be defined by many things: a special antagonist; its emotional weight; the twists and surprises; subtext or symbolism; and so on.
+>
+> Each arc should have a [[Genre, Tone, and Themes*|theme]] to it, or a specific subplot that you want to explore. This way, an arc can be defined by many things: a special antagonist; its emotional weight; the twists and surprises; subtext or symbolism; and so on.
 
 Try to choose one core thing to focus on per arc, and plan around it. Once that thing has been dealt with to your degree of interest or satisfaction, then the arc can come to a close — you can run another [[Development Sessions|development session]] — and the next arc can begin next session.
 
 ### Character Arcs
 
-Separate from campaign arcs are _character arcs_, these are less within the control of your planning — as an [[Facilitator|FC]] — and are more for the [[Player Characters]] to decide on. The players themselves should be telling you — either explicitly, *or indirectly expressed through their  [[Principles]]* — roughly where they're planning to take their characters though, and what they want to see along the way. You can, _and should_, help to facilitate these subplots.
+Separate from campaign arcs are _character arcs_, these are less within the control of your planning — as an [[Facilitator|FC]] — and are more for the [[Player Characters]] to decide on. The players themselves should be telling you — either explicitly, _or indirectly expressed through their  [[Principles]]_ — roughly where they're planning to take their characters though, and what they want to see along the way. You can, _and should_, help to facilitate these subplots.
 
-In fact, **you can run a whole game just out of character arcs**; if your players are particularly good at pushing their [[Agenda|agendas]]. The great thing about this is that it requires very little preparation on your part as the FC. So long as you _know the world_, and the _rules of the game_, and can _improvise fairly well_, then it's possible to run a whole session of [[Agora]] with just a cursory glance at the PC's Principles before you start playing and a few minutes thinking about how to [[Challenging Principles|challenge them]].
+In fact, **you can run a whole game just using character arcs** — if your players are particularly good at pushing their [[Agenda|agendas]]. The great thing about this is that it requires very little preparation on your part as the FC. So long as you _know the world_, and the _rules of the game_, and can _improvise fairly well_, then it's possible to run a whole session of [[Agora]] with just a cursory glance at the PC's Principles before you start playing and a few minutes thinking about how to [[Challenging Principles|challenge them]].
 
 ❓ This takes time and experience, however, and _[[Player Styles|some players]] prefer their FC to lead them_ more than the other way around.
 
@@ -47,6 +47,6 @@ Many tables never actually finish a campaign, which is a shame. Scheduling devel
 
 ---
 
--   **Previous article:** [[Pitching and Planning]]
--   **Next article:** [[Session Structure]]
--   **Related articles:** [[Player Styles]]
+- **Previous article:** [[Pitching and Planning*]]
+- **Next article:** [[Session Structure]]
+- **Related articles:** [[Player Styles]]

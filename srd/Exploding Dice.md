@@ -7,10 +7,8 @@ alias:
   - open-ended
   - dice explode
 tags:
-
   - rolls
   - rules
-  - optional
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-23+1900

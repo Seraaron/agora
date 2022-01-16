@@ -17,7 +17,7 @@ Fidelity represents a measure of your long-term success at establishing and upho
 
 - **Fidelity is a gauge that _slowly ticks up to four_, and then it resets.**
 - Characters _do not normally start with any Fidelity_.
-- Fidelity changes infrequently, and _it progresses in two stages_, so it is best to represent earning it by filling in the white diamonds first with a small black diamond, on your [[Character Sheets|character sheet]], and then with a full diamond when you spend it (ie. ◇ → ◈ → ◆).
+- Fidelity changes infrequently, and _it progresses in two stages_, so it is best to represent earning it by filling in the white diamonds first with a small black diamond, on your [[Character Resources|character sheet]], and then with a full diamond when you spend it (ie. ◇ → ◈ → ◆).
 
 > ##### Spending Fidelity:
 >

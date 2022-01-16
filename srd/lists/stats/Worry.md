@@ -19,3 +19,7 @@ Being _worried_ is the [[Stress|stress]] of [[Appeal]]. It represents a mixed ba
 
 > ### Eg.
 > Have a day at the beach, or the spa, or spend some time in nature; get a manicure and a haircut; make some art or attend to your hobbies; go buy yourself some new clothes or get that thing you wanted.
+
+##### Overflow
+
+If you have too much Worry, it is most likely to overflow into [[Shock]] or [[Fatigue]].

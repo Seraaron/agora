@@ -1,51 +1,41 @@
 ---
 alias: []
 tags:
-
   - rules
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-10-15+1600
-date updated: 2021-12-08 15:45
+date updated: 2022-01-11 13:40
 ---
 
 ## Tier
 
-Different types of character concepts can be grouped under different 'tiers'. These tiers are like archetypal roles that set the base 'power level' for that character, and it may be that certain [[Character Assembly#Concept Concept Concept|character concepts]] simply won't make sense at certain tiers.
+Different types of characters can be grouped together under different tiers. The tier will set the base 'power level' for a character, and it may be that certain [[Character Assembly#Concept Concept Concept|character concepts]] simply won't make sense at certain tiers. Tier primarily affects your [[Rank|ability ranks]], and so you can also think of it as a 'difficulty setting', where a lower tier makes the game _statistically harder_.
 
-Therefore, **everyone should make characters of the same tier**, unless you have your [[Peers]] permission to make a character of a different tier from them.
+Therefore, **everyone should make characters of the same tier**, unless you have your _[[Peers]] permission_ to make characters of differing tiers.
 
-The four playable tiers, from lowest to highest, are: **Ordinary**, **Heroic**, **Legendary**, and **Mythic**.
+❓ Write your tier in parentheses next to your campaign's name on your [[Character Resources|character sheet]].
 
-❓ Write your tier in parentheses next to your campaign's name on your character sheet. (You can only [[Development Sessions#Changing Tier|advance your tier]] during [[Development Sessions|development sessions]]).
+❗ You can only [[Development Sessions#Changing Tier|change your tier]] during [[Development Sessions|development sessions]].
 
-##### Tier Benefits:
+![[Tier Benefits]]
 
-| Tier          |     Ability Rank Arrays (Choose One)     | Sum Total | Bonus ¢aps |
-| ------------- | :--------------------------------------: | :-------- | :--------: |
-| **Ordinary**  | {5, 5, 5, 4, 4, 4} or {6, 5, 5, 4, 4, 3} | = 27      |     +10    |
-| **Heroic**    | {4, 4, 4, 4, 4, 4} or {5, 4, 4, 4, 4, 3} | = 24      |     +20    |
-| **Legendary** | {4, 4, 4, 3, 3, 3} or {5, 4, 4, 3, 3, 2} | = 21      |     +40    |
-| **Mythic**    | {3, 3, 3, 3, 3, 3} or {4, 3, 3, 3, 3, 2} | = 18      |     +80    |
-
-The ability rank arrays are a set of numbers that you should spread out among your [[Rank|ability ranks]], assigning one number to each ability. The bonus 'caps' — character assembly points — may be spent at any stage of [[Character Assembly|character creation]] to give your character a few extra treats.
-
-**There are two ability rank arrays available for each Tier:** A _balanced_ array (left) suitable for new players, or an _unbalanced_ array (right) suitable for advanced players. Both arrays sum to the same total, but the difference between them can sometimes be quite astounding.
-
-❓ You don't have to assign your ability ranks until the end of the character assembly process, since your decision will be partially informed by the jobs you decide to take, so feel free to come back to this step later.
+The ability rank arrays are a set of numbers that you should spread out among your [[Rank|ability ranks]], assigning one number to each ability. The bonus 'caps' — [[Character Assembly#4 Character Assembly Points|character assembly points]] — may be spent towards the end of [[Character Assembly|character creation]] to give your character a few extra treats.
 
 ---
 
 ###### Tiers Explained
 
-- **Ordinary tier** represents fairly historically accurate characters acting in an assumedly normal world. _It represents people like you and I_, most likely, and nearly everyone else who has ever lived and died on Earth.
+The four playable tiers, from lowest to highest, are: **Ordinary**, **Heroic**, **Legendary**, and **Mythic**.
 
-- **Heroic tier** is for playing out believable tales about people who quest for glory or struggle to leave their mark on the annals of history. People who want to change a culture, or create a new one, or become living legends; whose efforts may not have really been possible without either a story-teller's embellishments or *a true touch of magic.*
+- **Ordinary Tier** represents fairly historically accurate characters acting in an assumedly normal world. (It represents people like you, _the reader_, and nearly everyone else who has ever lived and died on Earth). This tier is best used for telling believable stories about  realistic people, or for generating 'pulpy' fiction where life is cheap and your luck can quickly run short.
 
-- **Legendary tier** is the place of gifted-rogues, warrior-poets, adventurer-prophets, philosopher-engineers, and sorcerer-monarchs; where paranormal events occur regularly, wishes are sometimes fulfilled, and *epic deeds* are performed with some regularity.
+- **Heroic Tier** is for telling thrilling tales about people who quest for glory or struggle to leave their mark on the annals of history. People who want to influence a whole nation, or create a new one, or become living legends. Historically, these are people whose efforts may not have been really possible without either a storyteller's embellishments or _a true touch of magic._
 
-- **Mythic tier** characters may be ascended mortals, real-life superheroes, daimons or demigods, or a shard of an even greater being given mortal form. They are not omnipotent or flawless though, their actions still have [[Difficulties and Consequences|consequences]], and there is still room for them to grow and learn from the world before their apotheosis (or inevitable doom).
+- **Legendary Tier** is the place of gifted-rogues, warrior-poets, adventurer-prophets, philosopher-engineers, and sorcerer-monarchs; where paranormal events occur regularly, _epic deeds_ are performed with some regularity, and even absurd wishes can come true — usually with disastrous consequences.
 
-- **Deific tier** is *typically unplayable*, but should you need to represent [[Non-player Characters|NPCs]] at this tier then the sum total of their ability ranks should be 15 or less.
+- **Mythic Tier** characters may be ascended mortals, real-life superheroes, daimons or demigods, or a shard of an even greater being given mortal form. They are not omnipotent or flawless though, there is still room for them to grow and learn from the world before their apotheosis (or inevitable doom).
+
+- **Deific Tier** is _typically unplayable_, but should you need to represent [[Non-player Characters*|NPCs]] at this tier then the [[Tier Benefits|sum total]] of their ability ranks should be 15 or less. It represents gods, demons, and ancient dragons, the fâe lords, augustine supercomputers, or the dreaming eldritch spawn, and all their ilk.
 
 ---

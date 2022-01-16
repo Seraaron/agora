@@ -17,15 +17,15 @@ date created: 2021-12-18 19:47
 date updated: 2021-12-21 16:26
 ---
 
-### Maritime People
+### Maritime Culture
 
-_People who traverse the ocean, and those born at sea. Traders, stoics, and dock hands. Often as superstitious as they are fastidious._ #rewrite
+_People who spend most of their time at sea, on boats, traversing the world by the wind, and those who were born under the sails. Traders, stoics, navymen, dock-hands, and so-called 'sea nomads'. Often as superstitious as they are fastidious._
 
-| Jobs (Lvl. +1)             | 1d6 | Specialty      |
+| Jobs             | 1d6 | Specialty      |
 | :------------------------- | :-: | :------------- |
 | [[Mariner]]                |  1. | Barter         |
 | [[Merchant]]               |  2. | Knots          |
 | [[Worker]]                 |  3. | Navigation     |
-| _**Additional Benefits:**_  |  4. | Marine [biome] |
+| _**Additional Benefits:**_  |  4. | Ocean / Submarine, biomes |
 | ⋄ _Sea Legs_               |  5. | Swimming       |
-| ⋄ _+1 Wealth_              |  6. | [vessel]       |
+| ⋄ _Wealth +1_              |  6. | [vessel]       |

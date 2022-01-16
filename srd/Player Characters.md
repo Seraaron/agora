@@ -27,7 +27,7 @@ A 'Player Character' (aka. a _playable character_ or PC for short) is like a fic
 >
 > We follow their point of view, through each triumph and disaster, for the majority of each session.
 >
-> By contrast, the characters that are not actively controlled by yourself or other players are called [[Non-player Characters]] (NPCs), whom are typically controlled by the [[Facilitator]]. _They're more like the side cast_.
+> By contrast, the characters that are not actively controlled by yourself or other players are called [[Non-player Characters*]] (NPCs), whom are typically controlled by the [[Facilitator]]. _They're more like the side cast_.
 
 You create your PC in a process called '[[Character Assembly]]', which is a set of special rules that you engage with only during [[Development Sessions|development sessions]] to create a believable sapient being — assembled out of lists and choices, and stats and numbers.
 

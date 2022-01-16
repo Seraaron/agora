@@ -9,7 +9,7 @@ date created: 2021-09-23+1800
 
 ---
 
-### Mage ([[Vigilance|Vig]])
+### Mage ([[Vigilance*|Vig]])
 
 #weird #ritual #magic #rogue
 
@@ -32,3 +32,4 @@ _**Suggested Specialties:** Deep Dark Secrets, [magic], Poetry, Prayer, Rituals,
 > -   “...?
 
 **See also:** [[magical subsystem]]
+

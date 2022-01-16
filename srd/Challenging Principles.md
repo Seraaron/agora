@@ -1,6 +1,6 @@
 ---
 alias: [challenging principles]
-tags: []
+tags: [advice]
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-10-15+1400
@@ -18,7 +18,9 @@ date created: 2021-10-15+1400
 >
 > **Chris Hunt**, [Kenshi AMA](https://www.reddit.com/r/IAmA/comments/cnmwen/comment/ewd5n8n/?utm_source=share&utm_medium=web2x&context=3) (paraphrased)
 
-_Agora is designed to be hard_, at least in the early game. A quick look at the [[Dice Probabilities and Statistics|probability tables in the appendix]] should make it clear that your chances of succeeding at anything rarely exceed 50%. _It's also designed to be rewarding_, thanks to the [[Kismet]] system. And at the highest [[Rank|ranks]] the inverse becomes true, where it's almost impossible to fail. However, you also [[Earning Experience|earn exp]] by failing Tasks, so the better you get (generally) the longer it takes to get _even better_.
+_Agora is designed to be hard_, at least in the early game. A quick look at the [[Dice Probabilities and Statistics*|probability tables in the appendix]] should make it clear that your chances of succeeding at anything rarely exceed 50%.
+
+_It's also designed to be rewarding_, thanks to the [[Kismet]] system. And at the highest [[Rank|ranks]] the inverse becomes true, where it's almost impossible to fail. However, you also earn the most [[Earning Experience|exp]] by failing Tasks, so the better you get the longer it takes (on average) to get _even better_.
 
 There are two main philosophies of approach to designing challenges for players to overcome: **[[#Static Challenges]]** and **[[#Scaling Challenges]]**.
 
@@ -48,7 +50,7 @@ This approach is defined by opting to make sure the difficulty of the obstacle i
 >
 > -   You are matched up against an opponent of approximately equal size and strength in a tournament.
 > -   The guard, now alert to your presence (which may have previously been a static challenge), raises the alarm and arms a nearby trap.
-> -   While you were out on your adventures, and later while recovering from your injuries, your rival was busy garnering supporters and is now well positioned to take control of the local political reigns.
+> -   While you were out on your adventures, and later while recovering from your injuries, your rival was busy garnering supporters. Now they're well-positioned to take control of the local political reigns.
 
 Usually the best way to affect the difficulty of a scaling challenge is to overcome it early and prevent it from scaling in the first place — though this isn't always possible. Beyond that, other options include sabotaging the opposition, utilizing your allies and resources, or (again) changing the circumstances of the test.
 
@@ -62,7 +64,7 @@ If you were to return to the same (or similar) scaling challenge multiple times 
 
 It's important to emphasize at this point that _challenges are ultimately designed to be overcome_. **We play games to have fun**. Where 'fun' means whatever you and your players want it to mean. There is no inherent 'win condition' in roleplaying games, as they are usually non-competitive — the closest thing to a win state is having a 'winning session' where you succeeded more often than you failed and achieved most of the things you wanted — so you have to make up your own fun. Maybe that comes from mastering and applying the game rules, but more often it will come from telling a satisfying story.
 
-As mentioned at the start of this article, a roleplaying game is a mechanical sandbox. But your players are not your 'play things'. And _no one_ (no matter how contrarian) enjoys putting a lot of time and effort into a problem without making any progress against it. There's a fine balance to strike between making a game challenging and making it arduous.
+A roleplaying game is a mechanical sandbox. But your players are not your 'play things'. And _no one_ (no matter how contrarian) enjoys putting a lot of time and effort into a problem without making any progress against it. There's a fine balance to strike between making a game challenging and making it arduous.
 
 If your players are groaning at the prospect of yet another difficulty factor, or otherwise express their unhappiness about the difficulty in a [[Wrap Up|wrap up meeting]] or out-of-session, then it's time to hold back on (or even scale down) some of the upcoming challenges you've planned — lest you risk ruining everyone's enjoyment of the game, because an FC usually has the most fun when all of their players have fun too.
 

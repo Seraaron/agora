@@ -120,6 +120,6 @@ Next, consider the following table, which describes exactly how likely you are t
 |      5 Factors |   —   |   —   |   —   |   —   | 0.41% | 1.78% |
 |      6 Factors |   —   |   —   |   —   |   —   |   —   | 0.14% |
 
-If you find this table useful, you can find more tables and graphs like it in the [[Dice Probabilities and Statistics]] appendix.
+If you find this table useful, you can find more tables and graphs like it in the [[Dice Probabilities and Statistics*]] appendix.
 
 ❓ With all of this in mind, you can _almost_ consider a Check to be a simplified Task that uses a level 3 ability with two factors.

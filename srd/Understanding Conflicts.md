@@ -19,7 +19,7 @@ If you are finding that the [[Versus Checks]] system is too rudimentary, and tha
 
 Each of these is best reserved for conflicts that directly involve the [[Principles|principles]] of two or more [[Player Characters]]. **Running a full conflict like this can take up to an hour or more of real life playtime** — and even more if you're still learning the rules — so it's important to pick your battles appropriately. _Not every barfight or disagreement needs to be this detailed_. Ask yourself "is it really necessary?", before you dive in too deep.
 
-Depending on your game's [[Genre, Tone, and Themes]], you may only use a full conflict once per [[Campaign Arcs|campaign arc]], _or less_. In other cases, you may find yourselves hankering to use one of the systems every few sessions, _or more_.
+Depending on your game's [[Genre, Tone, and Themes*]], you may only use a full conflict once per [[Campaign Arcs|campaign arc]], _or less_. In other cases, you may find yourselves hankering to use one of the systems every few sessions, _or more_.
 
 ![[Conflict Summary]]
 

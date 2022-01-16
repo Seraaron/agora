@@ -7,25 +7,23 @@ tags:
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-12-22 16:34
-date updated: 2021-12-22 16:34
+date updated: 2022-01-14 01:21
 ---
 
 ## Disciple
 
-_Description sentence one. Description sentence two._ Explanation sentence one. Explanation sentence two. Explanation sentence three. Explanation sentence four.  #rewrite
+| Major Jobs     | Minor Jobs      |
+| -------------- | --------------- |
+| [[Acrobat]]    | [[Philosopher]] |
+| [[Diplomat]]   | [[Priest*]]     |
+| [[Guard]]      | [[Servant]]     |
+| [[Martialist]] | [[Scribe]]      |
 
-| Major Jobs (Lvl. 4) | Minor Jobs (Lvl. 3) |
-| ------------------- | ------------------- |
-| [[Acrobat]]         | [[Philosopher]]     |
-| [[Diplomat]]        | [[Priest*]]          |
-| [[Guard]]           | [[Servant]]         |
-| [[Martialist]]      | [[Scribe]]           |
-
-| Assets & Gear | _Specialties_      | Wealth |
-| ------------- | :----------------- | :----: |
-| ⋄             | ⋄ _Subsistance_    |    4   |
-| ⋄             | ⋄ _ [martial art]_ |        |
-| ⋄             | ⋄ _ Patience_      |        |
+| Assets & Gear                                    | _Specialties_     | Wealth |
+| ------------------------------------------------ | :---------------- | :----: |
+| ⋄ +1D Militant / Religious Affiliation           | ⋄ _Subsistance_   |   +0   |
+| ⋄ Common-Quality #academic-tools & #ritual-tools | ⋄ _[martial art]_ |        |
+| ⋄ A #light Helmet / +1D #cash-money (Alms)       | ⋄ _Patience_      |        |
 
 ![[Fists of Steel]]
 

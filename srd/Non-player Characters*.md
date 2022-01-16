@@ -69,8 +69,6 @@ date created: 2021-07-30+1900
 
 #### You don't have to speak in character all the time
 
-![[NPCs don't roll]]
-
 ## Enemies
 #unfinished 
 ### Monsters

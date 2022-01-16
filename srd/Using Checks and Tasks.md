@@ -20,7 +20,7 @@ Once your [[Agenda|agenda has been discussed]] with your [[Peers]], and it's cle
 
 They both use the same rules for counting successes based on [[Rank|ability rank]], but they ultimately resolve a little differently:
 
-- **[[Checks]] are generally quicker** — taking less than a minute of real playtime — **because they use only a few dice, and there are no external difficulty factors**.
+- **[[Checks]] are generally quicker** — usually taking less than a minute of real playtime — **because they use only a few dice, and there are no external difficulty factors**.
 	- You usually roll three dice, minus any [[Stress|stress]] in the chosen ability.
 	- They're mostly used to try to complete _basic actions using simple verbs_, relying only on your raw abilities and sheer luck.
 	- They have four main outcomes: _Failure, Partial Failure, Success, and Exceptional Success_.
@@ -49,7 +49,7 @@ Games with less direct adventure and more political intrigue may end up using mo
 
 ---
 
-###### Peeling Back the Curtains
+###### Pulling Back the Curtains
 
 **A Check is really just a special kind of Task** — a simplified Task — _that has a lot of the options removed to speed up play_. When we break it down in this light, a Check is effectively just a Task that:
 
@@ -57,13 +57,11 @@ Games with less direct adventure and more political intrigue may end up using mo
 - Always has 1 difficulty factor, making the total success target 2.
 - Always cares about failure and success by a margin of 1, because of the partial failure and exceptional success components.
 
-Or perhaps a Task is like a more complicated Check? _The difference is semantic, really._
-
 ---
 
 ## Facilitator Styles
 
-**It is ultimately your [[Facilitator|Facilitator's]] decision whether to use a Check or a Task** — or whether to just [[When to roll dice|say 'yes']] — for any given roll. The one they choose should mostly depend on the context of the current action, but it can also depend the campaign's [[Genre, Tone, and Themes|tone]], or simply on their preferred [[Player Characters#Player Styles|play style]].
+**It is ultimately your [[Facilitator|Facilitator's]] decision whether to use a Check or a Task** — or whether to just [[When to roll dice|say 'yes']] — for any given roll. The one they choose should mostly depend on the context of the current action, but it can also depend the campaign's [[Genre, Tone, and Themes*|tone]], or simply on their preferred [[Player Characters#Player Styles|play style]].
 
 ❗ New players will probably have to **spend some time while learning the game to _feel out the difference_** between the two types of roll.
 

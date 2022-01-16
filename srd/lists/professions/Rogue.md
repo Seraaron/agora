@@ -7,24 +7,24 @@ tags:
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-12-22 16:38
+date updated: 2022-01-14 01:21
 ---
 
 ## Rogue
 
-_Description sentence one. Description sentence two._ Explanation sentence one. Explanation sentence two. Explanation sentence three. Explanation sentence four.  #rewrite
+| Major Jobs     | Minor Jobs                      |
+| -------------- | ------------------------------- |
+| [[Acrobat]]    | [[Brawler]]                     |
+| [[Hunter]]     | [[Deceiver]]                    |
+| [[Skirmisher]] | [[Explorer]]                    |
+| [[Thief]]      | [[Trickster]] / [[Illusionist]] |
 
-| Major Jobs (Lvl. 4) | Minor Jobs (Lvl. 3)         |
-| ------------------- | --------------------------- |
-| [[Acrobat]]         | [[Brawler]]                 |
-| [[Hunter]]          | [[Deceiver]]                |
-| [[Skirmisher]]      | [[Explorer]]                |
-| [[Thief]]           | [[Trickster]] / [[Illusionist]] |
-
-| Assets & Gear | _Specialties_         | Wealth |
-| ------------- | :------------------ | :----: |
-| ⋄             | ⋄ _Sleight of Hand_ |    4   |
-| ⋄             | ⋄ _ Stealth_        |        |
-| ⋄             | ⋄ _ Traps_          |        |
+| Assets & Gear                                | _Specialties_       | Wealth |
+| -------------------------------------------- | :------------------ | :----: |
+| ⋄ +1D Criminal Faction / Infamous Reputation | ⋄ _Sleight of Hand_ |   +2   |
+| ⋄ Excellent-Quality #rogue-tools             | ⋄ _Stealth_         |        |
+| ⋄ Any Excellent-Quality #hunter Weapon       | ⋄ _Traps_           |        |
+| ⋄ Any CQ #brawler / #secret Weapon           |                     |        |
 
 ![[Sneak Attack]]
 

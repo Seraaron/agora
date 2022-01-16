@@ -7,25 +7,26 @@ tags:
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-12-22 16:34
+date updated: 2022-01-13 23:43
 ---
 
 ## Cleric
 
-_Description sentence one. Description sentence two._ Explanation sentence one. Explanation sentence two. Explanation sentence three. Explanation sentence four.  #rewrite
+| Major Jobs       | Minor Jobs                    |
+| ---------------- | ----------------------------- |
+| [[Investigator]] | [[Alchemist]] / [[Physician]] |
+| [[Medic]]        | [[Guard]]                     |
+| [[Priest*]]      | [[Nurse]]                     |
+| [[Warrior]]      | [[Skirmisher]]                |
 
-| Major Jobs (Lvl. 4) | Minor Jobs (Lvl. 3)       |
-| ------------------- | ------------------------- |
-| [[Investigator]]    | [[Alchemist]] / [[Physician]] |
-| [[Medic]]           | [[Guard]]                 |
-| [[Priest*]]          | [[Nurse]]                 |
-| [[Warrior]]         | [[Skirmisher]]            |
+| Assets & Gear                                   | _Specialties_            | Wealth |
+| ----------------------------------------------- | :----------------------- | :----: |
+| ⋄ +1D Religious Organization                    | ⋄ _[lore]_ / _[religion]_|   +1   |
+| ⋄ Common-Quality #ritual-tools & #medical-tools | ⋄ _Observation_          |        |
+| ⋄ Any #light / #medium Armor                    | ⋄ _Prayer_               |        |
+| ⋄ A Heater / Round Shield                       |                          |        |
+| ⋄ Any EQ #warrior Weapon                        |                          |        |
 
-| Assets & Gear | _Specialties_      | Wealth |
-| ------------- | :--------------- | :----: |
-| ⋄             | ⋄ _[condition]_  |    4   |
-| ⋄             | ⋄ _ Observation_ |        |
-| ⋄             | ⋄ _ Prayer_      |        |
+![[Excise Spirits]]
 
 ![[Shieldbearer]]
-
-![[Sixth Sense]]

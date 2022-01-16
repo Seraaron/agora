@@ -59,7 +59,7 @@ There are two main ways to advance ranks in this game, and one optional method:
 
 - The first is to [[Kismet#Earning Fidelity|earn four Fidelity]] and then spend it [[KISSing#Kismet|while KISSing]] to _permanently advance_ your rank in the ability you're currently rolling.
 
-- And optionally, during a [[Development Sessions|development session]] (and usually after a [[Downtime and Travel|time-skip]]), you may decide _as a group_ to raise your character's [[Tier|tier]] which _reduces the worst possible_ rank for that character.
+- And optionally, during a [[Development Sessions|development session]] (and usually after a [[Downtime and Travel*|time-skip]]), you may decide _as a group_ to raise your character's [[Tier|tier]] which _reduces the worst possible_ rank for that character.
 
 - And optionally, special [[Gambits]] may _temporarily advance_ the rank of a roll when certain conditions are met.
 

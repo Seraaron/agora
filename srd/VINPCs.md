@@ -11,19 +11,19 @@ tags:
 author: Seraaron
 license: CC0 1.0
 date created: 2021-09-09+1500
-date updated: 2021-12-21 15:43
+date updated: 2022-01-10 20:03
 ---
 
 ## VINPCs
 
 VINPC — pronounced /vɪn·pi·si/ — stands for '**Very Important Non-Player Character**'.
 
-They are a type of [[Non-player Characters|Non-player Character]] that [[Facilitator|Facilitators]] and [[Player Characters]] alike can make use of. Players can designate VINPCs using their [[#Kith and Kin]] slots on their [character sheets](#unfinished), and Facilitators can keep a short list of their most important or recurring characters on hand to bring out when needed.
+They are a type of [[Non-player Characters*|Non-player Character]] that [[Facilitator|Facilitators]] and [[Player Characters]] alike can make use of. Players can designate VINPCs using their [[#Kith and Kin]] slots on their [character sheets](#unfinished), and Facilitators can keep a short list of their most important or recurring characters on hand to bring out when needed.
 
-#### The 'VINPC' Designation does Two Things:
-
-1. **Highlights their importance** to the story in general or significance to an individual Player Character.
-2. **Marks them as 'essential'** to a player. Meaning they won't randomly die and can't be killed without that player's explicit permission.
+> #### The 'VINPC' Designation does 2 Things:
+> 
+> 1. **Highlights their importance** to the story in general or significance to an individual Player Character.
+> 2. **Marks them as 'essential'** to a player. Meaning they won't randomly die and can't be killed without that player's explicit permission.
 
 ### Kith & Kin
 
@@ -37,7 +37,7 @@ All [[Player Characters]] may choose or create _up to three_ NPCs that they wish
 
 **Similarly, your kith and kin will never betray you**, unless you push them too far and have a [[#Falling Out|falling out]] (see below).
 
-❓ You don't need to list other PCs as kith or kin, _even if they're literally members of your character's family_.  Though your allied party members can also be reached at any time using this same ruling.
+❓ You don't need to list other PCs as kith or kin, _even if they are literally members of your character's family_.  Though your allied party members can also be reached at any time using the same common sense principle.
 
 #### Three per Player
 
@@ -49,6 +49,8 @@ You can change out your kith and kin for other NPCs during any [[Development Ses
 
 **A VINPC may be an animal companion, an ethereal guardian, or even a sapient object.** _You can get very creative with the kith and kin rules if you want to._
 
+❗ [[Haunted]] and [[Familiar]] are two examples of special [[Gambits|gambits]] that can create a VINPC, but these don't take up a Kith & Kin slot. 
+
 #### Favor
 
 Each kith and kin entry has a diamond next to them called 'favor'. This diamond should be filled (ie. ◇ → ◆) representing when you _gain_ favor, and erased (ie. ◆ → ◇) when you _spend_ that favor. Favor is a metacurrency of sorts, a bit like [[Kismet]], but for individual VINPCs.
@@ -57,23 +59,23 @@ Each kith and kin entry has a diamond next to them called 'favor'. This diamond 
 >
 > - To ask for [[Helping|help]] on a roll, tying them to the [[Difficulties and Consequences|consequences]] of your actions.
 > - To borrow an [[Assets and Gear|asset or piece of gear]] for a scene —  though damaging it, losing it, or stealing it may negatively affect your relationship.
-> - To use a [[Gambits|gambit]] or [[magical subsystem|spell]] for you, to _tell you a secret_, or do anything else that is within their power.
+> - To use a [[Gambits|gambit]] or [[Spellcasting|spell]] for you, to _tell you a secret_, or do anything else that is within their power.
 > - To come with you somewhere they wouldn't normally go, making them available to talk to and present in scenes that they otherwise wouldn't be (or shouldn't be).
 >
 > _And your Facilitator may come up with other unique ways that you can spend favor too, which may be specific to that individual._
 
-**If you currently lack favor** and want them to do any of these things for you, then you must persuade, bribe, or manipulate them like any other NPC.
+**If you currently lack favor** and want them to do any of these things for you, then you must persuade, bribe, or manipulate them _like any other NPC_.
 
 ❗ Not having favor doesn't mean they suddenly hate you, it just means they're unwilling to aid you without recompense or a good reason.
 
-❓ And what's considered 'reasonable' can change from NPC to NPC, by the discretion of your Facilitator.
+❓ And what's considered 'reasonable' can change from NPC to NPC, at the discretion of your Facilitator.
 
 ##### Regaining Favor
 
 Favor refills in two ways:
 
-- **Returning the favor** — in this sense, _when you spend favor, that NPC 'gains favor' with you instead_, which they may spend on you in all of the same ways as you can on them by offering their favor back in return.
-- **Giving them a gift** — but not just _any_ gift. It must be something that you know they need or want, or something they will truly enjoy and treasure. It doesn't need to be a physical gift either, it could be information or the bestowing of an honor. _Ask your FC, or make a roll, and get creative!_
+- **Returning the favor** — In this sense, _when you spend favor, that NPC 'gains favor' with you instead_, which they may spend on you in all of the same ways as you can on them by offering their favor back in return.
+- **Giving them a gift** — But not just _any_ gift. It must be something that you know they need or want, or something they will truly enjoy and treasure. It doesn't need to be a physical gift either, it could be information or the bestowing of an honor. _Ask your FC, or make a roll, and get creative!_
 
 When you first start a new game, make an Appeal [[Checks|check]] for each character listed as kith or kin to see if you start with their favor or not (requiring 2 successes). If you _don't_ have their favor, then think about _'why not?'_ and tell your FC.
 

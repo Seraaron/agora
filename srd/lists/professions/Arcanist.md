@@ -8,25 +8,27 @@ tags:
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-12-22 16:32
+date updated: 2022-01-14 01:20
 ---
 
 ## Arcanist
 
-_Description sentence one. Description sentence two._ Explanation sentence one. Explanation sentence two. Explanation sentence three. Explanation sentence four.  #rewrite
+| Major Jobs       | Minor Jobs                    |
+| ---------------- | ----------------------------- |
+| [[Explorer]]     | [[Alchemist]] / [[Physician]] |
+| [[Guard]]        | [[Philosopher]]               |
+| [[Investigator]] | [[Scholar]]                   |
+| [[Mage*]]        | [[Servant]]                   |
 
-| Major Jobs (Lvl. 4) | Minor Jobs (Lvl. 3)       |
-| ------------------- | ------------------------- |
-| [[Explorer]]        | [[Alchemist]] / [[Physician]] |
-| [[Guard]]           | [[Philosopher]]           |
-| [[Investigator]]    | [[Scholar]]               |
-| [[Mage*]]            | [[Servant]]               |
+| Assets & Gear                         | _Specialties_ | Wealth |
+| ------------------------------------- | :------------ | :----: |
+| ⋄ +1D Magical School / Secret Society | ⋄ _[history]_ |   +2   |
+| ⋄ Excellent-Quality #ritual-tools     | ⋄ _[magic]_   |        |
+| ⋄ Common-Quality #academic-tools      | ⋄ _Symbolism_ |        |
+| ⋄ A Common-Quality Staff / Knife      |               |        |
 
-| Assets & Gear | _Specialties_    | Wealth |
-| ------------- | :------------- | :----: |
-| ⋄             | ⋄ _[history]_  |    4   |
-| ⋄             | ⋄ _ [magic]_   |        |
-| ⋄             | ⋄ _ Symbolism_ |        |
+### Gambits
+
+#unfinished
 
 ![[Ritualist]]
-
-![[Fae Touched]]

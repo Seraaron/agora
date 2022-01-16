@@ -7,6 +7,7 @@ tags:
   - medical
   - embed
   - rules
+  - cw
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-12-08 17:15
@@ -30,4 +31,4 @@ The following table can help you to approximate how long it should take for cert
 | **Psychological Damage**           |                 #any                 |           5          | _Depends on Treatment_ |
 | **Disease, Poison, or Radiation**  |             #magic #poison-x            |           X          | _Depends on Poison_ |
 
-If multiple [[Player Characters|PCs]] are wounded, this can be a good indicator that it's time to _skip ahead in-game by a few months while you all recover_, giving you plenty of [[Downtime and Travel|downtime scenes]], unless time is of the essence.
+If multiple [[Player Characters|PCs]] are wounded, this can be a good indicator that it's time to _skip ahead in-game by a few months while you all recover_, giving you plenty of [[Downtime and Travel*|downtime scenes]], unless time is of the essence.

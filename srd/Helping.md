@@ -19,6 +19,6 @@ Any other character may _offer their aid_ to you while you are performing a [[Ch
 -   **But they are tied to the consequences of your actions**, for good or ill.
 
 >### Nb.
->Always discuss what you're willing to let the person you're offering help to use from your sheet to [[KISSing|KISS]] dice with before offering help. This is part of the collaborative process of helping, but you can disallow them from using certain specialties, or your Ego,  for example if you're saving them for something special.
+>Always discuss what you're willing to let the person you're offering help to use from your sheet to [[KISSing|KISS]] dice with before offering help. This is part of the collaborative process of helping, but you can disallow them from using certain specialties, or Ego,  for example if you're saving them for something special.
 
 ❓ There's generally no need to reach out for help unless you're struggling for KISSes.

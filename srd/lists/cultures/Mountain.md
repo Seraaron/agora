@@ -9,18 +9,18 @@ tags:
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-12-18 19:48
-date updated: 2021-12-21 16:26
+date updated: 2022-01-04 18:51
 ---
 
-### Mountain People
+### Mountain Culture
 
-_Isolate people who've made homes for themselves among the alpine peaks and rocky slopes. A hardy people, weathered by the same winds that carved the mountains._ #rewrite
+_People who've made homes for themselves among the alpine peaks and rocky slopes. Craftsmen, shepherds, and miners. A hardy people, weathered by the same winds that carved the mountains._ Can also be used to represent those who've completely isolated themselves from all other types of civilization.
 
-| Jobs (Lvl. +1)             | 1d6 | Specialty            |
+| Jobs             | 1d6 | Specialty            |
 | :------------------------- | :-: | :------------------- |
 | [[Clothier]]               |  1. | [animal]             |
-| [[Explorer]]               |  2. | Climbing             |
+| [[Explorer]] / [[Wright]]  |  2. | Climbing             |
 | [[Handler]]                |  3. | [handicraft]         |
-| _**Additional Benefits:**_  |  4. | Mountain [biome]     |
+| _**Additional Benefits:**_ |  4. | Mountain, biomes     |
 | ⋄ _Orienteering_           |  5. | [mythology] / [lore] |
-| ⋄ _+1 Community_           |  6. | Subsistence          |
+| ⋄ _+1D Community_           |  6. | Subsistence          |

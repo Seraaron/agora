@@ -28,15 +28,15 @@
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.82029009"
-     inkscape:cx="886.27183"
-     inkscape:cy="694.87613"
+     inkscape:zoom="0.58003269"
+     inkscape:cx="808.57512"
+     inkscape:cy="684.44419"
      inkscape:window-width="2560"
      inkscape:window-height="1379"
      inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g17562"
+     inkscape:current-layer="layer11"
      inkscape:lockguides="true"
      units="in">
     <sodipodi:guide
@@ -179,7 +179,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43958px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';fill:#4d4d4d;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
          x="351.74878"
          y="339.22412"
-         id="tspan253320">Two-page Character Sheet (v0.4)</tspan></text>
+         id="tspan253320">Two-page Character Sheet (v0.5)</tspan></text>
     <g
        id="g647201"
        style="display:inline"
@@ -228,8 +228,7 @@
      id="g16598"
      transform="matrix(0.17752366,0,0,0.17752366,207.84105,-17.582385)"
      style="display:inline;stroke-width:1.68992;stroke-miterlimit:4;stroke-dasharray:none"
-     inkscape:label="Logo"
-     sodipodi:insensitive="true">
+     inkscape:label="Logo">
     <g
        id="g13475"
        transform="translate(77.360911,132.25326)"
@@ -237,21 +236,21 @@
       <g
          id="layer2-5"
          inkscape:label="Background"
-         style="display:inline;opacity:1;stroke-width:1.68992;stroke-miterlimit:4;stroke-dasharray:none"
+         style="display:inline;opacity:1;stroke-width:1.68992;stroke-miterlimit:4;stroke-dasharray:none;stroke:none;stroke-opacity:1"
          transform="translate(4.2381925,-50.50068)">
         <path
-           style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:1.68992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1.68992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
            d="M 190.72001,166.0448 V 121.04377 H 228.6307 Z"
            id="path27112"
            sodipodi:nodetypes="cccc" />
         <path
-           style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:1.68992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1.68992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
            d="M 121.11791,166.06282 V 121.04377 H 83.138435 Z"
            id="path27112-6"
            sodipodi:nodetypes="cccc" />
         <path
            id="path16738"
-           style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:6.38708;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:6.38708;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 494.21094,457.58984 28.95312,33.91797 h 164.19141 l 28.95312,-33.91797 z m 40.47461,47.41602 28.95117,33.91797 h 83.24609 l 28.95117,-33.91797 z m 40.47461,47.41602 30.09961,35.26367 30.09961,-35.26367 z"
            transform="matrix(0.26458333,0,0,0.26458333,-4.2381925,50.50068)" />
       </g>
@@ -345,7 +344,7 @@
         <g
            id="g96220"
            style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:1.68992;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           transform="rotate(0.11660493,28504.5,92.866638)">
+           transform="rotate(0.11660493,28504.5,92.867222)">
           <rect
              style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.68992;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
              id="rect77875-5"
@@ -374,23 +373,23 @@
       <g
          id="layer3-3"
          inkscape:label="Door"
-         style="display:inline;stroke-width:1.68992;stroke-miterlimit:4;stroke-dasharray:none"
+         style="display:inline;stroke-width:1.68992;stroke-miterlimit:4;stroke-dasharray:none;stroke:none;stroke-opacity:1"
          transform="translate(4.2381925,-50.50068)">
         <path
            id="path3152"
-           style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#050505;stroke-width:1.68992;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1.68992;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="M 187.07073,168.00008 V 90.273557 h -0.0197 v 0 c -0.10381,11.220403 -6.22918,21.519473 -16.03881,26.967343 v 50.75039 z"
            sodipodi:nodetypes="cccsccc" />
         <path
            id="path21499"
-           style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#050505;stroke-width:1.68992;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1.68992;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 140.49885,117.09569 c -9.65831,-5.49317 -15.66319,-15.71142 -15.76234,-26.822133 h -0.0196 v 77.726523 l 15.73834,-0.003 z"
            sodipodi:nodetypes="cccccc" />
         <g
            id="g3548"
-           style="stroke-width:1.68992;stroke-miterlimit:4;stroke-dasharray:none">
+           style="stroke-width:1.68992;stroke-miterlimit:4;stroke-dasharray:none;stroke:none;stroke-opacity:1">
           <rect
-             style="opacity:1;fill:#517295;fill-opacity:1;stroke:none;stroke-width:1.68992;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+             style="opacity:1;fill:#517295;fill-opacity:1;stroke:none;stroke-width:1.68992;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="rect6514"
              width="24.162994"
              height="21.047852"
@@ -415,7 +414,7 @@
         </g>
         <path
            id="path1171"
-           style="display:inline;opacity:1;fill:#ca1b25;fill-opacity:1;stroke:#000000;stroke-width:1.68992;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+           style="display:inline;opacity:1;fill:#ca1b25;fill-opacity:1;stroke:none;stroke-width:1.68992;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            inkscape:transform-center-x="-0.0025511844"
            inkscape:transform-center-y="-4.2751791"
            d="m 155.95668,55.20272 a 32.262291,32.262291 0 0 0 -20.0918,7.005774 32.262291,32.262291 0 0 0 -9.04647,39.143876 l 13.91387,-6.635266 a 16.899702,16.899702 0 0 1 -1.62677,-7.225401 16.899702,16.899702 0 0 1 16.89974,-16.899742 16.899702,16.899702 0 0 1 16.89923,16.899742 16.899702,16.899702 0 0 1 -1.65726,7.295163 l 13.79657,6.598574 A 32.262291,32.262291 0 0 0 176.04072,62.231231 32.262291,32.262291 0 0 0 155.95668,55.20272 Z" />
@@ -619,7 +618,7 @@
            transform="translate(-0.00485911,50.500681)">
           <path
              id="path46144-6-2"
-             style="display:inline;fill:#ca1b25;fill-opacity:1;stroke:#000000;stroke-width:1.68992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             style="display:inline;fill:#ca1b25;fill-opacity:1;stroke:none;stroke-width:1.68992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              d="m 272.69147,1.999992 41.56955,71.999776 h -20.78477 l -1.08004,-1.87017 a 29.373705,29.373705 0 0 1 -9.25628,1.56528 29.373705,29.373705 0 0 1 -23.93084,-12.34188 l -7.30188,12.64677 h -20.78478 z m 0.20154,36.349206 a 20.469256,20.469256 0 0 0 -4.03852,12.1729 20.469256,20.469256 0 0 0 20.46904,20.46907 20.469256,20.469256 0 0 0 2.31459,-0.17467 z" />
         </g>
         <g
@@ -629,7 +628,7 @@
            style="stroke-width:1.68992;stroke-miterlimit:4;stroke-dasharray:none">
           <path
              id="rect85551"
-             style="display:inline;fill:#ca1b25;fill-opacity:1;stroke:#000000;stroke-width:1.68992;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+             style="display:inline;fill:#ca1b25;fill-opacity:1;stroke:none;stroke-width:1.68992;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
              d="m 202.66803,55.813191 5.6e-4,0.0017 h -11.89801 v 61.346699 h 9.78381 l -0.002,0.005 2.31478,-0.005 h 4.88808 v -0.0104 l 12.08766,-0.0257 c -1.86324,0.01 -5.82191,-1.5306 -7.96752,-2.82091 -2.14561,-1.29029 -3.90175,-2.68485 -4.12014,-4.97662 V 94.894355 l 22.388,22.274835 20.51277,0.0902 c -8.94538,-8.91571 -8.94362,-8.90993 -24.09648,-24.997904 6.16584,-3.632184 11.04765,-7.498007 11.60316,-14.898192 0.46699,-9.350084 -3.76351,-15.776508 -10.72612,-19.436458 -2.40062,-1.22719 -5.11253,-1.984306 -7.89319,-2.113633 z m 11.96194,16.985036 c 6.33656,-5.5e-5 11.47336,5.136748 11.47331,11.473302 -0.002,1.785883 -0.49132,4.561555 -1.29355,6.157114 -9.33954,-9.788327 -12.74399,-12.971937 -17.02351,-17.614565 6.84375,-0.01585 0,0 6.84375,-0.01585 z"
              sodipodi:nodetypes="ccccccccccscccccccccccccc" />
         </g>
@@ -653,9 +652,9 @@
            style="stroke-width:1.68992;stroke-miterlimit:4;stroke-dasharray:none">
           <path
              id="path6985"
-             style="fill:#ca1b25;fill-opacity:1;stroke:#000000;stroke-width:1.68992;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 90.723101,4.9382658 C 86.776515,4.8563685 82.850734,5.5306535 79.157658,6.9247242 64.519055,12.450794 56.312657,28.038267 60.04158,43.234359 63.770481,58.4306 78.260338,68.448825 93.794287,66.570836 c 5.749902,-0.697383 11.406603,-3.404265 15.914673,-7.04089 -0.009,7.29388 0,0 -0.009,7.29388 h 11.31373 v -30.96097 h -11.52244 l -3.95363,-0.0474 c -8.491289,-0.01708 -15.388743,6.852509 -15.406079,15.343794 8.48e-4,0.02464 0.0017,0.04924 0.0028,0.07386 0.159779,-5.173243 4.40328,-9.282203 9.578985,-9.275284 1.792754,0.0044 4.309934,0.517104 5.828164,1.470512 -2.83239,5.506885 -9.266916,8.963822 -15.459512,8.964456 -9.129032,-2.65e-4 -16.529424,-7.400903 -16.529382,-16.529934 -3.9e-5,-9.129031 7.40035,-16.52967 16.529382,-16.529934 6.156069,3.1e-4 11.801952,3.421579 14.651512,8.878432 l 12.7664,-6.667092 C 112.27333,11.537199 102.01024,5.1723034 90.723101,4.9382658 Z"
-             sodipodi:nodetypes="cccccccccccccccccccc" />
+             style="fill:#ca1b25;fill-opacity:1;stroke:none;stroke-width:1.68992;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 90.723101,4.9382658 C 86.776515,4.8563685 82.850734,5.5306535 79.157658,6.9247242 64.519055,12.450794 56.312657,28.038267 60.04158,43.234359 63.770481,58.4306 78.260338,68.448825 93.794287,66.570836 c 5.749902,-0.697383 11.406603,-3.404265 15.914673,-7.04089 5.72368,-4.428345 11.30473,-12.754301 11.30473,-23.66709 h -11.52244 l -3.95363,-0.0474 c -8.491289,-0.01708 -15.388743,6.852509 -15.406079,15.343794 8.48e-4,0.02464 0.0017,0.04924 0.0028,0.07386 0.159779,-5.173243 4.40328,-9.282203 9.578985,-9.275284 1.792754,0.0044 4.309934,0.517104 5.828164,1.470512 -2.83239,5.506885 -9.266916,8.963822 -15.459512,8.964456 -9.129032,-2.65e-4 -16.529424,-7.400903 -16.529382,-16.529934 -3.9e-5,-9.129031 7.40035,-16.52967 16.529382,-16.529934 6.156069,3.1e-4 11.801952,3.421579 14.651512,8.878432 l 12.7664,-6.667092 C 112.27333,11.537199 102.01024,5.1723034 90.723101,4.9382658 Z"
+             sodipodi:nodetypes="cccccccccccccccccc" />
         </g>
         <g
            inkscape:groupmode="layer"
@@ -664,7 +663,7 @@
            style="stroke-width:1.68992;stroke-miterlimit:4;stroke-dasharray:none">
           <path
              id="path46144-6"
-             style="display:inline;fill:#ca1b25;fill-opacity:1;stroke:#000000;stroke-width:1.68992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             style="display:inline;fill:#ca1b25;fill-opacity:1;stroke:none;stroke-width:1.68992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              d="M 39.063421,52.500674 -2.506132,124.50045 h 20.784776 l 1.080038,-1.87017 a 29.373705,29.373705 0 0 0 9.256283,1.56528 29.373705,29.373705 0 0 0 23.930837,-12.34188 l 7.301881,12.64677 h 20.784778 z m -0.201538,36.349204 a 20.469256,20.469256 0 0 1 4.038515,12.172902 20.469256,20.469256 0 0 1 -20.469036,20.46907 20.469256,20.469256 0 0 1 -2.314587,-0.17467 z" />
         </g>
         <g
@@ -883,7 +882,7 @@
          id="tspan78917-1-9"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:Lato;text-align:end;text-anchor:end;fill:#aa0000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
          x="479.32373"
-         y="19.117516">Campaign (tier)</tspan></text>
+         y="19.117516">Campaign / Tier</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';display:inline;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
@@ -910,12 +909,12 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;display:inline;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
        x="128.75203"
-       y="328.27435"
+       y="328.41333"
        id="text78919-6-8-3-0-4"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:Lato;fill:#aa0000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
          x="128.75203"
-         y="328.27435"
+         y="328.41333"
          id="tspan239866-3-7">VINPC relationships</tspan></text>
     <text
        xml:space="preserve"
@@ -981,14 +980,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Vollkorn;-inkscape-font-specification:'Vollkorn Heavy';letter-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="23.958435"
-       y="243.021"
+       x="22.900101"
+       y="242.49184"
        id="text125594-0-4-4"><tspan
          sodipodi:role="line"
          id="tspan125592-4-4-0"
          style="font-style:italic;font-variant:normal;font-weight:800;font-stretch:normal;font-size:6.35px;font-family:Vollkorn;-inkscape-font-specification:'Vollkorn Ultra-Bold Italic';fill:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-         x="23.958435"
-         y="243.021"
+         x="22.900101"
+         y="242.49184"
          rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">Rules Reminders:</tspan></text>
     <text
        xml:space="preserve"
@@ -1492,7 +1491,7 @@
            id="tspan78917-1-8"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:Lato;fill:#aa0000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
            x="20.702251"
-           y="39.053493">Name (pronouns)</tspan></text>
+           y="39.053493">Name</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;display:inline;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
@@ -1544,7 +1543,7 @@
            id="tspan78917-1-8-8-9"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:Lato;fill:#aa0000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
            x="20.710318"
-           y="78.074066">Foregrounds</tspan></text>
+           y="78.074066">Foreground Traits</tspan></text>
       <path
          style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 20.003248,73.074215 H 191"
@@ -1569,7 +1568,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:Lato;fill:#aa0000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
            x="20.7206"
            y="58.538696"
-           id="tspan239866">Backgrounds</tspan></text>
+           id="tspan239866">Background Traits</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;display:inline;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
@@ -1605,7 +1604,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:Lato;fill:#aa0000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
            x="20.720596"
            y="47.067863"
-           id="tspan239866-6">Archetypes (ancestry, culture, &amp; profession)</tspan></text>
+           id="tspan3925">Archetypes</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;display:inline;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
@@ -3369,147 +3368,244 @@
       </g>
     </g>
     <g
-       id="g154029"
-       transform="translate(0,-3.0137106)">
+       id="g167328">
       <circle
          style="fill:#981b1b;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path727947"
-         cx="25.559784"
-         cy="258.85071"
+         cx="24.183359"
+         cy="247.37033"
          r="0.92866045" />
       <text
          xml:space="preserve"
          style="font-size:3.43958px;line-height:1.25;font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic;stroke-width:0.264583"
-         x="28.954315"
-         y="260.08005"
+         x="26.837648"
+         y="248.21819"
          id="text20351"><tspan
            sodipodi:role="line"
            id="tspan20349"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43958px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';stroke-width:0.264583"
-           x="28.954315"
-           y="260.08005">Checks use 3 dice (− stress), and need 2 or more successes</tspan></text>
+           x="26.837648"
+           y="248.21819">Checks use 3 dice (minus stress), always: </tspan></text>
     </g>
     <g
-       id="g154138"
-       transform="translate(0,-2.8160925e-5)">
+       id="g167406"
+       transform="translate(0,1.0583479)">
       <circle
          style="display:inline;fill:#981b1b;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path727947-13-6"
-         cx="25.559753"
-         cy="323.37845"
+         cx="24.183359"
+         cy="323.37839"
          r="0.92866045" />
       <text
          xml:space="preserve"
          style="font-size:3.43958px;line-height:1.25;font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic;display:inline;stroke-width:0.264583"
-         x="28.988403"
-         y="324.4697"
+         x="26.789494"
+         y="324.22626"
          id="text20351-8-9"><tspan
            sodipodi:role="line"
            id="tspan20349-43-2"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43958px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';stroke-width:0.264583"
-           x="28.988403"
-           y="324.4697">Spend favor with a VINPC for them to help or follow you</tspan></text>
+           x="26.789494"
+           y="324.22626">If a roll was <tspan
+   style="font-style:italic"
+   id="tspan152634">Stressful</tspan> you will also gain stress on failure!</tspan></text>
     </g>
     <g
        id="g154036" />
     <g
-       id="g208119"
-       transform="translate(-361,168.31465)">
+       id="g167347"
+       transform="translate(0,-2.4891058)">
       <circle
          style="display:inline;fill:#981b1b;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path727947-7"
-         cx="386.55978"
-         cy="95.140732"
+         cx="24.183359"
+         cy="266.37238"
          r="0.92866045" />
       <text
          xml:space="preserve"
          style="font-size:3.43958px;line-height:1.25;font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic;display:inline;stroke-width:0.264583"
-         x="389.98264"
-         y="96.341339"
+         x="26.982111"
+         y="267.2168"
          id="text20351-5"><tspan
            sodipodi:role="line"
-           id="tspan20349-4"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43958px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';stroke-width:0.264583"
-           x="389.98264"
-           y="97.510574">Tasks use job level + bonuses (− stress), and the difficulty</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43958px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';stroke-width:0.264583"
-           x="389.98264"
-           y="101.83322"
-           id="tspan43587">depends on your objective/s and the factors against you</tspan></text>
+           x="26.982111"
+           y="267.2168"
+           id="tspan43587">Tasks use your Job level in dice (minus stress), plus Assets/Gear:</tspan></text>
     </g>
     <g
-       id="g154085"
-       transform="translate(0,-0.40819576)">
+       id="g167367"
+       transform="translate(0,-0.26293914)">
       <circle
          style="display:inline;fill:#ca1b25;fill-opacity:1;stroke:none;stroke-width:0.21956;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path727947-1-8-1-2"
-         cx="32.929077"
-         cy="274.61172"
+         cx="28.7201"
+         cy="285.12537"
          r="0.67965412" />
       <text
          xml:space="preserve"
          style="font-size:3.43958px;line-height:1.25;font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic;display:inline;stroke-width:0.264583"
-         x="36.519165"
-         y="275.59784"
+         x="31.914886"
+         y="285.96805"
          id="text20351-5-7-8-4-0"><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43958px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';stroke-width:0.264583"
-           x="36.519165"
-           y="275.59784"
+           x="31.914886"
+           y="285.96805"
            id="tspan43587-4-6-9-6"
-           dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.40000001 -0.40000001 0 -0.2 0.40000001 -0.40000001">Failing the roll earns you a point of <tspan
+           dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.40000001 -0.40000001 0 -0.2 0.40000001 -0.40000001">Success earns 1 <tspan
    style="font-style:italic"
    id="tspan130179">exp</tspan> (⬦ <tspan
    style="font-weight:normal"
    id="tspan96014-8"
-   dy="0.2">→</tspan> ⬥)</tspan></text>
+   dy="0.2">→</tspan> ⬥), failure earns 2 <tspan
+   style="font-style:italic"
+   id="tspan58534">exp.</tspan></tspan></text>
     </g>
     <g
-       id="g162692"
-       transform="translate(-361,208.27986)">
+       id="g167354"
+       transform="translate(0,-1.6981072)">
       <text
          xml:space="preserve"
          style="font-size:3.43958px;line-height:1.25;font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic;display:inline;stroke-width:0.264583"
-         x="397.69806"
-         y="79.29837"
+         x="31.870173"
+         y="270.90503"
+         id="text20351-5-7-8-4-0-5-8"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43958px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';stroke-width:0.264583"
+           x="31.870173"
+           y="272.07425"
+           id="tspan43587-4-6-9-6-3-7">Difficulty is equal to the number of <tspan
+   style="font-style:italic"
+   id="tspan155726">Objectives</tspan> you have,</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43958px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';stroke-width:0.264583"
+           x="31.870173"
+           y="276.39691"
+           id="tspan116397">plus any Job-specific Factors, and Generic Factors.</tspan></text>
+      <circle
+         style="display:inline;fill:#ca1b25;fill-opacity:1;stroke:none;stroke-width:0.21956;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path727947-1-8-1-2-67-6"
+         cx="28.7201"
+         cy="269.77557"
+         r="0.67965412" />
+    </g>
+    <g
+       id="g167335"
+       transform="translate(0,-1.9738943)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.43958px;line-height:1.25;font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic;display:inline;stroke-width:0.264583"
+         x="31.9596"
+         y="254.63004"
+         id="text20351-5-7-8-4-0-5"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43958px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';stroke-width:0.264583"
+           x="31.9596"
+           y="254.63004"
+           id="tspan86404">0 successes = <tspan
+   style="font-style:italic"
+   id="tspan103736">Tough Failure</tspan>, 1 success = <tspan
+   style="font-style:italic"
+   id="tspan105980">Partial Failure;</tspan></tspan></text>
+      <circle
+         style="display:inline;fill:#ca1b25;fill-opacity:1;stroke:none;stroke-width:0.21956;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path727947-1-8-1-2-67-6-23"
+         cx="28.7201"
+         cy="253.78734"
+         r="0.67965412" />
+    </g>
+    <g
+       id="g167342"
+       transform="translate(0,-2.6352853)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.43958px;line-height:1.25;font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic;display:inline;stroke-width:0.264583"
+         x="31.911448"
+         y="260.79803"
+         id="text20351-5-7-8-4-0-5-5"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43958px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';stroke-width:0.264583"
+           x="31.911448"
+           y="260.79803"
+           id="tspan86404-8">2 successes = <tspan
+   style="font-style:italic"
+   id="tspan103738-9">Pass</tspan>, 3+ sucessess = <tspan
+   style="font-style:italic"
+   id="tspan105060-7">Pass with Flying Colors!</tspan></tspan></text>
+      <circle
+         style="display:inline;fill:#ca1b25;fill-opacity:1;stroke:none;stroke-width:0.21956;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path727947-1-8-1-2-67-6-2-7"
+         cx="28.7201"
+         cy="259.95535"
+         r="0.67965412" />
+    </g>
+    <g
+       id="g167359"
+       transform="translate(0,0.40016816)">
+      <circle
+         style="display:inline;fill:#ca1b25;fill-opacity:1;stroke:none;stroke-width:0.21956;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path727947-1-8-1-2-67-6-2-9"
+         cx="28.7201"
+         cy="278.95737"
+         r="0.67965412" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.43958px;line-height:1.25;font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic;display:inline;stroke-width:0.264583"
+         x="31.901129"
+         y="279.80179"
+         id="text20351-5-7-8-4-0-5-0-6-2"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43958px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';stroke-width:0.264583"
+           x="31.901129"
+           y="279.80179"
+           id="tspan43587-4-6-9-6-3-6-1-0">Consequences should be established before rolling.</tspan></text>
+    </g>
+    <g
+       id="g167382"
+       transform="translate(0,0.66049473)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.43958px;line-height:1.25;font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic;display:inline;stroke-width:0.264583"
+         x="31.914886"
+         y="296.05783"
          id="text20351-8"><tspan
            sodipodi:role="line"
            id="tspan20349-43"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43958px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';stroke-width:0.264583"
-           x="397.69806"
-           y="80.467606">A helper can KISS dice for you, but they are tied to the</tspan><tspan
+           x="31.914886"
+           y="297.22705">Helpers can KISS dice for you, but they are tied to the</tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43958px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';stroke-width:0.264583"
-           x="397.69806"
-           y="84.790253"
-           id="tspan106529">consequences of the roll</tspan></text>
+           x="31.914886"
+           y="301.54971"
+           id="tspan106529">consequences of the roll.</tspan></text>
       <circle
          style="display:inline;fill:#ca1b25;fill-opacity:1;stroke:none;stroke-width:0.21956;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path727947-1-8-1"
-         cx="393.92911"
-         cy="78.264511"
+         cx="28.7201"
+         cy="294.94556"
          r="0.67965412" />
     </g>
     <g
-       id="g162713"
-       transform="translate(-361,208.45976)">
+       id="g167376"
+       transform="translate(0,-0.11498966)">
       <circle
          style="display:inline;fill:#981b1b;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path727947-8"
-         cx="386.55978"
-         cy="72.349342"
+         cx="24.183359"
+         cy="291.54236"
          r="0.92866045" />
       <text
          xml:space="preserve"
          style="font-size:3.43958px;line-height:1.25;font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic;display:inline;stroke-width:0.264583"
-         x="389.9736"
-         y="73.433182"
+         x="26.789494"
+         y="292.38504"
          id="text20351-5-7-8-4"><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43958px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';stroke-width:0.264583"
-           x="389.9736"
-           y="73.433182"
+           x="26.789494"
+           y="292.38504"
            id="tspan43587-4-6-9">KISS dice using <tspan
    style="font-style:italic"
    id="tspan56055">Kismet</tspan>, <tspan
@@ -3518,82 +3614,79 @@
    style="font-style:italic"
    id="tspan56059">Stunts</tspan> or <tspan
    style="font-style:italic"
-   id="tspan56061">Specialties </tspan>to reroll</tspan></text>
+   id="tspan56061">Specialties </tspan>to reroll:</tspan></text>
     </g>
     <g
-       id="g162704"
-       transform="translate(-361,207.62279)">
+       id="g167388"
+       transform="translate(0,3.5526368)">
       <ellipse
          style="display:inline;fill:#981b1b;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path727947-13"
-         cx="386.55978"
-         cy="96.495895"
+         cx="24.18302"
+         cy="304.37637"
          rx="0.92900002"
          ry="0.92866045" />
       <text
          xml:space="preserve"
          style="font-size:3.43958px;line-height:1.25;font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic;display:inline;stroke-width:0.264583"
-         x="389.7818"
-         y="97.721558"
+         x="26.772297"
+         y="305.21906"
          id="text20351-8-9-4"><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43958px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';stroke-width:0.264583"
-           x="389.7818"
-           y="97.721558"
+           x="26.772297"
+           y="305.21906"
            id="tspan150781">Use Conditions <tspan
    style="font-style:italic"
-   id="tspan150775">once per session</tspan> to subtract a die before rolling</tspan></text>
+   id="tspan150775">once per session</tspan> before an appropriate roll to:</tspan></text>
     </g>
     <g
-       id="g162718"
-       transform="translate(-361,208.26849)">
+       id="g167394"
+       transform="translate(0,1.58218)">
       <text
          xml:space="preserve"
          style="font-size:3.43958px;line-height:1.25;font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic;display:inline;stroke-width:0.264583"
-         x="397.74277"
-         y="102.76115"
+         x="31.880491"
+         y="311.63779"
          id="text20351-8-9-4-7"><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43958px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';stroke-width:0.264583"
-           x="397.74277"
-           y="102.76115"
-           id="tspan20430">You will regain Ego before the roll</tspan></text>
+           x="31.880491"
+           y="311.63779"
+           id="tspan20430"><tspan
+   style="font-style:italic"
+   id="tspan136581">Benefit:</tspan> Spend a Lot and gain a +[Health] bonus.</tspan></text>
       <circle
          style="display:inline;fill:#ca1b25;fill-opacity:1;stroke:none;stroke-width:0.21956;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path727947-1-8-1-0"
-         cx="393.92911"
-         cy="101.53348"
+         cx="28.7201"
+         cy="310.79337"
          r="0.67965412" />
     </g>
     <g
-       id="g208081"
-       transform="translate(-362.05833,171.11072)">
+       id="g167400"
+       transform="translate(0,0.91733323)">
       <circle
          style="display:inline;fill:#ca1b25;fill-opacity:1;stroke:none;stroke-width:0.21956;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path727947-1-8-1-2-6"
-         cx="394.98743"
-         cy="145.09883"
+         cx="28.7201"
+         cy="316.96136"
          r="0.67965412" />
       <text
          xml:space="preserve"
          style="font-size:3.43958px;line-height:1.25;font-family:OpenDyslexic;-inkscape-font-specification:OpenDyslexic;word-spacing:0px;stroke-width:0.264583"
-         x="398.62567"
-         y="146.12993"
+         x="31.880491"
+         y="317.80579"
          id="text163762"><tspan
            sodipodi:role="line"
            id="tspan163760"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43958px;font-family:Overlock;-inkscape-font-specification:Overlock;stroke-width:0.264583"
-           x="398.62567"
-           y="146.12993"
-           dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">Once per Condition, spend catharsis <tspan
-   style="font-size:4.23333px;letter-spacing:-0.79375px"
-   id="tspan39713"
-   dy="0.40000001">✓</tspan><tspan
-   style="letter-spacing:0.0661458px;baseline-shift:baseline"
-   id="tspan42123"
-   dy="-0.40000001"
-   dx="0">s</tspan> to regain Ego</tspan></text>
+           x="31.880491"
+           y="317.80579"
+           dy="0 0 0 0 0 0 0 0 0"
+           dx="0 0 0 0 0 0 0 0 0"><tspan
+   style="font-style:italic"
+   id="tspan137393">Deficit:</tspan> Regain Ego but suffer a −1 die penalty.</tspan></text>
     </g>
     <circle
        id="path36433"

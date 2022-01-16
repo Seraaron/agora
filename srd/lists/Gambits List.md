@@ -11,9 +11,9 @@ date updated: 2021-12-20 15:57
 
 # Gambits List
 
-Gambits can be organized into three categories: **[[#Commonplace Gambits|Commonplace]]**, **[[#Extraordinary Gambits|Extraordinary]]**, and **[[#Supernatural Gambits|Supernatural]]**. The gambits in each category are generally more powerful than the last — or else they cater to different [[Genre, Tone, and Themes|genres]] — but each gambit also has two effect levels: _Basic_ and _Advanced_. 
+Gambits can be organized into three categories: **[[#Commonplace Gambits|Commonplace]]**, **[[#Extraordinary Gambits|Extraordinary]]**, and **[[#Supernatural Gambits|Supernatural]]**. The gambits in each category are generally more powerful than the last — or else they cater to different [[Genre, Tone, and Themes*|genres]] — but each gambit also has two effect grades: _Basic (B)_ and _Advanced (A)_. 
 
-❓ The different [[Gambits#Effect Levels|effect levels]] and their [[Gambits#Effect Durations|durations]] are explained in more detail in the full [[Gambits]] article.
+❓ The different effect [[Gambits#Effect Grades|grades]] and their [[Gambits#Effect Durations|durations]] are explained in more detail in the full [[Gambits]] article.
 
 ## Commonplace Gambits
 
@@ -33,7 +33,6 @@ Gambits can be organized into three categories: **[[#Commonplace Gambits|Commonp
 
 ![[Eidetic Memory]]
 
-![[Fearsome Growl]]
 
 ![[Ironclad Facade]]
 
@@ -77,6 +76,8 @@ Gambits can be organized into three categories: **[[#Commonplace Gambits|Commonp
 
 ## Extraordinary Gambits
 
+![[Beasthood]]
+
 ![[Berserk Rage]]
 
 ![[Damage Resistant]]
@@ -90,6 +91,8 @@ Gambits can be organized into three categories: **[[#Commonplace Gambits|Commonp
 ![[Fae Touched]]
 
 ![[Familiar]]
+
+![[Fearsome Growl]]
 
 ![[Fists of Steel]]
 
@@ -143,7 +146,7 @@ Gambits can be organized into three categories: **[[#Commonplace Gambits|Commonp
 
 ![[Blood Drinker]]
 
-![[Fae Blooded]]
+![[Fae Borne]]
 
 ![[Null]]
 

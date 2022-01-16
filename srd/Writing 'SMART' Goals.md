@@ -17,9 +17,9 @@ By writing ‘**Specific**, **Motivating**, **Achievable**, **Relevant** and **T
 
 - **Motivating:** Make sure that this is something that you — _the player_ — are interested in doing too and think would be fun. There's no point in spending _literally hours of your life_ acting in a way that you don't really want to. If you lose motivation to complete a Goal at any point, then discuss it with your [[Peers]] and change it.
 
-- **Achievable:** Ask your [[Facilitator|FC]] how realistic your Goal is, and whether they think it's a good idea? Because they will be the one who has to make [[Pitching and Planning|plans]] to [[Challenging Principles|challenge]] it. Even _a Goal doomed to fail_ can be fun to play though, for the [dramatic irony](https://en.wikipedia.org/wiki/Irony#Dramatic_irony), _and you still get rewarded for trying_.
+- **Achievable:** Ask your [[Facilitator|FC]] how realistic your Goal is, and whether they think it's a good idea? Because they will be the one who has to make [[Pitching and Planning*|plans]] to [[Challenging Principles|challenge]] it. Even _a Goal doomed to fail_ can be fun to play though, for the [dramatic irony](https://en.wikipedia.org/wiki/Irony#Dramatic_irony), _and you still get rewarded for trying_.
 
-- **Relevant:** Check that the Goal won't take you too far of course from your other principles, that it won't overly disrupt the campaign's current [[Genre, Tone, and Themes|theme]], and that it is likely to be something all your friends are going to enjoy seeing you try to accomplish too.
+- **Relevant:** Check that the Goal won't take you too far of course from your other principles, that it won't overly disrupt the campaign's current [[Genre, Tone, and Themes*|theme]], and that it is likely to be something all your friends are going to enjoy seeing you try to accomplish too.
 
 - **Testable:** Think about how long it will take to achieve, how you can track progress, what [[Jobs|jobs]], [[Specialties|specialties]] and [[Assets and Gear|assets or gear]] you'll likely use along the way, and how you will quantify success by the end.
 
@@ -27,7 +27,7 @@ By writing ‘**Specific**, **Motivating**, **Achievable**, **Relevant** and **T
 
 > ### Nb.
 >
-> The **SMART** acronym was originally a business development [mnemonic](https://en.wikipedia.org/wiki/Mnemonic) written by George T. Doran for _Management Review_ (c. 1981), but it can be adapted to writing Goals in [[Agora]] too.
+> The **SMART** acronym was originally a business development [mnemonic](https://en.wikipedia.org/wiki/Mnemonic) written by George T. Doran for _Management Review_ (c. 1981), but it can be adapted to writing principles in [[Agora]] too.
 
 ---
 

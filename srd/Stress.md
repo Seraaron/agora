@@ -4,9 +4,7 @@ alias:
   - stresses
   - stressed
 tags:
-
   - rules
-  - stress
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-03+2300
@@ -38,7 +36,7 @@ Removing stress requires that you perform one of the activities listed as a 'rem
 
 If you're finding the pace is moving too quickly, signal to your [[Facilitator|FC]] that you'd like to do something to relieve your stress soon and they should accommodate you with a scene.
 
-Alternatively, if there is a [[Downtime and Travel|downtime skip]] of more than a week then all stresses on your character sheet are reduced by one, or _all stress is removed entirely_ if the timeskip is longer than a month.
+Alternatively, if there is a [[Downtime and Travel*|downtime skip]] of more than a week then all stresses on your character sheet are reduced by one, or _all stress is removed entirely_ if the timeskip is longer than a month.
 
 #### Pushing Through It
 
@@ -72,7 +70,7 @@ The stresses for the six core [[Abilities|abilities]] are called: **[[#Worry]]**
 
 Stress can be utilized in two ways: Mechanically, it is a simply resource for [[Facilitator|Facilitators]] to tax and for players to manage. Narratively, it can produce some fun story moments. The stress relief system, meanwhile, forces you to take some time to rest and relax every now and then. 
 
-Depending on the pace and [[Genre, Tone, and Themes|tone]] of your game, these sorts of [[Session Structure#Scenes|scenes]] can be short and simple or long and personal. If stress is occurring frequently (especially from adventuring or combat) then recovery time might start eating up a lot of precious session time, in which case it's probably better to skip them and just say that a week passes. Alternatively, if stress is quite rare in your game then it may be worth giving a remedy scene the time it deserves and *embrace the feeling of [ma](https://en.wikipedia.org/wiki/Ma_%28negative_space%29)* 間 (or 'emptiness') that it creates...
+Depending on the pace and [[Genre, Tone, and Themes*|tone]] of your game, these sorts of [[Session Structure#Scenes|scenes]] can be short and simple or long and personal. If stress is occurring frequently (especially from adventuring or combat) then recovery time might start eating up a lot of precious session time, in which case it's probably better to skip them and just say that a week passes. Alternatively, if stress is quite rare in your game then it may be worth giving a remedy scene the time it deserves and *embrace the feeling of [ma](https://en.wikipedia.org/wiki/Ma_%28negative_space%29)* 間 (or 'emptiness') that it creates...
 
 Certain stresses, like [[Shock|shock]] and [[Burnout|burnout]], can generate miniature [[Campaign Arcs#Character Arcs|character arcs]] all by themselves. So we encourage you to experiment, play, and let it pass through you. You might just surprise yourself!
 
@@ -82,4 +80,4 @@ Certain stresses, like [[Shock|shock]] and [[Burnout|burnout]], can generate min
 
 ![[Shame]]
 
-![[Torpor]]
+![[Torpor*]]

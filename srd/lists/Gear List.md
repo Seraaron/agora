@@ -3,12 +3,11 @@ alias:
   - gear list
 tags:
   - list
-  - features
   - examples
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-09-23+1800
-date updated: 2021-12-22 19:15
+date updated: 2022-01-13 19:47
 ---
 
 # Gear List
@@ -23,7 +22,7 @@ $$
 Gear Cost (¢) = (1 + Dice) \times \left(\sum(Tags) + \sum(Hyphens)\right)
 $$
 
-When buying gear outside of [[Character Assembly|character assembly]], use the cost to help you set the price using [[Wealth]], [[Caps as Coins|caps as coins]], or a [[Merchant]] roll.
+When buying gear outside of [[Character Assembly|character assembly]], use the cost to help you set the price using a [[Wealth]] or a [[Merchant]] roll.
 
 ---
 
@@ -31,21 +30,21 @@ When buying gear outside of [[Character Assembly|character assembly]], use the c
 
 **All tools have a #job-tools tag and a weight tag.** Some jobs will say they require certain tools to be used effectively, these are grouped by their [[Jobs List|job tags]].
 
-**If you lack the right set of tools — but you can still improvise or approximate them with other objects — then you'll suffer a +1 difficulty penalty factor.**
+❓ **If you lack the right set of tools — but you can still improvise or approximate them with other objects — then you'll suffer a +1 difficulty penalty factor.**
 
 ❗ If you lack _any_ tools — and can't find or make substitutes — then you'll either suffer a doubled-base difficulty penalty or the [[Facilitator|FC]] may rule that the roll cannot even be attempted.
 
-|       Job Tag      |  Weight | _Example Tools_                                                                                                                                    |
-| :----------------: | :-----: | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   #academic-tools  |  #light | Pen and paper, or quill and ink, a journal, reference material, experimental vessels, graphpaper and spreadsheets, etc.                            |
-|   #artistic-tools  |  #light | _Paints and brushes, carving knives, canvases or clay, a sketchbook, textiles, a camera, inks and dyes, etc._                           |
-|    #craft-tools    | #medium | Hammers and chisels, metal ingots, a crucible or kiln, a lathe, scrapers and planers, a mallet and nails, nuts and bolts, hacksaws, etc.           |
-|  #financial-tools  |  #light | _An abacus, slide ruler, calculator, or computer, a clock or pocket-watch, pens, and a calendar or planner, etc._                             |
-|  #laborious-tools  |  #heavy | Saws and hammers, pulleys, spades and shovels, a pickaxe or mattock, work hatchets, rakes, wrenches, a wheelbarrow, etc.                           |
-|   #medical-tools   |  #light | _Pins and bandages, painkillers, scalpels and scissors, tweezers, a thermometer, stethoscope, bonesaw, etc._                                  |
+| Job Tag            |  Weight | _Example Tools_                                                                                                                                    |
+| :----------------- | :-----: | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #academic-tools    |  #light | Pen and paper, or quill and ink, a journal, reference material, experimental vessels, graphpaper and spreadsheets, etc.                            |
+| #artistic-tools    |  #light | _Paints and brushes, carving knives, canvases or clay, a sketchbook, textiles, a camera, inks and dyes, etc._                                      |
+| #craft-tools       | #medium | Hammers and chisels, metal ingots, a crucible or kiln, a lathe, scrapers and planers, a mallet and nails, nuts and bolts, hacksaws, etc.           |
+| #financial-tools   |  #light | _An abacus, slide ruler, calculator, or computer, a clock or pocket-watch, pens, and a calendar or planner, etc._                                  |
+| #laborious-tools   |  #heavy | Saws and hammers, pulleys, spades and shovels, a pickaxe or mattock, work hatchets, rakes, wrenches, a wheelbarrow, etc.                           |
+| #medical-tools     |  #light | _Pins and bandages, painkillers, scalpels and scissors, tweezers, a thermometer, stethoscope, bonesaw, etc._                                       |
 | #performance-tools | #medium | Instruments, microphones and amplifiers, costumes and makeup, puppets, a soapbox, etc.                                                             |
-|    #ritual-tools   | #medium | _Offerings, candles and incense, holy symbols, a mortal and pestle, dice or cards, a sacred blade, alchemical reagents, chalk, blood, etc._        |
-|    #rogue-tools    |  #light | Locks picks, a file and a hammer, pliers or bolt-cutters, rope and a grappling hook, caltrops, a mirror and compass, a lantern or flashlight, etc. |
+| #ritual-tools      | #medium | _Offerings, candles and incense, holy symbols, a mortar and pestle, dice or cards, a sacred blade, alchemical reagents, chalk, blood, etc._        |
+| #rogue-tools       |  #light | Locks picks, a file and a hammer, pliers or bolt-cutters, rope and a grappling hook, caltrops, a mirror and compass, a lantern or flashlight, etc. |
 
 > #### _The cost of tools depends on quality:_
 >
@@ -61,27 +60,11 @@ When buying gear outside of [[Character Assembly|character assembly]], use the c
 >
 > ![[Superior-Quality]]
 
-### Vehicles & Vessels
-
-**All vehicles and vessels have the #vehicle or #vessel tags.** These objects blur the line between being gear or [[Assets and Gear|assets]]. They can often be as expensive as buildings, but they usually have more utility in immediate gameplay terms, so they're listed here as gear.
-
-**Unlike [[#Tools|tools]] however:** If a job says it requires a vehicle or vessel to be used _and you don't have one_, then it simply cannot be used.
-
-#unfinished
-
-#### Animals
-
-**All animals have the #animal tag.** Animals are grouped in two ways: Pets and Livestock. Individual pets count as 'items of gear', whereas livestock animals are collectively treated more like [[Assets and Gear|assets]].
-
-A pet can be trained and looked after using the [[Handler]] job. A pets is different from a [[Familiar]] too. Pets are just animal companions, or may be treated like tools or vehicles in some instances; whereas a familiar is a [[VINPCs|VINPC]] granted by a [[Gambits|gambit]] that has their own specialties and limited sapience.
-
-❗ Animals can get [[Assets and Gear#Breaking Gear|damaged]] just like any other piece of gear, but in this case you don't 'repair' them. They must be treated with the [[Handler]] job, and given time to heal, or else they can die.
-
-#unfinished
+![[Vehicles, Vessels, & Animals List]]
 
 ## Cash-Money
 
-**All cash-money has the #cash-money tag.** Cash-money serves no functional purpose other than to be spent or sold. _When spent, add its bonus dice to a [[Wealth]], [[Merchant]], or [[Steward]] roll and then remove it from your inventory._
+**All cash, money, or valuable objects have the #cash-money tag.** Cash-money serves no functional purpose other than to be spent or sold. _When spent, add its bonus dice to a [[Wealth]], [[Merchant]], or [[Steward]] roll and then remove it from your inventory._
 
 | Dice | _Roughly Equivalent to..._                                           | ₡ost |
 | ---- | :------------------------------------------------------------------- | ---: |
@@ -95,7 +78,7 @@ You can split some items up into smaller parts, _if it makes sense to do so_.
 
 > ### Eg.
 >
-> You could go to the bank and exchange a pouch of gold (+3) for a pouch of silver (+2) and two pouches of copper (+1), which can be spent individually rather than all at once.
+> You could go to the bank and exchange a pouch of gold (+3) for a pouch of silver (+2) and a pouch of copper (+1), which can be spent individually rather than all at once.
 >
 > Or you could spend one third of the gold in the pouch (+1), leaving it with two-thirds left (+2/3).
 
@@ -123,9 +106,9 @@ Normally, cash has no [[Carry Weight|carry weight cost]], but if you're playing 
 
 ###### Magic Items
 
-Magic (or sufficiently high-tech) items are not normally available for purchase. They must either be _earned_ or created from scratch, usually requiring a whole adventure by themselves.
+Magic items — or _sufficiently advanced_ pieces of technology — are not normally available for purchase. They must either be _earned_ or created from scratch, usually requiring a whole adventure by themselves.
 
-The #magic or #high-tech tags will also usually do more than just make your dice [[Exploding Dice|explode]] too. **They confer special powers to the user — unique effects that can't be represented with bonus dice or tags**. Some of these effect may be equivalent to [[Gambits|gambits]], or [[spells]], while others may be completely bespoke.
+The #magic or #high-tech tags will also usually do more than just make your dice [[Exploding Dice|explode]] too. **They confer special powers to the user; unique effects that can't be represented with bonus dice or tags**. Some of these effect may be equivalent to [[Gambits|gambits]], or [[spells]], while others may be completely bespoke.
 
 ❓ Currently, no examples of magic items are provided in the [[Agora]] SRD.
 

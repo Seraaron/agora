@@ -4,7 +4,6 @@ alias:
 tags:
   - martial
   - list
-  - gear
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-19 01:10
@@ -84,7 +83,7 @@ Unarmored or #natural armors have no cost or weight because they are innate to y
 | +3   | **Extremely Thick Skull**                   |  #helm  | #bashing #brawler #monster                                |
 | +1   | **Giant Pincer**                            | #shield | #brawler #crushing #great #heavy #monster #rending #short |
 
-Natural armor dice ratings are equivalent to those of [[#Armor|crafted armors]], assuming that the creature is of modest or ample [[Circumstances#Size|size]]. That is, smaller creatures may have fewer dice for the same type of armor, and larger creatures may have more.
+Natural armor dice ratings are equivalent to those of [[#Armor|crafted armors]], assuming that the creature is of modest or ample [[Size|size]]. That is, smaller creatures may have fewer dice for the same type of armor, and larger creatures may have more.
 
 > ### Eg.
 >

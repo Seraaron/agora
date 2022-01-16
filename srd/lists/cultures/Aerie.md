@@ -13,18 +13,18 @@ tags:
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-09 20:20
-date updated: 2021-12-21 16:25
+date updated: 2022-01-04 14:07
 ---
 
-### Aerie People
+### Aerie Culture
 
-_People of academia, who isolate themselves in a place of learning. Erudite and hermetic types. Always seeking answers to life's mysteries._ #rewrite
+_People of academia, who isolate themselves in a place of learning. Erudite and hermetic types. Always seeking answers to life's mysteries._ Mostly used to represent university lifestyles or exclusive club memberships.
 
-| Jobs (Lvl. +1)             | 1d6 | Specialty              |
+| Jobs             | 1d6 | Specialty              |
 | :------------------------- | :-: | :--------------------- |
-| [[Engineer]]               |  1. | Architecture / Design  |
-| [[Scholar]]                |  2. | Composition            |
+| [[Engineer]] / [[Scholar]] |  1. | Architecture / Design  |
+| [[Philosopher]]            |  2. | Composition            |
 | [[Scribe]]                 |  3. | [history] / [lore]     |
-| _**Additional Benefits:**_  |  4. | [language] / [culture] |
+| _**Additional Benefits:**_ |  4. | [language] / [culture] |
 | ⋄ _Literacy & Numeracy_    |  5. | [science] / [magic]    |
-| ⋄ _+1 Wealth_              |  6. | Teaching               |
+| ⋄ _Wealth +1_              |  6. | Teaching               |
