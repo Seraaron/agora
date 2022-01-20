@@ -81,3 +81,9 @@ Certain stresses, like [[Shock|shock]] and [[Burnout|burnout]], can generate min
 ![[Shame]]
 
 ![[Torpor*]]
+
+---
+
+- **Next:** [[Capabilities]]
+- **Related:** [[Abilities]], [[Dangerous Rolls]]
+- **Previous:** [[Rank]]

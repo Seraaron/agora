@@ -177,3 +177,10 @@ We sometimes use the word 'KISS' — pronounced  /kɪs/ — as an _adjective_, r
 Aside from the great narrative effects of KISSing dice, a useful side-effect is that **these rules generally speed up gameplay when KISSes wouldn't be necessary**.
 
 There is a natural tendency to want to draw on every advantage and to 'fire on all cylinders' at all times while playing games, but since _KISSes happen after the main roll_ and the difficulty of the roll is always pre-established, **you may find the success you want without needing to KISS**.
+
+---
+
+- **Next:** [[Difficulties and Consequences]]
+- **Related:** [[Helping]], [[Specialties]], [[Taking notes]]
+- **Previous:** [[Opposed Tasks]]
+

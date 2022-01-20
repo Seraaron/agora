@@ -19,7 +19,7 @@ date updated: 2021-11-23 17:38
 
 Telling lies and social stealth. Keeping your emotions to yourself, controlling your body language, disguising yourself, and generally dodging attention. Speaking in jargon to impress, deflect, or confuse, or to relay a hidden message.
 
-May be used during a [[Social Discourse|social discourse]] to obscure information or give a rejection, and can also be used in combination with your own presence to determine your starting composure.
+May be used during a [[Social Conflict|social discourse]] to obscure information or give a rejection, and can also be used in combination with your own presence to determine your starting composure.
 
 May also include playing games of chance, or hiding, encrypting, and destroying information, or creating forgeries, using [[Appeal]].
 

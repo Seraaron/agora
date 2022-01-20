@@ -139,8 +139,15 @@ Gear can break when it's used. **When you make a roll that [[#Required Gear|requ
 
 Magical or high-tech items are special cases. They can either be thought of as assets that also function as gear, or as bits of gear that have the #capital or #prestige tags — indicating that just owning the item also confers a reputation onto you.
 
-Not only that, but **magical and high-tech items will make all your [[Exploding Dice|dice explode]], when used**. Most also come with unique effects that can functionally resemble [[Gambits|gambits]] or [[spells]].
+Not only that, but **magical and high-tech items will make all your [[Exploding Dice|dice explode]], when used**. Most also come with unique effects that can functionally resemble [[Gambits|gambits]] or [[Spellcasting|spells]].
 
 All of this makes magic and high-tech items _very valuable_ indeed.
 
 ❓ Currently, no examples of magic items are provided in the [[Agora]] SRD.
+
+---
+
+- **Next:** [[Specialties]]
+- **Related:** [[Asset Examples List]], [[Gear List]]
+- **Previous:** [[Wounds and Scars]]
+

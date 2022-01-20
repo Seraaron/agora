@@ -33,6 +33,6 @@ _**Suggested Specialties:** Almanacs, [mythology], Patience, Prayer, Rituals, Sy
 > - “...?
 > - “...?
 > - “...?
-> ![[Miracles]]
+> ![[Prayer]]
 
 ###### {[[D66 Jobs|25]]}

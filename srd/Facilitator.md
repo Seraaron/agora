@@ -36,6 +36,6 @@ The Facilitator is _one of the other players at the table_, a friend, who simply
 
 ---
 
-- **Next article:** [[Peers]]
-- **Previous article:** [[Player Characters]]
-- **Related article:** [[Quick Session Plan]]
+- **Next:** [[Peers]]
+- **Related:** [[Quick Session Plan]]
+- **Previous:** [[Player Characters]]

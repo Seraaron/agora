@@ -21,15 +21,15 @@ date updated: 2022-01-16 20:17
 >
 > ![[charSheet_2page_spread.svg]]
 >
-> [[Agora Character Sheet (two-page-spread).pdf|Download / Print]]
+> [[Agora Character Sheet (two-page-spread).pdf|Download / Print]] ([[Agora Character Sheet (form-fillable).pdf|Form-Fillable Version]])
 
 ---
 
-###### ❗ Version 0.5.0 ❗
+###### ❗ Version 0.5.1 ❗
 
 **You are currently reading a work in progress.** You _will_ encounter [[broken links]], typos, and #unfinished tags.
 
-The core game is now fully playable, though the character creation options are still somewhat limited, and there's no magic system yet. If you use the premade archetypes then you can only really play as human adventurers right now. Otherwise, you will have to make up you own archetypes.
+The core game is now fully playable, though the character creation options are still somewhat limited, and there's no magic system yet. If you use the premade archetypes then you can only really play as _human adventurers_ right now. Otherwise, you will have to make up you own archetypes.
 
 _If you like what you see, then consider joining the [Discord.gg/JwM6zBszKr](https://discord.gg/JwM6zBszKr) or following me on twitter [@SeraaronArt](https://twitter.com/SeraaronArt) for more regular updates and early drafts of 'beta' material._
 
@@ -47,17 +47,18 @@ _If you like what you see, then consider joining the [Discord.gg/JwM6zBszKr](htt
 	- [[Facilitator]]
 	- [[Peers]]
 2. [[Agenda]]
-	- [[When to roll dice]]
-	- [[Let the dice fall where they may]]
+	- [[When to roll dice]]?
+	- [[Let the dice fall where they may]]!
 3. [[Using Checks and Tasks]]
-	- [[Checks]]			- [[Fact Checks]]
+	- [[Checks]]
+	    - [[Fact Checks]]
 	- [[Tasks]]
 		- [[Opposed Tasks]]
 4. [[KISSing]]
 	- [[Helping]]
 5. [[Difficulties and Consequences]]
 
-### § 2 — Characters
+### § 2 — Character Rules
 
 1. [[Development Sessions]]
 2. [[Character Assembly]]
@@ -65,6 +66,7 @@ _If you like what you see, then consider joining the [Discord.gg/JwM6zBszKr](htt
 	- [[Tier]]
 	- [[Age]]
 	- [[Size]]
+	- [[Wealth]]
 4. [[Principles]]
 	- [[Kismet]]
 5. [[Abilities]]
@@ -79,24 +81,16 @@ _If you like what you see, then consider joining the [Discord.gg/JwM6zBszKr](htt
 9. [[Specialties]]
 10. [[VINPCs|Kith and Kin]]
 
-### § 3 — Modular Mechanics
+### § 3 — Modular Rules
 
 1. **[[Understanding Conflicts|Conflict]] Systems:**
-	- [[Martial Combat]]
-		- [[Ammo Quantities]]
-		- [[Damage Type vs Armor Weight]]
-		- [[Shields Shall be Shattered]]
-	- [[Social Discourse]]
-		- [[Rhetorical Fallacies]]
-2. **Magic Systems:**
+	- [[Martial Conflict]]
+	- [[Social Conflict]]
+2. **[[magical subsystem|Magic]] Systems:**
 	- [[Alchemist]]
 	- [[Illusionist]]
-	- #unfinished
 3. **[[Downtime and Travel*|Downtime]] Systems:**
 	- [[Crafting]]
-		- [[Common-Quality]]
-		- [[Excellent-Quality]]
-		- [[Superior-Quality]]
 	- [[High Fashion]]
 	- [[Building]]
 
@@ -129,7 +123,7 @@ _If you like what you see, then consider joining the [Discord.gg/JwM6zBszKr](htt
 
 ### § 7 — Resources
 
-1. [[Agora Character Sheet (one-page).pdf]]
-2. [[Agora Character Sheet (two-page-spread).pdf]]
+1. [[Character Resources]]
+	- [[Markdown Character Sheet]]
 
 ![[Support me]]

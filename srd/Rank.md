@@ -83,3 +83,9 @@ There are two main ways to advance ranks in this game, and one optional method:
 The main way to lose rank is to get [[Wounds and Scars|wounded]], which _temporarily regresses_ an appropriate your ability rank by one step (ie. 2 → 3 → 4 → 5 → 6) until you recover.
 
 ❓ Special [[Capabilities|capabilities]], like [[Capabilities#Honor|Honor]], also have mechanics for regressing ranks when certain conditions arise.
+
+---
+
+- **Next:** [[Stress]]
+- **Related:** [[Quick Play Rules]]
+- **Previous:** [[Abilities]]

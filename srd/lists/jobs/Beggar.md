@@ -19,7 +19,7 @@ date updated: 2021-12-01 01:10
 
 Soliciting alms and charity from passers by, using any skills you may have to busk, or to simply tell your lifestory for pity's sake. Prostrating yourself and pleading for mercy or forgiveness. Asking humbly and earnestly for something, with little or nothing to offer in return.
 
-May be used during a [[Social Discourse|social discourse]] to persuade or plea.
+May be used during a [[Social Conflict|social discourse]] to persuade or plea.
 
 May also include some of the skills required to survive in a dark and unforgiving city, using [[Endurance]].
 

@@ -106,3 +106,7 @@ On the surface, these restrictions about VINPC death and betrayal may seem artif
 ###### This Article is Released to Public Domain [(CC0 1.0)](https:/creativecommons.org/publicdomain/zero/1.0/)
 
 ---
+
+- **Next:** [[Understanding Conflicts]]
+- **Related:** [[Non-player Characters*]]
+- **Previous:** [[Specialties]]

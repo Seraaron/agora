@@ -18,4 +18,4 @@ date updated: 2021-12-22 20:23
 - **A D6 pool-based conflict resolution system, that counts successes based on [[Rank|rank]], and lets you reroll dice by [[KISSing]] them!**
 - **A unique [[Jobs|job system]] that advances levels based on in-game use!**
 - **Use custom [[Capabilities|capabilities]], [[Conditions|conditions]], and [[Gambits|gambits]] to perfectly match the style and themes of your setting, or your current adventure!**
-- **In-depth [[Social Discourse|Social]] and [[Martial Combat]] systems!**
+- **In-depth [[Social Conflict|Social]] and [[Martial Conflict]] systems!**

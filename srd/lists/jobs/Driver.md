@@ -18,7 +18,7 @@ date updated: 2021-11-24 16:41
 
 Driving animal-drawn vehicles such as carts, sleds, carriages, wagons, caravans, and chariots, to transport goods and people. This may include driving motorized vehicles too, like steam wagons and trains, or modern cars and trucks, or even tanks and cranes, if your setting allows.
 
-Must be used to reposition in  [[Martial Combat|combat]] while driving, and may be used to determine your poise in that case too  (in combination with your drive's shielding).
+Must be used to reposition in  [[Martial Conflict|combat]] while driving, and may be used to determine your poise in that case too  (in combination with your drive's shielding).
 
 May also include hatching a plan to move a particular type of cargo from one place to another most efficiently, using [[Resolve]].
 

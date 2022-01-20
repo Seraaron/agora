@@ -44,5 +44,5 @@ date updated: 2021-11-06 13:46
 
 ---
 
--   **Next article:** [[Development Sessions]]
--   **Previous article:** [[Quick Play Rules]]
+-   **Next:** [[Player Characters]]
+-   **Previous:** [[Quick Play Rules]]

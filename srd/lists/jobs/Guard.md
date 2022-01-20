@@ -20,7 +20,7 @@ date updated: 2021-11-24 14:45
 
 Keeping watch, being observant, defending a place from ingress, or keeping a person from harm. Maintaining proper form and composure. Includes close-order formation fighting, in phalanxes, lines and drills, shield walls, or heavy cavalry. Covers equipment mending, marching, digging trenches, and building fortifications. Soldier's work.
 
-May be used during [[Martial Combat|combat]] to rally yourself, and can also be used in combination with your poise to determine your starting stamina. May also be used to charge, and it also sets the difficulty for your opponents when defending against enemy charges and routs.
+May be used during [[Martial Conflict|combat]] to rally yourself, and can also be used in combination with your poise to determine your starting stamina. May also be used to charge, and it also sets the difficulty for your opponents when defending against enemy charges and routs.
 
 May also include actively searching an area for intruders, preempting an ambush, or spotting a disguised or stealthed individual, using [[Wits]].
 

@@ -43,5 +43,6 @@ Strictly speaking, this is _all just a natural part of roleplaying_. You general
 ❓ Remember that taking some time out to think about or discuss these things with your [[Peers]] _doesn't detract from the game_, you're still playing even if you're not directly 'in character'.
 
 ---
-
-**Related Article:** [[Quick Play Rules]] and [[Using Checks and Tasks]]
+- **Next:** [[When to roll dice]]
+- **Related:** [[Quick Play Rules]], [[Using Checks and Tasks]]
+- **Previous:** [[Peers]]

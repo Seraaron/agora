@@ -69,4 +69,6 @@ Games with less direct adventure and more political intrigue may end up using mo
 
 ---
 
-**Related Article:** [[Quick Play Rules]]
+- **Next:** [[Checks]]
+- **Related:** [[Tasks]], [[Quick Play Rules]]
+- **Previous:** [[Let the dice fall where they may]]!

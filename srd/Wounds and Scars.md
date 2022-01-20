@@ -66,3 +66,10 @@ Scars have names, like any [[Conditions|condition]], and those names are usually
 Eventually, even scars heal. Either because you've finally learned to cope with the adverse effects; you feel like you're 'back to normal'; you've run out of good stories to tell; or because it's just not a prominent aspect of your character anymore; or because other scars have now superseded it.
 
 Use the '[[Conditions#Catharsis|catharsis]]' system once you feel like you're at this point, and then either change the scar to become a cosmetic [[Circumstances|circumstance]], or remove it entirely.
+
+
+---
+
+- **Next:** [[Assets and Gear]]
+- **Related:** [[Medical Treatment]]
+- **Previous:** [[Conditions]]

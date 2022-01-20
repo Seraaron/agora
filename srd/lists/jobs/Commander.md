@@ -18,7 +18,7 @@ date updated: 2021-11-23 19:49
 
 Directing subordinates via shouts or signals, especially in a military context, and keeping morale high. Can also be used to conspicuously bring attention to yourself in a social scene, or to be intimidating. Includes being bold and direct with someone, or getting them to abide the law if you catch them red-handed.
 
-May be used in both [[Martial Combat|martial combat]] or [[Social Discourse|social discourse]] to rally and intimidate, or to reject a case, respectively.
+May be used in both [[Martial Conflict|martial combat]] or [[Social Conflict|social discourse]] to rally and intimidate, or to reject a case, respectively.
 
 _**Suggested Specialties:** Cold Hard Facts, Intimidation, Logistics, Martial [laws], Military [history], Tactics..._
 

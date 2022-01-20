@@ -19,7 +19,7 @@ date updated: 2021-11-24 16:56
 
 Performing music, with voice or instrument, alone or as part of a band, for the entertainment of yourself or others. Keeping rhythm and timbre. Includes most forms of rhythmic and traditional dancing, such as formal or ceremonial dances.
 
-May be used during [[Martial Combat|combat]] to rally yourself or your allies.
+May be used during [[Martial Conflict|combat]] to rally yourself or your allies.
 
 May also include composing new music, poetry, or epic stories, using [[Appeal]].
 

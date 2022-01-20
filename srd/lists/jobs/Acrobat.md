@@ -17,7 +17,7 @@ date updated: 2021-12-14 15:02
 
 Jumping and twisting in mid-air to flip, roll, or performing other feats of gymnastics. Balancing, skating, vaulting across pitfalls and dodging traps, and other physical activities involving total body coordination. Includes rope dancing, synchronized swimming, figure skating, and other forms of acrobatic dancing.
 
-Your Acrobat level may be used in [[Martial Combat|martial combat]] to determine [[Martial Combat#Poise|poise]], instead of using your armor dice. Helm and shield dice may still be added afterwards though.
+Your Acrobat level may be used in [[Martial Conflict|martial combat]] to determine [[Martial Conflict#Poise|poise]], instead of using your armor dice. Helm and shield dice may still be added afterwards though.
 
 May also include bouldering and parkour using, or contortionism and escape artist skills, using [[Swiftness]].
 

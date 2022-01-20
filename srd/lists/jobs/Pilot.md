@@ -21,7 +21,7 @@ date updated: 2021-12-01 13:13
 
 Steering, directing, and navigating a vessel like a boat, ship, or submarine. Also includes piloting aircraft, like planes, helicopters, dirigibles, or even mechs and other big machines, if your setting allows. Helps you withstand high forces, high turbulence, or high altitudes, and keeps your stomach straight.
 
-Must be used to reposition in [[Martial Combat|combat]] while flying, and may be used to determine your poise in that case too (in combination with your craft's defenses).
+Must be used to reposition in [[Martial Conflict|combat]] while flying, and may be used to determine your poise in that case too (in combination with your craft's defenses).
 
 May also include dogfighting while flying, using [[Wits]], if the vessel has built-in gun controls from the cockpit.
 

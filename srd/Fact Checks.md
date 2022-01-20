@@ -37,3 +37,9 @@ In some instances, your [[Facilitator]] may veto these ideas and disallow the Ch
 > If the Check fails then the FC may simply say that you don't remember clearly, or they may _subvert the fact_, taking your idea and flipping it on its head somehow, or they may say your character thinks that it's one way when really it's another way — and then _let the dramatic irony hang_.
 
 ❗ When new facts are esablished or discovered, it's a good idea to _write them down_ and [[Taking notes|take notes]].
+
+---
+
+- **Next:** [[Tasks]]
+- **Related:** [[Specialties]]
+- **Previous:** [[Checks]]

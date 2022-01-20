@@ -16,7 +16,7 @@ date updated: 2021-11-26 18:12
 
 #athletic  #martial
 
-Loosing projectiles with elastic-powered ranged weapons, such as longbows, crossbows, and slingshots. Mainly used during [[Martial Combat|martial combat]] to make ranged attacks, using the target's poise as the base difficulty, and can inflict a final killing blow. Can also be used for the final shot when [[Hunter|hunting]] big game.
+Loosing projectiles with elastic-powered ranged weapons, such as longbows, crossbows, and slingshots. Mainly used during [[Martial Conflict|martial combat]] to make ranged attacks, using the target's poise as the base difficulty, and can inflict a final killing blow. Can also be used for the final shot when [[Hunter|hunting]] big game.
 
 May also include the tillering and crafting of your own bows or crossbows, as well as fetching your own arrows or bolts, using [[Wits]].
 

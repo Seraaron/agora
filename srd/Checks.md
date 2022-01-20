@@ -95,8 +95,6 @@ If there is a roll that all the [[Player Characters]] must complete to progress 
 
 ---
 
-- **Previous article:** [[Using Checks and Tasks]]
-
-- **Next article:** [[Tasks]]
-
-- **Related Articles:** [[Abilities]] and [[Capabilities]]
+- **Next:** [[Fact Checks]]
+- **Related:** [[Tasks]], [[KISSing]]
+- **Previous:** [[Using Checks and Tasks]]

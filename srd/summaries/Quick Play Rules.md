@@ -46,5 +46,5 @@ date updated: 2021-11-05 19:54
 
 ---
 
--   **Next article:** [[Quick Session Plan]]
--   **Previous article:** [[Introduction]]
+-   **Next:** [[Quick Session Plan]]
+-   **Previous:** [[Introduction]]

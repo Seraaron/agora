@@ -9,14 +9,14 @@ tags:
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-11 17:16
-date updated: 2021-12-18 17:21
+date updated: 2022-01-20 15:58
 ---
 
 # Social Discourse
 
 When a discussion is turning into an argument, and **your difference of opinions can't be settled by agreeing to disagree**; when you know deep down that the other's theory is wrong, and that you need to prove that your theory is right; or when you're standing in court, on trial, or defending another; or simply having a friendly debate; _this is when discourse begins._
 
-Social discourses are most often utilized in games that feature political intrigue, melodrama, and court sessions, or frequent debates about morality and ethics. They can also be used in adventure games to settle group disputes or to decide where to go next. A discourse _isn't_ a shouting match, and if it devolves into that then your differences may be better settled with a [[Martial Combat|martial conflict]], or an [[Opposed Tasks|Opposed task]] instead.
+Social discourses are most often utilized in games that feature political intrigue, melodrama, and court sessions, or frequent debates about morality and ethics. They can also be used in adventure games to settle group disputes or to decide where to go next. A discourse _isn't_ a shouting match, and if it devolves into that then your differences may be better settled with a [[Martial Conflict|martial conflict]], or an [[Opposed Tasks|Opposed task]] instead.
 
 Before you get into dropping facts or speaking from the heart, there's a little bit of bookeeping and set up to do first, to ensure that the debate runs smoothly for all the players:
 
@@ -25,7 +25,7 @@ Before you get into dropping facts or speaking from the heart, there's a little 
 
 > ### Nb.
 >
-> This system functions very similarly to [[Martial Combat|martial combat]], except using #social jobs instead of #martial ones. It can emulate anything from a private argument, to a public debate in front of a crowd, or it can be used to sway a neutral third party one way or another.
+> This system functions very similarly to [[Martial Conflict|martial combat]], except using #social jobs instead of #martial ones. It can emulate anything from a private argument, to a public debate in front of a crowd, or it can be used to sway a neutral third party one way or another.
 
 ---
 
@@ -45,7 +45,7 @@ Your premise is a distillation of the core arguments you'll be making over the c
 
 Go around the table and let every character lay out their premise. This is a statement of intentions, and a setting of terms and conditions, and **should be treated in a similar way as an [[Agenda|agenda]]** — except it's an agenda for the whole conflict, not just one roll. Once you're happy with it, _you should write your premise down to help you roleplay through the scene_.
 
-❓ You may think of your premise as your 'starting position' on the matter, but it can drift over the course of the discourse too. The premise matters most when you come to [[Judge]], at the [[#Settling a Debate|end of the argument]].
+**Premises can be broadly grouped into three intents:** [[Persuade|Persuasions]], [[Reject|Rejections]], and [[Prove|Proofs]]. The intention of the premise has a mechanical effect when you come to pass [[Judge|judgement]], as it affects which jobs you can use to make your conclusion with. Your premise and its intent can change according to the [[#Tones|tone]] you use when you make that final verdict. This matters the most at the [[#Settling a Debate|end of the argument]].
 
 ### Bound by Words
 
@@ -80,6 +80,7 @@ Since you will need to quote this number to other players frequently, **write it
 ### Alternative Presence Jobs?
 
 If the debate is of a scientific or theological nature then you must use your [[Philosopher]] level to calculate Presence, instead of [[Charmer]]. If it's about finance or policy decisions then use [[Steward]]. If it's about warfare and tactics then use [[Commander]].
+
 
 ## Disposition
 
@@ -125,19 +126,19 @@ Your tone determines _how much [[Momentum]] you add to the conflict at this star
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | _This is emotional appeal. You are trying to invoke sympathy, pity, anger, fear, or some other emotion, using suggestive language and gravitas, or by telling stories._ |
 | _**Momentum**_  +2                                                                                                                                                      |
-| _**Moves:**_ [[Chide]], [[Endorse]], [[Plea]], [[Judge]] (Persuade), or [[Interact]]                                                                                 |
+| _**Moves:**_ [[Chide]], [[Endorse]], [[Plea]], [[Judge]] (Persuade), or [[Interact]]                                                                                    |
 
 | 📃 **Logical Tone** 📃                                                                                                                                                           |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | _This is rational appeal. You are trying to argue from a position of objectivity, using facts and statistics, historical and literary analogies, or a framework of assumptions._ |
 | _**Momentum**_ +1                                                                                                                                                                |
-| _**Moves:**_ [[Endorse]], [[Question]], [[Obscure]], [[Judge]] (Prove), or [[Interact]]                                                                                       |
+| _**Moves:**_ [[Endorse]], [[Question]], [[Obscure]], [[Judge]] (Prove), or [[Interact]]                                                                                          |
 
 | 🪨 **Ethical Tone** 🪨                                                                                                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | _This is moral appeal. You are trying to convince your opponent of the credibility of your character, by introducing your expertise, making yourself sound unbiased, and obeying proper syntax and procedure._ |
 | _**Momentum**_ +0                                                                                                                                                                                              |
-| _**Moves:**_  [[Argue]], [[Chide]], [[Question]], [[Judge]] (Reject), or [[Interact]]                                                                                                                       |
+| _**Moves:**_  [[Argue]], [[Chide]], [[Question]], [[Judge]] (Reject), or [[Interact]]                                                                                                                          |
 
 ❗ Once you've made your decision, the only way to change your tone in the middle of a round is via the 'Change Tone' [[#Exploits|exploit]].
 
@@ -203,7 +204,7 @@ Moves are the _main actions_ available to you each [[#Turn Order|turn]], determi
 |    [[Argue]] |  —  | [[Plea]]     |
 |    [[Chide]] |  —  | [[Endorse]]  |
 | [[Question]] |  —  | [[Obscure]]  |
-| [[Judge]] |  —  | [[Interact]] |
+|    [[Judge]] |  —  | [[Interact]] |
 
 **Offensive** moves tend to either damage your opponent's Disposition, raise Momentum, or inflict _temporary_ [[Stress]], and benefit from the +MD. Whereas **Utility** moves tend to either repair that damage or cause different kinds of effects.
 
@@ -262,12 +263,12 @@ When you come to choose your move each turn, it's okay if you'd prefer to descri
 
 ## Settling a Debate
 
-**Premises can be broadly grouped into three intents:** [[Persuade|Persuasions]], [[Reject|Rejections]], and [[Prove|Proofs]]. The intention of the premise has a mechanical effect when you come to pass [[Judge]], as it affects which jobs you can use to make your conclusion with, but it only matters narratively in the aftermath when you [[#Settling a Debate|settle the debate]].
+Once all of your opponents have either reached zero Disposition or been successfully [[Judge|judged]], you will win the debate. If you are the one who got judged instead, then you'll have to concede.
+
+*Remember:* This whole conflict system is in place to make choosing a winning side 'fair and square'. You accepted the terms of the debate when the [[#Premises|premises]] were discussed, like any other [[Difficulties and Consequences|consequence]].
 
 #### Changing Premises
 
-You may find through the debate that you change your mind about your premise. If this happens then pause the game and briefly discuss it. If you've become convinced of your opponent's premise before they judge you, for example, then there's not point in dragging the conflict out.
-
-❓ Conversely, if your premise remains the same but your intentions have shifted, then the [[#Tones|tone]] you choose will determine what kind of judgment you can make.
+You may find through the debate that you change your mind about your premise. If this happens then pause the game and briefly discuss it. It may be that you can end the debate early this way, if needs be. If you become _genuinely convinced_ of your opponent's premise before they pass judgement, for example, then there's not point in dragging the conflict out.
 
 ![[Experience from Conflict]]

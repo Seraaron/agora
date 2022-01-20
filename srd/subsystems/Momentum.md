@@ -22,7 +22,7 @@ date updated: 2021-11-29 17:58
 
 **Momentum has the potential to rise with every combatant's turn!** The amount it rises will depend on their chosen stance or tone, and may raise further during their turn depending on which move they choose. You can also raise Momentum on an opponent's turn with the 'Raise the Stakes' exploit.
 
-**When the _Momentum equals or exceeds your Disposition_ you are no longer protected by the difference, and finishing moves will be easier to use on you.** You are fairly vulnerable from that point onward, and you would do well to either try to end the conflict as quickly as possible, recover some [[Social Discourse#Presence|Presence]] or [[Martial Combat#Poise|Poise]], or make a hasty retreat.
+**When the _Momentum equals or exceeds your Disposition_ you are no longer protected by the difference, and finishing moves will be easier to use on you.** You are fairly vulnerable from that point onward, and you would do well to either try to end the conflict as quickly as possible, recover some [[Social Conflict#Presence|Presence]] or [[Martial Conflict#Poise|Poise]], or make a hasty retreat.
 
 **In other words:** Once Momentum is high enough, if you don't finish things on your own terms as quickly as possible, then* someone else probably will*.
 
@@ -41,6 +41,8 @@ The  '[[Agora Momentum Grid.pdf|Momentum Grid]]' also clearly shows the current 
 ![[momentumGrid.svg]]
 
 > ### Nb.
-> We recommend that you use the [[Agora Momentum Grid.pdf|Momentum Grid]] — for both [[Social Discourse|social]] and [[Martial Combat|martial]] conflicts— to track everyone's Dispositions as well, and also to clearly present the turn order, using personalized tokens or miniatures.
+> We recommend that you use the [[Agora Momentum Grid.pdf|Momentum Grid]] — for both [[Social Conflict|social]] and [[Martial Conflict|martial]] conflicts— to track everyone's Dispositions as well, and also to clearly present the turn order, using personalized tokens or miniatures.
 >
 > The grid is useful because your Disposition can change frequently over the course of the debate, and it's generally quicker and easier to simply move a token than it is to repeatedly write, scrub out, and rewrite a number.
+
+The momentum system is intentionally designed to force a winner sooner or later, but if things are starting to drag on while a clear victor is emerging then you can also agree as [[Peers]] to just skip to the end of the conflict. 

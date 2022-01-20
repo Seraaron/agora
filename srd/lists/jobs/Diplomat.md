@@ -21,7 +21,7 @@ date updated: 2021-11-23 20:07
 
 Mediating a discussion or calming an argument or disagreement. Dealing with difficult situations in a way that does not cause offense. Mingling with aristocrats, investors, and dignitaries. Representing the interests of your religion, organization, or country. Brokering _above board_ political deals and contracts, or getting away with using improper formalities or honorifics. 
 
-May be used in a [[Social Discourse|debate]] to plea your case, ask questions, endorse a subject, or to pronounce a rejection.
+May be used in a [[Social Conflict|debate]] to plea your case, ask questions, endorse a subject, or to pronounce a rejection.
 
 May also include standing on a jury or performing the duties of a judge, and resolving a court case, using [[Resolve]].
 

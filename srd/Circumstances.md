@@ -152,4 +152,8 @@ However, it may also depend on the _expected length_ of your campaign. If you pl
 
 ---
 
-- **Related Articles:** [[Cultures List]], [[Wealth]]
+- **Next:** [[Principles]]
+- **Related:** [[Tier]]
+- **Archetypes:** [[Ancestries List]], [[Cultures List]], [[Professions List]]
+- **Previous:** [[Character Assembly]]
+

@@ -9,16 +9,16 @@ tags:
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-11-04+1200
-date updated: 2022-01-14 14:03
+date updated: 2022-01-20 15:48
 ---
 
 #### Stressful Rolls
 
-Some rolls are deemed 'stressful'. This is a modifier that can be applied to any roll of any difficulty. This indicates that the action is risky, dangerous, or just nerve wracking.
+Some rolls are deemed 'stressful'. This is a modifier that can be applied to any roll of any difficulty. This indicates that the action is risky, harmful, or just nerve wracking.
 
-It means that **if you fail the roll**, then in addition to any other consequences you _also_ **gain a point of [[Stress]] in the [[Abilities|ability]] or [[Capabilities|capability]] you just rolled with** — or the next most-appropriate ability if your stress for the current one is already full.
+**If you fail a stressful roll then you will gain a point of [[Stress]] in the [[Abilities|ability]] or [[Capabilities|capability]] you just rolled with** — or the next most-appropriate ability if your stress for the current one is already full — _in addition to any other consequences_.
 
-❓ **For [[Checks]]**, 'failure' means _rolling one or fewer successes_.
+❓ **For [[Checks]]**, 'failure' here means a _hard failure_: Zero successes.
 
 ![[Dangerous Rolls]]
 

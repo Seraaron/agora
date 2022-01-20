@@ -87,4 +87,6 @@ Specialties are just words — usually pluralized nouns, proper nouns, or short 
 
 ---
 
-**Related article:** [[Specialties List]]
+- **Next:** [[VINPCs]]
+- **Related:** [[Specialties List]], [[Fact Checks]]
+- **Previous:** [[Assets and Gear]]

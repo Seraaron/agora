@@ -84,5 +84,6 @@ The effects of advancing your Tier mean that you must choose a new [[Rank|abilit
 
 ---
 
-- **Next article:** [[Session Structure]]
-- **Previous article:** [[Quick Session Plan]]
+- **Next:** [[Character Assembly]]
+- **Related:** [[Session Structure]], [[Script Change Tools]], [[Worldbuilding*]]
+- **Previous:** [[Difficulties and Consequences]]

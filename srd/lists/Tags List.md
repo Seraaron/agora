@@ -409,7 +409,7 @@ date updated: 2021-12-22 15:08
 
 ###### #scope
 
-- When you make attacks with this weapon at a 'remote' distance you may ignore the usual poise bonus your target would gain from [[Martial Combat#Shooting into the Fray|shooting into the fray]].
+- When you make attacks with this weapon at a 'remote' distance you may ignore the usual poise bonus your target would gain from [[Martial Conflict#Shooting into the Fray|shooting into the fray]].
 	- Effectively places you outside of a battle when used to snipe at targets this way.
 
 ---

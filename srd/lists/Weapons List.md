@@ -190,7 +190,7 @@ Some of the weapons in this list have alternatives — usually #great variants �
 
 ## Unarmed Weapons
 
-Unarmed or #natural weapons have no cost or quality because they are innate to your species. Their weights are only for used for [[Martial Combat#Martial Moves List|combat moves]] — they do not count towards [[Carry Weight|encumbrance]] — and they cannot be [[Disarm|disarmed]] either.
+Unarmed or #natural weapons have no cost or quality because they are innate to your species. Their weights are only for used for [[Martial Conflict#Martial Moves List|combat moves]] — they do not count towards [[Carry Weight|encumbrance]] — and they cannot be [[Disarm|disarmed]] either.
 
 | Dice | #natural                                 | Job                         | Weight                 | Damage               |
 | ---- | :--------------------------------------- | --------------------------- | ---------------------- | -------------------- |

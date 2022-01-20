@@ -19,7 +19,7 @@ date updated: 2021-11-24 17:08
 
 Riding animals of all sizes, primarily for the purpose of long-distance transport or leisure. Includes maintenance of all associated equipment and provisions. Also includes operating personal vehicles such as bikes, sleds, or scooters, if that's appropriate for your setting.
 
-Must be used to reposition in [[Martial Combat|combat]] while riding, and may be used to determine your poise in that case too  (in combination with your mount's barding).
+Must be used to reposition in [[Martial Conflict|combat]] while riding, and may be used to determine your poise in that case too  (in combination with your mount's barding).
 
 If racing or jockeying then use [[Swiftness]] instead.
 

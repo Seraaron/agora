@@ -23,6 +23,7 @@ A 'Player Character' (aka. a _playable character_ or PC for short) is like a fic
 >
 > -   Actively working on getting what they want,
 > -   Dealing with some kind of conflict in their life,
+> -   Fighting for something they believe in,
 > -   Or undergoing some kind of change.
 >
 > We follow their point of view, through each triumph and disaster, for the majority of each session.
@@ -45,6 +46,6 @@ In general, you can only control one character at a time, but you can theoretica
 
 ---
 
-- **Next article:** [[Facilitator]]
-- **Previous article:** [[Session Structure]]
-- **Related article:** [[Player Styles]]
+- **Next:** [[Facilitator]]
+- **Related:** [[Player Styles]]
+- **Previous:** [[Session Structure]]

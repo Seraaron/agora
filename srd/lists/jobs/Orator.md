@@ -20,7 +20,7 @@ date updated: 2021-11-24 16:58
 
 Speaking passionately or eloquently about a topic in a debate or open discourse, as a lawyer or politician would. Making an appeal to the hearts of your listeners. Includes preaching, storytelling, or reading poetry, and other forms of public speaking, and includes acting in front of a crowd, _or lying to one_.
 
-May be used in a [[Social Discourse|debate]] to plea your case, argue with someone, or to make a final persuasion attempt.
+May be used in a [[Social Conflict|debate]] to plea your case, argue with someone, or to make a final persuasion attempt.
 
 _**Suggested Specialties:** Improvisation, Old Adages, Persuasion, Performance, Poetry..._
 

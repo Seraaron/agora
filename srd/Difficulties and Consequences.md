@@ -77,7 +77,7 @@ This makes Checks very easy to set up and resolve. The hardest part is actually 
 
 ### Difficulty for Tasks
 
-If Checks use an 'absolute' scale of difficulty, then **[[Tasks]] use a 'relative' scale of difficulty**. This is represented using a slew of equally weighted factors, rather than a fixed target number. (Though some Tasks — especially in certain subsystems, like [[Martial Combat|combat]] — do use set targets).
+If Checks use an 'absolute' scale of difficulty, then **[[Tasks]] use a 'relative' scale of difficulty**. This is represented using a slew of equally weighted factors, rather than a fixed target number. (Though some Tasks — especially in certain subsystems, like [[Martial Conflict|combat]] — do use set targets).
 
 There are three main sources of factors for a Task: **The number of objectives**, any **job-specific factors**, and **[[Generic Difficulty Factors|generic factors]]**.
 
@@ -123,3 +123,9 @@ Next, consider the following table, which describes exactly how likely you are t
 If you find this table useful, you can find more tables and graphs like it in the [[Dice Probabilities and Statistics*]] appendix.
 
 ❓ With all of this in mind, you can _almost_ consider a Check to be a simplified Task that uses a level 3 ability with two factors.
+
+---
+
+- **Next:** [[Development Sessions]]
+- **Related:** [[Agenda]], [[Generic Difficulty Factors]]
+- **Previous:** [[KISSing]]

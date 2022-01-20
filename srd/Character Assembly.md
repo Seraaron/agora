@@ -287,3 +287,9 @@ The only exceptions are, _with your [[Facilitator|FCs]] permission:_
 Once you've done all this hard work, don't forget to save, take a photo of your character sheet, or otherwise make a backup. _You'll kick yourself later if you don't have one and end up needing it._
 
 Now, all that's left to do is to **get excited to play**!
+
+---
+
+- **Next:** [[Circumstances]]
+- **Related:** [[Session Zero Checklist]], [[Player Styles]]
+- **Previous:** [[Development Sessions]]

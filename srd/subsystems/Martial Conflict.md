@@ -18,14 +18,14 @@ When a situation is turning into a fight with multiple combatants and **your dif
 
 Martial combats are most often utilized in games that feature high adventure, dungeon crawling, and wilderness exploration, or frequent encounters with [[Beasts & Nightmares]]. If the fight is more one-sided, with one side intending to [[Murder Most Foul|murder]] the other and the other side wants to just escape from the start, then consider using a [[Opposed Tasks|Opposed Task]] or just a simple [[Versus Checks|Vs. Check]] instead.
 
-Before you get into clashing steel or spilling any blood, there's a little bit of bookeeping and set up to do first, to ensure that the battle runs smoothly for all the players:
+Before you get into clashing steel or spilling any blood, there's a little bit of bookkeeping and set up to do first, to ensure that the battle runs smoothly for all the players:
 
 - **Each combatant must determine three things: [[#Positions]], [[#Poise]], and [[#Disposition]], in that order**.
 - **The other important number to keep an eye on during the fight is [[Momentum]]**, which governs how intense the fight is getting and how close anyone is to being easily pacified.
 
 > ### Nb.
 >
-> This system functions very similarly to [[Social Discourse|social discourse]], except using #martial jobs instead of #social ones. It can be used to run anything from single-opponent duels to small-scale military engagements, but it will become tedious and difficult to run with more than a dozen combatants.
+> This system functions very similarly to [[Social Conflict|social discourse]], except using #martial jobs instead of #social ones. It can be used to run anything from single-opponent duels to small-scale military engagements, but it will become tedious and difficult to run with more than a dozen combatants.
 
 ## Positions
 
@@ -285,7 +285,15 @@ When you come to choose your move each turn, it's okay if you'd prefer to descri
 
 ## Finishing a Fight
 
-#unfinished
+Once all enemy combatants have either reached zero Disposition or been successfully [[Pacify|pacified]], you will win the combat. If you are the one who got pacified instead, then you're at their mercy.
+
+*Remember:* This whole conflict system is in place to make choosing a winning side 'fair and square'. You accepted the terms of failure by choosing to fight in the first place, like any other [[Difficulties and Consequences|consequence]].
+
+#### Not all Fights are Deadly
+
+Not all duels have to be fought to the death. Not all battles end in slaughter. A losing side can start retreating as soon as they see they're losing. Most sentient beings will place self-preservation over pride. Surrender means a set back, death means total ruin.
+
+**In other words:** Choosing the '[[Kill]]' move over any other form of [[Pacify|pacification]] *specifically* means that you're trying to end a life, so choose wisely.
 
 ![[Experience from Conflict]]
 

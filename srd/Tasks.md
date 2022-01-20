@@ -77,7 +77,7 @@ There are generally two lists that the FC can draw factors from for every Task: 
 
 The [[Facilitator|FC]] should focus on _only the most important factors for the agenda:_ **Don't just select any and all facts that seem to apply**! Certain specific factors will seem to supersede generic ones too. Therefore, it is best to choose from the specific factors first, and then come to look at the generic factors to catch anything you missed.
 
-❓ Alternatively, if you're using one of the conflict systems, like [[Martial Combat|combat]] or [[Social Discourse|debate]], then the difficulty factors may be preestablished by the 'move' you're using and some small choices.
+❓ Alternatively, if you're using one of the conflict systems, like [[Martial Conflict|combat]] or [[Social Conflict|debate]], then the difficulty factors may be preestablished by the 'move' you're using and some small choices.
 
 ---
 
@@ -147,8 +147,6 @@ If you failed the roll then **add an additional point of exp** to represent _lea
 
 ---
 
-- **Previous article:** [[Checks]]
-
-- **Next article:** [[Opposed Tasks]]
-
-- **Related article:** [[KISSing]], [[Jobs]]
+- **Next:** [[Opposed Tasks]]
+- **Related:** [[Checks]], [[Using Checks and Tasks]], [[KISSing]]
+- **Previous:** [[Fact Checks]] 

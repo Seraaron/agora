@@ -18,7 +18,7 @@ date updated: 2021-12-01 12:57
 
 Seducing or socially disarming someone for any reason, by being flaunty, or deceptive, or using the power of suggestion, or some other subtle trick. Also includes socially influencing and outmaneuvering others for personal gain, or to progress a plot or scheme. Can also be used to _genuinely_ attract or please a partner.
 
-May be used during a [[Social Discourse|social discourse]] to flatter or persuade, or to incite specific reactions, using your opponent's presence as the difficulty, and the level may also be used to determine your own presence.
+May be used during a [[Social Conflict|social discourse]] to flatter or persuade, or to incite specific reactions, using your opponent's presence as the difficulty, and the level may also be used to determine your own presence.
 
 _**Suggested Specialties:** Confidence, Lies, Flattery, Persuasion, Seduction..._
 

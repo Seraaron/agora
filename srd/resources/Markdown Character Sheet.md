@@ -1,24 +1,28 @@
 ---
 alias: []
 tags:
-
   - resource
 author: Seraaron
 license: CC BY 4.0
 date created: 2021-10-04 03:13
+date updated: 2022-01-20 16:41
 ---
 
-# Agora
+# [Insert Character Name]
 
 | Player name | Campaign name | Tier     |
 | ----------- | ------------- | -------- |
 | [insert]    | [insert]      | [insert] |
 
-### [[Circumstances]]
+### Circumstances
 
-| Character Name | Aliases or Titles    | Age      | Size     |
-| -------------- | -------------------- | -------- | -------- |
-| [insert]       | [insert], [add more] | [insert] | [insert] |
+| Pronouns | Aliases or Titles    | Age      | Size     |
+| -------- | -------------------- | -------- | -------- |
+| [insert] | [insert], [add more] | [insert] | [insert] |
+
+##### Archetypes
+
+[insert], [insert], [add more], ...
 
 ##### Background Traits
 
@@ -28,37 +32,29 @@ date created: 2021-10-04 03:13
 
 [insert], [insert], [add more], ...
 
-##### Walks of Life / Playbook
-
-[insert], [insert], [add more], ...
-
-#### _[[Exclusive Features*]]_
-
-- [ ] [insert]
-
 ---
 
-### [[Principles]]
+### Principles
 
-##### [[Goals]]
+##### Goals
 
-- [insert]
-- [add more]
-- ...
+- [ ] [insert]
+- [ ] [add more]
+- [ ] ...
 
-##### [[Habits]]
+##### Habits
 
-- [insert]
-- [add more]
-- ...
+- [ ] [insert]
+- [ ] [add more]
+- [ ] ...
 
-##### [[Creeds]]
+##### Creeds
 
-- [insert]
-- [add more]
-- ...
+- [ ] [insert]
+- [ ] [add more]
+- [ ] ...
 
-#### _[[Kismet]]_
+#### _Kismet_
 
 | Lots | Ego | Fidelity | Health |
 | :--: | :-: | :------: | :----: |
@@ -66,36 +62,32 @@ date created: 2021-10-04 03:13
 
 ---
 
-### [[Abilities]]
+### Abilities
 
-| Ability                | Rank | _stress_       | Wound |
-| ---------------------- | :--: | :------------- | ----- |
-| **APP**EAL             |   6  | worry: 0/2     | --    |
-| **RES**OLVE            |   6  | fatigue: 0/2   | --    |
-| **WIT**S               |   6  | confusion: 0/2 | --    |
-| **FIN**NESE            |   6  | shock: 0/2     | --    |
-| **END**URANCE          |   6  | hunger: 0/2    | --    |
-| **SWI**FTNESS          |   6  | pain: 0/2      | --    |
+| Ability       | Rank | _Stress_       | Wound |
+| ------------- | :--: | :------------- | ----- |
+| **APP**EAL    |   6  | worry: 0/2     | --    |
+| **RES**OLVE   |   6  | fatigue: 0/2   | --    |
+| **WIT**S      |   6  | confusion: 0/2 | --    |
+| **FIN**NESE   |   6  | shock: 0/2     | --    |
+| **END**URANCE |   6  | hunger: 0/2    | --    |
+| **SWI**FTNESS |   6  | pain: 0/2      | --    |
 
-%%
+##### Capabilities
 
-##### [[Capabilities]] 
+| Capability | Rank | _Stress_      | Wound |
+| ---------- |:----:|:------------- | --- |
+| [insert]   |  6   | [insert]: 0/2 | --    |
+| [insert]   |  6   | [insert]: 0/2 | --    |
+| [insert]   |  6   | [insert]: 0/2 | --    |
 
-| Capability     | Rank |    _stress_ |
-| -------------- | :--: | ----------: |
-| [**INS**ERT]   |   6  | insert: 0/2 |
-| [**ADD** MORE] |      |             |
-| ...            |      |             |
-
-#### _[[Conditions]]_
+#### _Conditions_
 
 - [ ] [insert]
 - [x] [insert] (check box if used this session)
-- [insert] (change to normal bullet point if ready for catharsis)
 - [ ] [add more]
+- (change to normal bullet point if ready for catharsis)
 - [ ] ...
-
-%%
 
 ### [[Jobs]]
 
@@ -114,7 +106,7 @@ date created: 2021-10-04 03:13
 
 ---
 
-### [[Assets and Gear]]
+### Assets and Gear
 
 - **+0** [insert] `tag 1`, `tag 2`, `etc` (or notes)
 - **+0** [add more] `tag 1`, `tag 2`, `etc`
@@ -122,13 +114,13 @@ date created: 2021-10-04 03:13
 
 ---
 
-### [[VINPCs|Kith & Kin]]
+### Kith & Kin
 
 - [ ] **[insert name]** _[insert relationship]_
 - [x] **[insert name]** _[insert relationship]_ (check box if favor spent)
 - [ ] **[insert name]** _[insert relationship]_
 
-#### _[[Taking notes|Notes & Insights]]_
+#### _Notes & Insights_
 
 - [insert]
 	- (indent notes for clarifications)
@@ -137,9 +129,9 @@ date created: 2021-10-04 03:13
 
 ---
 
-### [[Gambits]]
+### Gambits
 
-- [ ] **[insert name]** _[insert effect]_
-- [x] **[insert name]** _[insert effect]_ (check box if used this session)
+- [ ] **[insert name]**. _[insert duration]_. [insert effect]
+- [x] **[insert name]**. _[insert effect]_. (check box if used this session)
 - [ ] **[add more]**
 - [ ] **...**

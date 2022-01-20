@@ -1,5 +1,5 @@
 ---
-alias: []
+alias: [judged]
 tags: []
 author: Seraaron
 license: CC BY 4.0
@@ -11,7 +11,7 @@ date updated: 2021-11-30 15:11
 
 ###### #offense #finishing #social #move
 
-_There are many ways you can 'judge' a discussion, and how you do it depends largely on your [[Social Discourse#Premises|premise]] for the whole argument. Choose what your intent will be before using this move. Though there's no point trying to make your conclusion until your opponents position is weak enough to try. _
+_There are many ways you can 'judge' a discussion, and how you do it depends largely on your [[Social Conflict#Premises|premise]] for the whole argument. Choose what your intent will be before using this move. Though there's no point trying to make your conclusion until your opponents position is weak enough to try. _
 
 |        _Intent_ | Required Tone |
 | ---------------:|:-------------:|

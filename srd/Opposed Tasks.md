@@ -67,4 +67,6 @@ To justify this, consider it this way: **Each side's defensive successes are eff
 
 ---
 
-- **Related Articles:** [[Understanding Conflicts]]
+- **Next:** [[KISSing]]
+- **Related:** [[Understanding Conflicts]]
+- **Previous:** [[Tasks]]

@@ -31,4 +31,9 @@ There are four kinds of kismet: **[[Lots]]**, **[[Ego]]**, **[[Fidelity]]**, and
 
 ![[Health]]
 
-**See also:** [[Principles]]
+---
+
+- **Next:** [[Abilities]]
+- **Related:** [[KISSing]]
+- **Previous:** [[Principles]]
+

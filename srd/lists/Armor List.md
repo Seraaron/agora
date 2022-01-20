@@ -10,7 +10,7 @@ date created: 2021-11-19 01:10
 date updated: 2021-12-22 12:53
 ---
 
-**All armor has the #armor tag.** Add your armor dice to the _first part_ of your [[Martial Combat#Poise|poise]] calculation.
+**All armor has the #armor tag.** Add your armor dice to the _first part_ of your [[Martial Conflict#Poise|poise]] calculation.
 
 You suffer a +1 difficulty factor to all rolls related to stealth and mobility while wearing armor, though these penalties are negated by #quiet and #flexible, respectively.
 
@@ -31,7 +31,7 @@ You suffer a +1 difficulty factor to all rolls related to stealth and mobility w
 
 ### Helmets
 
-**All helmets have the #helm tag.** Add your helm dice to the _middle part_ of your [[Martial Combat#Poise|poise]] calculation.
+**All helmets have the #helm tag.** Add your helm dice to the _middle part_ of your [[Martial Conflict#Poise|poise]] calculation.
 
 Helmets are generally cheaper than armor while still providing decent protection, and they can still be used with your [[Acrobat]] level if you're unarmored, making them a good choice for adventurers on a budget. They offer no damage reduction against [[Spur|spur]] attacks though.
 
@@ -46,7 +46,7 @@ Helmets are generally cheaper than armor while still providing decent protection
 
 ### Shields
 
-**All shields have the #shield tag.** Shields are added to the _last part_ of your [[Martial Combat#Poise|poise]] calculation.
+**All shields have the #shield tag.** Shields are added to the _last part_ of your [[Martial Conflict#Poise|poise]] calculation.
 
 This means that shields can provide better protection than either a helmet or armor with lower dice, which makes the wearing of armor _less of a necessity_ in certain contexts.
 
@@ -93,4 +93,4 @@ Natural armor dice ratings are equivalent to those of [[#Armor|crafted armors]],
 
 You _can_ wear crafted armor over the top of natural armor, but the only reason for doing so would be to reduce the amount of stamina damage you take from [[Spur|spur]] attacks, as per the [[Damage Type vs Armor Weight|damage lookup table]], or to get more dice than your natural armor provides.
 
-❗ **Only take the highest armor and helm dice among all the armor your wearing to calculate [[Martial Combat#Poise|poise]]**, do not add them all together.
+❗ **Only take the highest armor and helm dice among all the armor your wearing to calculate [[Martial Conflict#Poise|poise]]**, do not add them all together.

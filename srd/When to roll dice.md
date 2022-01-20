@@ -51,7 +51,7 @@ Players can follow these guides to avoid being told 'No':
 
 ---
 
-- **Next article:** [[Let the dice fall where they may]]!
-- **Previous article:**
-- **Related article:** [[Using Checks and Tasks]]
+- **Next:** [[Let the dice fall where they may]]!
+- **Related:** [[Using Checks and Tasks]]
+- **Previous:** [[Agenda]]
 

@@ -73,6 +73,6 @@ Once you've filled out all of your master levels, if you still wish to pursue gr
 
 ---
 
-- **Next article:**
-- **Previous article:**
-- **Related articles:**
+- **Next:** [[Conditions]]
+- **Related:** [[Tasks]], [[Jobs List]], [[D66 Jobs]]
+- **Previous:** [[Capabilities]]

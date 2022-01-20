@@ -14,6 +14,12 @@ Right now, the only thing availiable is the published SRD or 'system reference d
 
 ### Alpha Versions
 
+#### 20 Jan 2022 (v0.5.1)
+- Written introduction
+- Added form-fillable character sheet pdf
+- Updated the linear reading order with links at the bottom of core articles
+- Finished a few small unfinished articles
+
 #### 16 Jan 2022 (v0.5)
 - Finished character assembly rules (the game should now be fully playable!)
 - Updated professions and cultures

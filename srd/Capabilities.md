@@ -41,7 +41,7 @@ Failing a [[Grit]] or [[Vigilance*]] check doesn't take away your agency as a pl
 
 **A moment of hesitation is mostly an opportunity to roleplay** before the end of your [[Session Structure#Turns|turn]], though your hesitation may be counted as a [[Difficulties and Consequences#Weighing Factors|factor]] against you if must act again within the same [[Session Structure#Scenes|scene]].
 
-**Hesitation may be given as failure condition to other appropriately life-threatening rolls too**, not just Grit or Vigilance checks. For example, in [[Martial Combat|martial combat]] there are moves that can cause hesitation.
+**Hesitation may be given as failure condition to other appropriately life-threatening rolls too**, not just Grit or Vigilance checks. For example, in [[Martial Conflict|martial combat]] there are moves that can cause hesitation.
 
 
 ---
@@ -67,3 +67,9 @@ You should only re-derive your capabilities when you change them. Don't worry ab
 Because capabilities are completely modular and customizable, it's possible for different [[Player Characters|PCs]] in the same game to each have different capabilities. You should only allow this if it makes sense for your setting and campaign. _Try to be consistent in how and when you apply these rules_. You don't want to have players off in their own worlds too much. Try not to get too distracted by sub-mechanics that only a few people will care about.
 
 ![[Custom Capabilities]]
+
+---
+
+- **Next:** [[Jobs]]
+- **Related:** [[Abilities]], [[Genre, Tone, and Themes*]]
+- **Previous:** [[Stress]]

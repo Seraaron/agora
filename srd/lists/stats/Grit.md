@@ -15,7 +15,7 @@ date updated: 2022-01-14 13:04
 
 Grit is a [[Capabilities|capability]] that represents your aptitude and energy for doing violence. It partly-accounts for your _morale_, and partly-accounts for your _morals_.
 
-Use Grit in games about facing the horrors of combat and war, adventures with frequent [[Martial Combat|skirmishes or duels]], or games where the characters have to kill other people to survive (for whatever reason). If you want to present a grim, callous, setting but still keep a glimmer of humanity to everyone's actions, then use Grit.
+Use Grit in games about facing the horrors of combat and war, adventures with frequent [[Martial Conflict|skirmishes or duels]], or games where the characters have to kill other people to survive (for whatever reason). If you want to present a grim, callous, setting but still keep a glimmer of humanity to everyone's actions, then use Grit.
 
 A high Grit rank means that you don't [[Capabilities#What does 'Hesitation' Mean|hesitate]] when faced with dire situations, and you're more capable of making tough decisions quickly, not letting the ethical quandaries of your actions stand in your way. Lower Grit means that you either have some misgivings about what you're doing, or that you're still green.
 

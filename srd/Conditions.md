@@ -109,4 +109,7 @@ The conditions found in the [[D666 Conditions|random conditions table]] are lite
 
 ---
 
-- **Related Articles:** [[Wounds and Scars]] and [[D666 Conditions]]
+- **Next:** [[Wounds and Scars]]
+- **Related:** [[D666 Conditions]]
+- **Previous:** [[Jobs]]
+

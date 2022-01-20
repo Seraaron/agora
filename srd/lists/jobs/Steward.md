@@ -21,7 +21,7 @@ date updated: 2021-11-24 17:15
 
 Managing an estate, a big business, a township, country, or even a kingdom. Governing over a demesne, overseeing construction projects, and finding the funds for such things. Includes auditing, accounting, and handling or distributing bonds and investments for the profit of others. Also includes writing and interpreting policies or laws, in a political setting.
 
-May be used during a [[Social Discourse|social discourse]] to argue or to prove a point.
+May be used during a [[Social Conflict|social discourse]] to argue or to prove a point.
 
 May also include planning and directing military maneuvers or business operations, making sure supply lines are maintained, that the workers get paid, and that plans are not revealed to the wrong people, using [[Wits]].
 

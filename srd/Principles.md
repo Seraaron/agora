@@ -70,3 +70,7 @@ If this is you, then that's okay, there's just a good chance that your first few
 **The key is to recognize them, change them, and then move on**, rather than clinging on for weeks trying to make them work.  _Every game requires it's own set of skills_, and as with all skills, the more you practice the better you get.
 
 ---
+
+- **Next:** [[Kismet]]
+- **Related:** [[Writing 'SMART' Goals]], [[Campaign Arcs]]
+- **Previous:** [[Circumstances]]

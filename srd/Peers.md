@@ -108,6 +108,6 @@ How you conduct a peer vote — that is, whether a vote should be cast blind or 
 
 ---
 
-- **Next article:** [[Circumstances]]
-- **Previous article:** [[Facilitator]]
-- **Related articles:** [[Development Sessions]], [[Script Change Tools]]
+- **Next:** [[Agenda]]
+- **Related:** [[Development Sessions]], [[Script Change Tools]]
+- **Previous:** [[Facilitator]]

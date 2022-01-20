@@ -22,7 +22,7 @@ date updated: 2021-12-08 17:58
 
 Open formation fighting, flanking, scouting, and prowling. Passing quietly through rough terrain, sometimes with the aid of animals or while mounted. Group stealth. Includes hiding from notice while on the move, and attempting to enter or exit a fortified location, without raising suspicion or alarm. Also a bit of a catch-all for any _violent_ criminal odd-jobs.
 
-May be used in combination with your poise to determine your starting stamina during [[Martial Combat|combat]]. It may also be used to flank charge, disarm, or rout an opponent.
+May be used in combination with your poise to determine your starting stamina during [[Martial Conflict|combat]]. It may also be used to flank charge, disarm, or rout an opponent.
 
 May also include picking out a good area for an ambush, and setting up or initiating that ambush with good timing, using [[Wits]].
 

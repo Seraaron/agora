@@ -18,9 +18,9 @@ date updated: 2021-11-24 16:49
 
 #animal #athletic #martial #rogue
 
-Throwing weapons in [[Martial Combat|combat]], as well as shooting or chasing down animals for food or sport. Also includes tracking, trapping, fishing, persistence hunting, or lying in wait — often with the help of others, or trained animals, who share in the reward.
+Throwing weapons in [[Martial Conflict|combat]], as well as shooting or chasing down animals for food or sport. Also includes tracking, trapping, fishing, persistence hunting, or lying in wait — often with the help of others, or trained animals, who share in the reward.
 
-May be used during [[Martial Combat|combat]] to make ranged attacks or to bind a target from a short distance, using the target's  poise as the base difficulty.
+May be used during [[Martial Conflict|combat]] to make ranged attacks or to bind a target from a short distance, using the target's  poise as the base difficulty.
 
 ¶ **Requires:** #hunter weapons, or traps and nets, or other #rogue-tools
 
